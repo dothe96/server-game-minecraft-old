@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: duythinh
+timestamps:
+  login: 1478347188950
+  logout: 1478347217255
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: -155.5
+  y: 88.0
+  z: -80.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 7.199987
+  pitch: 14.099985

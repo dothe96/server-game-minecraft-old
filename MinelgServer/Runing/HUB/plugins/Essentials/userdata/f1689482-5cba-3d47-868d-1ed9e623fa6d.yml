@@ -1,0 +1,28 @@
+socialspy: false
+lastAccountName: Mirai
+timestamps:
+  login: 1479130390936
+  kits:
+    diemdanh: 1478831413819
+    tanthu: 1476878886511
+    food: 1477706547982
+  lastteleport: 1478831525719
+  logout: 1479130526177
+ipAddress: 171.232.254.45
+lastlocation:
+  world: world
+  x: 100616.89526756853
+  y: 89.0
+  z: 1.0000110192051673E7
+  yaw: -295.19904
+  pitch: 11.549895
+money: '23827.0'
+logoutlocation:
+  world: world
+  x: -144.49626142944425
+  y: 86.0
+  z: -39.03911069940435
+  yaw: 69.74988
+  pitch: 26.099983
+afk: false
+nickname: §b§lOtaku

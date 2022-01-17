@@ -1,0 +1,10 @@
+tbspawn:
+  location: world, -683.538, 48.282, 583.335
+  lines:
+  - '&u&l❉❉❉❉ PLAY.MINELG.COM - HUB NETWORk ❉❉❉❉'
+  - '&6&lChọn server bằng la bàn hoặc đi vào cổng nước'
+  - '&a&lĐăng ký tài khoản tại &3&lHttps://minelg.com/dang-ky/'
+  - '&7&lLưu ý: &c&lEmail phải chính xác trong trường hợp quên mật khẩu'
+  - '&c&lKhông cung cấp mật khẩu cho bất kỳ ai'
+  - '&u&lThông báo:'
+  - '&6&lMất la bàn gõ &f&l/sv'

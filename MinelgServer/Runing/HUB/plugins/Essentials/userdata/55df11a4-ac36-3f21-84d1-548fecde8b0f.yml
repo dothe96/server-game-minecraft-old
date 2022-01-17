@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: CHUu
+timestamps:
+  login: 1476799017717
+  logout: 1476799561982
+  lastteleport: 1476799450704
+ipAddress: 222.254.70.184
+lastlocation:
+  world: world
+  x: 1.0000080852340685E7
+  y: 173.0
+  z: 9999796.777314572
+  yaw: 272.6072
+  pitch: 7.500004
+logoutlocation:
+  world: world
+  x: -151.08970739498125
+  y: 85.0
+  z: -58.685771651697955
+  yaw: -105.75001
+  pitch: 17.99998
+money: '0.0'

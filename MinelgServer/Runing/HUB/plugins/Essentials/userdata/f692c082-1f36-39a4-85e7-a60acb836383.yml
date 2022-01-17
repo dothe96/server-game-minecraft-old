@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: bencam123
+timestamps:
+  login: 1477043782394
+  kits:
+    diemdanh: 1477043830534
+  logout: 1477043840728
+ipAddress: 113.180.87.248
+lastlocation:
+  world: world
+  x: -158.5
+  y: 86.0
+  z: -87.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -166.2370195984478
+  y: 86.5
+  z: -58.86441954284252
+  yaw: -73.80008
+  pitch: 2.3999841

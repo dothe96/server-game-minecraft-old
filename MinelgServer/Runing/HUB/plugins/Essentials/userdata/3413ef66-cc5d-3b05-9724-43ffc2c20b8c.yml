@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: thanhpro85
+timestamps:
+  login: 1478349523363
+  lastteleport: 1478350252398
+  kits:
+    food: 1478226694506
+  logout: 1478350393550
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: -119.17337914355434
+  y: 68.0
+  z: 40.49279502335229
+  yaw: -15.000034
+  pitch: 17.39997
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 13.887904051406938
+  y: 59.0
+  z: -126.28113954170843
+  yaw: -104.85034
+  pitch: 26.999998

@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: asdasdasd
+timestamps:
+  login: 1479040731512
+  logout: 1479040763046
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: -161.5
+  y: 88.0
+  z: -74.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 170.99998
+  pitch: -72.000015

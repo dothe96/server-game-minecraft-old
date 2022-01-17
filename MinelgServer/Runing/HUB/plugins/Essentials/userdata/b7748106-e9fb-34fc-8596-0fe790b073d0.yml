@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: nikem
+timestamps:
+  login: 1477275185913
+  lastteleport: 1477114046814
+  kits:
+    diemdanh: 1477114070680
+  logout: 1477275203062
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -159.5287687160211
+  y: 88.0
+  z: -76.81992385028647
+  yaw: 143.39998
+  pitch: 89.1
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014

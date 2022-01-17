@@ -1,0 +1,23 @@
+logoutlocation:
+  world: world
+  x: 1008.4799293002974
+  y: 4.0
+  z: 9975.08615092411
+  yaw: 340.80066
+  pitch: 39.000023
+timestamps:
+  logout: 1489490817137
+  login: 1489488751928
+  lastteleport: 1489489803833
+  kits:
+    diemdanh: 1489472163266
+lastAccountName: wolf
+ipAddress: 192.168.69.160
+lastlocation:
+  world: world
+  x: 335.9309783791018
+  y: 86.24305844280869
+  z: -268.44371940908746
+  yaw: 69.299866
+  pitch: 36.00006
+afk: false

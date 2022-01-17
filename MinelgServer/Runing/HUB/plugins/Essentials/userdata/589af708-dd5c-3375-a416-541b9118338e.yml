@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: dasda
+timestamps:
+  login: 1477308580867
+  logout: 1477308585346
+ipAddress: 58.187.151.52
+lastlocation:
+  world: world
+  x: -153.5
+  y: 86.0
+  z: -67.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -3.7500136
+  pitch: 32.69999

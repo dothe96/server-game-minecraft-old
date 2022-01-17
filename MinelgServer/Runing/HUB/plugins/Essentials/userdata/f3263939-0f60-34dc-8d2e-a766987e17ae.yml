@@ -1,0 +1,26 @@
+lastAccountName: OsinCuaBx
+timestamps:
+  login: 1479050621276
+  lastteleport: 1479051318844
+  kits:
+    diemdanh: 1479050690618
+    tanthu: 1478955270443
+    food: 1479039167815
+  logout: 1479051394836
+ipAddress: 123.19.194.79
+socialspy: false
+lastlocation:
+  world: world
+  x: 4255.84047879563
+  y: 78.0
+  z: 1738.58177904043
+  yaw: 152.91833
+  pitch: 17.700106
+money: '84447.0'
+logoutlocation:
+  world: world
+  x: 1.0000104009426579E7
+  y: 173.0
+  z: 9999809.567623433
+  yaw: -262.94266
+  pitch: 30.29999

@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Datll
+timestamps:
+  login: 1479131183616
+  kits:
+    diemdanh: 1479131200453
+    food: 1479131198597
+  lastteleport: 1479131206560
+  logout: 1479131223255
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -159.56798690976575
+  y: 87.0
+  z: -73.84445746508257
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 3849.5
+  y: 142.0
+  z: 1682.5
+  yaw: 349.21332
+  pitch: 35.999973

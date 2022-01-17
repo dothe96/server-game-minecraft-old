@@ -1,0 +1,25 @@
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\config.yml
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\advanced.yml
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\config.yml
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\advanced.yml
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\grief.yml
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\config.yml
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\advanced.yml
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\grief.yml
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\config.yml
+12:28:32 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\advanced.yml
+12:28:33 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\grief.yml
+13:06:44 [INFO] Successfully hooked into LWC
+18:23:07 [INFO] Successfully hooked into LWC
+02:51:54 [INFO] Successfully hooked into LWC
+15:00:42 [INFO] Successfully hooked into LWC
+17:44:16 [INFO] Successfully hooked into LWC
+18:50:48 [INFO] Successfully hooked into LWC
+15:00:13 [INFO] Successfully hooked into LWC
+17:06:10 [INFO] Successfully hooked into LWC
+18:36:12 [INFO] Successfully hooked into LWC
+19:53:29 [INFO] Successfully hooked into LWC
+15:33:16 [INFO] Successfully hooked into LWC
+17:42:48 [INFO] Successfully hooked into LWC
+13:49:15 [INFO] Successfully hooked into LWC
+19:39:40 [INFO] Successfully hooked into LWC

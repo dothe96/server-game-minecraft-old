@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: lala
+timestamps:
+  login: 1478313786315
+  lastteleport: 1478313811427
+  kits:
+    diemdanh: 1478313819270
+  logout: 1478313836419
+ipAddress: 171.250.102.100
+lastlocation:
+  world: world
+  x: -159.47202293828877
+  y: 87.0
+  z: -73.07757544331136
+  yaw: 6.4499865
+  pitch: 9.299991
+logoutlocation:
+  world: world
+  x: -105.95313220217189
+  y: 68.0625
+  z: -17.565996424196904
+  yaw: 281.99814
+  pitch: 15.750008

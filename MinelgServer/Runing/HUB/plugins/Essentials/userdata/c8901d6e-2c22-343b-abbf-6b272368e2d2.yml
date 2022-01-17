@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: hackerboyvip
+timestamps:
+  login: 1478314716872
+  lastteleport: 1478314814020
+  logout: 1478314832897
+ipAddress: 171.232.240.121
+lastlocation:
+  world: world
+  x: -159.28930649024494
+  y: 86.0
+  z: -70.78272753223467
+  yaw: 177.59988
+  pitch: 7.6499968
+logoutlocation:
+  world: world
+  x: 4068.7194479021377
+  y: 63.0
+  z: -2803.141732743557
+  yaw: 305.73117
+  pitch: 16.799995

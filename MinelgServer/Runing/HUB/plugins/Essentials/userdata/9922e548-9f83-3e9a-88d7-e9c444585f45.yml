@@ -1,0 +1,27 @@
+lastAccountName: mynguyen
+timestamps:
+  login: 1477578294318
+  kits:
+    diemdanh: 1477540252846
+    tanthu: 1477540583515
+    food: 1477540577387
+  lastteleport: 1477541609590
+  logout: 1477578879327
+ipAddress: 116.99.164.169
+socialspy: false
+lastlocation:
+  world: world
+  x: -142.59856679301168
+  y: 68.02989959368347
+  z: -105.40287108411846
+  yaw: 234.44986
+  pitch: 29.249956
+money: '0.0'
+afk: false
+logoutlocation:
+  world: world
+  x: -5.130196376739242
+  y: 61.0
+  z: -93.96924648768854
+  yaw: -338.69983
+  pitch: 26.849964

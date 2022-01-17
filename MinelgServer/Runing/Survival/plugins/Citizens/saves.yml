@@ -1,0 +1,36 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 0
+npc:
+  '0':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE0ODg0ODI5OTczODgsInByb2ZpbGVJZCI6Ijg0YzE3MDI3OTI4ZDQ3MmE4ZmJlZGMwMDdiM2RjZWYxIiwicHJvZmlsZU5hbWUiOiJUZXRzIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81MmRmMzBiYjQ3N2E0ZDE4NWVmODViZGQzNTkxMTI3MzgzMmUyOWM4NmZhNTc4YmI0YzRlN2Y3NzgxZGYzZDYifX19
+      cached-skin-uuid-name: tets
+      cached-skin-uuid: 84c17027-928d-472a-8fbe-dc007b3dcef1
+      player-skin-signature: ZPFted8yfadX7sIL+e+ZsTe9+1hT/FvtmcVJnhEN0PqwzmbDaYpudbA4WBcTnTnJk403HGQJzwdwH9SYxqRzpk9VHjM4Gw1RdQVQBh0MddZrXquSjEMYhf6qdFJAHiY7gYbkRyah+AwEzoDNPOtFGZZYqCDdk21lF4ZTEv+pM/NS7oxpEuDXtjiyfKK8foXZj+TZaiOFjNFHq3cNKRLwTZglpUm8f+VQ60IfgLW6izC57ey88PvSacvmDDddkZd+nXQn8ySrmJSJ1FTF/Jp8CRYk9++U3TQB8jsAVLEzk6HAWqd8LPb4u0gGrDg5RhagpUQq510R27TUpWS2Tb7RMO6s5pihFOijn2KpGR5j7FQs2Z6MK7hlORuF+Gtkxb4ghNUEo9aO9At97kdtlZQpB2hwQIVEljlP11yz82xLckRHftyZliaihJJMl0xkMN/mFDynY6txav4ePhqUFaPc62PJ1ZpfszEBmTG47A++VCy/s0mm5hj61TA02UsedkFp0cJhdmIJeBKtHcPEAt33F0xH/ZZ2FOSUJ4NFCyiU31MFXrgnFj9cZokteyZywGqy8gGXPOPHf8F73ardpxt+fE1QOn5ryqysRdpuE/gH/fIl3fmd+IhDq3b+ecEzSN35nF8S3Qvg9ejc3asFnf9cUEBJro5prdNaU6z4I8YSR8g=
+    name: §6Tets
+    uuid: 42f8dcab-152b-4445-a409-4a99b4ad72a9
+    traits:
+      type: PLAYER
+      location:
+        world: world
+        x: '-4980.8702'
+        y: '66.0'
+        z: '-165.9267'
+        yaw: '47.40885925292969'
+        pitch: '0.0'
+      spawned: true
+      gravity:
+        enabled: false
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+      owner:
+        owner: fybit
+        uuid: ffe171c8-224e-3c82-bec9-b1c0efa3b8a6
+    traitnames: spawned,gravity,owner,inventory,lookclose,location,mounttrait,type
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

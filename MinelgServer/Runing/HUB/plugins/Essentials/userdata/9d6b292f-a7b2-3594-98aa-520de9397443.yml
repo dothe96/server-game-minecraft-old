@@ -1,0 +1,36 @@
+lastAccountName: jaki_Natsumi
+timestamps:
+  login: 1479206620749
+  lastteleport: 1479209286869
+  kits:
+    diemdanh: 1479206077804
+    tanthu: 1478432028298
+    tools: 1479208764359
+    food: 1479207932897
+  logout: 1479209950549
+socialspy: false
+ipAddress: 113.180.87.243
+lastlocation:
+  world: world
+  x: 3038.0841182844465
+  y: 65.0
+  z: 544.3258312489552
+  yaw: -62.146652
+  pitch: 0.6001106
+homes:
+  home:
+    world: world
+    x: 3035.2647454951143
+    y: 65.0
+    z: 542.9500000508592
+    yaw: 136.30334
+    pitch: 22.950111
+money: '4619.0'
+logoutlocation:
+  world: world
+  x: -38.309587570325135
+  y: 61.0
+  z: -50.58673773057102
+  yaw: 54.750328
+  pitch: -12.750002
+afk: false

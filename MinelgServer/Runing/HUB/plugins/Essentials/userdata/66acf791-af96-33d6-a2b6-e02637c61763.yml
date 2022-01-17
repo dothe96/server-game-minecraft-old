@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: linhdanhthue
+timestamps:
+  login: 1476859400087
+  lastteleport: 1476856328705
+  logout: 1476859413337
+ipAddress: 123.18.42.192
+lastlocation:
+  world: world
+  x: -166.68272444248328
+  y: 92.0
+  z: -12.658346416059903
+  yaw: 101.6951
+  pitch: 29.249989
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014

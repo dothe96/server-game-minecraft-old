@@ -1,0 +1,36 @@
+lastAccountName: Khoi
+timestamps:
+  login: 1477564250711
+  lastteleport: 1477565442257
+  kits:
+    diemdanh: 1477562031041
+    tanthu: 1477460642746
+    tools: 1477370569526
+    food: 1477565067375
+  logout: 1477567298543
+ipAddress: 115.78.126.139
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: -12.049262946273421
+  y: 61.0
+  z: -19.359532609463955
+  yaw: 14.25235
+  pitch: 12.599992
+money: '16.0'
+logoutlocation:
+  world: world
+  x: 2691.401099890904
+  y: 70.0
+  z: 453.76249998807907
+  yaw: 309.1875
+  pitch: 28.499989
+afk: false
+homes:
+  home:
+    world: world
+    x: 4034.908362748302
+    y: 131.0
+    z: -2491.7242726041686
+    yaw: 166.37494
+    pitch: 6.2998977

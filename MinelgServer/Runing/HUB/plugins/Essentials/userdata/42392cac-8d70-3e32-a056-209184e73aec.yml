@@ -1,0 +1,25 @@
+lastAccountName: naruto
+timestamps:
+  login: 1476856191869
+  lastteleport: 1476856949258
+  logout: 1476857446920
+  kits:
+    food: 1476857016382
+ipAddress: 117.3.105.70
+lastlocation:
+  world: world
+  x: -59.885927521023234
+  y: 68.12649399206812
+  z: -52.71771487221229
+  yaw: -277.1985
+  pitch: 32.549984
+afk: false
+money: '0'
+logoutlocation:
+  world: world
+  x: 198.8045571970438
+  y: 130.25220334025371
+  z: -289.1141656775444
+  yaw: 212.2491
+  pitch: 27.14999
+socialspy: false

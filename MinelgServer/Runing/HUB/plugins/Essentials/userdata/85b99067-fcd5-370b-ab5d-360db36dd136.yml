@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: 1234567thoi
+timestamps:
+  login: 1477973419986
+  kits:
+    diemdanh: 1477973452260
+  lastteleport: 1477973482759
+  logout: 1477973517344
+ipAddress: 14.167.223.247
+lastlocation:
+  world: world
+  x: -155.363712392868
+  y: 87.5
+  z: -74.80325070937133
+  yaw: -154.34999
+  pitch: 55.949986
+logoutlocation:
+  world: world
+  x: -118.4452804366619
+  y: 68.0625
+  z: -34.45836806300875
+  yaw: 179.39842
+  pitch: 32.549946

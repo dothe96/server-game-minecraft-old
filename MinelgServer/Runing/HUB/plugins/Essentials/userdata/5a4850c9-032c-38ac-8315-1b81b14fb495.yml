@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: youfunk
+timestamps:
+  login: 1476857275873
+  logout: 1476857544052
+ipAddress: 42.114.172.151
+lastlocation:
+  world: world
+  x: -169.5
+  y: 86.0
+  z: -77.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -189.57716879657772
+  y: 108.0
+  z: -100.2618797798
+  yaw: -32.700104
+  pitch: 10.800004

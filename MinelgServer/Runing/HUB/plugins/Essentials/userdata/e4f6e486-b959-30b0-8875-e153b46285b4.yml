@@ -1,0 +1,26 @@
+lastAccountName: hamter
+timestamps:
+  login: 1476508334948
+  lastteleport: 1476484917305
+  kits:
+    diemdanh: 1476452607700
+    tanthu: 1476452603470
+    tools: 1476484852183
+    food: 1476484855593
+  logout: 1476508409819
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -109.83904806768825
+  y: 69.0
+  z: -85.69999998807907
+  yaw: -5.3997693
+  pitch: 3.900008
+logoutlocation:
+  world: world
+  x: -220.30461468939367
+  y: 101.0625
+  z: -49.86316109064514
+  yaw: -90.149734
+  pitch: 21.450003
+money: '0.0'

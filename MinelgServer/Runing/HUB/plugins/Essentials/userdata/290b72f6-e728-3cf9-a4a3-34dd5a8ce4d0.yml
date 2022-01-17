@@ -1,0 +1,25 @@
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+lastAccountName: KingLord
+timestamps:
+  login: 1476608255543
+  lastteleport: 1476589329071
+  kits:
+    diemdanh: 1476588167715
+    tanthu: 1476588165714
+    food: 1476588173382
+  logout: 1476608827812
+ipAddress: 103.237.144.215
+afk: false
+logoutlocation:
+  world: world
+  x: 4.75827550233089
+  y: 61.0
+  z: -2.2546710923061957
+  yaw: -271.35025
+  pitch: 7.3498435

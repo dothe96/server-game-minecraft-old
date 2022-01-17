@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: Whynot_pro
+timestamps:
+  login: 1479029171901
+  lastteleport: 1479028546100
+  kits:
+    diemdanh: 1478418134718
+    tools: 1477623456970
+    food: 1479028353859
+  logout: 1479029176332
+ipAddress: 115.78.236.129
+lastlocation:
+  world: world
+  x: 3813.583095478075
+  y: 81.63565974510121
+  z: 1740.4607745855465
+  yaw: 9.762034
+  pitch: 14.699985
+afk: false
+homes:
+  home:
+    world: world
+    x: 3828.006769062705
+    y: 142.0
+    z: 1724.1023729050316
+    yaw: 64.962
+    pitch: 6.7499857
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+money: '8081.0'

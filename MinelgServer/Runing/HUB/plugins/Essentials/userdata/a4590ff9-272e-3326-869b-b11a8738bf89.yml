@@ -1,0 +1,24 @@
+lastAccountName: songveset
+timestamps:
+  login: 1476863857307
+  logout: 1476863915744
+  kits:
+    tools: 1476861642262
+    food: 1476861774222
+  lastteleport: 1476863905359
+ipAddress: 115.78.127.186
+socialspy: false
+lastlocation:
+  world: world
+  x: -165.4444952655177
+  y: 86.0
+  z: -12.824981511020496
+  yaw: 19.645023
+  pitch: 3.4499907
+logoutlocation:
+  world: world
+  x: 3243.300000011921
+  y: 63.0
+  z: 1637.158900834103
+  yaw: 346.3651
+  pitch: 22.200006

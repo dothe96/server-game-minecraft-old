@@ -1,0 +1,37 @@
+socialspy: false
+lastAccountName: Phong_Bui
+timestamps:
+  login: 1479265979820
+  kits:
+    diemdanh: 1479267686314
+    tanthu: 1477704161492
+    tools: 1478390124414
+    food: 1479267684341
+  lastteleport: 1479267784677
+  logout: 1479267937463
+ipAddress: 115.78.127.186
+lastlocation:
+  world: world
+  x: 3275.5309812547753
+  y: 71.0
+  z: 1686.554870179512
+  yaw: 122.56648
+  pitch: 3.4499412
+logoutlocation:
+  world: world
+  x: 3277.17203159309
+  y: 87.11663347135367
+  z: 1633.300000011921
+  yaw: -176.38293
+  pitch: 46.49997
+money: '33400.0'
+afk: false
+homes:
+  home:
+    world: world_the_end
+    x: 1079.303581594026
+    y: 159.0
+    z: 819.7582082069213
+    yaw: -190.04924
+    pitch: 18.299978
+nickname: Phong_Hacker

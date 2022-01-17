@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Tpro
+timestamps:
+  login: 1477491267994
+  lastteleport: 1477496126910
+  logout: 1477496144714
+  kits:
+    diemdanh: 1477374138658
+    tanthu: 1477374098527
+    tools: 1477480690585
+    food: 1477378700930
+ipAddress: 58.187.151.52
+lastlocation:
+  world: world
+  x: 3261.4098589644946
+  y: 23.0
+  z: 1851.479819703725
+  yaw: 48.617107
+  pitch: 66.89996
+afk: false
+logoutlocation:
+  world: world
+  x: 3242.5
+  y: 58.0
+  z: 1854.5
+  yaw: -126.133156
+  pitch: 25.949978
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: 3242.303190730163
+    y: 61.0
+    z: 1854.5585978580586
+    yaw: -120.43315
+    pitch: 29.999977

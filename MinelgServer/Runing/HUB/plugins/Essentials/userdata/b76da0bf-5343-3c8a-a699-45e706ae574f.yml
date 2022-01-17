@@ -1,0 +1,25 @@
+lastAccountName: hung09
+timestamps:
+  login: 1478477070549
+  lastteleport: 1478477535008
+  kits:
+    diemdanh: 1478477617426
+    tanthu: 1478477595661
+    food: 1478477608987
+  logout: 1478477751896
+socialspy: false
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: -159.2774734709676
+  y: 88.0
+  z: -77.17440782658453
+  yaw: 112.650116
+  pitch: 15.600035
+logoutlocation:
+  world: world
+  x: 2789.9443343431285
+  y: 53.0
+  z: 1411.300000011921
+  yaw: 61.20874
+  pitch: 31.950033

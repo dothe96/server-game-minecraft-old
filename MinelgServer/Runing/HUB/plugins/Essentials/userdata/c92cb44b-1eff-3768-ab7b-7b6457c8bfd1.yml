@@ -1,0 +1,23 @@
+lastAccountName: Angela10
+timestamps:
+  login: 1476596539644
+  kits:
+    food: 1476596726496
+  lastteleport: 1476596915313
+  logout: 1476597477495
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -161.1962356501483
+  y: 87.0
+  z: -22.979908896682154
+  yaw: -208.34987
+  pitch: 12.299989
+afk: false
+logoutlocation:
+  world: world
+  x: -110.49069889098325
+  y: 68.5
+  z: -76.35994169144828
+  yaw: -16.949848
+  pitch: 48.749985

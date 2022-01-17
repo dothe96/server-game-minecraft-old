@@ -1,0 +1,3 @@
+[2017/03/01 00:01:48] §f? §6[§1L§ce§6g§ae§bn§5d§6]§2» §3fybit§r executed /quests at Location{world=CraftWorld{name=world},x=-4977.829977973907,y=66.0,z=-166.66517960154295,pitch=1.9500115,yaw=78.9001}
+[2017/03/01 00:01:54] §f? §6[§1L§ce§6g§ae§bn§5d§6]§2» §3fybit§r executed /quests list at Location{world=CraftWorld{name=world},x=-4977.829977973907,y=66.0,z=-166.66517960154295,pitch=1.9500115,yaw=78.9001}
+[2017/03/01 00:02:40] §f? §6[§1L§ce§6g§ae§bn§5d§6]§2» §3fybit§r executed /npc look at Location{world=CraftWorld{name=world},x=-4981.848058966205,y=66.0,z=-168.25204938909934,pitch=4.950008,yaw=331.35007}

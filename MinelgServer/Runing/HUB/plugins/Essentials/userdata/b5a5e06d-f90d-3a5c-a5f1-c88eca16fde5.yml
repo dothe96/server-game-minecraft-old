@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Datpr
+timestamps:
+  login: 1479130848052
+  kits:
+    diemdanh: 1479130911879
+    food: 1479130909828
+  lastteleport: 1479130923270
+  logout: 1479130934388
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -159.53814098145813
+  y: 87.5
+  z: -74.91987193145003
+  yaw: 218.54997
+  pitch: 86.85
+logoutlocation:
+  world: world
+  x: 3833.5
+  y: 160.0
+  z: 1710.5
+  yaw: -104.238525
+  pitch: 7.0500326

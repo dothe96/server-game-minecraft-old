@@ -1,0 +1,25 @@
+activeVips:
+  Legend:
+    ffe171c8-224e-3c82-bec9-b1c0efa3b8a6:
+      playerGroup: Member
+      duration: 1496379574653
+      nick: fybit
+      expires-on-exact: 02/06/2017 11:59
+      active: true
+      kit-cooldown: 0
+  TheKing:
+    ffe171c8-224e-3c82-bec9-b1c0efa3b8a6:
+      playerGroup: Member
+      duration: 604774878
+      nick: fybit
+      expires-on-exact: 04/03/2017 00:04
+      active: false
+      kit-cooldown: 0
+  Vip:
+    ffe171c8-224e-3c82-bec9-b1c0efa3b8a6:
+      playerGroup: Member
+      duration: 561818593
+      nick: fybit
+      expires-on-exact: 04/03/2017 00:04
+      active: false
+      kit-cooldown: 0

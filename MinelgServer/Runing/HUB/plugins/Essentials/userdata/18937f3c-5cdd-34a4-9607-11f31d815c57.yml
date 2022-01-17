@@ -1,0 +1,34 @@
+lastAccountName: binh113
+timestamps:
+  login: 1479254546570
+  lastteleport: 1479256141520
+  kits:
+    diemdanh: 1479256036862
+    tanthu: 1479095991269
+  logout: 1479256459966
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -35.25001
+  pitch: 13.199986
+socialspy: false
+money: '18027.0'
+homes:
+  home:
+    world: world
+    x: 4157.1327570395715
+    y: 63.09375
+    z: 1673.459993761921
+    yaw: -65.18143
+    pitch: 62.400166
+logoutlocation:
+  world: world
+  x: -210.61497888566242
+  y: 109.0
+  z: 3.633594053224563
+  yaw: -5.6996155
+  pitch: 27.299894
+afk: false

@@ -1,0 +1,6 @@
+Players:
+  ffe171c8-224e-3c82-bec9-b1c0efa3b8a6:
+    Name: fybit
+    Prefix: '[&3Owner&f] &a'
+    Suffix: ' &d&lDEV'
+    SortPriority: -1

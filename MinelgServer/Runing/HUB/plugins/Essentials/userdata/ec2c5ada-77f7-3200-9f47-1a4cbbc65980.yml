@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: YeuAnhNhat
+timestamps:
+  login: 1478843481194
+  kits:
+    tanthu: 1478843571814
+  lastteleport: 1478845006058
+  logout: 1478845264257
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: 3956.300000011921
+  y: 4.0
+  z: 1531.699999988079
+  yaw: -326.634
+  pitch: 29.699986
+money: '280.0'
+logoutlocation:
+  world: world
+  x: 3956.300000011921
+  y: 4.0
+  z: 1531.699999988079
+  yaw: -326.634
+  pitch: 29.699986

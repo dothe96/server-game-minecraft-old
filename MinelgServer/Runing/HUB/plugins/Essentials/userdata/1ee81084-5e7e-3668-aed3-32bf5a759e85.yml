@@ -1,0 +1,22 @@
+lastAccountName: phole
+timestamps:
+  login: 1476595711381
+  lastteleport: 1476596076682
+  kits:
+    food: 1476596389572
+  logout: 1476597483224
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -242.15524110086764
+  y: 76.41564586078748
+  z: -1635.68399837806
+  yaw: -305.40094
+  pitch: 40.500034
+logoutlocation:
+  world: world
+  x: -162.01418694355803
+  y: 86.0
+  z: -27.638512382989283
+  yaw: -152.09961
+  pitch: 14.249985

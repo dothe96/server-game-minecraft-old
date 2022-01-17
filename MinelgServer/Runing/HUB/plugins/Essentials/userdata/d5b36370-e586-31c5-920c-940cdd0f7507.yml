@@ -1,0 +1,26 @@
+lastAccountName: Vincent
+timestamps:
+  login: 1477402187824
+  lastteleport: 1477401983813
+  logout: 1477402224277
+  kits:
+    diemdanh: 1477401742741
+    tools: 1477401155483
+    food: 1477400033464
+ipAddress: 115.75.16.195
+socialspy: false
+lastlocation:
+  world: world
+  x: 3068.218325260728
+  y: 77.0
+  z: 375.01109897797215
+  yaw: -43.337646
+  pitch: 25.199991
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -169.6343812588525
+  y: 86.0
+  z: -52.89450131060737
+  yaw: 25.649952
+  pitch: 43.94998

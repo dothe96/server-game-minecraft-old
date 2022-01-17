@@ -1,0 +1,26 @@
+lastAccountName: Gripex
+timestamps:
+  login: 1476506475943
+  kits:
+    diemdanh: 1476443842210
+    food: 1476512653033
+  lastteleport: 1476512561248
+  logout: 1476513433393
+  mute: 0
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -45.67621335752027
+  y: 76.20000004768372
+  z: -55.71553378320291
+  yaw: -123.00003
+  pitch: 33.000015
+logoutlocation:
+  world: world
+  x: 281.70826896848104
+  y: 131.10921331142373
+  z: 180.43471768666367
+  yaw: 260.2515
+  pitch: 36.30009
+afk: false
+muted: false

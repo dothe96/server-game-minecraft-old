@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: minelg
+timestamps:
+  login: 1487448392822
+  kits:
+    food: 1487448492722
+  logout: 1487448614287
+ipAddress: 192.168.69.101
+lastlocation:
+  world: world
+  x: -4960.5
+  y: 92.0
+  z: -167.5
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+logoutlocation:
+  world: world
+  x: -5040.948675189027
+  y: 66.0
+  z: -164.17204705826762
+  yaw: 70.9498
+  pitch: 5.8500037

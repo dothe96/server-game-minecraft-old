@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: phongyasuo
+timestamps:
+  login: 1476883762934
+  lastteleport: 1476884341961
+  kits:
+    diemdanh: 1476801087612
+    tanthu: 1476799577958
+    food: 1476884087555
+  logout: 1476884385271
+ipAddress: 117.6.84.220
+lastlocation:
+  world: world
+  x: 1.0000070300000012E7
+  y: 185.20000004768372
+  z: 9999774.473190758
+  yaw: 307.96118
+  pitch: 43.499836
+afk: false
+logoutlocation:
+  world: world
+  x: -188.58168331902272
+  y: 117.36565976823485
+  z: -96.62739592762134
+  yaw: 46.49999
+  pitch: 23.099983
+money: '99500.0'

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: LaKehKehDeMojito
+timestamps:
+  login: 1477103401906
+  logout: 1477103580953
+  lastteleport: 1477103516014
+ipAddress: 1.53.190.180
+lastlocation:
+  world: world
+  x: 3296.788468988771
+  y: 78.0
+  z: 1249.5328454796263
+  yaw: 251.11186
+  pitch: 19.199974
+logoutlocation:
+  world: world
+  x: 5.3469196710920395
+  y: 59.0
+  z: -105.2181440449941
+  yaw: 267.75018
+  pitch: 49.950005

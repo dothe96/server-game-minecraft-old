@@ -1,0 +1,26 @@
+lastAccountName: ninhbuiyou
+timestamps:
+  login: 1479190778773
+  logout: 1479191223245
+  kits:
+    diemdanh: 1476851843141
+    tanthu: 1479033405738
+    food: 1479033438637
+  lastteleport: 1479191123742
+ipAddress: 1.55.109.18
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: -30.76471962862162
+  y: 53.08499327648925
+  z: 115.25928554844245
+  yaw: -287.54987
+  pitch: 9.15
+logoutlocation:
+  world: world
+  x: -177.50138195255153
+  y: 86.0
+  z: -85.11702655810237
+  yaw: -166.80003
+  pitch: 17.99998
+money: '0.0'

@@ -1,0 +1,27 @@
+lastAccountName: danlaxx
+timestamps:
+  login: 1476960014461
+  lastteleport: 1476960132203
+  kits:
+    diemdanh: 1476886715474
+    tanthu: 1476886718576
+    tools: 1476960115066
+    food: 1476960119418
+  logout: 1476960178508
+ipAddress: 171.226.178.162
+lastlocation:
+  world: world
+  x: -106.15369922973318
+  y: 68.0625
+  z: -10.160415277432554
+  yaw: 58.50005
+  pitch: 5.250014
+socialspy: false
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 1.0000095181659684E7
+  y: 174.4952008770059
+  z: 9999778.712415969
+  yaw: 279.6072
+  pitch: 16.500011

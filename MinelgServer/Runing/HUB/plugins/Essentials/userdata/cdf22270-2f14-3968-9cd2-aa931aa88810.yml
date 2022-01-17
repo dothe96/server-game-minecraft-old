@@ -1,0 +1,24 @@
+lastAccountName: Baltop
+timestamps:
+  login: 1479189870380
+  kits:
+    diemdanh: 1479189896770
+    food: 1479189893533
+  lastteleport: 1479189904585
+  logout: 1479189914204
+ipAddress: 117.2.130.20
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.0999866
+  pitch: -15.000014
+logoutlocation:
+  world: world
+  x: -128.69999998807907
+  y: 68.0625
+  z: -27.07499998807907
+  yaw: -39.601784
+  pitch: 12.600007

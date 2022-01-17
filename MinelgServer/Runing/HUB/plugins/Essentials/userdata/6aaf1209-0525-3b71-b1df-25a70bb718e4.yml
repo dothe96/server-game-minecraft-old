@@ -1,0 +1,28 @@
+socialspy: false
+lastAccountName: Xbaros
+timestamps:
+  login: 1476877998619
+  logout: 1476878212343
+  kits:
+    diemdanh: 1476797475671
+    tanthu: 1476797743277
+    tools: 1476877904206
+    food: 1476797786363
+  lastteleport: 1476878014802
+ipAddress: 115.77.56.227
+lastlocation:
+  world: world
+  x: -159.63956449683508
+  y: 87.0
+  z: -73.76344399010027
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: -213.26808754090894
+  y: 87.0
+  z: -39.29993462420651
+  yaw: 178.34546
+  pitch: 55.2
+money: '0.0'
+afk: false

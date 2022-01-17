@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: -111.67510342663078
+  y: 70.93109856141189
+  z: -39.12775541947617
+  yaw: -350.40002
+  pitch: 11.54996
+lastAccountName: tritri2132
+timestamps:
+  login: 1476856688939
+  kits:
+    diemdanh: 1476588525478
+    tanthu: 1476443571725
+    tools: 1476590283953
+    food: 1476589500070
+  lastteleport: 1476591684492
+  logout: 1476856712849
+ipAddress: 117.3.105.70
+logoutlocation:
+  world: world
+  x: -149.5105745747135
+  y: 86.0
+  z: -66.2708208903916
+  yaw: -66.90002
+  pitch: 14.699986
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: 3238.460683888441
+    y: 81.24853999694231
+    z: 1755.924621668389
+    yaw: -34.63388
+    pitch: 34.049896
+socialspy: false

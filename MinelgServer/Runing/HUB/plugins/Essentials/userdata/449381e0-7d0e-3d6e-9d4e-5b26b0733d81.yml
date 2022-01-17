@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: ML_B_Monster
+timestamps:
+  login: 1478255141546
+  lastteleport: 1478255161333
+  kits:
+    diemdanh: 1478255182796
+  logout: 1478255186686
+ipAddress: 113.176.152.77
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 744.5649282186247
+  y: 71.0
+  z: 1705.9176914967113
+  yaw: 3.305664
+  pitch: 12.853238

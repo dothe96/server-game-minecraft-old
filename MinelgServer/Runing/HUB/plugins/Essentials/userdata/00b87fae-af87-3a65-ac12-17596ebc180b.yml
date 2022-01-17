@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: tuanvotinh
+timestamps:
+  login: 1476862204426
+  logout: 1476862331333
+ipAddress: 123.18.42.192
+lastlocation:
+  world: world
+  x: -153.5
+  y: 86.0
+  z: -82.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -198.4859883237424
+  y: 108.0
+  z: -101.7630914791373
+  yaw: 204.45003
+  pitch: 12.5999975

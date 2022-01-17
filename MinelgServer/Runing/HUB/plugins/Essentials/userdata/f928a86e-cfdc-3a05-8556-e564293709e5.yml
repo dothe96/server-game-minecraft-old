@@ -1,0 +1,31 @@
+lastAccountName: phatpro
+timestamps:
+  login: 1479176701504
+  lastteleport: 1479178163851
+  logout: 1479178635631
+ipAddress: 113.188.78.5
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.6697912409436
+  y: 86.0
+  z: -64.87949765765828
+  yaw: 203.39996
+  pitch: 2.6999893
+money: '35.0'
+homes:
+  home:
+    world: world
+    x: 2767.4402055192872
+    y: 5.0
+    z: 1410.4865359028274
+    yaw: 220.5104
+    pitch: 36.149918
+logoutlocation:
+  world: world
+  x: 2197.2755464150623
+  y: 64.0
+  z: 1381.6853774034719
+  yaw: 164.25194
+  pitch: 12.750017
+afk: false

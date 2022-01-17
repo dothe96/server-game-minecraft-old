@@ -1,0 +1,24 @@
+lastAccountName: lukaka
+socialspy: false
+timestamps:
+  login: 1476802536342
+  lastteleport: 1476802882185
+  kits:
+    food: 1476802927434
+  logout: 1476803001407
+ipAddress: 117.6.84.220
+lastlocation:
+  world: world
+  x: -114.21419625543997
+  y: 82.0625
+  z: -20.222727230764853
+  yaw: 354.44974
+  pitch: 6.450006
+money: '0'
+logoutlocation:
+  world: world
+  x: 100621.80040483347
+  y: 90.0
+  z: 1.0000114025795864E7
+  yaw: -15.59906
+  pitch: 24.449892

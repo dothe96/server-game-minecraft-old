@@ -1,0 +1,91 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  name: '&6&lShop Coin'
+  rows: 4
+  command: 'cshop'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+coins1:
+  POINTS: 100
+  COMMAND: 'op: give {player} 7 1 0 {display:{Name:"§b§lĐ§e§lá§f§l-§d§lT§6§lh§f§lầ§b§ln§c§l",Lore:["§b§l- Đây Là Xu-Donate Của Server!","§c§l- Có Giá Trị Rất Hiếm Và Dùng Để Trade Items Donate!","§6§l- Mệnh giá: 100 coin / 1 cái"]},ench:[{id:35,lvl:5}]}'
+  NAME: '&c&l[arrow_up] §b§lĐ§e§lá§f§l-§d§lT§6§lh§f§lầ§b§ln &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §b§lĐ§e§lá§f§l-§d§lT§6§lh§f§lầ§b§ln'
+    - '&a&lGiá: 100 Coin - 1 cái'
+  ID: 7
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 1
+coins2:
+  POINTS: 10
+  COMMAND: 'op: give {player} 388 1 0 {display:{Name:"§2§lN§1§lg§b§lọ§e§lc§f§l-§d§lT§6§lh§f§lầ§b§ln§c§l",Lore:["§b§l- Đây Là Xu-Donate Của Server!","§c§l- Có Giá Trị Rất Hiếm Và Dùng Để Trade Items Donate!","§6§l- Mệnh giá: 10 coin / 1 cái"]},ench:[{id:35,lvl:4}]}'
+  NAME: '&c&l[arrow_up] §2§lN§1§lg§b§lọ§e§lc§f§l-§d§lT§6§lh§f§lầ§b§ln &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §2§lN§1§lg§b§lọ§e§lc§f§l-§d§lT§6§lh§f§lầ§b§ln'
+    - '&a&lGiá: 10 Coin - 1 cái'
+  ID: 388
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 1
+muamoney:
+  POINTS: 20
+  COMMAND: 'op: eco give {player} 100000'
+  NAME: '&2&lMua &b&l100000&f$'
+  LORE: 
+    - '&4► &f&lBạn sẽ nhận được 100000$ Tiền vào tài khoản của bạn'
+    - '&4► &f&lGiá : 20 Coin'
+  ID: 264
+  POSITION-X: 1
+  POSITION-Y: 1
+Longfarm:
+  NAME: '&6&lLồng Farmmobs'
+  LORE: 
+    - '&4► &f&lCó tại warp Trade'
+  ID: 52
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+return-to-main:
+  COMMAND: 'open:example.yml'
+  NAME: '&6[arrow_left] Bam vao quay lai menu'
+  ID: 166
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 4
+Kinh1:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 1
+Kinh2:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+Kinh3:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 3

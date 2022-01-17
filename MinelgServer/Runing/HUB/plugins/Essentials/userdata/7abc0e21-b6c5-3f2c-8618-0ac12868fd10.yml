@@ -1,0 +1,24 @@
+lastAccountName: kocmo
+timestamps:
+  login: 1477185493992
+  lastteleport: 1477185887832
+  kits:
+    diemdanh: 1477185788933
+    food: 1477185778281
+  logout: 1477185968581
+ipAddress: 116.109.155.255
+socialspy: false
+lastlocation:
+  world: world
+  x: -109.43421238231927
+  y: 69.0
+  z: -76.85754202632823
+  yaw: 65.10006
+  pitch: 26.099993
+logoutlocation:
+  world: world
+  x: -117.29023036334301
+  y: 68.0625
+  z: -34.14781498992133
+  yaw: 314.4005
+  pitch: 10.799991

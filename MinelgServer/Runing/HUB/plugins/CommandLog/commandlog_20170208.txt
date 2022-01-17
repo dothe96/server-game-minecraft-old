@@ -1,0 +1,15 @@
+[2017/02/08 18:03:45] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 255 at Location{world=CraftWorld{name=world},x=40.30000001192093,y=72.86768365517293,z=14.809745844191113,pitch=19.800053,yaw=261.60965}
+[2017/02/08 18:04:03] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 256 at Location{world=CraftWorld{name=world},x=3.771415480541741,y=60.0,z=-0.8883285403434872,pitch=-1.6499534,yaw=272.70966}
+[2017/02/08 18:04:15] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 166 at Location{world=CraftWorld{name=world},x=3.771415480541741,y=60.0,z=-0.8883285403434872,pitch=-1.6499534,yaw=272.70966}
+[2017/02/08 18:05:24] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 167 at Location{world=CraftWorld{name=world},x=42.69999998807907,y=73.42481375848718,z=-11.65312314264125,pitch=-39.89995,yaw=249.30946}
+[2017/02/08 18:05:44] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 168 at Location{world=CraftWorld{name=world},x=27.270599401252525,y=73.42481375848718,z=-12.113179533786798,pitch=2.100058,yaw=261.30942}
+[2017/02/08 18:05:51] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 155 at Location{world=CraftWorld{name=world},x=26.93242192256984,y=73.42481375848718,z=0.5920530224581908,pitch=2.2500582,yaw=273.60947}
+[2017/02/08 18:06:33] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 45 at Location{world=CraftWorld{name=world},x=3.1669512069626475,y=65.93604331691608,z=-0.5372739030734154,pitch=10.650057,yaw=359.5594}
+[2017/02/08 18:06:46] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 112 at Location{world=CraftWorld{name=world},x=9.790568772876037,y=65.93604331691608,z=-0.534572690600669,pitch=-4.9499435,yaw=270.1594}
+[2017/02/08 18:06:58] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 255 at Location{world=CraftWorld{name=world},x=3.3282911571784375,y=60.0,z=-2.0989505974939338,pitch=-2.9999387,yaw=263.85928}
+[2017/02/08 18:08:58] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 255 at Location{world=CraftWorld{name=world},x=-17.037675411164287,y=72.91862409716924,z=32.22985537232218,pitch=16.049992,yaw=204.15753}
+[2017/02/08 18:09:16] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 255 at Location{world=CraftWorld{name=world},x=16.664900763008998,y=73.6682462001705,z=-34.82518493805785,pitch=28.649973,yaw=161.40845}
+[2017/02/08 18:13:49] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 112 at Location{world=CraftWorld{name=world},x=33.94825802137462,y=77.0758519031672,z=3.700111180902221,pitch=9.449983,yaw=267.75317}
+[2017/02/08 18:14:23] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 112 at Location{world=CraftWorld{name=world},x=-15.427886712275804,y=71.85028311139676,z=30.700797315059226,pitch=0.29999933,yaw=177.44922}
+[2017/02/08 18:14:51] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 112 at Location{world=CraftWorld{name=world},x=15.878486602483003,y=73.44286244042924,z=-35.13250321171341,pitch=24.000011,yaw=175.05249}
+[2017/02/08 18:15:39] §6[§a§lMember§6]-§f§l§4Luky§r executed /give Luky 255 10 at Location{world=CraftWorld{name=world},x=3.8236259986547854,y=58.0,z=-5.875184966368879,pitch=7.650021,yaw=170.85425}

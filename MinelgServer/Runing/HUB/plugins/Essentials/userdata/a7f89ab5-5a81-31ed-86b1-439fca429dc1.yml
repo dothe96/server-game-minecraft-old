@@ -1,0 +1,24 @@
+lastAccountName: niss
+timestamps:
+  login: 1477105340310
+  kits:
+    diemdanh: 1477105370519
+    food: 1477105385139
+  lastteleport: 1477105375858
+  logout: 1477105389028
+ipAddress: 117.3.102.228
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -5.4000134
+  pitch: -16.200014
+logoutlocation:
+  world: world
+  x: 3257.518456110491
+  y: 80.0
+  z: 1261.5641476387498
+  yaw: 138.31276
+  pitch: 14.100046

@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: 123456789sada
+timestamps:
+  login: 1477976054984
+  kits:
+    diemdanh: 1477976080197
+    tanthu: 1477978967838
+  lastteleport: 1477978990164
+  logout: 1477981716356
+ipAddress: 14.167.223.247
+lastlocation:
+  world: world
+  x: -123.95353405195797
+  y: 68.0625
+  z: -18.494358785803435
+  yaw: -9.9005575
+  pitch: 6.7500563
+afk: false
+logoutlocation:
+  world: world
+  x: -117.42335765969513
+  y: 68.0625
+  z: -30.656898461238985
+  yaw: 273.14984
+  pitch: 22.350004

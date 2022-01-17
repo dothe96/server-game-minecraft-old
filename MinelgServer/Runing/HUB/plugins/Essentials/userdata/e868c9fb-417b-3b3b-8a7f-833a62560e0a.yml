@@ -1,0 +1,27 @@
+lastAccountName: shisui_
+timestamps:
+  login: 1477384501472
+  kits:
+    diemdanh: 1477120948861
+    tanthu: 1477120939654
+    tools: 1477120934426
+    food: 1477120937024
+  logout: 1477384618235
+  lastteleport: 1477384582301
+ipAddress: 115.75.1.174
+socialspy: false
+lastlocation:
+  world: world
+  x: -208.7580403163996
+  y: 108.0
+  z: 0.3205680105017895
+  yaw: -346.19986
+  pitch: 8.999851
+logoutlocation:
+  world: world
+  x: 1.0000085339342963E7
+  y: 173.0
+  z: 9999773.300000012
+  yaw: 83.857315
+  pitch: 19.199991
+money: '0.0'

@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: chinh_tattoo
+timestamps:
+  login: 1478004800401
+  kits:
+    diemdanh: 1477802580112
+    tanthu: 1477556655859
+    tools: 1477556667680
+    food: 1477802589039
+  lastteleport: 1477808008988
+  logout: 1478005543486
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: 2692.923490608597
+  y: 70.0
+  z: 393.3225922609146
+  yaw: 107.58838
+  pitch: 18.600037
+money: '2412.0'
+logoutlocation:
+  world: world
+  x: 2721.864491696621
+  y: 63.0
+  z: 365.0303741166327
+  yaw: 88.836945
+  pitch: 37.349995
+homes:
+  home:
+    world: world_nether
+    x: 261.68841982669653
+    y: 70.0
+    z: -151.44409527265725
+    yaw: 94.385315
+    pitch: 18.749994

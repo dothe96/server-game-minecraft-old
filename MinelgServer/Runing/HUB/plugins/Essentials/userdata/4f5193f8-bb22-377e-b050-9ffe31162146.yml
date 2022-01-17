@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Shizune
+timestamps:
+  login: 1477887935172
+  logout: 1477887970255
+ipAddress: 117.2.130.122
+lastlocation:
+  world: world
+  x: -168.5
+  y: 86.0
+  z: -68.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.51691930601373
+  y: 88.0
+  z: -77.03101479818567
+  yaw: 3.1499865
+  pitch: 1.4999852

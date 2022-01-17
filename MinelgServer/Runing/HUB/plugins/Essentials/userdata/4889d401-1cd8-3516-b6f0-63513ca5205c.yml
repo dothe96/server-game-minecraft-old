@@ -1,0 +1,37 @@
+lastAccountName: Skycott
+timestamps:
+  login: 1477557352351
+  lastteleport: 1477468769230
+  kits:
+    diemdanh: 1477369770715
+    tanthu: 1477369747857
+    tools: 1477467843013
+    food: 1477396197912
+  logout: 1477557536930
+  mute: 0
+ipAddress: 115.78.125.136
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+homes:
+  home:
+    world: world
+    x: 3823.041881501857
+    y: 13.0
+    z: 3263.6572385211034
+    yaw: -193.93182
+    pitch: 24.300123
+money: '48468.0'
+logoutlocation:
+  world: world
+  x: -100.35389930493508
+  y: 68.0625
+  z: -24.74363401257468
+  yaw: -33.78677
+  pitch: 16.74907
+muted: false

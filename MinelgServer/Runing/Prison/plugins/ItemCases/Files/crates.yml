@@ -1,0 +1,21 @@
+world,-88,39,268:
+  case: quayso1
+  location:
+    world: world
+    x: -88
+    y: 39
+    z: 268
+world,-88,39,252:
+  case: quayso2
+  location:
+    world: world
+    x: -88
+    y: 39
+    z: 252
+world,-89,39,260:
+  case: quayso3
+  location:
+    world: world
+    x: -89
+    y: 39
+    z: 260

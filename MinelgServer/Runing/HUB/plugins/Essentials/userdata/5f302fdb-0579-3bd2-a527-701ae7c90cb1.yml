@@ -1,0 +1,24 @@
+lastAccountName: z0ro
+timestamps:
+  login: 1476973491184
+  logout: 1476973541979
+  lastteleport: 1476972893390
+  kits:
+    food: 1476851776763
+ipAddress: 183.80.171.250
+lastlocation:
+  world: world
+  x: -57.986825619511784
+  y: 61.0
+  z: -48.63600925761091
+  yaw: 105.75007
+  pitch: 24.750002
+logoutlocation:
+  world: world
+  x: -71.42995838084805
+  y: 65.5
+  z: -7.3012290853260975
+  yaw: 359.25003
+  pitch: 21.449995
+money: '10000.0'
+socialspy: false

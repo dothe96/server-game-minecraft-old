@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: baomap1
+timestamps:
+  login: 1478743219871
+  logout: 1478743302605
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: -168.5
+  y: 86.0
+  z: -70.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -7.200013
+  pitch: 5.0999875

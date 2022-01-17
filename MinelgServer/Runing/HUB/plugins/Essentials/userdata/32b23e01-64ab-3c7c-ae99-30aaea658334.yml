@@ -1,0 +1,42 @@
+lastAccountName: Chicken
+timestamps:
+  login: 1476886795008
+  lastteleport: 1476886371732
+  logout: 1476886887949
+  kits:
+    test: 1476364132155
+    diemdanh: 1476870045883
+    vangdoan: 1476165549153
+    food: 1476869794614
+  mute: 0
+ipAddress: 183.80.171.250
+lastlocation:
+  world: world
+  x: 2542.2836320121187
+  y: 64.0
+  z: 2112.861273177108
+  yaw: 34.0787
+  pitch: 9.599961
+afk: false
+logoutlocation:
+  world: world
+  x: 2773.8563630411677
+  y: 67.17675927506424
+  z: 979.082030326331
+  yaw: -250.1886
+  pitch: 16.349968
+money: '807779.0'
+homes:
+  home:
+    world: world
+    x: 100580.52575571515
+    y: 75.0
+    z: 1.0000091877143038E7
+    yaw: 345.7495
+    pitch: 21.900011
+powertools:
+  '383':
+  - 1000 100 1000
+godmode: false
+muted: false
+socialspy: false

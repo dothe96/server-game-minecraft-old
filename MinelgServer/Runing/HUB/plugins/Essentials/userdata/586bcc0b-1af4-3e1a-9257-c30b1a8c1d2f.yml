@@ -1,0 +1,31 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: -71.25180909201836
+  y: 65.0
+  z: -48.86918223894519
+  yaw: -70.95005
+  pitch: 14.999996
+lastAccountName: Trank
+timestamps:
+  login: 1477176545454
+  logout: 1477178436278
+  lastteleport: 1477174771514
+ipAddress: 183.80.171.250
+logoutlocation:
+  world: world
+  x: 1000002.596447845
+  y: 68.0
+  z: 999926.3252004873
+  yaw: -117.75006
+  pitch: 72.90003
+afk: false
+money: '99750.0'
+homes:
+  home:
+    world: world
+    x: 1000000.9869725925
+    y: 67.0
+    z: 999922.7501254266
+    yaw: 186.15002
+    pitch: 30.14998

@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: mail
+timestamps:
+  login: 1478422617290
+  logout: 1478424938490
+  lastteleport: 1478422638910
+ipAddress: 117.2.17.128
+lastlocation:
+  world: world
+  x: 3844.5433711365176
+  y: 142.0
+  z: 1722.7953312688185
+  yaw: 108.76276
+  pitch: -1.3500068
+logoutlocation:
+  world: world
+  x: 3843.795095466733
+  y: 142.0
+  z: 1723.5776817976905
+  yaw: 172.21613
+  pitch: 14.399932
+money: '0.0'

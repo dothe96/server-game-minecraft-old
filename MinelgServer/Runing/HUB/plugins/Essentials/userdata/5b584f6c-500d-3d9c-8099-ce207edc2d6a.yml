@@ -1,0 +1,26 @@
+lastAccountName: skylake
+timestamps:
+  login: 1478327821223
+  lastteleport: 1478328218243
+  kits:
+    diemdanh: 1478328175514
+    tanthu: 1478328167156
+    food: 1478328177704
+  logout: 1478328314095
+ipAddress: 112.197.32.251
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000101452334728E7
+  y: 173.0
+  z: 9999826.072365792
+  yaw: -190.49257
+  pitch: 10.499985
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -75.82269714683441
+  y: 65.0
+  z: -51.281358152492615
+  yaw: -274.35004
+  pitch: 17.999996

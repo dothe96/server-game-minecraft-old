@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: OopsHuy
+timestamps:
+  login: 1477061658694
+  kits:
+    diemdanh: 1477061829758
+    tanthu: 1477061819706
+    tools: 1477061823956
+    food: 1477061817946
+  lastteleport: 1477061982529
+  logout: 1477062043288
+ipAddress: 27.77.156.207
+lastlocation:
+  world: world
+  x: 2921.5226571600383
+  y: 71.0
+  z: 1702.5846672336088
+  yaw: 288.76587
+  pitch: 50.24998
+logoutlocation:
+  world: world
+  x: -158.93298426611622
+  y: 86.0
+  z: -84.49048288305703
+  yaw: 311.84995
+  pitch: 22.64985

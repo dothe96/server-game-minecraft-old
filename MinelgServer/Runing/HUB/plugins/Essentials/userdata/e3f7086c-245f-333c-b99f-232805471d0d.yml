@@ -1,0 +1,25 @@
+lastAccountName: rubenpro
+timestamps:
+  login: 1478232304427
+  lastteleport: 1478233571840
+  kits:
+    diemdanh: 1478232493666
+    food: 1478232563717
+  logout: 1478233578853
+ipAddress: 113.180.87.178
+socialspy: false
+lastlocation:
+  world: world_nether
+  x: -38.591585451197986
+  y: 83.82711731432457
+  z: 12.527379063279527
+  yaw: -51.44996
+  pitch: 73.79986
+money: '0.0'
+logoutlocation:
+  world: world_nether
+  x: -38.591585451197986
+  y: 83.82711731432457
+  z: 12.527379063279527
+  yaw: -51.44996
+  pitch: 73.79986

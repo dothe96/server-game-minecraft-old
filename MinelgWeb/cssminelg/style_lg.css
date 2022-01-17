@@ -1,0 +1,109 @@
+.creepy-main-border .border-left {	background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_main_left.png') top left no-repeat; }
+		.creepy-main-border .border-right{	background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_main_right.png') top right no-repeat; }
+		.creepy-main-border .border-middle span { background-color: #3d2b1a; }
+		.creepy-content-border .border-left {	background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_content_left.png') top left no-repeat; }
+		.creepy-content-border .border-right{	background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_content_right.png') top right no-repeat; }
+		.creepy-content-border .border-middle span { background-color: #c6c6bd; }
+    	.creepy-footer-border .border-left {	background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_footer_left.png') top left no-repeat; }
+		.creepy-footer-border .border-right{	background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_footer_right.png') top right no-repeat; }
+		.creepy-footer-border .border-middle span { background-color: #25160b; }
+    	#main, #inner-content {background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_text.jpg') repeat top left; }
+    	.widgettitle .inner-title{background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_widget_title.jpg') repeat top center; }
+    	.menu-wrapper {background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_m.jpg') repeat top left; }
+    	#main .slider-wrap .inner-bg{ background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_bg.jpg') repeat top left; }
+    	.widgettitle .inner-title,#minecraftsv-status .btn, .widget_wp_sidebarlogin .button-primary, #lwa_wp-submit, .mcserver-solo-online, .mcserver-multi-online, .mcserver-solo-offline, .mcserver-multi-offline { color: #FEFEFE ;}
+    	.widget .inner-widget { background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_side_bg.png') no-repeat top left white;}
+    	.menu-wrapper a:hover{background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_m_hover.png') repeat top left; }
+    	.mcserver-solo-online, #minecraftsv-status .btn-success, .widget_wp_sidebarlogin .button-primary { background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_online.png') no-repeat top center; }
+    	.mcserver-multi-online, #lwa_wp-submit { background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_multi_online.png') no-repeat top center; }
+    	.mcserver-solo-offline, #minecraftsv-status .btn-danger { background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_offline.png') no-repeat top center; }
+    	.mcserver-multi-offline { background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_multi_offline.png') no-repeat top center; }
+       	.nav li ul.sub-menu { background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_menu_texture.jpg') repeat top left; }
+    	
+    	.vcard .author{ background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_author.png') no-repeat center left; }
+		.vcard .comment-number{ background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_comments.png') no-repeat center left; }
+		.mcserver-online { background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_sml_online.png') no-repeat center center; }
+		.mcserver-offline { background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_sml_offline.png') no-repeat center center; }
+		.mcplayers-solo{ background: url('wp-content/themes/magicraft/library/skins/wooden/online-players.png') no-repeat center left; }
+		.mcip-solo{ background: url('wp-content/themes/magicraft/library/skins/wooden/world-cube.png') no-repeat center left; }
+
+					#inner-footer .mcserver-solo-online, #inner-footer .mcserver-multi-online { color:#eeeddd }
+		
+					#inner-footer .mcserver-solo-offline, #inner-footer .mcserver-multi-offline { color:#eeeddd }
+		
+
+    	
+		@media only screen and (min-width: 768px) {
+							#main{ float: right;}
+				.sidebar{ float: left;}
+					}	
+
+		.widget ul li {border-bottom: 1px dotted #959595;}
+		#inner-footer .widget-title { border-bottom: 1px solid #959595;}
+
+
+		
+			TEST
+			@media screen and (max-width: 768px) {
+				.menu-wrapper .nav a{ border-bottom: 1px solid #744926;}
+				.menu-wrapper .nav a:hover{ border-bottom: 1px solid #e1e1e1; }
+				.nav li ul.sub-menu { background: none;}
+				#main-menu{background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_menu_texture.jpg') repeat top left; }
+			}
+
+
+	    	
+	        a { color: #058207; }
+	        a:hover, .vcard a:hover, .pagination li a:hover { color: #876302; }
+
+	        .button{
+	        	background: #058207;
+	        	color:;
+	        	-webkit-box-shadow: 0px 4px 0px 0px #876302;
+				-moz-box-shadow:    0px 4px 0px 0px #876302;
+				box-shadow:         0px 4px 0px 0px #876302;
+	        }
+	        .button:hover, .button:focus{
+	        	-webkit-box-shadow: 0px 3px 0px 0px #876302;
+				-moz-box-shadow:    0px 3px 0px 0px #876302;
+				box-shadow:         0px 3px 0px 0px #876302;
+	        }
+	        .button:active{
+	        	-webkit-box-shadow: 0px 0px 0px 0px #876302;
+				-moz-box-shadow:    0px 0px 0px 0px #876302;
+				box-shadow:         0px 0px 0px 0px #876302;
+	        }
+
+	        #main .inner-bg, .widget .inner-widget, .inner-bg{ background: url('wp-content/themes/magicraft/library/skins/wooden/wooden_side_bg.png') no-repeat top left #f4f3ed; }
+
+	        h1, h1 a, h2, h2 a, h3, h3 a, h4, h4 a, h5, h5 a, h6, h6 a, .mcplayers-solo, .mcversion-solo, .mcip-solo{ color:#512000; }
+
+	        .nav li a, nav a, a.menu-link{color: #ceba8a;}
+	        .nav li a:hover, nav a:hover, a.menu-link:hover{color: #e1e1e1;}
+
+
+			 
+	        #slidr-div div{ color: #ece9d9; }
+	        aside#slidr-div-breadcrumbs .slidr-breadcrumbs li.normal, aside#slidr-div-breadcrumbs .slidr-breadcrumbs li.active { border-color: #ece9d9 !important; background-color: #ece9d9 !important; }
+	        
+	        .slider-content, .slider-content h1, .slider-content h2, .slider-content h3, .slider-content h4 { color: #ece9d9 ; }
+	        .slider-nav__item{ background: #ece9d9; }
+
+	        .vcard a{ color: #3a0000; }
+			body {	color: #3a0000;
+			}
+
+						#inner-footer {background-color: #352011;	}
+			#inner-footer, #inner-footer a, #inner-footer h1, #inner-footer h2, #inner-footer h3, #inner-footer h4, #inner-footer h5, #inner-footer h6{color: #d1c9ad;	}
+			.widget_archive ul li a:hover, .widget_meta ul li a:hover, .widget_nav_menu ul li a:hover, .widget_categories ul li a:hover {
+				background: ;	
+				color:  !important;
+			}
+
+		
+		body{
+
+		/* Font section */
+			 font-family: '','Open Sans', 'Helvetica', 'Arial' sans-serif; 		} 
+
+		 body.custom-background{ background-size: cover; }

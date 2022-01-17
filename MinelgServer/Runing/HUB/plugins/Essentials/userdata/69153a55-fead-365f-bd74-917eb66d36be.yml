@@ -1,0 +1,20 @@
+lastAccountName: thanhz
+timestamps:
+  login: 1478220672852
+  logout: 1478220697327
+ipAddress: 123.22.222.1
+socialspy: false
+lastlocation:
+  world: world
+  x: -164.5
+  y: 86.0
+  z: -83.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -14.550017
+  pitch: 11.999982

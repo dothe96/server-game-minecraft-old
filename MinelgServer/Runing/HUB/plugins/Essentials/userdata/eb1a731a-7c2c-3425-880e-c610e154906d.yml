@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: thien75
+timestamps:
+  login: 1478659174561
+  lastteleport: 1478663219351
+  kits:
+    diemdanh: 1478660904025
+    tanthu: 1478402257188
+    tools: 1478402243374
+    food: 1478659369416
+  logout: 1478663338515
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: -127.31237268473033
+  y: 68.0625
+  z: -28.69999998807907
+  yaw: 175.1984
+  pitch: 5.1000113
+money: '4723.0'
+logoutlocation:
+  world: world
+  x: 3237.228263823443
+  y: 69.0
+  z: 1636.300000011921
+  yaw: 25.06666
+  pitch: -0.299984
+afk: false
+homes:
+  home:
+    world: world
+    x: 3286.970487648476
+    y: 60.0
+    z: 1534.5971514016114
+    yaw: -256.52133
+    pitch: -17.999924

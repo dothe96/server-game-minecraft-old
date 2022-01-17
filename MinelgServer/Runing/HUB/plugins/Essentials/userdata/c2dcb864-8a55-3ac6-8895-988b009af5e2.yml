@@ -1,0 +1,27 @@
+lastAccountName: khaimc
+timestamps:
+  login: 1476522087149
+  kits:
+    diemdanh: 1476522223433
+    tanthu: 1476522235697
+    tools: 1476522247023
+    food: 1476522230429
+  lastteleport: 1476523079785
+  logout: 1476524029248
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: 3726.7622175569063
+  y: 70.0
+  z: 1727.727006589408
+  yaw: 101.07101
+  pitch: 18.871258
+money: '0.0'
+afk: false
+logoutlocation:
+  world: world
+  x: -165.80560395012714
+  y: 86.0
+  z: -66.23736447694574
+  yaw: 129.16695
+  pitch: 13.116557

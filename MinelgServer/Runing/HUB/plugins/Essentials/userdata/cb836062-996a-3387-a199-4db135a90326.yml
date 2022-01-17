@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: YeuEmNhieu
+timestamps:
+  login: 1478256928667
+  kits:
+    diemdanh: 1478256941394
+  lastteleport: 1478256949329
+  logout: 1478256966690
+ipAddress: 113.176.152.77
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 742.5970868866566
+  y: 71.0
+  z: 1704.2034615448777
+  yaw: 342.38104
+  pitch: 39.061386

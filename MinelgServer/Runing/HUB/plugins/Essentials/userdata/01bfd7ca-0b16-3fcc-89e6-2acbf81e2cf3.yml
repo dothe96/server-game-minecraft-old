@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: macnhusangvip11
+timestamps:
+  login: 1477966047923
+  lastteleport: 1477966209144
+  kits:
+    diemdanh: 1477966069628
+    tanthu: 1476928715209
+    food: 1476928935318
+  logout: 1477966291774
+ipAddress: 113.170.84.238
+lastlocation:
+  world: world_nether
+  x: 412.24006078284737
+  y: 128.0
+  z: 203.27348587181874
+  yaw: 214.06586
+  pitch: 2.250066
+homes:
+  home:
+    world: world
+    x: 3244.52840678834
+    y: 64.0
+    z: 1644.850605593123
+    yaw: 278.71582
+    pitch: 32.999973
+logoutlocation:
+  world: world
+  x: 3154.3928894684545
+  y: 68.0
+  z: 1654.4529975253186
+  yaw: 40.3658
+  pitch: 41.999973
+afk: false
+money: '0.0'

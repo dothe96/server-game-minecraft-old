@@ -1,0 +1,26 @@
+lastAccountName: DemonShuu
+timestamps:
+  login: 1476610537253
+  kits:
+    diemdanh: 1476610546870
+    tanthu: 1476610545313
+    tools: 1476610542785
+    food: 1476610544444
+  lastteleport: 1476610635606
+  logout: 1476610641111
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -159.9739286132871
+  y: 86.54289683901332
+  z: -71.91699240062255
+  yaw: 1.4999886
+  pitch: 22.499979
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 1.00000955E7
+  y: 174.0
+  z: 9999775.5
+  yaw: 291.30713
+  pitch: 11.100006

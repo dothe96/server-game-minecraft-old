@@ -1,0 +1,36 @@
+lastAccountName: ProWind
+timestamps:
+  login: 1476790449250
+  kits:
+    diemdanh: 1476695642038
+    tanthu: 1476695644689
+    tools: 1476706370367
+    food: 1476591509830
+  lastteleport: 1476710322929
+  logout: 1476790511210
+ipAddress: 42.118.234.205
+lastlocation:
+  world: world
+  x: -149.5
+  y: 86.0
+  z: -67.5
+  yaw: 0.0
+  pitch: 0.0
+money: '4597.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -18.450048
+  pitch: 2.699979
+homes:
+  home:
+    world: world
+    x: 2742.295299302304
+    y: 63.0
+    z: 1032.113652564869
+    yaw: 235.35611
+    pitch: 2.7000086
+afk: false
+socialspy: false

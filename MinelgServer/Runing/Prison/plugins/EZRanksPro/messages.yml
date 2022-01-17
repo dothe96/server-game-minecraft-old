@@ -1,0 +1,16 @@
+# EZRanksPro messages file
+no_permission: '&cBạn không có quyền sử dụng lệnh này!'
+rankup_last_rank: '&7Rank của bạn đã max :).'
+rankup_no_rankups: '&cKhông có rank sau rank của bạn.'
+rankup_confirm_message: |-
+  &aBạn có muốn lên rank &f%rankup% với phí là &a$&f%cost%?
+  &aGõ &7/rankup một lần nữa để đồng ý!.
+rankup_on_cooldown: '&cHãy đợi %time%s để có thể rankup!'
+ranks_no_ranks_loaded: '&cKhông có rank được nạp!'
+target_not_online: '&f{0} &ckhông online!'
+force_rankup_no_rankup: '&f{0} &ckhông có rankup ở rank này &f{1}&c!'
+force_rankup_success: '&f{0} &arankup thành công từ &f{1} &alên &f{2}&a!'
+autorankup_toggle_on: '&aAutoRankup mở.'
+autorankup_toggle_off: '&7AutoRankup tắt.'
+autorankup_last_rank: '&cBạn đã max rank! không thể rankup'
+autorankup_no_rankups: '&cKhông có rank sau rank hiện tại, bạn không thể autorankup!'

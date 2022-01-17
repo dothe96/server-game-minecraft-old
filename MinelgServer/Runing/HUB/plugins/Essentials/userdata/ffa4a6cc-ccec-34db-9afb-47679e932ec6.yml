@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: lufy
+timestamps:
+  login: 1476881524792
+  kits:
+    food: 1476881710881
+  logout: 1476881792719
+ipAddress: 14.168.10.112
+lastlocation:
+  world: world
+  x: -156.5
+  y: 87.0
+  z: -77.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -115.48185024936672
+  y: 68.0625
+  z: -37.571870332214615
+  yaw: -32.549767
+  pitch: 29.849943

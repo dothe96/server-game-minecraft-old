@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: halloweenS
+timestamps:
+  login: 1478250604875
+  lastteleport: 1478251558435
+  kits:
+    diemdanh: 1478251478372
+    tanthu: 1477987841389
+    food: 1477987830650
+  logout: 1478251944501
+ipAddress: 27.76.121.194
+lastlocation:
+  world: world
+  x: 1.0000092963636858E7
+  y: 174.0
+  z: 9999773.551124986
+  yaw: -37.515717
+  pitch: 7.129015
+logoutlocation:
+  world: world
+  x: -147.36317491366404
+  y: 87.0
+  z: -94.97317557382961
+  yaw: -16.062777
+  pitch: 36.054634

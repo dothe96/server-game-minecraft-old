@@ -1,0 +1,35 @@
+lastAccountName: nguyendat123
+timestamps:
+  login: 1479184167451
+  kits:
+    diemdanh: 1478997737441
+    tanthu: 1478997640845
+    tools: 1479098057287
+    food: 1478319482070
+  lastteleport: 1479185733202
+  logout: 1479186355734
+ipAddress: 117.2.130.122
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: 42.08717069282792
+  y: 56.0
+  z: -9.860320485305405
+  yaw: 139.94781
+  pitch: 8.400003
+money: '4616.0'
+logoutlocation:
+  world: world
+  x: 3335.925000011921
+  y: 63.0
+  z: 835.1039051579625
+  yaw: -134.5332
+  pitch: 19.35003
+homes:
+  home:
+    world: world
+    x: 3345.7163851144587
+    y: 64.0
+    z: 835.8250787454944
+    yaw: 205.5114
+    pitch: 17.699982

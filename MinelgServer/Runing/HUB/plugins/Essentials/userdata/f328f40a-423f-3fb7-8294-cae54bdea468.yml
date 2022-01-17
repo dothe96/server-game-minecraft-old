@@ -1,0 +1,35 @@
+lastAccountName: thanhranhroi
+timestamps:
+  login: 1476855663864
+  lastteleport: 1476597941809
+  kits:
+    diemdanh: 1476531892103
+    tanthu: 1476531880212
+    tools: 1476532517994
+    food: 1476595916872
+  logout: 1476855818403
+ipAddress: 117.3.105.70
+lastlocation:
+  world: world
+  x: 3559.0855711709287
+  y: 111.62889461441551
+  z: 1285.4989217893826
+  yaw: -7.187338
+  pitch: 28.650194
+homes:
+  home:
+    world: world
+    x: 3506.3245136058304
+    y: 20.0
+    z: 1446.1999504284986
+    yaw: -239.23718
+    pitch: 16.649942
+logoutlocation:
+  world: world
+  x: -199.2156848104376
+  y: 101.0
+  z: -52.86704957681794
+  yaw: 260.70016
+  pitch: 34.499985
+money: '0.0'
+socialspy: false

@@ -1,0 +1,25 @@
+lastlocation:
+  world: world
+  x: -129.97921421154624
+  y: 84.5
+  z: -52.67552904289858
+  yaw: 21.450483
+  pitch: 26.699867
+lastAccountName: HackerKiller
+timestamps:
+  login: 1476959293561
+  kits:
+    diemdanh: 1476959358350
+    tanthu: 1476959353054
+    tools: 1476959349502
+  lastteleport: 1476959821660
+  logout: 1476959838887
+ipAddress: 118.68.212.15
+socialspy: false
+logoutlocation:
+  world: world
+  x: -160.7790937952397
+  y: 86.0
+  z: -15.352029214210022
+  yaw: 5.694968
+  pitch: 13.349996

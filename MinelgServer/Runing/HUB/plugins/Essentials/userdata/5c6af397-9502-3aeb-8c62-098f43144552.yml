@@ -1,0 +1,35 @@
+lastAccountName: Bigtail
+timestamps:
+  login: 1478833698052
+  lastteleport: 1478833830742
+  kits:
+    diemdanh: 1478414130430
+    tools: 1478317540712
+    food: 1478392378156
+  logout: 1478833911161
+ipAddress: 171.250.102.100
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000094586443635E7
+  y: 173.0
+  z: 9999792.839005016
+  yaw: 162.00745
+  pitch: 6.7499957
+logoutlocation:
+  world: world
+  x: -128.33981098686826
+  y: 67.0
+  z: -73.30000001192093
+  yaw: -74.85001
+  pitch: 37.499992
+homes:
+  home:
+    world: world
+    x: -210.8813749473414
+    y: 101.0625
+    z: -48.23225075564855
+    yaw: 314.6981
+    pitch: 24.450024
+money: '815.0'
+afk: false

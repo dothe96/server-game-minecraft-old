@@ -1,0 +1,146 @@
+﻿fix:
+  COMMAND: 'op:fix'
+  NAME: '&f&lFix Vật Phẩm Đang Cầm'
+  LORE:
+    - 'Giá: 100$'
+  PRICE: 100.0
+  ID: anvil
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 1
+  
+tutorial1:
+  COMMAND: 'open:taxi.yml'
+  NAME: '&e&l[+]Taxi[+]'
+  LORE:
+    - '&e&lẤn Để Vào Menu Taxi'
+    - '&c&lDịch Vụ Di Chuyển Nhanh'
+  ID: 345
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+  
+fixall:
+  COMMAND: 'op:fix all'
+  NAME: '&b&lFix Tất Cả Vật Phẩm'
+  LORE:
+    - 'Giá: 500$'
+  PRICE: 500
+  ID: anvil
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 1  
+  
+ec:
+  COMMAND: 'op:ec'
+  NAME: '&3&lMở Rương Ender'
+  LORE:
+    - 'Giá: 20$'
+  PRICE: 20.0
+  ID: enderchest
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 1
+  
+shop3:
+  COMMAND: 'open:stt.yml'
+  NAME: '&d&lCửa Hàng Thời tiết'
+  ID: 347
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 2
+  
+shop:
+  COMMAND: 'open:simple-shop.yml'
+  NAME: '&d&lCửa Hàng Mua Bán'
+  ID: 138
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 1
+  
+rankup:
+  COMMAND: 'open:rankup.yml'
+  NAME: '&6&l[arrow_up] Rank Up [arrow_up]'
+  ID: diamond
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 2
+
+huongdan:
+  COMMAND: 'open:huongdan.yml'
+  NAME: '&d&l Khu Hướng Dẫn Của Server'
+  ID: 323
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 1
+Viettel: 
+  COMMAND: 'open:napthe.yml'
+  NAME: '&a&lNạp Thẻ Của Server'
+  LORE:
+    - '&fBấm Vào Để Nạp Thẻ'
+  ID: 339
+  POSITION-X: 3
+  POSITION-Y: 1
+
+xshop:
+  COMMAND: 'open:lv.yml'
+  NAME: '&d&lXu-Shop'
+  ID: 388
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+ 
+feedfood:
+  COMMAND: 'op:feed'
+  NAME: '&c&lHồi Sinh Thanh Thức Ăn Bạn'
+  LORE:
+    - '&b&lGiá: 300$'
+    - '&b&lGiúp bạn không còn đói và hồi phục thức ăn'
+  PRICE: 300
+  ID: 322
+  KEEP-OPEN: false
+  POSITION-X: 2
+  POSITION-Y: 2   
+  
+  COMMAND: 'op:heal'
+  NAME: '&c&lHồi Sinh Thanh Máu Của Bạn'
+  LORE:
+    - '&b&lGiá: 1200$'
+    - '&b&lGiúp bạn hồi phục hoàn toàn: thức ăn , xóa hiện ứng thuốc '
+  PRICE: 1200
+  ID: 322
+  KEEP-OPEN: false
+  POSITION-X: 3
+  POSITION-Y: 2 
+  
+khamtrangbi:
+  COMMAND: 'open:kham.yml'
+  NAME: '&c&lNơi Khảm Trang Bị'
+  LORE:
+    - '&b&lKhảm Các Hiệu Ứng, Chiêu '
+  ID: 267
+  KEEP-OPEN: false
+  POSITION-X: 2
+  POSITION-Y: 2 
+  
+gun:
+  COMMAND: 'open:gun.yml'
+  NAME: '&c&lNơi mua súng'
+  Lore:
+    - '&b&lMua súng giá rẻ'
+  PRICE: 0$
+  ID: 417
+  KEEP-OPEN: false
+  POSITION-X: 4
+  POSITION-Y: 1
+  
+bauvat:
+  COMMAND: 'open:bauvat.yml'
+  NAME: '&c&lNơi mua rương may mắn'
+  Lore:
+    - '&b&lMua rương may mắn giá rẻ'
+  PRICE: 0$
+  ID: CHEST
+  KEEP-OPEN: false
+  POSITION-X: 6
+  POSITION-Y: 1

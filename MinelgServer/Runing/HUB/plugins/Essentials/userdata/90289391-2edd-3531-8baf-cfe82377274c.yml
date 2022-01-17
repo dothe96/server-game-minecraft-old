@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: kikila
+timestamps:
+  login: 1479256291444
+  lastteleport: 1479257249468
+  kits:
+    diemdanh: 1479256603842
+    tanthu: 1478484633766
+    tools: 1477913211526
+    food: 1479029776344
+  logout: 1479258639031
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: -1864.3640128914901
+  y: 65.0
+  z: 2240.1719257979466
+  yaw: 167.56528
+  pitch: 12.450057
+money: '35220.0'
+logoutlocation:
+  world: world
+  x: -1857.6692301799444
+  y: 63.0
+  z: 2276.310094801689
+  yaw: 90.615166
+  pitch: 27.450048
+homes:
+  home:
+    world: world
+    x: -1855.8773220050489
+    y: 82.0
+    z: 2230.9797941934385
+    yaw: -59.234802
+    pitch: 27.90002
+afk: false

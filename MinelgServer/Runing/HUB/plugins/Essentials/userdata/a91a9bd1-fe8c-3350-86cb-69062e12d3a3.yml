@@ -1,0 +1,26 @@
+lastlocation:
+  world: world
+  x: -193.44514710713153
+  y: 99.0
+  z: -64.97706679583139
+  yaw: 118.20025
+  pitch: 12.299976
+lastAccountName: Selena_Gomez
+timestamps:
+  login: 1476861373827
+  lastteleport: 1476683221952
+  kits:
+    diemdanh: 1476683185437
+    tanthu: 1476516655202
+    food: 1476683408330
+  logout: 1476861411877
+ipAddress: 113.163.123.35
+logoutlocation:
+  world: world
+  x: -160.84157857233575
+  y: 86.0
+  z: -54.726125547126856
+  yaw: 34.5
+  pitch: 11.399982
+money: '0.0'
+socialspy: false

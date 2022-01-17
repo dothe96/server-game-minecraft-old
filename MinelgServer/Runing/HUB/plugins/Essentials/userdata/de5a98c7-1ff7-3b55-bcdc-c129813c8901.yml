@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: minecc
+timestamps:
+  login: 1478696925861
+  lastteleport: 1478697208993
+  kits:
+    diemdanh: 1478697111913
+    tanthu: 1478697116410
+    tools: 1478697109458
+    food: 1478697140271
+  logout: 1478697261446
+ipAddress: 14.170.1.37
+lastlocation:
+  world: world_nether
+  x: 418.5
+  y: 43.0
+  z: 200.5
+  yaw: 21.311182
+  pitch: 46.799973
+logoutlocation:
+  world: world
+  x: -160.92157805388157
+  y: 88.0
+  z: -78.56766480153578
+  yaw: 166.65009
+  pitch: -4.5000167

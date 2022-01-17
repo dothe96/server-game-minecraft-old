@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: boicf789
+timestamps:
+  login: 1479024590826
+  logout: 1479024822286
+  kits:
+    diemdanh: 1479024626602
+    tanthu: 1479024606480
+    tools: 1479024631033
+    food: 1479024635272
+  lastteleport: 1479024701209
+ipAddress: 210.245.33.124
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 101.24999
+  pitch: 90.0
+logoutlocation:
+  world: world_the_end
+  x: -59.28696099351322
+  y: 70.0
+  z: 26.2066556024407
+  yaw: 258.90057
+  pitch: 65.84998

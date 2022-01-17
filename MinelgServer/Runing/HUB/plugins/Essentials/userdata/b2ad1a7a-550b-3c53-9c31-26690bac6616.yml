@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: kakata
+timestamps:
+  login: 1478940323529
+  lastteleport: 1478940783370
+  kits:
+    diemdanh: 1478940917809
+    tanthu: 1478940416536
+    tools: 1478941050234
+  logout: 1478941225383
+ipAddress: 113.180.87.239
+lastlocation:
+  world: world
+  x: 2988.139397263546
+  y: 62.0
+  z: 555.640516406476
+  yaw: 317.80103
+  pitch: 18.900013
+logoutlocation:
+  world: world
+  x: 3013.10034635838
+  y: 54.0
+  z: 487.509912230552
+  yaw: 261.70065
+  pitch: 13.04994

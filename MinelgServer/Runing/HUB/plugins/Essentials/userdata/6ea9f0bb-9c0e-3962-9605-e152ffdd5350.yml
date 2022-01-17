@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: shi_xu_ka
+timestamps:
+  login: 1479030817409
+  logout: 1479030844368
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: -156.5
+  y: 86.0
+  z: -82.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 11.55
+  pitch: 90.0

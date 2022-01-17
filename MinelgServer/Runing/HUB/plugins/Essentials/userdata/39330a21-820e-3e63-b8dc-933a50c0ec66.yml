@@ -1,0 +1,25 @@
+lastAccountName: phuocdz
+timestamps:
+  login: 1476790550482
+  logout: 1476790901701
+  kits:
+    diemdanh: 1476789709643
+    tanthu: 1476789712841
+    food: 1476789697239
+  lastteleport: 1476790327655
+ipAddress: 42.118.234.205
+socialspy: false
+lastlocation:
+  world: world
+  x: -163.69999998807907
+  y: 86.0
+  z: -58.87095082105496
+  yaw: -269.09982
+  pitch: 6.6001287
+logoutlocation:
+  world: world
+  x: -180.6316988695676
+  y: 92.0
+  z: -48.90645155351498
+  yaw: 88.05017
+  pitch: 7.6500106

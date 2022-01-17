@@ -1,0 +1,80 @@
+ConfigVersion: 12
+Integers:
+  EngineMode: 2
+  InitialRadius: 1
+  UpdateRadius: 2
+  MaxLoadedCacheFiles: 64
+  ProximityHiderDistance: 8
+  ProximityHiderID: STONE
+  ProximityHiderEnd: 255
+  AirGeneratorMaxChance: 43
+Booleans:
+  UseProximityHider: true
+  UseSpecialBlockForProximityHider: true
+  UseYLocationProximity: false
+  UpdateOnDamage: true
+  DarknessHideBlocks: false
+  NoObfuscationForOps: false
+  NoObfuscationForPermission: false
+  UseCache: true
+  LoginNotification: true
+  AntiTexturePackAndFreecam: true
+  UseWorldsAsBlacklist: true
+  Enabled: true
+Lists:
+  TransparentBlocks: []
+  NonTransparentBlocks: []
+  ObfuscateBlocks:
+  - GOLD_ORE
+  - IRON_ORE
+  - COAL_ORE
+  - LAPIS_ORE
+  - CHEST
+  - DIAMOND_ORE
+  - REDSTONE_ORE
+  - GLOWING_REDSTONE_ORE
+  - EMERALD_ORE
+  - ENDER_CHEST
+  NetherObfuscateBlocks:
+  - NETHERRACK
+  - QUARTZ_ORE
+  DarknessBlocks:
+  - MOB_SPAWNER
+  - CHEST
+  ProximityHiderBlocks:
+  - DISPENSER
+  - MOB_SPAWNER
+  - CHEST
+  - DIAMOND_ORE
+  - WORKBENCH
+  - FURNACE
+  - BURNING_FURNACE
+  - ENCHANTMENT_TABLE
+  - EMERALD_ORE
+  - ENDER_CHEST
+  - ANVIL
+  - TRAPPED_CHEST
+  Worlds: []
+  RandomBlocks:
+  - STONE
+  - COBBLESTONE
+  - WOOD
+  - GOLD_ORE
+  - IRON_ORE
+  - COAL_ORE
+  - LAPIS_ORE
+  - TNT
+  - MOSSY_COBBLESTONE
+  - OBSIDIAN
+  - DIAMOND_ORE
+  - REDSTONE_ORE
+  - CLAY
+  - EMERALD_ORE
+  NetherRandomBlocks:
+  - GRAVEL
+  - NETHERRACK
+  - SOUL_SAND
+  - NETHER_BRICK
+  - QUARTZ_ORE
+Strings:
+  CacheLocation: orebfuscator_cache

@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: shawdow
+timestamps:
+  login: 1477631681513
+  logout: 1477631685374
+ipAddress: 14.169.89.15
+lastlocation:
+  world: world
+  x: -154.5
+  y: 87.0
+  z: -77.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -55.91825
+  pitch: 6.488757

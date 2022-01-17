@@ -1,0 +1,26 @@
+lastAccountName: Chi_Girl
+timestamps:
+  login: 1478333913553
+  logout: 1478334779419
+  lastteleport: 1478334595515
+  kits:
+    diemdanh: 1478333975463
+    tanthu: 1478333978357
+    food: 1478334072585
+ipAddress: 115.78.122.63
+socialspy: false
+lastlocation:
+  world: world
+  x: -35.67472033049755
+  y: 61.0
+  z: -51.76553739322057
+  yaw: -179.39957
+  pitch: 21.600039
+logoutlocation:
+  world: world
+  x: -164.69999998807907
+  y: 86.0
+  z: -89.30233256667444
+  yaw: -65.7
+  pitch: 57.60002
+money: '0.0'

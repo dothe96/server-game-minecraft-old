@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: dangmc
+timestamps:
+  login: 1478597063298
+  kits:
+    tanthu: 1478597094978
+  lastteleport: 1478597147331
+  logout: 1478597217519
+ipAddress: 115.78.206.227
+lastlocation:
+  world: world
+  x: -163.197936184139
+  y: 86.0
+  z: -53.3839470089267
+  yaw: 272.10022
+  pitch: 29.39998
+logoutlocation:
+  world: world
+  x: 2801.924058066542
+  y: 67.0
+  z: 1699.5243795313572
+  yaw: 187.51633
+  pitch: 1.6499894

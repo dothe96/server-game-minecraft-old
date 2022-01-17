@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: Phongvute11456
+timestamps:
+  login: 1477727331198
+  lastteleport: 1477727725387
+  kits:
+    diemdanh: 1477727569847
+    tanthu: 1477727558144
+    food: 1477727595348
+  logout: 1477727810832
+ipAddress: 171.232.255.82
+lastlocation:
+  world: world
+  x: 1.0000092748633796E7
+  y: 174.0
+  z: 9999777.859519864
+  yaw: 335.17694
+  pitch: 14.39957
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -160.3364051637492
+  y: 88.0
+  z: -78.85526490627029
+  yaw: 9.825848
+  pitch: 25.172092

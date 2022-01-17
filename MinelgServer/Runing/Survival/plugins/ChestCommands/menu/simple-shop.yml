@@ -1,0 +1,542 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+
+menu-settings:
+  name: '&5&lShop Buôn Bán'
+  rows: 6
+  command: 'shop'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+#bán------------------------****
+buy-chest:
+  PRICE: 100
+  COMMAND: 'give: tnt'
+  NAME: '&a&lMua'
+  LORE:
+    - '&61 block TNT'
+    - 'Giá : $100'
+  ID: tnt
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 5
+
+
+buy-130:
+  PRICE: 10000
+  COMMAND: 'give: 130'
+  NAME: '&a&lMua'
+  LORE:
+    - '&61 cái rương ender'
+    - 'Giá : $10000'
+  ID: 130
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 5
+
+
+buy-beacon:
+  PRICE: 10000
+  COMMAND: 'give: beacon'
+  NAME: '&a&lMua'
+  LORE:
+    - '&61 cái đèn hiệu'
+    - 'Giá : $10000'
+  ID: beacon
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 5
+
+buy-372:
+  PRICE: 100
+  COMMAND: 'give: 47'
+  NAME: '&a&lMua'
+  LORE:
+    - '&61 Block Sách'
+    - 'Giá : $100'
+  ID: 47
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 5
+
+
+buy-320:
+  PRICE: 1000
+  COMMAND: 'give: 116'
+  NAME: '&a&lMua'
+  LORE:
+    - '&61 Bàn Enchant'
+    - 'Giá : $1000'
+  ID: 116
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 5
+
+
+buy-88:
+  PRICE: 80
+  COMMAND: 'give: 364,10'
+  NAME: '&a&lMua'
+  LORE:
+    - '&610 Thịt Bò'
+    - 'Giá : $80'
+  ID: 364
+  AMOUNT: 10
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 5
+
+
+buy-89:
+  PRICE: 200
+  COMMAND: 'give: 89, 10'
+  NAME: '&a&lMua'
+  LORE:
+    - '&610 khối đá phát sáng'
+    - 'Giá : $200'
+  ID: 89
+  AMOUNT: 10
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 5
+
+
+buy-155:
+  PRICE: 100
+  COMMAND: 'give:155, 10'
+  NAME: '&a&lMua'
+  LORE:
+    - '&610 khối thạch anh'
+    - 'Giá : $100'
+  ID: 155
+  AMOUNT: 10
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 5
+
+
+buy-49:
+  PRICE: 150
+  COMMAND: 'give: 49'
+  NAME: '&a&lMua'
+  LORE:
+    - '&61 khối hắc diện thạch'
+    - 'Giá : $150'
+  ID: 49
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 5
+
+buy-den:
+  PRICE: 150
+  COMMAND: 'give: 169,10'
+  NAME: '&a&lMua'
+  LORE:
+    - '&610 đèn biển'
+    - 'Giá : $150'
+  ID: 169
+  AMOUNT: 10
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 6
+
+buy-len:
+  PRICE: 150
+  COMMAND: 'give: 35,10'
+  NAME: '&a&lMua'
+  LORE:
+    - '&610 len trắng'
+    - 'Giá : $150'
+  ID: 35
+  AMOUNT: 10
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 6
+ 
+buy-kinh:
+  PRICE: 100
+  COMMAND: 'give: 20,10'
+  NAME: '&a&lMua'
+  LORE:
+    - '&610 kính'
+    - 'Giá : $100'
+  ID: 20
+  AMOUNT: 10
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 6 
+  
+buy-nhon:
+  PRICE: 1000
+  COMMAND: 'give: 165'
+  NAME: '&a&lMua'
+  LORE:
+    - '&61 len khối nhờn'
+    - 'Giá : $1000'
+  ID: 165
+  AMOUNT: 1
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 6
+  
+ #bán------------------------------------- 
+sell-wheat:
+  REQUIRED-ITEM: 'wheat, 32'
+  COMMAND: 'givemoney: 32'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 lúa'
+    - 'Giá : $32'
+  ID: wheat
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 1
+
+
+sell-338:
+  REQUIRED-ITEM: '338, 32'
+  COMMAND: 'givemoney: 32'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 mía'
+    - 'Gia : $32'
+  ID: 338
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+
+
+sell-carrot:
+  REQUIRED-ITEM: 'carrot, 32'
+  COMMAND: 'givemoney: 32'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Cà Rốt'
+    - 'Giá : $32'
+  ID: 391
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 1
+
+
+sell-potato:
+  REQUIRED-ITEM: 'potato, 32'
+  COMMAND: 'givemoney: 32'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Khoai Tây'
+    - 'Giá : $32'
+  ID: 392
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 1
+
+
+sell-372:
+  REQUIRED-ITEM: '372, 32'
+  COMMAND: 'givemoney: 100'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Bướu'
+    - 'Giá : $100'
+  ID: 372
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 1
+
+
+Sell-86:
+  REQUIRED-ITEM: '86, 32'
+  COMMAND: 'givemoney: 100'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 bí ngô'
+    - 'Giá : $100'
+  ID: 86
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 1
+
+
+Sell-103:
+  REQUIRED-ITEM: '103, 32'
+  COMMAND: 'givemoney: 150'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 khối dưa'
+    - 'Giá : $150'
+  ID: 103
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 1
+
+
+sell-cacao:
+  REQUIRED-ITEM: '351:3, 64'
+  COMMAND: 'givemoney: 128'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 64 Ca Cao'
+    - 'Giá : $128'
+  ID: dye:3
+  AMOUNT: 64
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 1
+
+
+sell-384:
+  REQUIRED-ITEM: '384, 32'
+  COMMAND: 'givemoney: 500'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Chai Kinh Nghiệm'
+    - 'Giá : $500'
+  ID: 384
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 1
+
+
+sell-4:
+  REQUIRED-ITEM: '4, 32'
+  COMMAND: 'givemoney: 20'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Đá Cuội'
+    - 'Giá : $20'
+  ID: 4
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 2
+
+
+sell-17:
+  REQUIRED-ITEM: '17, 32'
+  COMMAND: 'givemoney: 80'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Gỗ Sồi'
+    - 'Gia : $80'
+  ID: 17
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+
+sell-263:
+  REQUIRED-ITEM: '263, 32'
+  COMMAND: 'givemoney: 200'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Than'
+    - 'Giá : $200'
+  ID: 263
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2
+
+
+sell-265:
+  REQUIRED-ITEM: '265, 32'
+  COMMAND: 'givemoney: 300'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Phôi Sắt'
+    - 'Giá : $300'
+  ID: 265
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 2
+  
+  
+sell-266:
+  REQUIRED-ITEM: '266, 32'
+  COMMAND: 'givemoney: 300'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Phôi Vàng'
+    - 'Giá : $300'
+  ID: 266
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+  
+  
+sell-81:
+  REQUIRED-ITEM: '81, 32'
+  COMMAND: 'givemoney: 32'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 32 Xương Rồng'
+    - 'Giá : $32'
+  ID: 81
+  AMOUNT: 32
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 2
+  
+  
+sell-344:
+  REQUIRED-ITEM: '344, 16'
+  COMMAND: 'givemoney: 60'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 16 Trứng Gà'
+    - 'Giá : $60'
+  ID: 344
+  AMOUNT: 16
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2
+  
+  
+sell-264:
+  REQUIRED-ITEM: '264, 1'
+  COMMAND: 'givemoney: 300'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 1 Viên Kim Cương'
+    - 'Giá : $300'
+  ID: 264
+  AMOUNT: 1
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 2
+  
+sell-tv:
+  REQUIRED-ITEM: '322, 1'
+  COMMAND: 'givemoney: 500'
+  NAME: '&d&lBán'
+  LORE:
+    - '&6Bán 1 táo vàng'
+    - 'Giá : $500'
+  ID: 322
+  AMOUNT: 1
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 2
+  
+
+#----------------------down------------up--------------DoThe--------Minlg.com------------#  
+separator1:
+  NAME: '&a[arrow_up] Bán ở trên [arrow_up]'
+  LORE:
+    - ''
+    - '&d[arrow_down] Mua ở dưới [arrow_down]'
+  ID: thin_glass
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 4
+separator2:
+  NAME: '&a[arrow_up] Bán ở trên [arrow_up]'
+  LORE:
+    - ''
+    - '&d[arrow_down] Mua ở dưới [arrow_down]'
+  ID: thin_glass
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 4
+separator3:
+  NAME: '&a[arrow_up] Bán ở trên [arrow_up]'
+  LORE:
+    - ''
+    - '&d[arrow_down] Mua ở dưới [arrow_down]'
+  ID: thin_glass
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 4
+separator4:
+  NAME: '&a[arrow_up] Bán ở trên [arrow_up]'
+  LORE:
+    - ''
+    - '&d[arrow_down] Mua ở dưới [arrow_down]'
+  ID: thin_glass
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 4
+separator5:
+  NAME: '&a[arrow_up] Bán ở trên [arrow_up]'
+  LORE:
+    - ''
+    - '&d[arrow_down] Mua ở dưới [arrow_down]'
+  ID: thin_glass
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 4
+separator6:
+  NAME: '&a[arrow_up] Bán ở trên [arrow_up]'
+  LORE:
+    - ''
+    - '&d[arrow_down] Mua ở dưới [arrow_down]'
+  ID: thin_glass
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 4
+separator7:
+  NAME: '&a[arrow_up] Bán ở trên [arrow_up]'
+  LORE:
+    - ''
+    - '&d[arrow_down] Mua ở dưới [arrow_down]'
+  ID: thin_glass
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 4
+separator8:
+  NAME: '&a[arrow_up] Bán ở trên [arrow_up]'
+  LORE:
+    - ''
+    - '&d[arrow_down] Mua ở dưới [arrow_down]'
+  ID: thin_glass
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 4
+separator9:
+  NAME: '&a[arrow_up] Bán ở trên [arrow_up]'
+  LORE:
+    - ''
+    - '&d[arrow_down] Mua ở dưới [arrow_down]'
+  ID: thin_glass
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 4
+
+#----------tác vụ--------------
+money-emerald:
+  COMMAND: 'money'
+  NAME: '&3&lMoney'
+  LORE:
+    - '&6Bấm vào để xem tiền'
+  ID: emerald
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 6
+
+
+return-to-main:
+  COMMAND: 'open:example.yml'
+  NAME: '&6[arrow_left] Bam vào để trở lại menu'
+  ID: 166
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 6

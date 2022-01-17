@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: OttrauAr
+timestamps:
+  login: 1477269215099
+  logout: 1477272220302
+  kits:
+    diemdanh: 1477270500698
+    tanthu: 1477183524989
+    tools: 1477183536549
+    food: 1477270496701
+  lastteleport: 1477272120130
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -114.53000519593508
+  y: 69.0
+  z: -18.011968427012867
+  yaw: 180.44849
+  pitch: 53.550102
+logoutlocation:
+  world: world
+  x: 3640.9986629421433
+  y: 86.0
+  z: 1724.2203498520985
+  yaw: 223.65067
+  pitch: 45.750008
+money: '1978.0'
+homes:
+  home:
+    world: world
+    x: 3641.14844671191
+    y: 86.0
+    z: 1724.1850819350457
+    yaw: 5.25064
+    pitch: 29.099987

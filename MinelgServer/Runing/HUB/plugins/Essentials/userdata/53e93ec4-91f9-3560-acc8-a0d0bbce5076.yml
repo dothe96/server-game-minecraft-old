@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: anhmon
+timestamps:
+  login: 1477192888746
+  kits:
+    diemdanh: 1477143015937
+    tanthu: 1477037672008
+    tools: 1476946677951
+    food: 1477107822686
+  lastteleport: 1477194169660
+  logout: 1477194459345
+ipAddress: 14.168.10.112
+lastlocation:
+  world: world
+  x: -121.26032148237324
+  y: 68.0625
+  z: -8.504369338913754
+  yaw: -151.49973
+  pitch: 11.54998
+money: '902.0'
+logoutlocation:
+  world: world
+  x: 2595.082399059772
+  y: 69.0
+  z: 2947.6285280911197
+  yaw: -244.77051
+  pitch: 9.3000965

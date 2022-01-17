@@ -1,0 +1,36 @@
+lastAccountName: WTF_CuteBoy
+timestamps:
+  login: 1479264162569
+  kits:
+    diemdanh: 1479030544533
+    tanthu: 1478316902485
+    tools: 1478316983588
+    food: 1479266258003
+  lastteleport: 1479269099921
+  logout: 1479270586623
+ipAddress: 117.3.46.58
+socialspy: false
+lastlocation:
+  world: world
+  x: 3310.9817197011866
+  y: 71.0
+  z: 607.8368119846946
+  yaw: -31.635921
+  pitch: 50.250042
+logoutlocation:
+  world: world
+  x: -135.75099895882744
+  y: 86.0
+  z: -55.91445903567863
+  yaw: 177.7497
+  pitch: 39.44994
+homes:
+  home:
+    world: world
+    x: 3824.2855875447403
+    y: 160.0
+    z: 1709.5331725911628
+    yaw: -179.84497
+    pitch: 5.9999948
+afk: false
+money: '5721.0'

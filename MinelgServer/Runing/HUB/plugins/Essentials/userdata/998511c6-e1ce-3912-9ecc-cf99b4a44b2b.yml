@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: 2078.088889574292
+  y: 63.875
+  z: 1338.505609479241
+  yaw: 36.297607
+  pitch: 33.150036
+socialspy: false
+lastAccountName: tybopppggss
+timestamps:
+  login: 1479204191278
+  logout: 1479205634340
+  lastteleport: 1479204404371
+  kits:
+    diemdanh: 1479090945093
+    tanthu: 1478775266282
+    food: 1478423689717
+ipAddress: 113.188.78.5
+logoutlocation:
+  world: world
+  x: 2070.760970809073
+  y: 63.0
+  z: 1338.4150902585743
+  yaw: 231.89896
+  pitch: 5.699978
+money: '20510.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -4303.370851063892
+    y: 82.0
+    z: 184.64561159717576
+    yaw: 290.70154
+    pitch: -1.7999362

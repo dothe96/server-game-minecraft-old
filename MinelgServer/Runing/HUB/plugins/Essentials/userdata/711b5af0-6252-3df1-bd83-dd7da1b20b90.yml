@@ -1,0 +1,32 @@
+socialspy: false
+lastAccountName: hieu1
+timestamps:
+  login: 1477917258182
+  lastteleport: 1477917276337
+  kits:
+    tanthu: 1477299143032
+    food: 1477375095600
+  logout: 1477917296400
+ipAddress: 115.78.127.186
+lastlocation:
+  world: world
+  x: 3244.6796889526227
+  y: 64.0
+  z: 1645.699999988079
+  yaw: -104.8334
+  pitch: 16.500032
+logoutlocation:
+  world: world
+  x: 3239.637769770153
+  y: 56.0
+  z: 1644.242136919783
+  yaw: 341.55692
+  pitch: 88.49999
+homes:
+  home:
+    world: world
+    x: 3241.59574426211
+    y: 56.0
+    z: 1644.667123878764
+    yaw: 353.40698
+    pitch: -63.299995

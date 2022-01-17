@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Mine
+timestamps:
+  login: 1477103019775
+  logout: 1477103110145
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -159.5
+  y: 86.0
+  z: -67.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -237.45
+  pitch: 37.79998

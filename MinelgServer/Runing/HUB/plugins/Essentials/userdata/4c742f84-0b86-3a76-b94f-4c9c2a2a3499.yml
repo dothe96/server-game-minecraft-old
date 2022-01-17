@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: haido
+timestamps:
+  login: 1478741290348
+  logout: 1478741423723
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: -152.5
+  y: 86.0
+  z: -74.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.57053941658683
+  y: 88.0
+  z: -77.00417338807833
+  yaw: -162.00012
+  pitch: 29.699978

@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: ___anh11___
+timestamps:
+  login: 1478249752135
+  lastteleport: 1478083089731
+  kits:
+    diemdanh: 1477912299077
+    food: 1477915564208
+  logout: 1478249792382
+ipAddress: 123.22.222.1
+lastlocation:
+  world: world
+  x: -158.65709823302896
+  y: 86.0
+  z: -70.0080506070035
+  yaw: -4.8000135
+  pitch: 22.199986
+money: '1507.0'
+homes:
+  home:
+    world: world
+    x: 2207.300000011921
+    y: 64.90199999809265
+    z: 1488.699999988079
+    yaw: 69.93281
+    pitch: 41.54997
+logoutlocation:
+  world: world
+  x: -159.896130051276
+  y: 86.0
+  z: -68.79355691393889
+  yaw: -176.39998
+  pitch: 15.599978

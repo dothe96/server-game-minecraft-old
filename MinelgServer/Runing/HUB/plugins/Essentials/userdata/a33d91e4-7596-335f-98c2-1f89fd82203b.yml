@@ -1,0 +1,34 @@
+lastAccountName: Mon08
+timestamps:
+  login: 1476605166848
+  kits:
+    diemdanh: 1476606065819
+    tanthu: 1476511997553
+    tools: 1476512008701
+    food: 1476592750923
+  lastteleport: 1476605930521
+  logout: 1476597490975
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: 3384.2184587806687
+  y: 70.0
+  z: 1660.3444067290698
+  yaw: 42.41443
+  pitch: 7.200022
+money: '1440.0'
+logoutlocation:
+  world: world
+  x: 1819.866218887223
+  y: 107.0
+  z: 1780.4842733779928
+  yaw: -106.49418
+  pitch: 16.38342
+homes:
+  home:
+    world: world
+    x: 1829.2614993750756
+    y: 107.0
+    z: 1779.2698620569302
+    yaw: -297.93274
+    pitch: 22.803951

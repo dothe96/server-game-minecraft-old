@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: Popty
+timestamps:
+  login: 1476881438339
+  kits:
+    diemdanh: 1476854883088
+    tanthu: 1476854871128
+    food: 1476858564858
+  logout: 1476881794069
+ipAddress: 14.168.10.112
+lastlocation:
+  world: world
+  x: -158.5
+  y: 88.0
+  z: -77.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.6220894962425
+  y: 86.0
+  z: -68.10651812971871
+  yaw: -60.749992
+  pitch: 18.89999
+afk: false

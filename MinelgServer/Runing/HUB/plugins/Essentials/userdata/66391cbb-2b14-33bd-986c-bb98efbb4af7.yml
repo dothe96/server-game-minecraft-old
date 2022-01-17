@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: Kaito_Kid
+timestamps:
+  login: 1477121365227
+  lastteleport: 1477121531965
+  kits:
+    diemdanh: 1477019425151
+    tanthu: 1477121849384
+    tools: 1476925636862
+    food: 1477121525784
+  logout: 1477121956056
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -123.59037536257934
+  y: 68.0
+  z: -106.88962144256591
+  yaw: -10.950684
+  pitch: 79.65004
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 2744.580649644223
+  y: 63.0
+  z: 982.2534065836028
+  yaw: 352.9519
+  pitch: 40.94997
+homes:
+  home:
+    world: world
+    x: 3461.6944419748415
+    y: 69.0
+    z: 2310.701329966425
+    yaw: -2.8319678
+    pitch: 63.600025

@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: kikia
+timestamps:
+  login: 1478563998287
+  logout: 1478564017035
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: -153.5
+  y: 86.0
+  z: -76.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -5.1000147
+  pitch: -0.30001166

@@ -1,0 +1,91 @@
+﻿Death_Messages:
+  Mobs:
+    Blaze:
+    - '&2&l%player &7đã bị &c&lQuỷ Lửa &7chịch chết =))'
+    - '&2&l%player &7đã bị &c&lQuỷ Lửa &7chịch chết =))'
+    Cave_Spider:
+    - '&2&l%player &7đã bị &c&lNhện &7chịch chết =))'
+    - '&2&l%player &7đã bị &c&lNhện &7cắn chết!'
+    Creeper:
+    - '&2&l%player &7đã bị &c&lCreeper &7thổi cmn bay :V'
+    - '&2&l%player &7đã bị &c&lCreeper &7thổi cmn bay :V'
+    Ender_Dragon:
+    - '&2&l%player &7đã bị &c&lRồng Ender &7quất chết :)'
+    - '&2&l%player &7đã bị &c&lRồng Ender &7quất chết :)'
+    Enderman:
+    - '&2&l%player &7đã bị &c&lNgười Ender &7vả chết :D'
+    - '&2&l%player &7đã bị &c&lNgười Ender &7vả chết :D'
+    Endermite:
+    - '&2&l%player &7đã bị &c&lGiận Ender &7cắn chết!'
+    - '&2&l%player &7đã bị &c&lGiận Ender &7cắn chết!'
+    Ghast:
+    - '&2%player &Ewas fireballed by &CGhast'
+    - '&2%player &Eate a &CGhast &2 fireball!'
+    Giant:
+    - '&2&l%player &7đã bị &c&lMa Bự &7tọi chết!'
+    - '&2&l%player &7đã bị &c&lMa Bự &7tọi chết!'
+    Guardian:
+    - '&2&l%player &7đã bị &c&lCá Nóc &7cắn chết!'
+    Iron_Golem:
+    - '&2&l%player &7đã bị &c&lNgười Sắt &7xúc chết!'
+    - '&2&l%player &7đã bị &c&lNgười Sắt &7xúc chết!'
+    Magma_Cube:
+    - '&2&l%player &7đã bị &c&lNhây Lửa &7xúc chết!'
+    - '&2&l%player &7đã bị &c&lNhây Lửa &7xúc chết!'
+    Silverfish:
+    - '&2&l%player &7đã bị &c&lCá Bạc &7cắn chết!'
+    - '&2&l%player &7đã bị &c&lCá Bạc &7cắn chết!'
+    Skeleton:
+      Bow:
+      - '&2&l%player &7đã bị &c&lSkeleton Dân Chơi &7tỉa chết =))'
+      - '&2&l%player &7đã bị &c&lSkeleton &7Hét Sót chết :v'
+      Melee:
+      - '&2&l%player &7đã bị &c&lSkeleton &7thông chết!'
+      - '&2&l%player &7đã bị &c&lSkeleton &7đấm chết, Đùa :D'
+    Slime:
+    - '&2&l%player &7đã bị &c&lCon Nhây &7xả dầu ăn chết =]]'
+    - '&2&l%player &7đã bị &c&lCon Nhây &7cắn chết!'
+    # Snow Golems can't really kill players because snowballs deals 0 damage, anyway that can be modified with plugins so i added this one.
+    Snow_Golem:
+    - '&2&l%player &7đã bị &Người Tuyết &7quất chết!'
+    Spider:
+    - '&2&l%player &7đã bị &c&lNhện &7cắn chết!, kém =))'
+    - '&2&l%player &7đã bị &c&lNhện &7cắn chết!, kém :V'
+    # Available for Guardians and other mobs with Thorns Enchantment on their armor.
+    Thorns:
+    - '&2&l%player &7đã chết do chày cối quất &C%mob_type'
+    Witch:
+    - '&2&l%player &7đã bị &c&lPhù Thủy &7ném độc chết!'
+    - '&2&l%player &7đã bị &c&lPhù Thủy &7ném độc chết!'
+    Wolf:
+    - '&2&l%player &7đã bị &c&lChó &7cắn vào mông chết!'
+    - '&2&l%player &7đã bị &c&lChó &7cắn vào mông chết!'
+    Zombie:
+    - '&2&l%player &7đã bị &c&lZombie &7làm tình chết =]]'
+    - '&2&l%player &7đã bị &c&lZombie &7làm tình chết =]]'
+    Wither:
+      Skull:
+      - '&2&l%player &7bị thổi cmn bay!'
+      - '&2&l%player &Eđùa?, chết do ngu người!'
+      Effect:
+      - '&2&l%player &7bị héo đi =))'
+      - '&2&L%player &7chết khô do bị héo, wtf :v'
+    Wither_Skeleton:
+    - '&2&l%player &7đã bị &c&lWither-Skeleton &7làm tình chết!'
+    - '&2&l%player &7đã bị &c&lWither-Skeleton &7làm tình chết!'
+    Zombie_Pigman:
+    - '&2&l%player &7đã bị &c&lAnh Heo &7làm tình chết!'
+    - '&2&l%player &7đã bị &c&lAnh Heo &7làm tình chết!'
+
+  Players_(PvP):
+    Weapon:
+    - '&2&l%player &7Bị hấp diêm bởi dân chơi &C&l%killer'
+    - '&2&l%player &7Bị thông bởi dân chơi &C&l%killer &7dùng con hàng &4[ %weapon_name &4]'
+    - '&2&l%player &7Bị làm tình bởi dân chơi &C&l%killer &7dùng &4[ %weapon_material &4]'
+    Fist:
+    - '&2&l%player &7Bị thông bởi dân chơi &C&l%killer'
+    - '&2&l%player &7Bị đấm vỡ mồm bởi &C&l%killer'
+    Bow:
+    - '&2&l%player &7bị bắn hét cmn sót bởi &C&l%killer'
+    Thorns_Enchantment:
+    - '&2&l%player &7đã chết do chày cối thông &C&l%killer &7nhưng không được =]]'

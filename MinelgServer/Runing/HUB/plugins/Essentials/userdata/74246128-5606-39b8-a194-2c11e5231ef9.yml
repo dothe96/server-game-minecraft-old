@@ -1,0 +1,20 @@
+lastAccountName: Tony
+timestamps:
+  login: 1477966058301
+  logout: 1477966068213
+ipAddress: 113.170.27.59
+socialspy: false
+lastlocation:
+  world: world
+  x: -156.5
+  y: 88.0
+  z: -75.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 0.44998658
+  pitch: -9.750014

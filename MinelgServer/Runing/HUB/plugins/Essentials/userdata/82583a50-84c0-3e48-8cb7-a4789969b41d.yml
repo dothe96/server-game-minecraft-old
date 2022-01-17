@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: quang
+timestamps:
+  login: 1477806834323
+  kits:
+    diemdanh: 1477806881723
+  logout: 1477807004828
+ipAddress: 113.170.84.238
+lastlocation:
+  world: world_the_end
+  x: 4579.300000011921
+  y: 61.088477469609366
+  z: -875.3000000119209
+  yaw: 317.99576
+  pitch: 88.2
+logoutlocation:
+  world: world
+  x: -159.76148500371096
+  y: 87.0
+  z: -73.32113075675203
+  yaw: 7.199987
+  pitch: -0.600014

@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: anhvi
+timestamps:
+  login: 1479270543450
+  lastteleport: 1479270863141
+  kits:
+    diemdanh: 1479184542963
+    tanthu: 1478938129194
+    tools: 1477809715844
+    food: 1479184824358
+  logout: 1479270541194
+ipAddress: 117.2.130.122
+lastlocation:
+  world: world
+  x: -159.6601092176501
+  y: 87.5
+  z: -79.61356795702156
+  yaw: -9.900021
+  pitch: 8.999992
+homes:
+  home:
+    world: world
+    x: -4245.5
+    y: 64.0
+    z: 348.5
+    yaw: 94.501274
+    pitch: 20.399954
+logoutlocation:
+  world: world_the_end
+  x: -18.258880583655454
+  y: 60.0
+  z: -23.28946980484954
+  yaw: -247.19836
+  pitch: -4.0500164
+money: '14386.0'
+afk: false

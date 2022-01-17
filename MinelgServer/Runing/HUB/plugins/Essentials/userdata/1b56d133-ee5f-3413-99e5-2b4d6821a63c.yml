@@ -1,0 +1,23 @@
+lastAccountName: efafa
+timestamps:
+  login: 1478412903545
+  kits:
+    diemdanh: 1478412960498
+  lastteleport: 1478412994764
+  logout: 1478413009093
+ipAddress: 171.250.102.100
+socialspy: false
+lastlocation:
+  world: world
+  x: -168.3332272104078
+  y: 86.0
+  z: -46.90933757539655
+  yaw: -91.65
+  pitch: 15.299986
+logoutlocation:
+  world: world
+  x: -105.48652350805924
+  y: 68.0625
+  z: -30.709306990306192
+  yaw: -354.90195
+  pitch: 38.550003

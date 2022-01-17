@@ -1,0 +1,38 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: -4231.158298040245
+  y: 64.0
+  z: 375.68233792408853
+  yaw: 58.200848
+  pitch: 29.849987
+lastAccountName: CuTiPhun
+timestamps:
+  login: 1479262292141
+  lastteleport: 1479264353431
+  kits:
+    diemdanh: 1479087181980
+    tanthu: 1478174302086
+    tools: 1478995569373
+    food: 1479169028796
+  logout: 1479264384180
+  mute: 0
+ipAddress: 117.2.130.122
+money: '5864.0'
+homes:
+  home:
+    world: world
+    x: 100613.30000001192
+    y: 87.0
+    z: 1.0000097762499988E7
+    yaw: 0.6009642
+    pitch: 24.449894
+logoutlocation:
+  world: world
+  x: 4343.4286668595105
+  y: 64.9375
+  z: 740.438781175853
+  yaw: 33.62984
+  pitch: 15.150064
+muted: false
+afk: false

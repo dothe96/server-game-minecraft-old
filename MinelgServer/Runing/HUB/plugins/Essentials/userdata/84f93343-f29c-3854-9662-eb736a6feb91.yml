@@ -1,0 +1,25 @@
+lastAccountName: tro_123
+timestamps:
+  login: 1476534303498
+  lastteleport: 1476534664220
+  kits:
+    diemdanh: 1476534384960
+    tanthu: 1476534360150
+    tools: 1476534372120
+    food: 1476534380588
+  logout: 1476534838613
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -221.8246007853225
+  y: 88.4262822811952
+  z: -54.430203126715384
+  yaw: 71.831985
+  pitch: 14.549962
+logoutlocation:
+  world: world
+  x: 3380.5782665534052
+  y: 81.69402126617292
+  z: 1627.1722858856344
+  yaw: 199.21718
+  pitch: 52.950096

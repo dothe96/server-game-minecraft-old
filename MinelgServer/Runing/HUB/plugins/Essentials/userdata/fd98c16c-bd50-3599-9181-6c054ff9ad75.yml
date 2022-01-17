@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: TronGames
+timestamps:
+  login: 1477384122343
+  lastteleport: 1477384173796
+  logout: 1477385256422
+ipAddress: 113.163.80.8
+lastlocation:
+  world: world
+  x: -162.01667018429478
+  y: 86.0625
+  z: -70.214591557808
+  yaw: -54.899963
+  pitch: 17.999985
+logoutlocation:
+  world: world
+  x: 3701.762499988079
+  y: 70.0
+  z: 1856.9863867465
+  yaw: 0.54693604
+  pitch: -32.250164

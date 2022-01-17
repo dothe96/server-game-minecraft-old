@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Builder
+timestamps:
+  login: 1476861517204
+  lastteleport: 1476858494094
+  kits:
+    food: 1476858966564
+  logout: 1476861553216
+ipAddress: 115.78.127.186
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 16.799986
+  pitch: 1.4999857
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -159.58512649783714
+  y: 88.0
+  z: -79.2267096873671
+  yaw: -6.600014
+  pitch: 28.199984

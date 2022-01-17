@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: chau01
+timestamps:
+  login: 1477630297238
+  kits:
+    tanthu: 1477630345481
+    food: 1477631160886
+  lastteleport: 1477631241108
+  logout: 1477631372493
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.9999866
+  pitch: -10.350014
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -0.21116647778770806
+  y: 83.0
+  z: 113.30000001192093
+  yaw: 260.55222
+  pitch: 23.549973

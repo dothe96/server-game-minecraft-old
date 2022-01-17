@@ -1,0 +1,32 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: 2630.5
+  y: 69.0
+  z: 2924.5
+  yaw: 299.1299
+  pitch: 7.8001413
+lastAccountName: pvp_Yasuo
+timestamps:
+  login: 1477107610054
+  lastteleport: 1477108232729
+  kits:
+    diemdanh: 1477107765901
+    food: 1477107770801
+  logout: 1477108568514
+ipAddress: 14.168.10.112
+homes:
+  home:
+    world: world
+    x: 2630.907815284652
+    y: 69.0
+    z: 2924.3740478367968
+    yaw: 299.1299
+    pitch: 7.8001413
+logoutlocation:
+  world: world
+  x: 2618.9442625761794
+  y: 69.0
+  z: 2913.745728296022
+  yaw: -207.87018
+  pitch: 6.000127

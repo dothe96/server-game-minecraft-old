@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: Daragonsow
+timestamps:
+  login: 1477825839670
+  lastteleport: 1477827576792
+  kits:
+    tanthu: 1477826039051
+    tools: 1477827276244
+    food: 1477826054254
+  logout: 1477827887724
+ipAddress: 42.115.140.88
+lastlocation:
+  world: world
+  x: 3507.2131798051164
+  y: 61.0
+  z: 1299.8839807834074
+  yaw: 236.11467
+  pitch: -8.85001
+logoutlocation:
+  world: world
+  x: -132.02812925241028
+  y: 86.0
+  z: -54.85911654538202
+  yaw: 36.60138
+  pitch: 10.949952

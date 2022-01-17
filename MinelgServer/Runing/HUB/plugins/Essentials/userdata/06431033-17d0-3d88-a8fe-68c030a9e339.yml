@@ -1,0 +1,33 @@
+lastAccountName: boo1234
+timestamps:
+  login: 1476587839108
+  kits:
+    diemdanh: 1476587861029
+    tanthu: 1476588025110
+    food: 1476587854874
+  lastteleport: 1476590379733
+  logout: 1476590442006
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: 3462.699999988079
+  y: 4.0
+  z: 1628.666639085055
+  yaw: 152.41745
+  pitch: 12.149998
+money: '12860.0'
+homes:
+  home:
+    world: world
+    x: 3309.67838584132
+    y: 57.0
+    z: 1668.7943054069556
+    yaw: 136.96709
+    pitch: 18.299967
+logoutlocation:
+  world: world
+  x: 3310.579778025268
+  y: 57.0
+  z: 1668.979969710969
+  yaw: 103.81674
+  pitch: -9.450026

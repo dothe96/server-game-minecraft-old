@@ -1,0 +1,34 @@
+lastAccountName: Shadow_Warrior_
+timestamps:
+  login: 1477448342609
+  kits:
+    diemdanh: 1477447971699
+    tanthu: 1477447964446
+    tools: 1477447955886
+    food: 1477447961489
+  lastteleport: 1477449087991
+  logout: 1477449533667
+ipAddress: 116.98.141.6
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: 78.83027056197332
+  y: 57.0
+  z: -1.1165155306700019
+  yaw: -254.9997
+  pitch: 9.899989
+logoutlocation:
+  world: world
+  x: 3060.913177742574
+  y: 11.0
+  z: 2158.635028636602
+  yaw: 88.966576
+  pitch: 30.150135
+homes:
+  home:
+    world: world
+    x: 3047.054948211118
+    y: 64.0
+    z: 2160.4269758443766
+    yaw: 24.916616
+    pitch: 22.350069

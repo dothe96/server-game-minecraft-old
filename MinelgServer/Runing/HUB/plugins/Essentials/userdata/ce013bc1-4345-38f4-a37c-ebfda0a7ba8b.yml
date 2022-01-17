@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: thangpro
+timestamps:
+  login: 1479179231854
+  lastteleport: 1479181363512
+  logout: 1479181528746
+  kits:
+    diemdanh: 1478686474199
+    tanthu: 1478686461850
+    food: 1479167954289
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: 1237.5
+  y: 71.0
+  z: -403.5
+  yaw: 111.42381
+  pitch: 50.40001
+afk: false
+logoutlocation:
+  world: world
+  x: 1228.358008958132
+  y: 63.0
+  z: -148.23411983358463
+  yaw: 298.77393
+  pitch: 30.899971
+homes:
+  home:
+    world: world
+    x: 1428.5674507956483
+    y: 73.0
+    z: -199.30000001192093
+    yaw: -9.325672
+    pitch: 3.8999732
+money: '24967.0'

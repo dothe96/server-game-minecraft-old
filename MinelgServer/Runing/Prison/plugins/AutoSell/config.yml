@@ -1,0 +1,176 @@
+# AutoSell version: 1.7.0 Main Configuration
+
+check_updates: true
+block_listener_priority: HIGHEST
+hooks:
+  mine_reset_lite:
+    enabled: true
+  worldguard:
+    enabled: false
+  prisonmines:
+    enabled: false
+tools_never_break: false
+multiplier_limit: 100
+autosell:
+  allow_creative: false
+  require_tools: false
+  take_sold_items: false
+  disabled_worlds:
+  - someworld
+  - someotherworld
+  multipliers_enabled: true
+  interval_announcements:
+    enabled: false
+    interval: 60
+    has_multiplier_message:
+    - '&8&m-----------------------------------------------------'
+    - '&eYour AutoSell stats...'
+    - '&bItems Sold&7: &f%items%'
+    - '&bAmount&7: &a$&f%amount%'
+    - '&bMultiplier: &f%multiplier%'
+    - '&8&m-----------------------------------------------------'
+    no_multiplier_message:
+    - '&8&m-----------------------------------------------------'
+    - '&eYour AutoSell stats...'
+    - '&bItems Sold&7: &f%items%'
+    - '&bAmount&7: &a$&f%amount%'
+    - '&8&m-----------------------------------------------------'
+signsell:
+  per_shop_permissions: false
+  has_multiplier_message:
+  - '&f> &bĐã bán &f%items% &bblocks'
+  - '&f> &bNhận được &a$&f%amount%'
+  - '&f> &bHệ số nhân tiền &f%multiplier% &blần'
+  no_multiplier_message:
+  - '&f> &bĐã bán &f%items% &bblocks'
+  - '&f> &bNhận được &a$&f%amount%'
+sellall:
+  enabled: true
+  use_perm_shop_when_no_shop_is_at_location: false
+  has_multiplier_message:
+  - '&8&m-----------------------------------------------------'
+  - '&bItems Sold&7: &f%items%'
+  - '&bAmount&7: &a$&f%amount%'
+  - '&bMultiplier: &f%multiplier%'
+  - '&8&m-----------------------------------------------------'
+  no_multiplier_message:
+  - '&8&m-----------------------------------------------------'
+  - '&bItems Sold&7: &f%items%'
+  - '&bAmount&7: &a$&f%amount%'
+  - '&8&m-----------------------------------------------------'
+item_drops:
+  drops2inv:
+    enabled: false
+    require_permission_node: false
+    autosell_areas_only: false
+    disabled_worlds:
+    - someworld
+    - someotherworld
+    ignored_blocks:
+    - SKULL_ITEM
+    - SKULL
+    allowed_instead_of_ignored: false
+  silk_touch:
+    enabled: false
+  auto_smelt:
+    enabled: false
+    toggle_on_join: false
+    disabled_worlds:
+    - someworld
+    - someotherworld
+    smelt_list:
+    - GOLD_ORE,GOLD_INGOT
+    - IRON_ORE,IRON_INGOT
+    - WOOL;3,WOOL;5
+    - STONE,STONE
+  fortune:
+    enabled: false
+    minimum_drops: 1
+    maximum_drops: 1000
+    multiplier: 1.2
+    modifier: 1
+    random_drop_amount: true
+    disabled_worlds:
+    - someworld
+    - someotherworld
+    fortune_blocks:
+    - DIAMOND_ORE
+    - EMERALD_ORE
+    - GOLD_ORE
+    - IRON_ORE
+    - LAPIS_ORE
+    - REDSTONE_ORE
+    - QUARTZ_ORE
+    - COAL_ORE
+    - DIAMOND_BLOCK
+    - EMERALD_BLOCK
+    - GOLD_BLOCK
+    - IRON_BLOCK
+    - LAPIS_BLOCK
+    - REDSTONE_BLOCK
+    - QUARTZ_BLOCK
+    - COAL_BLOCK
+  ingot_to_block:
+    enabled: false
+    toggle_on_join: false
+    auto_blocks_interval: 30
+shop_items_info:
+  use_gui: true
+  message:
+  - '&8&m-----------------------------------------------------'
+  - '&aShop: &f%shop%'
+  - '%items%'
+  - '&8&m-----------------------------------------------------'
+  item_format: '&7%material%&f:&7%data% &f- &a$&f%price_1%'
+vkbackpack:
+  bptoggle_on_join: false
+money:
+  fix_money: true
+  use_custom_format: true
+  custom_format: '#,###.00'
+  thousands_format: k
+  millions_format: M
+  billions_format: B
+  trillions_format: T
+  quadrillions_format: Q
+shops:
+  sellall:
+    priority: 2
+    shop_list:
+    - EMERALD;0,60.0
+    - WOOL;1,30.0
+    - STAINED_CLAY;15,50.0
+    - LOG;0,2.0
+    - WOOL;5,30.0
+    - IRON_ORE;0,7.0
+    - STAINED_CLAY;5,50.0
+    - STAINED_CLAY;9,50.0
+    - INK_SACK;4,30.0
+    - STEP;5,30.0
+    - COOKED_MUTTON;0,30.0
+    - OBSIDIAN;0,150.0
+    - STAINED_CLAY;0,50.0
+    - BRICK;0,50.0
+    - PUMPKIN;0,80.0
+    - LOG;2,2.0
+    - LAPIS_ORE;0,50.0
+    - SMOOTH_BRICK;0,60.0
+    - GRILLED_PORK;0,30.0
+    - COAL;0,5.0
+    - IRON_INGOT;0,15.0
+    - GOLD_ORE;0,10.0
+    - COOKED_CHICKEN;0,30.0
+    - WOOL;0,30.0
+    - STAINED_CLAY;14,50.0
+    - SAND;0,20.0
+    - COOKED_BEEF;0,30.0
+    - STAINED_CLAY;4,50.0
+    - QUARTZ;0,30.0
+    - MELON;0,20.0
+    - STONE;0,1.0
+    - COBBLESTONE;0,1.0
+    - REDSTONE;0,30.0
+    - REDSTONE_ORE;0,50.0
+    - LOG;3,2.0
+    - DIAMOND;0,80.0
+    - GOLD_INGOT;0,20.0

@@ -1,0 +1,33 @@
+lastAccountName: kumfae
+timestamps:
+  login: 1476599531076
+  kits:
+    diemdanh: 1476599545748
+    tanthu: 1476599543184
+    tools: 1476599540231
+    food: 1476599541337
+  lastteleport: 1476599843372
+  logout: 1476599875240
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -133.29896859548256
+  y: 75.0
+  z: -62.51734529415496
+  yaw: 102.30013
+  pitch: -14.250026
+homes:
+  home:
+    world: world
+    x: 3308.416359177956
+    y: 68.0
+    z: 1668.1870165165033
+    yaw: 352.81616
+    pitch: 51.15
+logoutlocation:
+  world: world
+  x: -124.1483072984032
+  y: 68.0625
+  z: -23.26587532974448
+  yaw: 252.29999
+  pitch: 21.599995

@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Hlap
+timestamps:
+  login: 1479171867519
+  kits:
+    diemdanh: 1479171883692
+    food: 1479171881765
+  lastteleport: 1479171889631
+  logout: 1479171898137
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 11.249987
+  pitch: 28.349987
+logoutlocation:
+  world: world
+  x: -113.94097190604474
+  y: 68.0625
+  z: -32.51003652942577
+  yaw: -195.9018
+  pitch: 20.55001

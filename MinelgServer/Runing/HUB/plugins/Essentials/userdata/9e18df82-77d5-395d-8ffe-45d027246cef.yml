@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: mairl
+timestamps:
+  login: 1478518582710
+  logout: 1478518836180
+  lastteleport: 1478518697210
+  kits:
+    diemdanh: 1478518825606
+ipAddress: 113.180.87.49
+lastlocation:
+  world: world
+  x: 3411.9455091569657
+  y: 83.0
+  z: 1284.3528842468713
+  yaw: -57.138855
+  pitch: 16.499908
+logoutlocation:
+  world: world
+  x: 3070.6696838035564
+  y: 65.0
+  z: 505.30000001192093
+  yaw: 34.451736
+  pitch: 30.749924

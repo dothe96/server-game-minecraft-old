@@ -1,0 +1,35 @@
+lastAccountName: Mars_MLeviard
+timestamps:
+  login: 1478263329807
+  kits:
+    diemdanh: 1478251390627
+    tanthu: 1478251387512
+    tools: 1478251381190
+    food: 1478253439072
+  lastteleport: 1478262483048
+  logout: 1478267908885
+ipAddress: 27.3.16.160
+socialspy: false
+lastlocation:
+  world: world
+  x: 3458.6748911165864
+  y: 80.10506856257892
+  z: 1283.5038550538038
+  yaw: -47.348206
+  pitch: -80.69035
+money: '1480.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+homes:
+  home:
+    world: world
+    x: 773.4605818872046
+    y: 66.0
+    z: 1686.1097753947727
+    yaw: -89.5224
+    pitch: 32.26559

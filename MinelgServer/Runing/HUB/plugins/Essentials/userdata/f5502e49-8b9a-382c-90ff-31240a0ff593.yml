@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Casino
+timestamps:
+  login: 1479189707044
+  kits:
+    diemdanh: 1479189772283
+    food: 1479189770247
+  lastteleport: 1479189778136
+  logout: 1479189789809
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.0999866
+  pitch: -15.000014
+logoutlocation:
+  world: world
+  x: 4135.5
+  y: 64.0
+  z: 2426.5
+  yaw: 104.06794
+  pitch: 12.300013

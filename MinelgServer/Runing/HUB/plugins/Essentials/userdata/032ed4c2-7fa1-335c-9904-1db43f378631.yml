@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: TuaqqSuki
+timestamps:
+  login: 1477559381574
+  lastteleport: 1477559871355
+  kits:
+    diemdanh: 1477557455726
+    food: 1477558527581
+  logout: 1477559882336
+ipAddress: 183.80.196.71
+lastlocation:
+  world: world
+  x: 1.000007033599656E7
+  y: 173.0
+  z: 9999779.018386578
+  yaw: 10.057763
+  pitch: 15.149962
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -2.4000134
+  pitch: -10.200014

@@ -1,0 +1,94 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&b&lShop Mua Súng'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 2
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'gun'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 8
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+Sung1:
+  POINTS: 40
+  COMMAND: 'op: shot give {player} AK-47'
+  NAME: '&c&lMua Súng AK-47'
+  LORE:
+    - '&a&LGiá &e&l: &b&l40 Coins'
+  ID: 417 
+  POSITION-X: 2
+  POSITION-Y: 1
+
+
+Sung2:
+  POINTS: 50
+  COMMAND: 'op: shot give {player} BAZOOKA'
+  NAME: '&c&lMua Súng Bazooka'
+  LORE:
+    - '&a&LGiá &e&l: &b&l50 Coins'
+  ID: 417 
+  POSITION-X: 4
+  POSITION-Y: 1
+
+
+Sung3:
+  POINTS: 50
+  COMMAND: 'op: shot give {player} OLYMPIA'
+  NAME: '&c&lMua Súng Olympia'
+  LORE:
+    - '&a&LGiá &e&l: &b&l50 Coins'
+  ID: 417 
+  POSITION-X: 6
+  POSITION-Y: 1
+
+
+Sung4:
+  POINTS: 70
+  COMMAND: 'op: shot give {player} HUNTING'
+  NAME: '&c&lMua Súng Hunting'
+  LORE:
+    - '&a&LGiá &e&l: &b&l70 Coins'
+  ID: 417 
+  POSITION-X: 8
+  POSITION-Y: 1
+
+Sung5:
+  POINTS: 150
+  COMMAND: 'op: shot give {player} WitherBlade'
+  NAME: '&c&lMua WitherBlade'
+  LORE: 
+    - '&a&lGiá &e&l: &b&l150 Coins'
+  ID: 267
+  POSITION-X: 5
+  POSITION-Y: 2
+
+
+return-to-main:
+  COMMAND: 'open:main-menu.yml'
+  NAME: '&6[arrow_left] Back to the main menu'
+  ID: nether_star
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 2

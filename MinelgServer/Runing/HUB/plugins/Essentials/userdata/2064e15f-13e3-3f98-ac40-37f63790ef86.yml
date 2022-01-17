@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: niken
+timestamps:
+  login: 1479213885618
+  lastteleport: 1477275488059
+  kits:
+    diemdanh: 1477448401697
+    tanthu: 1477208800760
+    tools: 1477208824614
+    food: 1477213488114
+  logout: 1479213927258
+ipAddress: 113.170.113.75
+lastlocation:
+  world: world
+  x: 3556.0041843260783
+  y: 77.0
+  z: 1492.9959975414101
+  yaw: -205.3341
+  pitch: 2.4000397
+money: '11341.0'
+homes:
+  home:
+    world: world
+    x: 3524.954615097038
+    y: 11.0
+    z: 1524.7009908427576
+    yaw: -22.499298
+    pitch: 52.05
+logoutlocation:
+  world: world
+  x: -147.8997128872361
+  y: 87.0
+  z: -82.42962714646761
+  yaw: -114.00001
+  pitch: 10.799988
+afk: false

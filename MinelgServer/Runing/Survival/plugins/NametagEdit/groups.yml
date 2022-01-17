@@ -1,0 +1,36 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '[&3Admin&f] &6'
+    Suffix: ' &7&lAD'
+    SortPriority: 2
+  Vip:
+    Permission: nte.vip
+    Prefix: '[&eVip&f] '
+    Suffix: '&f'
+    SortPriority: 8
+  Member:
+    Permission: nte.member
+    Prefix: '[&aMember&f] '
+    Suffix: '&f'
+    SortPriority: 9
+  TheKing:
+    Permission: nte.theking
+    Prefix: '[&9The-King&f] '
+    Suffix: '&f'
+    SortPriority: 6
+  Legend:
+    Permission: nte.legend
+    Prefix: '[&dLegend&f] '
+    Suffix: '&f'
+    SortPriority: 5
+  Police:
+    Permission: nte.police
+    Prefix: '[&cPolice&f] '
+    Suffix: ' &3Staff'
+    SortPriority: 3
+  Helper:
+    Permission: nte.helper
+    Prefix: '[&cHelper&f] '
+    Suffix: ' &3Staff'
+    SortPriority: 4

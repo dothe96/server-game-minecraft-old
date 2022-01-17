@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: hung
+timestamps:
+  login: 1478059273184
+  logout: 1478059398886
+  kits:
+    diemdanh: 1478059335712
+    food: 1477714475914
+  lastteleport: 1477714271990
+ipAddress: 115.79.54.54
+lastlocation:
+  world: world
+  x: 2378.5
+  y: 63.0
+  z: 1367.5
+  yaw: -3.1408951
+  pitch: 31.35008
+logoutlocation:
+  world: world
+  x: 3500.4817440646907
+  y: 63.0
+  z: 763.1420113370052
+  yaw: -96.22621
+  pitch: 11.7001095
+money: '0.0'

@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: TaoLAo
+timestamps:
+  login: 1477103251031
+  lastteleport: 1477103277153
+  kits:
+    diemdanh: 1477103285846
+  logout: 1477103312775
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: 2825.699999988079
+  y: 11.0
+  z: 2024.300000011921
+  yaw: 31.209501
+  pitch: 51.75004
+logoutlocation:
+  world: world
+  x: 2825.699999988079
+  y: 11.0
+  z: 2024.300000011921
+  yaw: 31.209501
+  pitch: 51.75004

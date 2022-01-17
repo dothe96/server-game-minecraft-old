@@ -1,0 +1,17 @@
+# NoFlyZone version: 1.3 Main Configuration
+# 
+# List regions below that will disable players from flying when they enter them
+
+no_fly_worlds:
+- world_nether
+- world_the_end
+no_fly_message: '&cBạn không được bay ở khu vực này!'
+auto_fly_message: '&aBạn đã được bật bay!'
+no_fly_regions:
+  world:
+  - testflyregion
+  - spawnss
+  worl:
+  - spawnss
+  pvp:
+  - pvp

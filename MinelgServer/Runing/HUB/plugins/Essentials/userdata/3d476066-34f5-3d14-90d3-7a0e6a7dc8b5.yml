@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: magicius
+timestamps:
+  login: 1476855002082
+  kits:
+    diemdanh: 1476829842823
+    food: 1476829847525
+  logout: 1476855119469
+ipAddress: 123.18.42.192
+lastlocation:
+  world: world
+  x: -162.5
+  y: 88.0
+  z: -73.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 57.449986
+  pitch: 0.89998627

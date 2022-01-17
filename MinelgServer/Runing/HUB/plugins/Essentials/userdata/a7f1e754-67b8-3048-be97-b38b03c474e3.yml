@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: gggggggggg
+timestamps:
+  login: 1479188290350
+  lastteleport: 1479188417508
+  kits:
+    diemdanh: 1478998970748
+    tanthu: 1477998888507
+    tools: 1477998892125
+    food: 1477998964939
+  logout: 1479188449216
+ipAddress: 117.2.130.122
+lastlocation:
+  world: world
+  x: -160.03422357517542
+  y: 88.0
+  z: -78.85655404249331
+  yaw: -23.549957
+  pitch: 23.549984
+money: '80.0'
+homes:
+  home:
+    world: world
+    x: 3542.373922228938
+    y: 77.0
+    z: 1514.5196752157058
+    yaw: -275.98654
+    pitch: 44.10002
+logoutlocation:
+  world: world
+  x: 4684.066963501984
+  y: 70.0
+  z: -2384.7183904793596
+  yaw: -69.103806
+  pitch: 28.049915
+afk: false

@@ -1,0 +1,34 @@
+lastAccountName: TeeIT
+timestamps:
+  login: 1476949363675
+  kits:
+    diemdanh: 1476556064296
+    tanthu: 1476556042226
+    food: 1476556028021
+  lastteleport: 1476790954395
+  logout: 1476949432681
+ipAddress: 183.80.171.250
+lastlocation:
+  world: world
+  x: -159.17398158124016
+  y: 87.0
+  z: -74.52585819477504
+  yaw: 183.44998
+  pitch: 4.4999857
+homes:
+  home:
+    world: world
+    x: 2747.5000274547365
+    y: 63.0
+    z: 1025.5614679396117
+    yaw: -52.19343
+    pitch: 10.94995
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -0.75000703
+  pitch: 33.299988
+socialspy: false

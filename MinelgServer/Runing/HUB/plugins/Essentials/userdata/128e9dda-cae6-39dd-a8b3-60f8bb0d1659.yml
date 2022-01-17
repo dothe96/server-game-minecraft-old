@@ -1,0 +1,23 @@
+lastlocation:
+  world: world
+  x: -114.20419704845119
+  y: 83.0
+  z: -17.0650937288368
+  yaw: 38.849514
+  pitch: 44.850006
+lastAccountName: minelg
+timestamps:
+  login: 1476785482704
+  logout: 1476785683472
+  lastteleport: 1476785557847
+  kits:
+    food: 1476785542340
+ipAddress: 117.3.105.70
+logoutlocation:
+  world: world
+  x: -113.36800365285345
+  y: 68.5
+  z: -15.657188623604121
+  yaw: 38.700054
+  pitch: 38.099995
+socialspy: false

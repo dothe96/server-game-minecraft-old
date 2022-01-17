@@ -1,0 +1,23 @@
+lastAccountName: nikke
+timestamps:
+  login: 1477104799845
+  kits:
+    diemdanh: 1477104822727
+  lastteleport: 1477104845305
+  logout: 1477104856915
+ipAddress: 117.3.102.228
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 14.849987
+  pitch: 4.6499863
+logoutlocation:
+  world: world
+  x: 3254.729012754964
+  y: 80.0
+  z: 1258.3029129851188
+  yaw: 323.86197
+  pitch: 51.899895

@@ -1,0 +1,26 @@
+lastAccountName: ducanh
+timestamps:
+  login: 1477112225312
+  kits:
+    diemdanh: 1477112261243
+    tanthu: 1477112248160
+    tools: 1477112240200
+    food: 1477112243763
+  lastteleport: 1477112287864
+  logout: 1477112449266
+ipAddress: 14.177.63.245
+socialspy: false
+lastlocation:
+  world: world
+  x: -58.676394541091916
+  y: 61.437176367998276
+  z: -66.2539796283417
+  yaw: 324.44995
+  pitch: 53.849834
+logoutlocation:
+  world: world
+  x: -151.77663154109598
+  y: 85.0
+  z: -58.90089095487012
+  yaw: 223.95003
+  pitch: 23.84998

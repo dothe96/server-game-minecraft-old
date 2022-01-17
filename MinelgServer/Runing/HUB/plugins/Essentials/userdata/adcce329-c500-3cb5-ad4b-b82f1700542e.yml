@@ -1,0 +1,23 @@
+lastAccountName: anh123
+timestamps:
+  login: 1479090742888
+  lastteleport: 1478945751507
+  logout: 1479091436832
+ipAddress: 113.170.86.99
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 86.0
+  z: -70.5
+  yaw: 43.949837
+  pitch: 2.0999677
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -159.61228587195112
+  y: 88.0
+  z: -78.24502996201498
+  yaw: 17.849985
+  pitch: 6.599988
+afk: false

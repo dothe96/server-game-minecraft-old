@@ -1,0 +1,24 @@
+lastAccountName: nhocshok03
+timestamps:
+  login: 1476604794990
+  lastteleport: 1476605145988
+  kits:
+    diemdanh: 1476604912673
+    tanthu: 1476604916400
+    food: 1476604914339
+  logout: 1476605178140
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -68.0140578192546
+  y: 65.0
+  z: -38.0355430112395
+  yaw: 4.6500244
+  pitch: 9.14997
+logoutlocation:
+  world: world
+  x: 2980.6096632971075
+  y: 67.0
+  z: 1687.4211950235717
+  yaw: -50.533504
+  pitch: 22.799982

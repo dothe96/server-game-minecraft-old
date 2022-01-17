@@ -1,0 +1,27 @@
+lastAccountName: nguyendinhkhanh
+timestamps:
+  login: 1477097094477
+  lastteleport: 1477097733908
+  kits:
+    diemdanh: 1477097337473
+    tanthu: 1477097333573
+    tools: 1477097352218
+    food: 1477097346567
+  logout: 1477097822128
+ipAddress: 117.0.33.139
+lastlocation:
+  world: world
+  x: -210.24129455905904
+  y: 108.0
+  z: 0.3325465585709909
+  yaw: 8.850494
+  pitch: -4.0501394
+socialspy: false
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 3278.3809268826963
+  y: 63.0
+  z: 1722.566151435185
+  yaw: 241.81686
+  pitch: 26.100008

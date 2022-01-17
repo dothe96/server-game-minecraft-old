@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: dragon_vn
+timestamps:
+  login: 1477185481391
+  lastteleport: 1477185544441
+  kits:
+    diemdanh: 1477185565176
+  logout: 1477185572289
+ipAddress: 113.180.87.35
+lastlocation:
+  world: world
+  x: -159.4780310602654
+  y: 88.0
+  z: -79.27970345074573
+  yaw: -0.60001713
+  pitch: 10.649986
+logoutlocation:
+  world: world
+  x: -120.09982334792038
+  y: 68.0625
+  z: -7.297142974656051
+  yaw: 216.60019
+  pitch: 28.349968

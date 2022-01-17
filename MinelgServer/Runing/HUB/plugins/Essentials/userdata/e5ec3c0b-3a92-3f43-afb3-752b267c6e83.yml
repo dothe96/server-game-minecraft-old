@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: 3161.5808647216645
+  y: 51.0
+  z: 1140.3904967714832
+  yaw: 103.66101
+  pitch: 2.6999745
+socialspy: false
+lastAccountName: PPAP
+timestamps:
+  login: 1477534734400
+  lastteleport: 1477534827612
+  kits:
+    diemdanh: 1477534766183
+    tanthu: 1477276832350
+    tools: 1477534778839
+    food: 1477534775931
+  logout: 1477535240764
+ipAddress: 117.2.130.122
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -164.28585876631246
+  y: 86.0
+  z: -26.30000001192093
+  yaw: 5.099987
+  pitch: -0.30001557
+homes:
+  home:
+    world: world
+    x: 3267.101703782094
+    y: 80.0
+    z: 1257.083004404907
+    yaw: -130.63832
+    pitch: 33.30001

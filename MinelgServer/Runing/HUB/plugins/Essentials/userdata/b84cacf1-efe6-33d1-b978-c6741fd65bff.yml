@@ -1,0 +1,34 @@
+lastAccountName: AquaMy
+timestamps:
+  login: 1476966635108
+  lastteleport: 1476967815089
+  kits:
+    diemdanh: 1476966894383
+    tanthu: 1476966840609
+    tools: 1476966865947
+    food: 1476966875383
+  logout: 1476967936278
+ipAddress: 113.180.87.87
+socialspy: false
+lastlocation:
+  world: world
+  x: -79.42065040104708
+  y: 66.0
+  z: -17.463834885092098
+  yaw: 204.15
+  pitch: 7.649996
+homes:
+  home:
+    world: world
+    x: -77.17070537401476
+    y: 66.0
+    z: -13.603030351835486
+    yaw: -61.499023
+    pitch: 4.4999466
+logoutlocation:
+  world: world
+  x: 16.79845678874979
+  y: 93.0
+  z: -205.69999998807907
+  yaw: 277.94992
+  pitch: 1.3500286

@@ -1,0 +1,24 @@
+lastAccountName: woft
+timestamps:
+  login: 1477059180809
+  logout: 1477059210432
+  lastteleport: 1476855312003
+  kits:
+    tools: 1476853813211
+    food: 1476853800660
+ipAddress: 183.80.171.250
+socialspy: false
+logoutlocation:
+  world: world
+  x: -130.6053044439314
+  y: 68.0
+  z: -52.707535274513866
+  yaw: -231.44984
+  pitch: 20.399973
+lastlocation:
+  world: world
+  x: -140.83145647273784
+  y: 85.26715923564163
+  z: -58.81387559343166
+  yaw: 117.30001
+  pitch: 22.799938

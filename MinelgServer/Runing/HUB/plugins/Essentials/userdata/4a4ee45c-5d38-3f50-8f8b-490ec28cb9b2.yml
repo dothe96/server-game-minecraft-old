@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: soidai0147
+timestamps:
+  login: 1478932787317
+  kits:
+    diemdanh: 1478932882810
+    tanthu: 1477630473775
+    food: 1477717016026
+  lastteleport: 1478751388852
+  logout: 1478932914974
+ipAddress: 42.118.50.194
+lastlocation:
+  world: world
+  x: -128.08925832403017
+  y: 72.74718866953232
+  z: -59.72530298539348
+  yaw: 262.95
+  pitch: 70.049995
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -108.00505527341669
+  y: 68.0625
+  z: -33.65843289191194
+  yaw: -277.35013
+  pitch: 10.799971
+afk: false

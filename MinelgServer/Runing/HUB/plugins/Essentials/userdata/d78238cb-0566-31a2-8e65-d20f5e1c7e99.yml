@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Killer_Josh
+timestamps:
+  login: 1477288282737
+  lastteleport: 1477292415598
+  kits:
+    diemdanh: 1477289889318
+    tanthu: 1477289896182
+    tools: 1477128058692
+    food: 1477209000714
+  logout: 1477292731810
+ipAddress: 171.226.247.240
+lastlocation:
+  world: world
+  x: 3525.3108984740275
+  y: 66.0
+  z: 1742.3365131348567
+  yaw: 327.6231
+  pitch: -1.0499489
+money: '2217.0'
+homes:
+  home:
+    world: world
+    x: 3520.8537204709637
+    y: 66.0
+    z: 1743.671098889618
+    yaw: 276.6237
+    pitch: 66.90003
+logoutlocation:
+  world: world
+  x: 3516.5700809461828
+  y: 69.0
+  z: 1748.1680527209614
+  yaw: -6.5767756
+  pitch: 3.4500148
+afk: false

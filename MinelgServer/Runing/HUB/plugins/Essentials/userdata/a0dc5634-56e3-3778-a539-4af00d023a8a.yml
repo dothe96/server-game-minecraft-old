@@ -1,0 +1,28 @@
+socialspy: false
+lastAccountName: bi_gaming
+timestamps:
+  login: 1479007084621
+  kits:
+    diemdanh: 1479002078414
+    tanthu: 1479004226490
+    tools: 1478774938060
+    food: 1478774924297
+  lastteleport: 1479007546081
+  logout: 1479007979266
+ipAddress: 117.3.71.91
+lastlocation:
+  world: world
+  x: -84.85927233851355
+  y: 67.5
+  z: -51.48334975776221
+  yaw: 310.4982
+  pitch: -4.349986
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -223.7150779341609
+  y: 87.0
+  z: -45.76290282603386
+  yaw: -309.75485
+  pitch: 0.6000289
+afk: false

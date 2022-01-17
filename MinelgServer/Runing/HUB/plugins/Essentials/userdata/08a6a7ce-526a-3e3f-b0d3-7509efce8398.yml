@@ -1,0 +1,26 @@
+lastAccountName: Kirito
+timestamps:
+  login: 1476879158331
+  lastteleport: 1476523031590
+  logout: 1476879212414
+  kits:
+    diemdanh: 1476521279516
+    tanthu: 1476521281729
+    food: 1476521287401
+ipAddress: 42.113.187.47
+lastlocation:
+  world: world
+  x: -6.205287647339157
+  y: 59.0
+  z: -103.08877994370823
+  yaw: -96.08578
+  pitch: 8.2390585
+logoutlocation:
+  world: world
+  x: -166.30000001192093
+  y: 87.0
+  z: -57.329763719236134
+  yaw: -191.10002
+  pitch: 20.549988
+money: '0.0'
+socialspy: false

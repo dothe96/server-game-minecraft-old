@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: cute_pro
+timestamps:
+  login: 1478221089873
+  lastteleport: 1478224185441
+  kits:
+    tanthu: 1478221265821
+    food: 1478223380249
+  logout: 1478224186698
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: -159.82975471651383
+  y: 86.0
+  z: -69.90766691560249
+  yaw: -4.0500135
+  pitch: -13.500013
+homes:
+  home:
+    world: world
+    x: 2298.762499988079
+    y: 70.0136942460739
+    z: 981.2007616263422
+    yaw: 348.60864
+    pitch: 33.14999
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 2299.5
+  y: 69.0
+  z: 981.5
+  yaw: -71.09139
+  pitch: 39.75002

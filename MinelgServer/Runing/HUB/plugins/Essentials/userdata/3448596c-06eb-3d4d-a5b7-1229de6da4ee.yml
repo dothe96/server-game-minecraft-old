@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: Mine108
+timestamps:
+  login: 1477123940155
+  kits:
+    diemdanh: 1477103175702
+  lastteleport: 1477103192107
+  logout: 1477123977892
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 1.1999867
+  pitch: -9.450015
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 65.249985
+  pitch: 42.6

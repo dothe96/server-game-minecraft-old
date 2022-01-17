@@ -1,0 +1,24 @@
+lastAccountName: nikenn
+timestamps:
+  login: 1477105260899
+  lastteleport: 1477105289784
+  kits:
+    diemdanh: 1477105299442
+    food: 1477105305941
+  logout: 1477105310009
+ipAddress: 117.3.102.228
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.33674573176174
+  y: 88.0
+  z: -77.5
+  yaw: 10.799987
+  pitch: -10.650014
+logoutlocation:
+  world: world
+  x: 3257.699999988079
+  y: 80.0
+  z: 1261.699999988079
+  yaw: 121.21264
+  pitch: 38.550037

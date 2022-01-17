@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: Mr_Doraemon
+timestamps:
+  login: 1476957767056
+  kits:
+    diemdanh: 1476957884839
+    tanthu: 1476957795645
+    food: 1476958285012
+  lastteleport: 1476958827321
+  logout: 1476958962509
+ipAddress: 117.2.40.144
+lastlocation:
+  world: world
+  x: -159.50017432542518
+  y: 88.0
+  z: -77.49608387798071
+  yaw: 1.9499866
+  pitch: -10.200014
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 2742.9815227581194
+  y: 72.0
+  z: 510.6068312970081
+  yaw: -281.84204
+  pitch: 6.3002644

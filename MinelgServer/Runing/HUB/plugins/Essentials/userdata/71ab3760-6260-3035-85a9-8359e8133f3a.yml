@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Minetroll
+timestamps:
+  login: 1477571670981
+  kits:
+    diemdanh: 1477198214697
+    tanthu: 1477010029042
+    tools: 1477099512629
+    food: 1477277004902
+  lastteleport: 1477571710664
+  logout: 1477571792622
+ipAddress: 14.183.16.134
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 1.6499866
+  pitch: -19.200014
+money: '5.0'
+logoutlocation:
+  world: world
+  x: -109.55853168795623
+  y: 68.0625
+  z: -34.91550661450342
+  yaw: 49.648205
+  pitch: 3.3000085
+homes:
+  home:
+    world: world
+    x: 2824.5
+    y: 11.0
+    z: 2028.5
+    yaw: 96.15917
+    pitch: 18.15003
+afk: false

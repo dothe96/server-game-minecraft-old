@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: ThangMonster
+timestamps:
+  login: 1477289178311
+  kits:
+    diemdanh: 1477111338078
+    tanthu: 1477111331928
+    tools: 1477111371617
+    food: 1477111386350
+  lastteleport: 1477111732959
+  logout: 1477289344180
+ipAddress: 113.190.21.3
+lastlocation:
+  world: world
+  x: -126.15955775343599
+  y: 68.0625
+  z: -25.784895029223808
+  yaw: 198.90027
+  pitch: 12.749821
+logoutlocation:
+  world: world
+  x: -192.80413058464626
+  y: 108.0
+  z: -104.0192660643343
+  yaw: -119.10005
+  pitch: -0.6000035
+afk: false

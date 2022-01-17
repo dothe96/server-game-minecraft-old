@@ -1,0 +1,33 @@
+lastAccountName: KienTrung
+timestamps:
+  login: 1479191002526
+  lastteleport: 1479191045057
+  logout: 1479191062568
+  kits:
+    diemdanh: 1478907483587
+ipAddress: 117.3.46.58
+socialspy: false
+lastlocation:
+  world: world
+  x: 4219.825269838181
+  y: 78.0
+  z: 1703.1764800597323
+  yaw: 336.52032
+  pitch: 33.30013
+homes:
+  home:
+    world: world
+    x: 4214.760537753032
+    y: 78.0
+    z: 1700.1555264309889
+    yaw: 179.3205
+    pitch: 13.05013
+afk: false
+logoutlocation:
+  world: world
+  x: 1.0000091576609356E7
+  y: 177.0
+  z: 9999773.300000012
+  yaw: -38.092716
+  pitch: 17.400015
+money: '841.0'

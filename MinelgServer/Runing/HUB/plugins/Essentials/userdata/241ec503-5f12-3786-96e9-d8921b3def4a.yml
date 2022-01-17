@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: Mr_Nam
+timestamps:
+  login: 1477394279227
+  logout: 1477398630401
+  kits:
+    diemdanh: 1477394321952
+    tanthu: 1477394314764
+    tools: 1477394303385
+    food: 1477396738548
+  lastteleport: 1477398515683
+ipAddress: 115.78.125.136
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 51.33977965853763
+  y: 61.0
+  z: -137.1133144659557
+  yaw: 275.7
+  pitch: 21.300009
+homes:
+  home:
+    world: world
+    x: 3262.7971045761738
+    y: 63.0
+    z: 1582.2037820247876
+    yaw: 6.766331
+    pitch: 30.900003
+money: '300.0'

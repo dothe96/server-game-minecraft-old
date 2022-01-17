@@ -1,0 +1,36 @@
+lastAccountName: wolf
+timestamps:
+  login: 1489162100879
+  logout: 1489162298707
+  lastteleport: 1489162196687
+  kits:
+    p: 1489147206933
+    vip3: 1489162230502
+    vip2: 1489147577100
+    vip1: 1489147525612
+    test: 1489144595231
+    g: 1489147199437
+    w: 1489147391787
+    diemdanh: 1489144407383
+    tanthu: 1488721435662
+    tools: 1487930570511
+    food: 1488270518560
+ipAddress: 192.168.69.160
+socialspy: false
+lastlocation:
+  world: pvp
+  x: 1713.3845189481606
+  y: 9.0
+  z: -1031.6437355411845
+  yaw: 222.4501
+  pitch: 32.550022
+logoutlocation:
+  world: world
+  x: -293.5450773850772
+  y: 22.0
+  z: 131.103650103372
+  yaw: 186.00269
+  pitch: 58.19993
+afk: false
+money: '50580.0'
+homes: {}

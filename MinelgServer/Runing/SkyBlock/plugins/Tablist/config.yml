@@ -1,0 +1,42 @@
+# Tablist v1.3.0.2 by sn1cko
+# Time is set in milliseconds which means every 20 = 1 second
+# for example: 6000 = 5 minuntes OR 300 = 15 seconds
+# 
+# The announcer will never stop if the time is set to 0
+# Else it will stop after the amount of milliseconds you wish
+# 
+# There are currently 15 variables available which can be built in
+# for example %player% - will display the playername or %health% - will give out the health
+# all other variables can be found on the website
+# http://dev.bukkit.org/bukkit-plugins/tablist/pages/variables
+Tablist:
+  Settings:
+    Staff:
+      Permission: tablist.staff
+    Toggle: true
+    Time: 20
+    Messages:
+      Header:
+      - |-
+        &l✿ &5&lPLAY.MINELG.COM &f&l✿
+        &6&lMinelg &2&lNetWork
+        &9&lTên: &3&l%player% &f- &e&LSkyBlock
+
+            &7  ✿ ♦ ♣ ♠ ♥ ♂ ♀ ♪ ♫ ☼ ↕ ⊰ ⊱ ✿
+      - |-
+        &l✿ &3&lPLAY.MINELG.COM &f&l✿
+        &6&lMinelg &2&lNetWork
+        &9&lTên: &3&l%player% &f- &7&LSkyBlock
+
+            &7  ✿ ♦ ♣ ♠ ♥ ♂ ♀ ♪ ♫ ☼ ↕ ⊰ ⊱ ✿
+      Footer:
+      - |-
+        &7&m✿ ♦ ♣ ♠ ♥ ♂ ♀ ♪ ♫ ☼ ↕ ⊰ ⊱ ✿
+
+        &7Trang web server &3https://minelg.com
+        &9&o&lOnline: &e&o%onlineplayers%&7&o/&c&o%maxonlineplayers%
+      - |-
+        &7&m✿ ♦ ♣ ♠ ♥ ♂ ♀ ♪ ♫ ☼ ↕ ⊰ ⊱ ✿
+
+        &cTrang web server &3https://minelg.com
+        &9&o&lOnline: &e&o%onlineplayers%&8&o/&c&o%maxonlineplayers%

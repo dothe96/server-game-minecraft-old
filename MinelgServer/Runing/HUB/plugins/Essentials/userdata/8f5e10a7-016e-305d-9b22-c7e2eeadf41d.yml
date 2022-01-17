@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: phat0100
+timestamps:
+  login: 1477630846046
+  kits:
+    tanthu: 1477352621309
+    food: 1477631220477
+  lastteleport: 1477631011810
+  logout: 1477631427936
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: 1.0000081234599419E7
+  y: 173.0
+  z: 9999821.211616179
+  yaw: -128.0927
+  pitch: 0.29999882
+logoutlocation:
+  world: world
+  x: -109.72443873260018
+  y: 68.0625
+  z: -8.083447286866189
+  yaw: -281.25027
+  pitch: 22.349995
+money: '0.0'

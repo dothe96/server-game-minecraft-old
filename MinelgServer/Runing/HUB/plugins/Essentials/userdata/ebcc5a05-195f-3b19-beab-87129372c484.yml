@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: LuluGamer6969
+timestamps:
+  login: 1477207960406
+  kits:
+    tanthu: 1477064779802
+    food: 1477124924710
+  lastteleport: 1477146865773
+  logout: 1477207964573
+ipAddress: 116.98.70.29
+lastlocation:
+  world: world
+  x: -150.27938639230106
+  y: 86.1212968405392
+  z: -34.53387743412792
+  yaw: -17.549978
+  pitch: 29.999987
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+homes:
+  home:
+    world: world
+    x: 3018.45959937093
+    y: 65.0
+    z: 526.1488440183065
+    yaw: -213.58775
+    pitch: 23.09995
+money: '38470.0'
+afk: false

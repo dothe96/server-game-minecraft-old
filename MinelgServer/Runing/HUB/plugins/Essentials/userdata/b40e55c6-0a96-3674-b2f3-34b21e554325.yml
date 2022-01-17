@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: FellTom
+timestamps:
+  login: 1477813815573
+  kits:
+    diemdanh: 1477814682727
+    tanthu: 1477302616204
+    tools: 1477375686748
+    food: 1477564709888
+  lastteleport: 1477813900025
+  logout: 1477815230267
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: 2466.3525430041846
+  y: 94.0
+  z: 1741.1843209866402
+  yaw: -2.6838107
+  pitch: -31.050014
+logoutlocation:
+  world: world
+  x: 2502.8262491809132
+  y: 5.0
+  z: 1733.7023519041172
+  yaw: -107.68924
+  pitch: 11.999865
+money: '13400.0'
+homes:
+  home:
+    world: world
+    x: 3992.468819080265
+    y: 63.0
+    z: -2183.6438473674434
+    yaw: 34.60194
+    pitch: 9.150053

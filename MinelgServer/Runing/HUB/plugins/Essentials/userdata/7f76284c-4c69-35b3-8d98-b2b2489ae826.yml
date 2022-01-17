@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Cool
+timestamps:
+  login: 1476958052646
+  lastteleport: 1476958074245
+  logout: 1476958077507
+ipAddress: 117.2.40.144
+lastlocation:
+  world: world
+  x: -160.18134090330048
+  y: 86.0
+  z: -53.989671130015296
+  yaw: 0.5999869
+  pitch: 12.749984
+logoutlocation:
+  world: world
+  x: -159.8533421327355
+  y: 86.0
+  z: -86.37273628830974
+  yaw: 16.951603
+  pitch: 13.200002

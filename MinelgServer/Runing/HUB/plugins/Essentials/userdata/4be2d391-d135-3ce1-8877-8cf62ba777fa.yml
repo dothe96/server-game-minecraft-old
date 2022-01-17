@@ -1,0 +1,25 @@
+lastAccountName: ThanhPhanGaming
+timestamps:
+  login: 1477896772123
+  kits:
+    diemdanh: 1477749116832
+    tanthu: 1477749112551
+    food: 1477749109139
+  lastteleport: 1477749826206
+  logout: 1477896810381
+ipAddress: 183.81.14.6
+socialspy: false
+lastlocation:
+  world: world
+  x: 2970.2667780531638
+  y: 73.0
+  z: 2071.755777005201
+  yaw: 282.85904
+  pitch: 32.518394
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014

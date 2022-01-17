@@ -1,0 +1,35 @@
+lastAccountName: DarkDragon
+timestamps:
+  login: 1476974418585
+  kits:
+    diemdanh: 1476972280975
+    tanthu: 1476797262839
+    tools: 1476797641911
+    food: 1476972625840
+  lastteleport: 1476973197107
+  logout: 1476974420002
+ipAddress: 222.254.70.184
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: 1267.0269262776524
+  y: 62.09780560225792
+  z: -225.1454143314438
+  yaw: 171.87083
+  pitch: 4.6500235
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+homes:
+  home:
+    world: world
+    x: 3302.7566679807137
+    y: 64.0
+    z: 1635.0035341504615
+    yaw: 333.31735
+    pitch: 52.949947
+money: '76370.0'

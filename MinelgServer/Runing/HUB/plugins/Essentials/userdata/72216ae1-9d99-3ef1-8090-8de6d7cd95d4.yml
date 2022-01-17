@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: DASDFASDW
+timestamps:
+  login: 1479086801750
+  lastteleport: 1479087259807
+  kits:
+    diemdanh: 1479086900369
+    tanthu: 1479086903537
+    food: 1479086908082
+  logout: 1479087260829
+ipAddress: 116.98.141.6
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 1.00000895E7
+  y: 173.0
+  z: 9999780.5
+  yaw: -170.24255
+  pitch: 0.6000025

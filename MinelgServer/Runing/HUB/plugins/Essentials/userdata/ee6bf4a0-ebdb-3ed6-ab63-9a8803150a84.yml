@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: meno123
+timestamps:
+  login: 1477925474988
+  lastteleport: 1477925511805
+  kits:
+    diemdanh: 1477925514569
+  logout: 1477925556830
+ipAddress: 113.162.203.46
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 1.7999866
+  pitch: -15.900015
+logoutlocation:
+  world: world
+  x: 2199.0939616380283
+  y: 64.0
+  z: -527.2333544157768
+  yaw: -77.367485
+  pitch: 21.300066

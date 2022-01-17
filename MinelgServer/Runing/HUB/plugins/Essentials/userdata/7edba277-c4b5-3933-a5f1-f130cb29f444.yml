@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: DiamondCrock
+timestamps:
+  login: 1476880026703
+  lastteleport: 1476880488428
+  kits:
+    diemdanh: 1476879372719
+    tanthu: 1476879359495
+    tools: 1476879367649
+    food: 1476879376401
+  logout: 1476880678784
+ipAddress: 14.191.36.169
+lastlocation:
+  world: world
+  x: 100581.69999998808
+  y: 75.0
+  z: 1.0000092605393844E7
+  yaw: 2.5509949
+  pitch: 78.299995
+logoutlocation:
+  world: world
+  x: -159.2553794907592
+  y: 88.02442408821369
+  z: -84.70435633794925
+  yaw: -154.95015
+  pitch: 25.649971

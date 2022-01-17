@@ -1,0 +1,35 @@
+lastAccountName: aly10
+timestamps:
+  login: 1478862302480
+  lastteleport: 1478862504086
+  kits:
+    diemdanh: 1478604324340
+    tanthu: 1478395412437
+    tools: 1478604331451
+    food: 1478516976433
+  logout: 1478862980032
+ipAddress: 171.250.102.100
+lastlocation:
+  world: world
+  x: -107.99016941862821
+  y: 68.0625
+  z: -11.79687958723958
+  yaw: -49.951736
+  pitch: 5.4000077
+socialspy: false
+money: '93798.0'
+logoutlocation:
+  world: world
+  x: 2500.7622038350864
+  y: 64.0
+  z: 1298.329405106513
+  yaw: 113.111206
+  pitch: 29.699938
+homes:
+  home:
+    world: world
+    x: 2594.2789518167533
+    y: 12.0
+    z: 1294.7309734061032
+    yaw: -268.93958
+    pitch: 39.899986

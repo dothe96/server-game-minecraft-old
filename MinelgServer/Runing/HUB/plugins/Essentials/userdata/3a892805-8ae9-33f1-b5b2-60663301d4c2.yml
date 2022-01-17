@@ -1,0 +1,27 @@
+lastAccountName: mattahoo
+timestamps:
+  login: 1478952181529
+  lastteleport: 1478952202044
+  kits:
+    diemdanh: 1478404071954
+    tanthu: 1478404264582
+    tools: 1478404283551
+    food: 1478404256571
+  logout: 1478952397532
+ipAddress: 115.74.206.199
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 3.2999866
+  pitch: -9.450014
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -216.83743600125854
+  y: 86.0
+  z: -41.317312646772336
+  yaw: -35.855137
+  pitch: -42.899998

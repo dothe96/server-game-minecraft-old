@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: admin
+timestamps:
+  login: 1487449123958
+  logout: 1487449141266
+ipAddress: 192.168.69.101
+lastlocation:
+  world: world
+  x: -4979.5
+  y: 130.0
+  z: -152.5
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+logoutlocation:
+  world: world
+  x: -4969.54047167101
+  y: 67.0
+  z: -160.47180921241775
+  yaw: 90.14995
+  pitch: -7.7999988

@@ -1,0 +1,7 @@
+[2017/02/11 16:51:51] §6[§a§lMember§6]-§f§lLuky§r executed /tp 0 100 0 at Location{world=CraftWorld{name=world},x=694.0377842980231,y=4.0,z=-22.764935896852418,pitch=2.2499824,yaw=99.15011}
+[2017/02/11 16:59:39] §6[§a§lMember§6]-§f§lLuky§r executed /gm 1 at Location{world=CraftWorld{name=world},x=703.4539205006388,y=22.0,z=-22.19180420885601,pitch=-43.650024,yaw=212.4002}
+[2017/02/11 16:59:54] §6[§a§lMember§6]-§f§lLuky§r executed /gm 1\ at Location{world=CraftWorld{name=world},x=702.5287740533846,y=22.0,z=-22.29883238258427,pitch=37.19996,yaw=329.10028}
+[2017/02/11 16:59:57] §6[§a§lMember§6]-§f§lLuky§r executed /gm 1 at Location{world=CraftWorld{name=world},x=702.5287740533846,y=22.0,z=-22.29883238258427,pitch=36.749958,yaw=328.3503}
+[2017/02/11 17:00:01] §6[§a§lMember§6]-§f§lLuky§r executed /gm 3 at Location{world=CraftWorld{name=world},x=705.9425675256052,y=21.0,z=-18.73626132309642,pitch=8.399959,yaw=328.0503}
+[2017/02/11 17:00:19] §6[§a§lMember§6]-§f§lLuky§r executed /tp 0 100 0 at Location{world=CraftWorld{name=world},x=738.3346073793239,y=100.73713697983315,z=-23.732446567286182,pitch=13.9499655,yaw=121.95001}
+[2017/02/11 17:00:57] §6[§a§lMember§6]-§f§lLuky§r executed /gm 1 at Location{world=CraftWorld{name=world},x=36.49089360193909,y=69.45338815299641,z=-4.534068918042674,pitch=31.949944,yaw=233.99985}

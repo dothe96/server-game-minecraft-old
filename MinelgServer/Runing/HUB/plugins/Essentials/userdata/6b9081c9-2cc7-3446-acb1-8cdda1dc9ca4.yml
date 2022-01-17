@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: khoacar3
+timestamps:
+  login: 1477205724075
+  lastteleport: 1477204436329
+  kits:
+    diemdanh: 1477204467004
+    tanthu: 1477204470767
+  logout: 1477205745708
+ipAddress: 1.52.105.114
+lastlocation:
+  world: world
+  x: -102.4687494355887
+  y: 68.0625
+  z: -27.307408755672142
+  yaw: 178.20024
+  pitch: 12.899977
+logoutlocation:
+  world: world
+  x: -162.28890104618344
+  y: 80.5
+  z: -101.46072575955485
+  yaw: 181.1999
+  pitch: 60.0

@@ -1,0 +1,35 @@
+lastAccountName: hungvip2016
+timestamps:
+  login: 1478943656892
+  lastteleport: 1478945324385
+  kits:
+    diemdanh: 1477972796806
+    tanthu: 1478944380716
+    tools: 1478321292389
+    food: 1478413532492
+  logout: 1478945352734
+ipAddress: 115.78.126.139
+socialspy: false
+lastlocation:
+  world: world
+  x: -150.03350054354937
+  y: 86.0
+  z: -75.61657723598792
+  yaw: 243.74997
+  pitch: -60.449993
+homes:
+  home:
+    world: world
+    x: 4381.300000011921
+    y: 67.0
+    z: -2173.527145985152
+    yaw: -85.60544
+    pitch: 39.149994
+money: '14.0'
+logoutlocation:
+  world: world
+  x: 4384.450968828917
+  y: 67.0
+  z: -2175.2262541463015
+  yaw: 120.644516
+  pitch: -16.050016

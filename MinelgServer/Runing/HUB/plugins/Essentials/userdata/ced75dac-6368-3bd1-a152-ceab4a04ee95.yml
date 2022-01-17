@@ -1,0 +1,38 @@
+lastAccountName: I_Love
+timestamps:
+  login: 1477488159878
+  logout: 1477491873694
+  lastteleport: 1477490839927
+  kits:
+    diemdanh: 1477365392946
+    tanthu: 1477365536029
+    tools: 1477366353717
+    food: 1477479193539
+  mute: 0
+ipAddress: 14.184.161.93
+socialspy: false
+lastlocation:
+  world: world
+  x: -162.144066334622
+  y: 86.0
+  z: -57.21251797956105
+  yaw: -38.09997
+  pitch: 4.4999824
+logoutlocation:
+  world: world
+  x: 3564.4770081626616
+  y: 77.0
+  z: 1459.6116029905752
+  yaw: -79.63443
+  pitch: 1.4999993
+homes:
+  home:
+    world: world
+    x: 3255.603228514328
+    y: 63.0
+    z: 1046.628385899204
+    yaw: 3.012024
+    pitch: 17.24995
+money: '24640.0'
+afk: false
+muted: false

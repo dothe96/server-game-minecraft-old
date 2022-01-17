@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "ee8694ea-fd3e-3147-b6b9-091b6ee967a3",
+    "name": "wolf",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ec5b73f4-8ad1-389a-a579-08d4703d43bd",
+    "name": "chicken",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "cb82fdd8-5f9c-3c10-9d64-f33aec58ef9f",
+    "name": "adks",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

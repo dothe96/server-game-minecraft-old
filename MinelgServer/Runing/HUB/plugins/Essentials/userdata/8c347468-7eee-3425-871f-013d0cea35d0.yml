@@ -1,0 +1,34 @@
+lastAccountName: Tcnhn
+timestamps:
+  login: 1477074554475
+  logout: 1477075252449
+  lastteleport: 1477069155321
+  kits:
+    tanthu: 1477022524018
+ipAddress: 183.80.171.250
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: 102.11563790884482
+  y: 49.0
+  z: 2.2151219088425
+  yaw: 132.4498
+  pitch: 13.500028
+logoutlocation:
+  world: world
+  x: -161.1837635993936
+  y: 86.0
+  z: -57.909072352419074
+  yaw: -269.09995
+  pitch: 34.050003
+afk: false
+money: '1000'
+homes:
+  home:
+    world: world
+    x: 3253.4104460470367
+    y: 67.52025223523292
+    z: 1023.834980427551
+    yaw: 211.58942
+    pitch: 28.350033
+nickname: §6§lClone

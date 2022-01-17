@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: thanglungdk012
+timestamps:
+  login: 1479262504796
+  kits:
+    diemdanh: 1478823350808
+    tanthu: 1478849076801
+  logout: 1479262556260
+  lastteleport: 1479262546368
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: -156.4521234616452
+  y: 86.0
+  z: -60.06454802428194
+  yaw: -85.95003
+  pitch: 15.449996
+logoutlocation:
+  world: world
+  x: 4341.5
+  y: 65.0
+  z: 757.5
+  yaw: 103.228424
+  pitch: 10.949966
+money: '2100.0'
+homes:
+  home:
+    world: world
+    x: 4341.5
+    y: 65.0
+    z: 757.5
+    yaw: 103.228424
+    pitch: 10.949966

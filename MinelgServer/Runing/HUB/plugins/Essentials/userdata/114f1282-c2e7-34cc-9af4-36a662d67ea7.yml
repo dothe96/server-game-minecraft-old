@@ -1,0 +1,24 @@
+lastAccountName: Bissto
+timestamps:
+  login: 1479190749676
+  kits:
+    diemdanh: 1479190774634
+    food: 1479190769502
+  lastteleport: 1479190781609
+  logout: 1479190790350
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 1.4999865
+  pitch: -15.900014
+socialspy: false
+logoutlocation:
+  world: world
+  x: 4135.5
+  y: 64.0
+  z: 2417.5
+  yaw: -297.0322
+  pitch: 13.19998

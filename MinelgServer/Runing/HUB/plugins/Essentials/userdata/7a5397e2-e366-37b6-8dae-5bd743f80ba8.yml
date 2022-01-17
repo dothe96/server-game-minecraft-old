@@ -1,0 +1,32 @@
+lastAccountName: anhmanhnhat
+timestamps:
+  login: 1479270676093
+  kits:
+    diemdanh: 1478823437692
+  logout: 1479264194994
+  lastteleport: 1479270871541
+ipAddress: 117.3.46.58
+socialspy: false
+lastlocation:
+  world: world
+  x: 4322.699999988079
+  y: 65.0
+  z: 794.3000000119209
+  yaw: -298.02115
+  pitch: 25.199999
+logoutlocation:
+  world: world
+  x: 4343.718462507719
+  y: 65.0
+  z: 760.0603476633687
+  yaw: -260.3808
+  pitch: 44.400063
+homes:
+  home:
+    world: world
+    x: 4341.554121945344
+    y: 65.0
+    z: 763.3927894577665
+    yaw: -273.12122
+    pitch: 15.600013
+money: '8582.0'

@@ -1,0 +1,36 @@
+lastAccountName: pvp_hax
+timestamps:
+  login: 1478354323931
+  kits:
+    diemdanh: 1477467620700
+    tanthu: 1476802307257
+    tools: 1476802333228
+    food: 1478348595328
+  lastteleport: 1478352989697
+  logout: 1478354367986
+ipAddress: 14.191.131.167
+socialspy: false
+lastlocation:
+  world: world
+  x: 2589.7732199309844
+  y: 74.03264306031436
+  z: 2939.670782710366
+  yaw: -355.6195
+  pitch: 7.349976
+homes:
+  home:
+    world: world
+    x: 2624.603790244987
+    y: 68.0
+    z: 2902.53232384946
+    yaw: -264.87054
+    pitch: 56.85006
+money: '12588.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -8.850015
+nickname: pvp_hax

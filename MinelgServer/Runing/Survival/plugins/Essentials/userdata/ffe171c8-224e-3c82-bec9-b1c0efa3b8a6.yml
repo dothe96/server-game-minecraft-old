@@ -1,0 +1,38 @@
+lastAccountName: fybit
+timestamps:
+  login: 1488483888590
+  logout: 1488479525414
+  lastteleport: 1488483494572
+ipAddress: 127.0.0.1
+socialspy: false
+lastlocation:
+  world: world
+  x: 9999.2153130464
+  y: 69.0
+  z: 99987.43821601955
+  yaw: 318.7506
+  pitch: 2.3999403
+logoutlocation:
+  world: world
+  x: 9974.22695669634
+  y: 72.6183020148442
+  z: 99956.79729861149
+  yaw: 201.60068
+  pitch: 11.849945
+afk: false
+money: '161500.0'
+homes:
+  boss:
+    world: world
+    x: -5104.628851447286
+    y: 74.0
+    z: 147.3835328837058
+    yaw: 28.951948
+    pitch: -0.30003396
+  boss1:
+    world: world
+    x: -4892.501574475673
+    y: 85.72799935212198
+    z: 356.6869472496586
+    yaw: 323.1012
+    pitch: 32.099922

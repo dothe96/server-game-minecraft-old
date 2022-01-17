@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: sontrang
+timestamps:
+  login: 1479213803756
+  logout: 1479213973033
+ipAddress: 118.70.177.89
+lastlocation:
+  world: world
+  x: -165.5
+  y: 86.0
+  z: -78.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -160.93718110833575
+  y: 86.0
+  z: -86.84194178336392
+  yaw: 220.05042
+  pitch: 38.24999
+afk: false

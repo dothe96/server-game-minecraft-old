@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: fgyhrtghfghfgh
+timestamps:
+  login: 1478487359349
+  lastteleport: 1478487493993
+  kits:
+    diemdanh: 1478487526000
+    tanthu: 1478487533654
+    food: 1478487542868
+  logout: 1478487816843
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: -159.97292146698155
+  y: 86.0
+  z: -70.68519056942958
+  yaw: -1.0500135
+  pitch: -6.300016
+logoutlocation:
+  world: world
+  x: 2780.06679099029
+  y: 54.0
+  z: 1409.7561146912774
+  yaw: -4.642916
+  pitch: 20.550058

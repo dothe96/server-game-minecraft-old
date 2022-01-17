@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: buulanduong
+timestamps:
+  login: 1478702434098
+  logout: 1478702469082
+ipAddress: 42.112.81.136
+lastlocation:
+  world: world
+  x: -158.5
+  y: 87.0
+  z: -72.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -156.8903916388425
+  y: 86.0
+  z: -58.81180715509741
+  yaw: 0.7499891
+  pitch: -4.6500154

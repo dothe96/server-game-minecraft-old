@@ -1,0 +1,37 @@
+socialspy: false
+lastAccountName: musrivn
+timestamps:
+  login: 1479012518382
+  kits:
+    diemdanh: 1477101159395
+    tanthu: 1476877002315
+    tools: 1477285579145
+    food: 1477544561726
+  lastteleport: 1478869683247
+  logout: 1479013588323
+ipAddress: 112.197.224.198
+lastlocation:
+  world: world
+  x: -109.3810559719972
+  y: 47.0625
+  z: -12.700293024947392
+  yaw: 313.19574
+  pitch: 15.299834
+homes:
+  home:
+    world: world
+    x: 3027.795945577485
+    y: 83.0
+    z: 410.8172392903319
+    yaw: -270.43817
+    pitch: 19.64999
+logoutlocation:
+  world: world
+  x: -161.2458925110643
+  y: 88.71858050219278
+  z: -60.7503829609566
+  yaw: -64.49998
+  pitch: -5.550005
+money: '10100.0'
+afk: false
+nickname: §b§lMusriKaito

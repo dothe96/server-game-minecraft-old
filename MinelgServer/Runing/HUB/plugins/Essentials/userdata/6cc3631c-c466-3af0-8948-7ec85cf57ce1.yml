@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: 4228.456184527673
+  y: 77.0
+  z: 1727.849375313037
+  yaw: -259.88165
+  pitch: 3.6001017
+lastAccountName: XxTrungxX
+timestamps:
+  login: 1479254112325
+  lastteleport: 1479261136948
+  kits:
+    diemdanh: 1479255671229
+    tanthu: 1479001501547
+    food: 1479041062673
+  logout: 1479261261423
+ipAddress: 117.3.46.58
+socialspy: false
+money: '28707.0'
+homes:
+  home:
+    world: world
+    x: 3560.263874501737
+    y: 68.0
+    z: 1862.3476313658775
+    yaw: 25.66449
+    pitch: 12.450108
+logoutlocation:
+  world: world
+  x: 1.0000109687048813E7
+  y: 173.0
+  z: 9999792.691942213
+  yaw: -99.8927
+  pitch: 25.199986
+afk: false

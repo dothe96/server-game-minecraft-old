@@ -1,0 +1,24 @@
+lastAccountName: Biss
+timestamps:
+  login: 1479190239703
+  kits:
+    diemdanh: 1479190264330
+    food: 1479190259906
+  lastteleport: 1479190273373
+  logout: 1479190288961
+ipAddress: 117.2.130.20
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 3.5999866
+  pitch: -10.950014
+logoutlocation:
+  world: world
+  x: 4122.489813945256
+  y: 63.90199999809265
+  z: 2412.577735476196
+  yaw: 187.46764
+  pitch: 19.500023

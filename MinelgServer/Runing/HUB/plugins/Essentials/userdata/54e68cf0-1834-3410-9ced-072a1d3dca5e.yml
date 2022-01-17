@@ -1,0 +1,27 @@
+lastAccountName: NguyenDat
+timestamps:
+  login: 1476540858773
+  kits:
+    diemdanh: 1476513475769
+    tanthu: 1476513470959
+    tools: 1476513464226
+    food: 1476513467998
+  lastteleport: 1476515381745
+  logout: 1476541139248
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: 1.0000113986564144E7
+  y: 173.0
+  z: 9999788.440133793
+  yaw: 18.007332
+  pitch: 14.100009
+money: '259.0'
+afk: false
+logoutlocation:
+  world: world
+  x: -152.33224787068139
+  y: 86.0
+  z: -29.600739233136814
+  yaw: 244.64685
+  pitch: 11.2499695

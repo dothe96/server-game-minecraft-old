@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: FrankOnlyC
+timestamps:
+  login: 1479130745598
+  kits:
+    diemdanh: 1479130763666
+  lastteleport: 1479130769999
+  logout: 1479130778490
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -161.5524995496327
+  y: 86.0625
+  z: -70.48771952279971
+  yaw: 18.449987
+  pitch: 0.14998513
+logoutlocation:
+  world: world
+  x: -98.5
+  y: 68.0
+  z: -19.5
+  yaw: 100.348145
+  pitch: 45.450047

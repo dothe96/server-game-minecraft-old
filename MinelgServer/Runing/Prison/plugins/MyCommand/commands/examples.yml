@@ -1,0 +1,229 @@
+#-----------------------------------------------------------------------------------------------------------#
+#							  MyCommand Commands config file (last update v5.3.0)							#
+#																											#
+#  BukkitDev Help page : http://dev.bukkit.org/server-mods/mycommand/pages/configuration-and-example    	#
+#																											#
+#	How to make a command :	(See an example command below)													#
+#		For first, put your command name on first line  													#
+#		Now put your command_line name after the "command:" line. Don't forget the '/' before your command.	#
+#		So, now select your command type from a predefined list putting it after "type" line				#
+#	COMMAND TYPE LIST :																						#
+#		TEXT , ALIAS , RUN_COMMAND , BROADCAST_TEXT , RUN_COMMAND_TEXT , RUN_COMMAND_BROADCAST_TEXT			#
+#		ADD_PERMISSION , WARMUP , COOLDOWN , RUN_CONSOLE , RUN_CONSOLE_RANDOM , SPOUT_TEXT					#
+#       RUN_COMMAND_RANDOM , RUN_ASOPERATOR , ICON_MENU , SCOREBOARD , BUNGEE_TP , SPOUT_NOTIFICATION		#
+#		BAR_API_TEXT , BAR_API_BROADCAST_TEXT , CALL_URL, TITLE, BROADCAST_TITLE, ACTION_BAR				#
+#																											#
+#	If your command is "TEXT" type, you can put multiple line of text below this parameter					#
+#	You can do the same thing with the "RUNCOMMAND" type, but instead of text, puts commands in this list	#
+#	For delayed command(s) add $delay$ before the command in runcmd Example : - $delay$/list				#
+#	Set delay time with delaytimer: 5 (5 shortcut:
+#
+#   If you are using the Vault plugin, you can put the "cost: 123.0" with this line. 						#
+#	You can customize your permission node by placing "permission-node:" field in a command					#
+#	Also,you can change the permission error message with "permission-error:"								#
+#   Custom error-message for invalid args ,put "error-message:" line in a command.							#
+#   You can use itemcost : 'ID:AMOUNT' for set a cost with items. 											#
+#   Register REAL commands putting "register: true" below the command.     									#
+#   With register commands you can use the "tab_completer: - Hi - Hello!"									#
+#   For Scripts and more features, find more on the bukkitdev page											#
+#-----------------------------------------------------------------------------------------------------------#
+shortcuttroll:
+  command: /plugins
+  type: TEXT
+  text:
+  - '&6Plugins á? Ahihi, có cái ... ấy!'
+shortcuta:
+  command: /a
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp a'
+shortcutb:
+  command: /b
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp b'
+shortcutc:
+  command: /c
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp c'
+shortcutd:
+  command: /d
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp d'
+shortcute:
+  command: /e
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp e'
+shortcutf:
+  command: /f
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp f'
+shortcutg:
+  command: /g
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp g'
+shortcuth:
+  command: /h
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp h'
+shortcuti:
+  command: /i
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp i'
+shortcutj:
+  command: /j
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp j'
+shortcutk:
+  command: /k
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp k'
+shortcutl:
+  command: /l
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp l'
+shortcutm:
+  command: /m
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp m'
+shortcutn:
+  command: /n
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp n'
+shortcuto:
+  command: /o
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp o'
+shortcutp:
+  command: /p
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp p'
+shortcutq:
+  command: /q
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp q'
+shortcutr:
+  command: /r
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp r'
+shortcuts:
+  command: /s
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp s'
+shortcutt:
+  command: /t
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp t'
+shortcutu:
+  command: /u
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp u'
+shortcutv:
+  command: /v
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp v'
+shortcutw:
+  command: /w
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp w'
+shortcutx:
+  command: /x
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp x'
+shortcuty:
+  command: /y
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp y'
+shortcutz:
+  command: /z
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp z'
+shortcutplots:
+  command: /plots
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp plots'
+shortcutchoden:
+  command: /choden
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp choden'
+shortcutenchant:
+  command: /enchant
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp enchant'
+shortcutnung:
+  command: /nung
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp nung'
+shortcutpvp:
+  command: /pvp
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp pvp'
+shortcutquayso:
+  command: /quayso
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp quayso'
+shortcuttrade:
+  command: /trade
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp trade'
+shortcutvip1:
+  command: /vip1
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp vip1'
+shortcutvip2:
+  command: /vip2
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp vip2'
+shortcutvip3:
+  command: /vip3
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp vip3'
+shortcutlendoi:
+  command: /lendoi
+  type: RUN_COMMAND
+  runcmd:
+  - '/prestige'
+shortcutthongtinlendoi:
+  command: /thongtinlendoi
+  type: RUN_COMMAND
+  runcmd:
+  - '/prestiges'
+shortcuttgk:
+  command: /thegioikhac
+  type: RUN_COMMAND
+  runcmd:
+  - '/warp thegioikhac'

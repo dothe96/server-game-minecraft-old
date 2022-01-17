@@ -1,0 +1,31 @@
+lastAccountName: huyenheo1998
+timestamps:
+  login: 1479012773070
+  lastteleport: 1479023220445
+  logout: 1479023364947
+ipAddress: 113.175.243.133
+socialspy: false
+lastlocation:
+  world: world
+  x: 3578.002611806231
+  y: 77.0
+  z: 1549.6224143523746
+  yaw: 280.98193
+  pitch: -1.9500111
+logoutlocation:
+  world: world
+  x: 3893.375472359672
+  y: 63.0
+  z: 1166.0348624471228
+  yaw: 133.34827
+  pitch: -5.7309867E-6
+homes:
+  home:
+    world: world
+    x: 3841.4748873666686
+    y: 63.0
+    z: 1118.9615124787301
+    yaw: 336.44824
+    pitch: 14.399856
+afk: false
+money: '4740.0'

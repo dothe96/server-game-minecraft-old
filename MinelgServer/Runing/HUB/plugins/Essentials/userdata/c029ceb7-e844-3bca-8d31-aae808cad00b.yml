@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: reg147
+timestamps:
+  login: 1477100541849
+  lastteleport: 1477100572192
+  kits:
+    diemdanh: 1477100582692
+  logout: 1477100591012
+ipAddress: 113.180.87.73
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 36.299988
+  pitch: 9.749987
+logoutlocation:
+  world: world
+  x: -114.73401022704974
+  y: 68.0625
+  z: -23.51578961990128
+  yaw: 165.60017
+  pitch: -1.9500272

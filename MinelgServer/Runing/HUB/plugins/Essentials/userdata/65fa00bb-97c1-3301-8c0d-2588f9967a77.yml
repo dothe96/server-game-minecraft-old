@@ -1,0 +1,24 @@
+lastAccountName: quy1
+timestamps:
+  login: 1478745892575
+  lastteleport: 1478747700221
+  kits:
+    diemdanh: 1478746799576
+  logout: 1478747805298
+ipAddress: 171.250.102.100
+socialspy: false
+lastlocation:
+  world: world
+  x: 4675.699999988079
+  y: 5.0
+  z: -2355.300000011921
+  yaw: -288.70392
+  pitch: -88.65
+money: '60.0'
+logoutlocation:
+  world: world
+  x: 4701.699999988079
+  y: 21.0
+  z: -2378.678529297862
+  yaw: 114.79596
+  pitch: -28.350016

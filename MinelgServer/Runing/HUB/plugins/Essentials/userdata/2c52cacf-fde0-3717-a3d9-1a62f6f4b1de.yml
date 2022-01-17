@@ -1,0 +1,27 @@
+lastAccountName: MrJisa
+timestamps:
+  login: 1478218235414
+  kits:
+    diemdanh: 1476587204174
+    tanthu: 1476587200922
+    tools: 1476587196520
+    food: 1476599390710
+  lastteleport: 1476607457468
+  logout: 1478218289236
+ipAddress: 113.176.150.161
+lastlocation:
+  world: world
+  x: -209.90069702731452
+  y: 108.0
+  z: -9.558706843014614
+  yaw: 60.59998
+  pitch: 22.349949
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -27.300013
+  pitch: 38.849987
+socialspy: false

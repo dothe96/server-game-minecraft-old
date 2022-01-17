@@ -1,0 +1,35 @@
+lastAccountName: Tigerr_VN
+timestamps:
+  login: 1478996216704
+  kits:
+    diemdanh: 1476962433873
+    tanthu: 1477821820890
+    tools: 1476962463954
+    food: 1476962457904
+  lastteleport: 1478996236281
+  logout: 1478996277123
+ipAddress: 113.180.87.70
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 0.8999866
+  pitch: -9.450014
+homes:
+  home:
+    world: world
+    x: -75.82117806852767
+    y: 66.0625
+    z: -14.20397701380843
+    yaw: -101.99914
+    pitch: 4.649974
+money: '1020.0'
+logoutlocation:
+  world: world
+  x: -78.35011105718759
+  y: 66.0
+  z: -24.441318663190764
+  yaw: -81.14914
+  pitch: -10.200027

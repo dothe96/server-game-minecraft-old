@@ -1,0 +1,29 @@
+lastAccountName: Emerald
+timestamps:
+  login: 1477200371189
+  lastteleport: 1477200414334
+  logout: 1477200424718
+ipAddress: 123.18.39.18
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.0999866
+  pitch: -15.000014
+socialspy: false
+homes:
+  home:
+    world: world
+    x: 1815.5
+    y: 107.0
+    z: 376.5
+    yaw: 77.11896
+    pitch: 87.29999
+logoutlocation:
+  world: world
+  x: 1814.3652999278222
+  y: 107.0
+  z: 376.75467593254416
+  yaw: 72.91896
+  pitch: 38.999992

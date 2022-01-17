@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Fizz
+timestamps:
+  login: 1476829952118
+  kits:
+    diemdanh: 1476829962543
+  logout: 1476829968597
+ipAddress: 123.18.42.192
+lastlocation:
+  world: world
+  x: -154.5
+  y: 86.0
+  z: -82.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -156.9174154608836
+  y: 87.5
+  z: -76.9972828144558
+  yaw: 104.549995
+  pitch: 12.599987

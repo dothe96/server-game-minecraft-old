@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: djnarkasa
+timestamps:
+  login: 1479134328264
+  lastteleport: 1478676577384
+  kits:
+    diemdanh: 1478440820013
+    tanthu: 1478073814788
+    tools: 1478073822910
+    food: 1478348039204
+  logout: 1479134386233
+ipAddress: 113.162.203.46
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -58.20002
+  pitch: 8.999983
+logoutlocation:
+  world: world
+  x: 2296.4413775318253
+  y: 79.09419174288735
+  z: -582.3041776114458
+  yaw: -26.212158
+  pitch: 30.750032
+homes:
+  home:
+    world: world
+    x: 2079.534954701469
+    y: 87.10593400439488
+    z: 1448.49399746755
+    yaw: 96.91571
+    pitch: 30.599987
+money: '9450.0'
+afk: false

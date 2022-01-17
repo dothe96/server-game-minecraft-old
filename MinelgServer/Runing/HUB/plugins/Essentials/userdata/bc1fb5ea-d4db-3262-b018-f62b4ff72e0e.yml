@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: longliemlon
+timestamps:
+  login: 1476855160392
+  logout: 1476855202595
+ipAddress: 123.18.42.192
+lastlocation:
+  world: world
+  x: -152.5
+  y: 86.0
+  z: -87.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -161.0031264231014
+  y: 86.0
+  z: -50.07158466123035
+  yaw: 2.5499866
+  pitch: -10.200014

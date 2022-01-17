@@ -1,0 +1,17 @@
+#// <>==<>==<> ItemJoin's Settings, by RockinChaos  <>==<>==<> //#
+#// See the Documentations page for a more in-depth tutorial; https://www.spigotmc.org/wiki/itemjoin/ //#
+#// For per-world support this best works with Multiverse-Inventories! http://dev.bukkit.org/bukkit-plugins/multiverse-inventories //#
+config-Version: 5
+
+ #// English is currently the only support language at the moment! //#
+Language: 'English'
+CheckforUpdates: true
+
+#// These are optional dependencies, changing the values will require a server restart. //#
+Vault: false
+PlaceholderAPI: false
+Multiverse-Core: false
+Multiverse-Inventories: false
+PerWorldInventory: false
+PerWorldPlugins: false
+AuthMe: false

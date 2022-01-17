@@ -1,0 +1,405 @@
+[2017/03/02 00:00:13] fybit executed //copy at Location{world=CraftWorld{name=world},x=-359.2769981362292,y=5.038296540264108,z=212.56474018004602,pitch=34.649986,yaw=-169.1892}
+[2017/03/02 00:01:58] fybit executed //copy at Location{world=CraftWorld{name=world},x=-360.36126336401884,y=4.0,z=209.72056547665179,pitch=33.44998,yaw=-180.43925}
+[2017/03/02 00:02:07] fybit executed //rotate at Location{world=CraftWorld{name=world},x=-352.3365238865932,y=4.0,z=210.78557930181682,pitch=11.999985,yaw=-167.38927}
+[2017/03/02 00:02:22] fybit executed //rotate 1 1 1 at Location{world=CraftWorld{name=world},x=-351.5235454295312,y=4.0,z=211.78575784018616,pitch=11.999985,yaw=-167.38927}
+[2017/03/02 00:02:29] fybit executed //paste at Location{world=CraftWorld{name=world},x=-352.7222165899018,y=4.0,z=212.6265282697591,pitch=10.949984,yaw=-176.53929}
+[2017/03/02 00:03:28] fybit executed //copy at Location{world=CraftWorld{name=world},x=-360.4319009970116,y=4.0,z=210.10109599350722,pitch=8.250075,yaw=-182.08917}
+[2017/03/02 00:03:40] fybit executed //rotate 1 0 0 at Location{world=CraftWorld{name=world},x=-365.5142062073695,y=4.0,z=211.3117696146895,pitch=19.05001,yaw=-186.43916}
+[2017/03/02 00:03:46] fybit executed //paste at Location{world=CraftWorld{name=world},x=-367.39606152923733,y=4.0,z=209.11794281578528,pitch=17.10001,yaw=-178.03914}
+[2017/03/02 00:04:04] fybit executed //rotate 1 1 0 at Location{world=CraftWorld{name=world},x=-367.0106877023513,y=4.0,z=217.0607251029909,pitch=17.100016,yaw=-176.98927}
+[2017/03/02 00:04:06] fybit executed //paste at Location{world=CraftWorld{name=world},x=-367.0106877023513,y=4.0,z=217.0607251029909,pitch=17.100016,yaw=-176.98927}
+[2017/03/02 00:04:41] fybit executed //paste 1 -1 1 at Location{world=CraftWorld{name=world},x=-372.63325638901034,y=4.0,z=212.5746040677382,pitch=15.900054,yaw=-179.3897}
+[2017/03/02 00:04:51] fybit executed //rotate 1 -1 10 at Location{world=CraftWorld{name=world},x=-372.63325638901034,y=4.0,z=212.5746040677382,pitch=15.900054,yaw=-179.3897}
+[2017/03/02 00:04:56] fybit executed //paste at Location{world=CraftWorld{name=world},x=-372.63325638901034,y=4.0,z=212.5746040677382,pitch=10.050054,yaw=-175.93971}
+[2017/03/02 00:05:06] fybit executed /gm 3 at Location{world=CraftWorld{name=world},x=-348.65694368324006,y=19.248013170755872,z=175.09354367097905,pitch=-9.299987,yaw=-152.8395}
+[2017/03/02 00:05:22] fybit executed /gm 3 at Location{world=CraftWorld{name=world},x=-310.30754357623687,y=25.440991285622697,z=156.8642770414108,pitch=6.750016,yaw=39.16059}
+[2017/03/02 00:05:31] fybit executed /weather sun at Location{world=CraftWorld{name=world},x=-352.3870544887741,y=22.82150119810122,z=210.39632037205348,pitch=10.500013,yaw=52.960587}
+[2017/03/02 00:05:36] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-371.6979952902107,y=5.947235191616477,z=212.41031206135696,pitch=1.7999994,yaw=186.76054}
+[2017/03/02 00:05:57] fybit executed //copy at Location{world=CraftWorld{name=world},x=-367.50401017882734,y=4.0,z=209.18680078794586,pitch=27.000021,yaw=180.16043}
+[2017/03/02 00:06:15] fybit executed //flip at Location{world=CraftWorld{name=world},x=-367.49038874763403,y=4.0,z=194.00224305724302,pitch=21.000021,yaw=183.0104}
+[2017/03/02 00:06:25] fybit executed //paste at Location{world=CraftWorld{name=world},x=-367.49038874763403,y=4.0,z=194.00224305724302,pitch=21.000021,yaw=183.0104}
+[2017/03/02 00:06:46] fybit executed //copy at Location{world=CraftWorld{name=world},x=-367.6966561067723,y=4.0,z=208.48592495999256,pitch=23.699991,yaw=184.96027}
+[2017/03/02 00:06:50] fybit executed //flip at Location{world=CraftWorld{name=world},x=-367.6966561067723,y=4.0,z=208.48592495999256,pitch=23.699991,yaw=184.96027}
+[2017/03/02 00:07:00] fybit executed //paste at Location{world=CraftWorld{name=world},x=-368.43060318057655,y=4.0,z=206.53351438299248,pitch=27.59999,yaw=2.4103136}
+[2017/03/02 00:07:00] wolf executed / at Location{world=CraftWorld{name=world},x=-318.24457946124204,y=24.00158061876301,z=139.48232690493464,pitch=-5.2500234,yaw=-75.617065}
+[2017/03/02 00:07:12] fybit executed /gm 3 at Location{world=CraftWorld{name=world},x=-367.3637683128547,y=7.61830201484422,z=206.79106812454177,pitch=30.000015,yaw=193.81029}
+[2017/03/02 00:07:39] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-315.42112587220004,y=24.503889343798615,z=145.55007710449237,pitch=-2.699947,yaw=-48.88971}
+[2017/03/02 00:08:17] fybit executed //copy at Location{world=CraftWorld{name=world},x=-284.4921814374312,y=22.0,z=159.49329522210198,pitch=25.200039,yaw=3.6102755}
+[2017/03/02 00:08:35] fybit executed //flip at Location{world=CraftWorld{name=world},x=-284.70268166588573,y=22.0,z=112.51775882336158,pitch=-1.9499869,yaw=-176.38951}
+[2017/03/02 00:08:39] fybit executed //paste at Location{world=CraftWorld{name=world},x=-284.70268166588573,y=22.0,z=112.51775882336158,pitch=-1.9499869,yaw=-176.38951}
+[2017/03/02 00:08:53] fybit executed //paste at Location{world=CraftWorld{name=world},x=-339.445522764487,y=22.0,z=112.416923029043,pitch=11.849982,yaw=-183.73932}
+[2017/03/02 00:12:32] fybit executed //set 159:5 at Location{world=CraftWorld{name=world},x=-277.1085271509138,y=22.0,z=117.7717567474149,pitch=29.849955,yaw=-103.789734}
+[2017/03/02 00:12:43] fybit executed //set 159:5 at Location{world=CraftWorld{name=world},x=-369.0092475374104,y=28.984033134529202,z=116.48101559804158,pitch=-22.650038,yaw=-183.28943}
+[2017/03/02 00:12:52] fybit executed //set 159:5 at Location{world=CraftWorld{name=world},x=-374.9788041911905,y=22.0,z=150.9251748722569,pitch=16.499947,yaw=-328.03955}
+[2017/03/02 00:29:07] fybit executed //copy at Location{world=CraftWorld{name=world},x=-294.30436017971505,y=22.0,z=159.51856016707015,pitch=18.449986,yaw=6.143525}
+[2017/03/02 00:29:17] fybit executed //paste at Location{world=CraftWorld{name=world},x=-284.4715029559596,y=22.0,z=159.2756463131158,pitch=1.3500055,yaw=2.2435377}
+[2017/03/02 00:29:45] fybit executed //paste at Location{world=CraftWorld{name=world},x=-304.3610227995367,y=22.0,z=159.3876062144291,pitch=21.15005,yaw=4.0436234}
+[2017/03/02 00:30:03] fybit executed //copy at Location{world=CraftWorld{name=world},x=-284.4091075769377,y=22.0,z=159.59245146038805,pitch=9.300001,yaw=-36.60641}
+[2017/03/02 00:30:15] fybit executed //paste at Location{world=CraftWorld{name=world},x=-339.45096492166516,y=22.0,z=159.48775259378942,pitch=-3.1499848,yaw=2.2436213}
+[2017/03/02 00:30:22] fybit executed //flip at Location{world=CraftWorld{name=world},x=-339.18346993088727,y=22.0,z=153.96257970908383,pitch=10.650014,yaw=145.64359}
+[2017/03/02 00:30:38] fybit executed //flip at Location{world=CraftWorld{name=world},x=-339.18346993088727,y=22.0,z=153.96257970908383,pitch=10.650014,yaw=145.64359}
+[2017/03/02 00:37:07] fybit executed //cut at Location{world=CraftWorld{name=world},x=-340.4541991860867,y=22.0,z=157.28647452583905,pitch=29.399788,yaw=329.6936}
+[2017/03/02 00:37:32] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-314.4112609010406,y=22.259403677023194,z=156.48520073773588,pitch=26.24978,yaw=316.94318}
+[2017/03/02 00:37:41] fybit executed //delete at Location{world=CraftWorld{name=world},x=-314.4112609010406,y=22.259403677023194,z=156.48520073773588,pitch=26.24978,yaw=316.94318}
+[2017/03/02 00:37:47] fybit executed //cut at Location{world=CraftWorld{name=world},x=-314.4112609010406,y=22.259403677023194,z=156.48520073773588,pitch=26.24978,yaw=316.94318}
+[2017/03/02 00:38:07] fybit executed /mrl list at Location{world=CraftWorld{name=world},x=-286.5725291120926,y=25.26616721323186,z=145.53695655506442,pitch=42.14978,yaw=30.592987}
+[2017/03/02 00:38:14] fybit executed /mrl del goa at Location{world=CraftWorld{name=world},x=-293.8820922217589,y=25.26616721323186,z=145.80103905627735,pitch=42.14978,yaw=30.592987}
+[2017/03/02 00:41:28] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-275.52866647966954,y=23.052402960467777,z=135.41355319826016,pitch=48.44985,yaw=351.89276}
+[2017/03/02 00:41:32] fybit executed //cut at Location{world=CraftWorld{name=world},x=-275.5147333916181,y=23.052402960467777,z=135.41355319826016,pitch=48.44985,yaw=351.89276}
+[2017/03/02 00:41:52] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-374.2611124098044,y=23.809132560534735,z=139.9701410576532,pitch=59.249855,yaw=146.09222}
+[2017/03/02 00:42:23] fybit executed //cut at Location{world=CraftWorld{name=world},x=-374.2611124098044,y=23.809132560534735,z=139.9701410576532,pitch=59.249855,yaw=146.09222}
+[2017/03/02 00:49:30] fybit executed //cut at Location{world=CraftWorld{name=world},x=-377.58436804228046,y=4.0,z=163.32465898152626,pitch=-10.200009,yaw=173.38208}
+[2017/03/02 00:50:59] fybit executed //paste at Location{world=CraftWorld{name=world},x=-378.668673995441,y=4.0,z=163.25419693612986,pitch=4.3500066,yaw=178.48206}
+[2017/03/02 00:52:47] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-335.74810478359876,y=29.412842162514078,z=111.74698384694645,pitch=-28.50003,yaw=242.23352}
+[2017/03/02 00:53:01] fybit executed //cut at Location{world=CraftWorld{name=world},x=-333.7162395299565,y=22.0,z=161.42332872051972,pitch=34.049976,yaw=281.38464}
+[2017/03/02 00:53:15] fybit executed //set 159:5 at Location{world=CraftWorld{name=world},x=-332.5438992934238,y=22.0,z=111.56231117181908,pitch=36.59996,yaw=213.13403}
+[2017/03/02 00:53:28] fybit executed //set 159:5 at Location{world=CraftWorld{name=world},x=-331.55676257667835,y=26.98831355954252,z=160.6070687083796,pitch=51.899956,yaw=1.9342041}
+[2017/03/02 00:53:38] fybit executed //set 159:5 at Location{world=CraftWorld{name=world},x=-332.3893996417634,y=22.882171345485276,z=159.19999998807907,pitch=34.799953,yaw=1.4841309}
+[2017/03/02 00:55:10] fybit executed //cut at Location{world=CraftWorld{name=world},x=-339.5025930339457,y=22.0,z=156.422050688695,pitch=16.200006,yaw=179.6825}
+[2017/03/02 00:55:25] fybit executed //paste at Location{world=CraftWorld{name=world},x=-338.4881223535756,y=22.0,z=156.3707559018806,pitch=11.250001,yaw=180.13196}
+[2017/03/02 00:55:51] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-371.30000001192093,y=25.907601373521736,z=116.30000001192093,pitch=-3.1499686,yaw=268.4818}
+[2017/03/02 01:05:55] fybit executed /nbti add at Location{world=CraftWorld{name=world},x=-282.1661516548869,y=23.01453804959618,z=154.32255151140845,pitch=30.000048,yaw=316.32373}
+[2017/03/02 01:06:13] fybit executed /nbti mod add AttackDamage 0 100 at Location{world=CraftWorld{name=world},x=-282.1661516548869,y=23.01453804959618,z=154.32255151140845,pitch=30.000048,yaw=316.32373}
+[2017/03/02 01:11:02] fybit executed /gm 3 at Location{world=CraftWorld{name=world},x=-308.0392322227003,y=27.38527570578349,z=141.92064128858996,pitch=-4.4997783,yaw=113.671875}
+[2017/03/02 01:11:09] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-285.19630771307715,y=41.26450768515391,z=114.64253405777356,pitch=27.600216,yaw=231.87122}
+[2017/03/02 01:11:26] fybit executed /gm 3 at Location{world=CraftWorld{name=world},x=-373.7664384324556,y=28.158230988671992,z=165.24030367406374,pitch=20.55016,yaw=233.97437}
+[2017/03/02 01:11:41] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-334.5834972167018,y=25.168766195770573,z=138.94270023294257,pitch=-3.8998342,yaw=269.37305}
+[2017/03/02 01:11:55] fybit executed //set 2 at Location{world=CraftWorld{name=world},x=-312.9510656501697,y=24.055303179324223,z=125.25379840463135,pitch=-26.84982,yaw=122.07532}
+[2017/03/02 01:12:01] fybit executed //set 3 at Location{world=CraftWorld{name=world},x=-325.50837526153737,y=22.0,z=134.3856855422475,pitch=-12.149822,yaw=72.87573}
+[2017/03/02 01:12:08] fybit executed //set 4 at Location{world=CraftWorld{name=world},x=-327.2529268307406,y=22.0,z=137.6895820545504,pitch=-12.149822,yaw=72.87573}
+[2017/03/02 01:12:13] fybit executed //set 5 at Location{world=CraftWorld{name=world},x=-327.2529268307406,y=22.0,z=137.6895820545504,pitch=-12.149822,yaw=72.87573}
+[2017/03/02 01:12:16] fybit executed //set 6 at Location{world=CraftWorld{name=world},x=-327.2529268307406,y=22.0,z=137.6895820545504,pitch=-12.149822,yaw=72.87573}
+[2017/03/02 01:14:10] fybit executed //set 43:5 at Location{world=CraftWorld{name=world},x=-330.3561978047478,y=22.0,z=141.35221649200108,pitch=-17.39982,yaw=90.87598}
+[2017/03/02 01:15:39] fybit executed //copy at Location{world=CraftWorld{name=world},x=-284.42205802156496,y=22.0,z=159.518625563706,pitch=55.950005,yaw=2.9768677}
+[2017/03/02 01:15:51] fybit executed //paste at Location{world=CraftWorld{name=world},x=-340.5005542041179,y=22.0,z=159.47142701656674,pitch=11.100004,yaw=0.8772583}
+[2017/03/02 01:18:00] fybit executed //set 100 at Location{world=CraftWorld{name=world},x=-315.15489514928805,y=26.372674440415075,z=117.89378386014013,pitch=62.85001,yaw=63.277405}
+[2017/03/02 01:18:20] fybit executed //set 110 at Location{world=CraftWorld{name=world},x=-316.5439556295516,y=23.382542401521114,z=115.83809725963036,pitch=25.200005,yaw=358.47745}
+[2017/03/02 01:18:59] fybit executed //set 35:1 at Location{world=CraftWorld{name=world},x=-316.5281484870501,y=23.382542401521114,z=144.60207239620766,pitch=23.399998,yaw=4.027405}
+[2017/03/02 01:19:12] fybit executed //set 35:4 at Location{world=CraftWorld{name=world},x=-319.80184101927205,y=23.382542401521114,z=156.25708406053872,pitch=12.9,yaw=239.82747}
+[2017/03/02 01:19:27] fybit executed //set 35:4 at Location{world=CraftWorld{name=world},x=-284.7694146739314,y=23.335552631031405,z=155.40766172789634,pitch=45.600002,yaw=248.97765}
+[2017/03/02 01:19:36] fybit executed //set 35:4 at Location{world=CraftWorld{name=world},x=-282.92639598235166,y=23.335552631031405,z=119.61955413245772,pitch=50.10004,yaw=146.82738}
+[2017/03/02 01:19:43] fybit executed //set 35:4 at Location{world=CraftWorld{name=world},x=-313.54111017916154,y=23.335552631031405,z=116.73770526373318,pitch=50.400043,yaw=71.97738}
+[2017/03/02 01:20:04] fybit executed //set 35:4 at Location{world=CraftWorld{name=world},x=-338.52266111206876,y=23.350340878340255,z=117.06821082256515,pitch=78.60006,yaw=181.4775}
+[2017/03/02 01:20:13] fybit executed //set 35:4 at Location{world=CraftWorld{name=world},x=-371.80428436086527,y=23.350340878340255,z=116.84876167519221,pitch=65.999985,yaw=-52.522476}
+[2017/03/02 01:20:21] fybit executed //set 35:4 at Location{world=CraftWorld{name=world},x=-370.46945263926807,y=23.350340878340255,z=151.0311430515016,pitch=42.15001,yaw=0.577533}
+[2017/03/02 01:20:28] fybit executed //set 35:4 at Location{world=CraftWorld{name=world},x=-340.2243893629978,y=23.350340878340255,z=153.81241422677274,pitch=61.05003,yaw=-69.77238}
+[2017/03/02 01:28:22] fybit executed /rml at Location{world=CraftWorld{name=world},x=-314.19102059951473,y=23.7413690442708,z=122.20502595395959,pitch=43.649895,yaw=-165.92165}
+[2017/03/02 01:28:25] fybit executed /mrl at Location{world=CraftWorld{name=world},x=-314.19102059951473,y=23.7413690442708,z=122.20502595395959,pitch=43.649895,yaw=-165.92165}
+[2017/03/02 01:30:25] fybit executed /mrl erase goa at Location{world=CraftWorld{name=world},x=-312.4590780020447,y=23.7413690442708,z=123.42491540514911,pitch=43.649895,yaw=-165.92165}
+[2017/03/02 01:31:05] fybit executed //cut at Location{world=CraftWorld{name=world},x=-314.69999998807907,y=5.0,z=153.30000001192093,pitch=48.599834,yaw=-114.17158}
+[2017/03/02 01:31:54] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-341.1775374337421,y=24.090115913165018,z=159.07565403316363,pitch=85.49998,yaw=-144.92142}
+[2017/03/02 01:31:58] fybit executed //cut at Location{world=CraftWorld{name=world},x=-342.7382460233786,y=24.090115913165018,z=158.76472042187834,pitch=50.69999,yaw=-166.82141}
+[2017/03/02 01:32:20] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-283.90143208270143,y=22.221410367830938,z=157.9029344139672,pitch=25.949944,yaw=-150.02136}
+[2017/03/02 01:32:27] fybit executed //cut at Location{world=CraftWorld{name=world},x=-283.90143208270143,y=22.221410367830938,z=157.9029344139672,pitch=25.949944,yaw=-150.02136}
+[2017/03/02 01:33:06] fybit executed //cut at Location{world=CraftWorld{name=world},x=-312.4817385819568,y=22.0,z=116.62761896445993,pitch=89.85,yaw=4.028405}
+[2017/03/02 01:33:18] fybit executed //paste at Location{world=CraftWorld{name=world},x=-311.40633369021776,y=22.0,z=116.54320995642449,pitch=37.649967,yaw=3.1283946}
+[2017/03/02 01:33:41] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-316.69999998807907,y=24.48793005079547,z=120.87730669122854,pitch=43.34998,yaw=187.0283}
+[2017/03/02 01:37:15] fybit executed //set 159:5 at Location{world=CraftWorld{name=world},x=-323.16944204301353,y=24.0810806530868,z=113.68452191966159,pitch=8.849941,yaw=194.07831}
+[2017/03/02 01:38:10] fybit executed //relpace 1 5:1 at Location{world=CraftWorld{name=world},x=-297.69999998807907,y=30.501171281560435,z=119.69999998807907,pitch=36.450012,yaw=67.62809}
+[2017/03/02 01:38:19] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-297.69999998807907,y=28.631399112839325,z=119.69999998807907,pitch=36.450012,yaw=67.47809}
+[2017/03/02 01:38:40] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-377.066764796566,y=23.774943093878694,z=119.11911094518592,pitch=62.100048,yaw=160.92804}
+[2017/03/02 01:39:06] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-370.0023146507209,y=23.800572763971786,z=112.6058197360633,pitch=56.700058,yaw=125.22829}
+[2017/03/02 01:39:49] fybit executed /undo at Location{world=CraftWorld{name=world},x=-371.4559205136448,y=23.805368682582888,z=114.3023943969064,pitch=49.499985,yaw=-193.67128}
+[2017/03/02 01:40:16] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-283.55049514058817,y=24.102855512863172,z=157.1017735877984,pitch=51.000008,yaw=-41.121735}
+[2017/03/02 01:40:27] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-279.0868567901949,y=24.110860156747542,z=117.23898882023083,pitch=61.20003,yaw=-112.07123}
+[2017/03/02 01:40:39] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-375.49839353037976,y=23.365323982099625,z=118.59178177165762,pitch=65.40007,yaw=-208.3711}
+[2017/03/02 01:41:21] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-370.74809336984146,y=23.380327318584936,z=114.08630860746993,pitch=46.500053,yaw=-181.0716}
+[2017/03/02 01:52:27] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-332.3390351397202,y=23.360017261640166,z=121.60647346537228,pitch=55.500214,yaw=132.72606}
+[2017/03/02 01:52:38] fybit executed //cut at Location{world=CraftWorld{name=world},x=-332.2820922105502,y=23.360017261640166,z=121.64083295382365,pitch=55.500214,yaw=132.72606}
+[2017/03/02 01:52:47] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-316.5080191085825,y=23.360017261640166,z=153.81320826381932,pitch=61.950233,yaw=328.62622}
+[2017/03/02 01:53:02] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-314.5851806663139,y=23.744916342623124,z=120.18334858871404,pitch=60.750286,yaw=147.87636}
+[2017/03/02 01:53:11] fybit executed //replace 1 5:1 at Location{world=CraftWorld{name=world},x=-315.47855651420423,y=23.000962930661075,z=153.1931953698432,pitch=88.650314,yaw=-0.17368655}
+[2017/03/02 01:53:33] fybit executed //set 5:1 at Location{world=CraftWorld{name=world},x=-317.01443219699405,y=23.000962930661075,z=152.12210637613933,pitch=58.95003,yaw=247.02635}
+[2017/03/02 01:55:59] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-282.53014771236946,y=24.518113319497914,z=152.4780346204027,pitch=58.200127,yaw=330.7279}
+[2017/03/02 01:56:03] fybit executed //cut at Location{world=CraftWorld{name=world},x=-282.53014771236946,y=24.518113319497914,z=152.4780346204027,pitch=58.200127,yaw=330.7279}
+[2017/03/02 01:56:45] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-284.29199196802176,y=23.202264957465616,z=136.1873296106689,pitch=38.10011,yaw=260.67816}
+[2017/03/02 01:56:49] fybit executed //cut at Location{world=CraftWorld{name=world},x=-284.29199196802176,y=23.202264957465616,z=136.1873296106689,pitch=38.10011,yaw=260.67816}
+[2017/03/02 02:01:30] fybit executed /skin zed_ at Location{world=CraftWorld{name=world},x=-286.90238029023294,y=25.955664101060034,z=121.83478959130969,pitch=11.399985,yaw=23.834534}
+[2017/03/02 02:03:56] fybit executed //set 85 at Location{world=CraftWorld{name=world},x=-278.2575313096586,y=22.0,z=132.55541113761996,pitch=16.350048,yaw=291.88147}
+[2017/03/02 02:04:17] fybit executed //set 85 at Location{world=CraftWorld{name=world},x=-277.70715335298615,y=30.493797861008563,z=140.13381000548455,pitch=-13.349958,yaw=229.33124}
+[2017/03/02 02:04:27] fybit executed //set 85 at Location{world=CraftWorld{name=world},x=-280.13253845035837,y=29.738205984401354,z=150.5141828699124,pitch=-40.799934,yaw=220.18054}
+[2017/03/02 02:11:08] fybit executed //set 2 at Location{world=CraftWorld{name=world},x=-332.2657356415604,y=27.89516229634057,z=131.7961904792684,pitch=-49.800022,yaw=156.87994}
+[2017/03/02 11:23:36] fybit executed //copy at Location{world=CraftWorld{name=world},x=-276.30000001192093,y=22.0,z=117.40434516506588,pitch=4.6499987,yaw=275.22943}
+[2017/03/02 11:24:27] fybit executed //flip at Location{world=CraftWorld{name=world},x=-376.48057844109104,y=22.0,z=154.54185146609672,pitch=89.24987,yaw=267.87842}
+[2017/03/02 11:24:41] fybit executed //paste at Location{world=CraftWorld{name=world},x=-376.48057844109104,y=22.0,z=154.54185146609672,pitch=72.14995,yaw=265.9287}
+[2017/03/02 11:25:04] fybit executed //undo at Location{world=CraftWorld{name=world},x=-376.4712952444791,y=24.12849569050851,z=146.50925587008354,pitch=42.749985,yaw=239.97821}
+[2017/03/02 11:25:29] fybit executed //copy at Location{world=CraftWorld{name=world},x=-276.30000001192093,y=22.0,z=153.54836178806082,pitch=29.850008,yaw=271.6283}
+[2017/03/02 11:26:08] fybit executed //copy at Location{world=CraftWorld{name=world},x=-276.4298454834771,y=22.0,z=153.50229145135793,pitch=50.550007,yaw=268.3261}
+[2017/03/02 11:26:46] fybit executed //paste at Location{world=CraftWorld{name=world},x=-378.79677809497565,y=22.0,z=153.30000001192093,pitch=53.39999,yaw=276.87622}
+[2017/03/02 11:27:09] fybit executed //set 159:5 at Location{world=CraftWorld{name=world},x=-372.90722927522233,y=23.378062066564556,z=118.079711429468,pitch=41.550003,yaw=96.42566}
+[2017/03/02 12:26:41] chicken executed /tp fybit at Location{world=CraftWorld{name=world},x=-71.2285793315959,y=43.0,z=186.9293138051073,pitch=44.7,yaw=5.9604646E-9}
+[2017/03/02 12:26:48] fybit executed /op chicken at Location{world=CraftWorld{name=world},x=-333.6288640658388,y=22.0,z=128.52703065026162,pitch=-58.500027,yaw=3.118164}
+[2017/03/02 12:26:53] chicken executed /tp fybit at Location{world=CraftWorld{name=world},x=-73.98971704316233,y=46.875,z=179.22939921828848,pitch=43.79999,yaw=62.699936}
+[2017/03/02 12:26:58] chicken executed /gm 1 at Location{world=CraftWorld{name=world},x=-338.64743273471095,y=22.0,z=133.88915444374342,pitch=2.5499437,yaw=322.31714}
+[2017/03/02 12:36:54] fybit executed //cut at Location{world=CraftWorld{name=world},x=-333.71068491645275,y=28.248539737989137,z=130.99982891543084,pitch=-55.800003,yaw=251.05688}
+[2017/03/02 12:41:31] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-318.48418483441844,y=28.584810291198593,z=130.14170657162992,pitch=-36.74998,yaw=296.65747}
+[2017/03/02 12:41:39] fybit executed //cut at Location{world=CraftWorld{name=world},x=-316.53151135470915,y=28.584810291198593,z=134.73080282071717,pitch=-39.599983,yaw=94.75781}
+[2017/03/02 12:41:44] fybit executed //cut at Location{world=CraftWorld{name=world},x=-312.013083866133,y=28.584810291198593,z=133.03703736957684,pitch=-30.299976,yaw=278.65674}
+[2017/03/02 12:42:07] fybit executed //cet 1 at Location{world=CraftWorld{name=world},x=-367.8125301543593,y=29.717303244203457,z=141.23012921618104,pitch=-19.04994,yaw=220.0083}
+[2017/03/02 12:42:12] fybit executed //set 1 at Location{world=CraftWorld{name=world},x=-367.8125301543593,y=29.717303244203457,z=141.23012921618104,pitch=-13.799942,yaw=180.25854}
+[2017/03/02 12:42:20] fybit executed //cuty at Location{world=CraftWorld{name=world},x=-367.7737582959423,y=28.973349832241407,z=136.86590116864275,pitch=-26.84994,yaw=275.35986}
+[2017/03/02 12:42:22] fybit executed //cut at Location{world=CraftWorld{name=world},x=-367.7706618028379,y=28.973349832241407,z=136.86590116864275,pitch=-26.84994,yaw=275.35986}
+[2017/03/02 12:42:28] fybit executed //cut at Location{world=CraftWorld{name=world},x=-374.5275003877988,y=28.973349832241407,z=136.37647611516414,pitch=-33.149944,yaw=53.809814}
+[2017/03/02 13:12:57] chicken executed /gm 3 at Location{world=CraftWorld{name=world},x=-370.2477907051164,y=27.075423023142697,z=116.98667508581501,pitch=-8.100028,yaw=-265.5396}
+[2017/03/02 13:13:00] chicken executed /gm 1 at Location{world=CraftWorld{name=world},x=-372.9741915624353,y=38.694754781605354,z=113.53336123474406,pitch=49.19997,yaw=-191.73962}
+[2017/03/02 13:13:20] chicken executed //cut at Location{world=CraftWorld{name=world},x=-266.0907445248719,y=34.202757292644534,z=164.12425510370517,pitch=44.54998,yaw=-211.99011}
+[2017/03/02 13:13:26] chicken executed /time set day at Location{world=CraftWorld{name=world},x=-275.10595470502886,y=34.202757292644534,z=162.28260536168176,pitch=34.499985,yaw=-238.2398}
+[2017/03/02 13:14:06] chicken executed //cut at Location{world=CraftWorld{name=world},x=-310.5333656400786,y=33.34594974843969,z=112.31824963244566,pitch=39.449955,yaw=-80.590576}
+[2017/03/02 13:14:16] chicken executed //cut at Location{world=CraftWorld{name=world},x=-294.39491828514906,y=28.10717787168424,z=157.77786801118773,pitch=-31.05002,yaw=-97.99103}
+[2017/03/02 13:14:23] chicken executed //cut at Location{world=CraftWorld{name=world},x=-295.9452460679158,y=29.97695004040535,z=113.73478235368549,pitch=46.649963,yaw=-94.39075}
+[2017/03/02 13:14:34] chicken executed //cut at Location{world=CraftWorld{name=world},x=-301.9877366030412,y=25.47245649552022,z=157.5709286598486,pitch=-61.500065,yaw=-260.2904}
+[2017/03/02 13:14:45] chicken executed //cut at Location{world=CraftWorld{name=world},x=-290.94033233379554,y=29.96721677444225,z=112.30000001192093,pitch=30.149927,yaw=-280.0905}
+[2017/03/02 13:14:55] chicken executed //cut at Location{world=CraftWorld{name=world},x=-292.62086240473826,y=28.8496238365931,z=158.97429354908834,pitch=1.4999295,yaw=-189.04034}
+[2017/03/02 13:15:09] chicken executed //cut at Location{world=CraftWorld{name=world},x=-305.73323270188894,y=27.73696896998017,z=113.41536255761623,pitch=-14.250069,yaw=-109.69049}
+[2017/03/02 13:15:36] chicken executed /up 1 at Location{world=CraftWorld{name=world},x=-326.45027158021514,y=35.097660047948025,z=159.47767706011217,pitch=83.24998,yaw=-3.1897583}
+[2017/03/02 13:15:36] chicken executed /up 1 at Location{world=CraftWorld{name=world},x=-326.5,y=36.0,z=159.5,pitch=83.24998,yaw=-3.1897583}
+[2017/03/02 13:15:38] chicken executed //cut at Location{world=CraftWorld{name=world},x=-326.5,y=36.0,z=159.5,pitch=90.0,yaw=-6.3397584}
+[2017/03/02 13:15:50] chicken executed /up 1 at Location{world=CraftWorld{name=world},x=-327.8424244943393,y=37.5011109314699,z=110.86683485615981,pitch=75.30001,yaw=-176.43977}
+[2017/03/02 13:15:50] chicken executed /up 1 at Location{world=CraftWorld{name=world},x=-327.5,y=38.0,z=110.5,pitch=75.30001,yaw=-176.43977}
+[2017/03/02 13:15:52] chicken executed //cut at Location{world=CraftWorld{name=world},x=-327.5,y=38.0,z=110.5,pitch=90.0,yaw=-178.23978}
+[2017/03/02 13:16:01] chicken executed //cut at Location{world=CraftWorld{name=world},x=-321.4089780138908,y=26.76130247767212,z=159.3006261112586,pitch=-2.850002,yaw=-209.43982}
+[2017/03/02 13:16:16] chicken executed //cut at Location{world=CraftWorld{name=world},x=-366.9909752617004,y=32.7630414641478,z=160.89299363621654,pitch=33.750015,yaw=-118.69092}
+[2017/03/02 13:16:23] chicken executed //cut at Location{world=CraftWorld{name=world},x=-334.35591542384526,y=32.7630414641478,z=139.21631035733856,pitch=43.35003,yaw=-355.69073}
+[2017/03/02 13:16:45] chicken executed //cut at Location{world=CraftWorld{name=world},x=-362.19999998807907,y=30.524744130307045,z=111.05000001192093,pitch=12.3000345,yaw=-51.040894}
+[2017/03/02 13:16:54] chicken executed //cut at Location{world=CraftWorld{name=world},x=-346.4217603308598,y=29.407151192457896,z=152.66880601074266,pitch=50.250034,yaw=-327.9407}
+[2017/03/02 13:22:56] chicken executed /plotme at Location{world=CraftWorld{name=world},x=-301.9511671460163,y=21.250620899675837,z=136.22127178816834,pitch=30.450077,yaw=-331.09143}
+[2017/03/02 13:23:56] fybit executed //set 101 at Location{world=CraftWorld{name=world},x=-377.78727207982024,y=35.379422293568005,z=111.54652877486907,pitch=48.600075,yaw=155.93872}
+[2017/03/02 13:24:28] fybit executed //set 101 at Location{world=CraftWorld{name=world},x=-274.04023009775017,y=34.29176699415104,z=110.66462452647146,pitch=61.19998,yaw=170.6355}
+[2017/03/02 13:24:32] chicken executed //set 101 at Location{world=CraftWorld{name=world},x=-377.8906477337532,y=33.0,z=160.86579501832364,pitch=35.850033,yaw=-337.2412}
+[2017/03/02 13:24:44] chicken executed //set 101 at Location{world=CraftWorld{name=world},x=-276.3909516880155,y=33.0,z=162.2099148917,pitch=3.7500322,yaw=-82.3916}
+[2017/03/02 13:24:45] fybit executed //set 101 at Location{world=CraftWorld{name=world},x=-375.89169189237913,y=36.875542744533234,z=112.14342039653313,pitch=47.09999,yaw=226.43481}
+[2017/03/02 13:24:50] chicken executed //set 101 at Location{world=CraftWorld{name=world},x=-274.757643225627,y=33.0,z=111.73334899741475,pitch=25.500034,yaw=-176.14172}
+[2017/03/02 13:25:09] chicken executed //set 101 at Location{world=CraftWorld{name=world},x=-374.90891314322687,y=33.0,z=159.58403504318977,pitch=-11.399978,yaw=-305.74194}
+[2017/03/02 13:25:24] fybit executed /gm 3 at Location{world=CraftWorld{name=world},x=-360.1855365788697,y=36.487474369328574,z=141.37655194390624,pitch=10.199998,yaw=98.48291}
+[2017/03/02 13:25:29] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-336.2194612152832,y=27.86814268605966,z=143.7075428324125,pitch=13.050001,yaw=262.73315}
+[2017/03/02 13:25:47] fybit executed /time set day at Location{world=CraftWorld{name=world},x=-319.6447133881474,y=22.0,z=129.3473287828745,pitch=4.2000284,yaw=242.18286}
+[2017/03/02 13:25:48] chicken executed /time set day at Location{world=CraftWorld{name=world},x=-318.0469656859406,y=22.0,z=132.77972998412045,pitch=1.3500625,yaw=-169.24231}
+[2017/03/02 13:26:18] chicken executed //cut at Location{world=CraftWorld{name=world},x=-378.632789496688,y=36.76356700979264,z=110.69224104012918,pitch=57.600025,yaw=-82.54297}
+[2017/03/02 13:31:25] chicken executed /time set night at Location{world=CraftWorld{name=world},x=-375.2688798298545,y=22.0,z=154.42764300217337,pitch=34.649998,yaw=-112.24402}
+[2017/03/02 13:34:50] fybit executed //set 287 at Location{world=CraftWorld{name=world},x=-325.84099161239584,y=22.0,z=146.24300061437424,pitch=-1.4999346,yaw=288.2077}
+[2017/03/02 13:35:08] fybit executed //set string at Location{world=CraftWorld{name=world},x=-301.75338648549433,y=34.293515153534024,z=154.17833576719667,pitch=-7.199935,yaw=305.4576}
+[2017/03/02 13:35:31] fybit executed //set stringe at Location{world=CraftWorld{name=world},x=-333.53406300346853,y=36.174012932151726,z=159.2428134176919,pitch=14.400074,yaw=50.60761}
+[2017/03/02 13:35:39] fybit executed //cut at Location{world=CraftWorld{name=world},x=-333.3165117669158,y=35.05641999430258,z=159.36295833608236,pitch=13.500074,yaw=6.0576096}
+[2017/03/02 13:36:02] fybit executed //set 30 at Location{world=CraftWorld{name=world},x=-333.3165117669158,y=35.05641999430258,z=159.28322011931633,pitch=14.550076,yaw=-10.592391}
+[2017/03/02 13:36:24] fybit executed //set 30 at Location{world=CraftWorld{name=world},x=-377.1560942830957,y=35.05641999430258,z=160.77992214346236,pitch=15.600082,yaw=41.00763}
+[2017/03/02 13:43:43] fybit executed /plot at Location{world=CraftWorld{name=world},x=-322.959627424902,y=22.0,z=133.24135441157523,pitch=-1.9498675,yaw=-75.9917}
+[2017/03/02 13:43:58] fybit executed /tp chicken at Location{world=CraftWorld{name=world},x=-327.5007356480493,y=51.481819379952405,z=162.17470417569973,pitch=43.65012,yaw=-164.79175}
+[2017/03/02 13:44:51] chicken executed /plot me at Location{world=CraftWorld{name=world},x=-323.6726255477543,y=52.26442677823857,z=31.36975948723872,pitch=62.10001,yaw=288.9984}
+[2017/03/02 13:44:55] chicken executed /plotme at Location{world=CraftWorld{name=world},x=-323.73935566164954,y=45.52009463852957,z=31.36975948723872,pitch=66.59997,yaw=274.44885}
+[2017/03/02 13:44:56] fybit executed /plot at Location{world=CraftWorld{name=world},x=-328.4964124145817,y=22.0,z=139.68915384849316,pitch=-0.15001795,yaw=339.5495}
+[2017/03/02 13:45:02] chicken executed /plotme auto at Location{world=CraftWorld{name=world},x=-323.73935566164954,y=45.52009463852957,z=31.36975948723872,pitch=66.59997,yaw=273.84875}
+[2017/03/02 13:45:12] chicken executed /plotme at Location{world=CraftWorld{name=world},x=-311.10899813984605,y=24.15076249338865,z=27.567195729892973,pitch=78.449936,yaw=197.19885}
+[2017/03/02 13:45:12] fybit executed /plotme help at Location{world=CraftWorld{name=world},x=-331.67569566686115,y=30.00581815202766,z=139.03616089871025,pitch=8.69999,yaw=270.3994}
+[2017/03/02 13:45:17] fybit executed /plotmeadmin at Location{world=CraftWorld{name=world},x=-331.67569566686115,y=30.00581815202766,z=139.03616089871025,pitch=8.69999,yaw=270.3994}
+[2017/03/02 13:45:24] chicken executed /plotme help at Location{world=CraftWorld{name=world},x=-303.13606175182554,y=27.557941128935745,z=118.65376412938653,pitch=25.049969,yaw=322.29846}
+[2017/03/02 13:45:45] chicken executed /plotme auto at Location{world=CraftWorld{name=world},x=-336.76996083714135,y=22.68860223572477,z=128.5459567183679,pitch=20.549961,yaw=113.049194}
+[2017/03/02 13:45:49] chicken executed /plotme claim at Location{world=CraftWorld{name=world},x=-337.12793992241933,y=22.68860223572477,z=122.48420237605146,pitch=20.549961,yaw=113.049194}
+[2017/03/02 13:46:07] chicken executed /plugins at Location{world=CraftWorld{name=world},x=-340.3901416537527,y=22.68860223572477,z=154.6583985508515,pitch=20.399958,yaw=352.59827}
+[2017/03/02 13:46:18] fybit executed /g at Location{world=CraftWorld{name=world},x=-303.3226537589264,y=30.00581815202766,z=139.41425035002356,pitch=20.39999,yaw=295.4494}
+[2017/03/02 13:46:20] fybit executed /rg at Location{world=CraftWorld{name=world},x=-303.25292334089136,y=30.00581815202766,z=139.4285212492674,pitch=20.39999,yaw=295.4494}
+[2017/03/02 13:46:35] chicken executed /plotme at Location{world=CraftWorld{name=world},x=-294.19999998807907,y=22.68860223572477,z=160.6999999880791,pitch=48.45001,yaw=86.19934}
+[2017/03/02 13:46:42] chicken executed /plotme claim chicken at Location{world=CraftWorld{name=world},x=-331.59299987025355,y=22.68860223572477,z=149.93089695208928,pitch=90.0,yaw=108.849}
+[2017/03/02 13:52:25] fybit executed /rg create test at Location{world=CraftWorld{name=world},x=-343.7940313820142,y=4.0,z=192.8801122863478,pitch=27.15003,yaw=33.548584}
+[2017/03/02 13:52:45] fybit executed /rg flag at Location{world=CraftWorld{name=world},x=-346.8581607037358,y=4.0,z=197.31634842648677,pitch=37.350044,yaw=180.54845}
+[2017/03/02 13:52:49] fybit executed /rg flag test sddfsa at Location{world=CraftWorld{name=world},x=-346.8581607037358,y=4.0,z=197.31634842648677,pitch=37.350044,yaw=180.54845}
+[2017/03/02 13:53:16] fybit executed /rg flag test lighter at Location{world=CraftWorld{name=world},x=-346.8581607037358,y=4.0,z=197.31634842648677,pitch=37.350044,yaw=180.54845}
+[2017/03/02 13:53:22] fybit executed /rg flag test lighter allow at Location{world=CraftWorld{name=world},x=-347.07270715504876,y=4.0,z=196.48744390122334,pitch=13.650043,yaw=165.39847}
+[2017/03/02 13:53:55] chicken executed /tp fybit at Location{world=CraftWorld{name=world},x=-71.61648906739927,y=47.163238060064984,z=232.19250071376462,pitch=22.799995,yaw=3.093628}
+[2017/03/02 13:54:07] fybit executed /rg flag test lighter allow at Location{world=CraftWorld{name=world},x=-346.30000001192093,y=4.0,z=198.6910097768996,pitch=0.90003765,yaw=178.29895}
+[2017/03/02 13:54:59] chicken executed /plotme at Location{world=CraftWorld{name=world},x=-298.4028935102997,y=47.25105514847525,z=184.38802300474458,pitch=15.899996,yaw=-169.25269}
+[2017/03/02 13:55:03] chicken executed /plotme auto at Location{world=CraftWorld{name=world},x=-299.619695790619,y=47.25105514847525,z=178.3985783640364,pitch=15.899996,yaw=-169.25269}
+[2017/03/02 13:55:08] fybit executed /rg flag test sadas at Location{world=CraftWorld{name=world},x=-346.8363931850441,y=4.0,z=198.38884315312166,pitch=11.999999,yaw=-1.1011988}
+[2017/03/02 13:57:12] fybit executed /tp chicken at Location{world=CraftWorld{name=world},x=-315.2492929005807,y=29.62606022827106,z=144.43400233026233,pitch=-37.199986,yaw=-51.501396}
+[2017/03/02 13:57:40] fybit executed /back at Location{world=CraftWorld{name=world},x=-78.202195258348,y=52.657609627868126,z=190.93374163388384,pitch=1.2000028,yaw=339.09937}
+[2017/03/02 13:58:10] fybit executed //set 30 at Location{world=CraftWorld{name=world},x=-277.7411174059993,y=36.24364887667604,z=111.82806344934517,pitch=20.55002,yaw=-120.5014}
+[2017/03/02 13:58:22] fybit executed //set 30 at Location{world=CraftWorld{name=world},x=-375.1107286689806,y=36.24364887667604,z=111.90969932701282,pitch=21.750013,yaw=-233.90193}
+[2017/03/02 13:58:31] fybit executed //set 30 at Location{world=CraftWorld{name=world},x=-374.66115419932544,y=36.24364887667604,z=158.13117210631881,pitch=21.899994,yaw=-328.25183}
+[2017/03/02 13:58:36] chicken executed /tp fybit at Location{world=CraftWorld{name=world},x=17.874889618340745,y=40.305667483853135,z=221.06724383005454,pitch=32.249966,yaw=-70.697876}
+[2017/03/02 13:59:48] fybit executed /spawn at Location{world=CraftWorld{name=world},x=-338.7950801592245,y=39.128639443221466,z=143.19058416532755,pitch=-10.049942,yaw=302.6483}
+[2017/03/02 14:00:09] chicken executed /tp f at Location{world=CraftWorld{name=world},x=-326.9284016217682,y=36.38126048363547,z=142.56869054844404,pitch=29.850018,yaw=338.94678}
+[2017/03/02 14:00:36] chicken executed /tp fybit at Location{world=CraftWorld{name=world},x=-4.429350785122479,y=38.0625,z=312.16563720708984,pitch=1.3500476,yaw=49.89861}
+[2017/03/02 14:03:33] fybit executed /skin red at Location{world=CraftWorld{name=world},x=-316.01992297170494,y=25.312370565328308,z=121.3562559256739,pitch=-3.7499342,yaw=182.49817}
+[2017/03/02 14:04:08] chicken executed /skin Zed_ at Location{world=CraftWorld{name=world},x=-327.35849296360715,y=26.251153083583702,z=137.21528629152738,pitch=26.850111,yaw=111.99951}
+[2017/03/02 14:07:37] fybit executed /mv at Location{world=CraftWorld{name=world},x=-319.6074299937126,y=23.385619093128838,z=139.8261493911143,pitch=7.500039,yaw=331.74817}
+[2017/03/02 14:14:34] fybit executed /plot at Location{world=CraftWorld{name=world},x=-320.71049119872845,y=22.0,z=140.22188528078703,pitch=12.000036,yaw=162.54822}
+[2017/03/02 14:14:41] fybit executed /plot create at Location{world=CraftWorld{name=world},x=-321.2999479158147,y=22.0,z=138.0454329792678,pitch=12.000036,yaw=162.54822}
+[2017/03/02 14:16:12] chicken executed /TP fybit at Location{world=CraftWorld{name=world},x=-350.0396033091397,y=63.16933285741645,z=144.14938431165268,pitch=33.6,yaw=109.59952}
+[2017/03/02 14:30:58] fybit executed /mvimport plots normal -g PlotMe-DefaultGenerator at Location{world=CraftWorld{name=world},x=-324.9907232932595,y=22.0,z=136.62968339720769,pitch=24.000032,yaw=149.34819}
+[2017/03/02 14:32:20] chicken executed /plotme at Location{world=CraftWorld{name=world},x=-354.41243470629496,y=33.637219768317536,z=109.86250001192093,pitch=33.149933,yaw=105.69821}
+[2017/03/02 14:32:24] chicken executed /plotme auto at Location{world=CraftWorld{name=world},x=-356.4016605064802,y=33.637219768317536,z=109.86250001192093,pitch=47.099934,yaw=16.898224}
+[2017/03/02 14:32:50] chicken executed /weather sun at Location{world=CraftWorld{name=world},x=-372.69999998807907,y=30.200000047683716,z=111.30000001192093,pitch=90.0,yaw=156.54825}
+[2017/03/02 14:35:20] fybit executed //mv at Location{world=CraftWorld{name=world},x=-330.9845803720077,y=22.0,z=137.26268881367184,pitch=9.150002,yaw=285.09692}
+[2017/03/02 14:35:23] fybit executed /mv at Location{world=CraftWorld{name=world},x=-330.9845803720077,y=22.0,z=137.26268881367184,pitch=9.150002,yaw=285.09692}
+[2017/03/02 14:39:08] fybit executed /mv plots normal -g PlotMe-DefaultGenerator at Location{world=CraftWorld{name=world},x=-331.0060910881219,y=22.0,z=137.14565927377197,pitch=9.150002,yaw=285.09692}
+[2017/03/02 14:42:36] fybit executed /mv create plots normal -g -PlotMe-DefaultGenerator at Location{world=CraftWorld{name=world},x=-330.4916033927116,y=22.0,z=136.76837308122055,pitch=9.150002,yaw=285.09692}
+[2017/03/02 14:44:28] fybit executed /mv create plots normal -g -PlotMe-DefaultGenerator at Location{world=CraftWorld{name=world},x=-321.9674413026126,y=22.0,z=144.01151769578414,pitch=4.9500003,yaw=323.49695}
+[2017/03/02 14:45:59] fybit executed /mv create plots normal -g PlotMe-DefaultGenerator at Location{world=CraftWorld{name=world},x=-321.9674413026126,y=22.0,z=144.01151769578414,pitch=6.600001,yaw=323.64697}
+[2017/03/02 14:46:19] fybit executed /mv create plots normal -g PlotMe-DefaultGenerator at Location{world=CraftWorld{name=world},x=-321.9674413026126,y=22.0,z=144.01151769578414,pitch=-6.2999945,yaw=280.14703}
+[2017/03/02 14:46:41] fybit executed /world at Location{world=CraftWorld{name=world},x=-321.9674413026126,y=22.0,z=144.01151769578414,pitch=-6.2999945,yaw=280.14703}
+[2017/03/02 14:55:03] fybit executed /world plots at Location{world=CraftWorld{name=world_nether},x=-39.5,y=34.0,z=18.5,pitch=0.90000004,yaw=0.0}
+[2017/03/02 14:55:08] fybit executed /world list at Location{world=CraftWorld{name=world_nether},x=-40.35716087233639,y=34.0,z=18.5,pitch=0.90000004,yaw=0.0}
+[2017/03/02 14:55:45] fybit executed /back at Location{world=CraftWorld{name=world_nether},x=-40.35716087233639,y=34.0,z=18.5,pitch=0.90000004,yaw=0.0}
+[2017/03/02 14:55:47] fybit executed /back at Location{world=CraftWorld{name=world_nether},x=-39.5,y=34.0,z=18.5,pitch=0.90000004,yaw=0.0}
+[2017/03/02 14:55:52] fybit executed /spawn at Location{world=CraftWorld{name=world_nether},x=-40.5,y=34.0,z=18.5,pitch=0.90000004,yaw=0.0}
+[2017/03/02 14:55:58] fybit executed /world at Location{world=CraftWorld{name=world_nether},x=-40.5,y=34.0,z=18.5,pitch=0.90000004,yaw=0.0}
+[2017/03/02 14:56:03] fybit executed /world 1 at Location{world=CraftWorld{name=world},x=-328.1777054657695,y=22.0,z=143.17451414655625,pitch=0.0,yaw=0.0}
+[2017/03/02 14:56:06] fybit executed /world 2 at Location{world=CraftWorld{name=world_nether},x=-40.5,y=34.0,z=18.5,pitch=0.0,yaw=0.0}
+[2017/03/02 14:56:09] fybit executed /world 3 at Location{world=CraftWorld{name=world_the_end},x=-40.5,y=58.0,z=18.5,pitch=0.0,yaw=0.0}
+[2017/03/02 14:56:12] fybit executed /world 0 at Location{world=CraftWorld{name=world_the_end},x=-40.5,y=58.0,z=18.5,pitch=0.0,yaw=0.0}
+[2017/03/02 14:56:18] fybit executed /back at Location{world=CraftWorld{name=world},x=-32.41649693485772,y=20.40685183034947,z=8.620419392657913,pitch=14.549994,yaw=-101.69995}
+[2017/03/02 14:56:21] fybit executed /back at Location{world=CraftWorld{name=world_the_end},x=-40.5,y=58.0,z=18.5,pitch=0.0,yaw=0.0}
+[2017/03/02 14:57:10] fybit executed /warp a at Location{world=CraftWorld{name=world},x=-326.40026806425067,y=22.0,z=134.95670978783292,pitch=29.39996,yaw=177.74995}
+[2017/03/02 14:57:15] fybit executed /setwarp a at Location{world=CraftWorld{name=world},x=-326.45500916224876,y=22.0,z=134.90938031268036,pitch=29.39996,yaw=177.74995}
+[2017/03/02 14:58:07] fybit executed /mv create plots normal -g PlotMe-DefaultGenerator at Location{world=CraftWorld{name=world},x=-322.8512876713786,y=24.019247829468167,z=143.80423257608112,pitch=8.849959,yaw=-12.1500025}
+[2017/03/02 14:58:20] fybit executed /mv create plot normal -g PlotMe-DefaultGenerator at Location{world=CraftWorld{name=world},x=-322.8512876713786,y=24.019247829468167,z=143.80423257608112,pitch=8.849959,yaw=-12.1500025}
+[2017/03/02 14:58:29] fybit executed /mv create plot normal at Location{world=CraftWorld{name=world},x=-323.2640228138363,y=22.0,z=137.7958971375416,pitch=8.849959,yaw=-12.1500025}
+[2017/03/02 14:58:38] fybit executed /mvimport at Location{world=CraftWorld{name=world},x=-322.5231104048859,y=22.0,z=136.08501066963964,pitch=8.849959,yaw=-12.1500025}
+[2017/03/02 14:58:54] fybit executed /mv at Location{world=CraftWorld{name=world},x=-301.8999096514983,y=22.0,z=156.65246068517646,pitch=15.299987,yaw=-69.45003}
+[2017/03/02 14:59:02] fybit executed /mv list at Location{world=CraftWorld{name=world},x=-301.8999096514983,y=22.0,z=156.65246068517646,pitch=15.299987,yaw=-69.45003}
+[2017/03/02 15:00:15] fybit executed /p auito at Location{world=CraftWorld{name=world},x=-301.8999096514983,y=22.0,z=156.65246068517646,pitch=15.299987,yaw=-69.45003}
+[2017/03/02 15:00:18] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-301.8999096514983,y=22.0,z=156.65246068517646,pitch=15.299987,yaw=-69.45003}
+[2017/03/02 15:00:41] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-289.12041304259265,y=22.0,z=158.10077035572738,pitch=19.949982,yaw=-147.89998}
+[2017/03/02 15:00:48] fybit executed /p at Location{world=CraftWorld{name=world},x=-311.3748997892905,y=22.0,z=155.05702302795524,pitch=14.8499975,yaw=-252.60019}
+[2017/03/02 15:00:57] fybit executed /p auto plots at Location{world=CraftWorld{name=world},x=-311.3748997892905,y=22.0,z=155.05702302795524,pitch=14.8499975,yaw=-252.60019}
+[2017/03/02 15:29:38] fybit executed /nbti at Location{world=CraftWorld{name=world},x=-80.0,y=46.0,z=179.0,pitch=0.0,yaw=0.0}
+[2017/03/02 15:32:13] fybit executed /nbti at Location{world=CraftWorld{name=world},x=-79.90441696606305,y=46.0,z=178.68906620028176,pitch=0.0,yaw=0.0}
+[2017/03/02 15:33:26] fybit executed /warp a at Location{world=CraftWorld{name=world},x=-79.3614400675663,y=46.0,z=179.92455761119155,pitch=18.9,yaw=0.5999999}
+[2017/03/02 15:35:28] fybit executed /warp a at Location{world=CraftWorld{name=world},x=-329.3714725823857,y=22.0,z=132.97374760051053,pitch=1.7999579,yaw=285.59995}
+[2017/03/02 15:42:12] fybit executed /nbti at Location{world=CraftWorld{name=world},x=-340.4544794079269,y=22.0,z=157.3723598835245,pitch=26.250065,yaw=42.59995}
+[2017/03/02 16:56:37] fybit executed /ezrankspro at Location{world=CraftWorld{name=world},x=-324.5404883872586,y=22.0,z=139.44401795442448,pitch=-5.2499566,yaw=-175.35031}
+[2017/03/02 16:56:40] fybit executed /ezrankspro at Location{world=CraftWorld{name=world},x=-324.5404883872586,y=22.0,z=139.44401795442448,pitch=-5.2499566,yaw=-175.35031}
+[2017/03/02 16:56:43] fybit executed /ezranks at Location{world=CraftWorld{name=world},x=-324.5404883872586,y=22.0,z=139.44401795442448,pitch=-5.2499566,yaw=-175.35031}
+[2017/03/02 16:56:53] fybit executed /rankup at Location{world=CraftWorld{name=world},x=-324.5404883872586,y=22.0,z=139.44401795442448,pitch=-5.2499566,yaw=-175.35031}
+[2017/03/02 16:57:27] fybit executed /list at Location{world=CraftWorld{name=world},x=-324.5404883872586,y=22.0,z=139.44401795442448,pitch=-5.2499566,yaw=-175.35031}
+[2017/03/02 16:57:59] fybit executed /rankup a at Location{world=CraftWorld{name=world},x=-319.6860917213284,y=22.0,z=123.98329987043022,pitch=-1.9499646,yaw=-62.55017}
+[2017/03/02 18:36:47] fybit executed /setspawn at Location{world=CraftWorld{name=world},x=-79.48349519244172,y=46.0,z=179.55748150715738,pitch=14.550003,yaw=-1.0499885}
+[2017/03/02 18:36:55] fybit executed /setspawn at Location{world=CraftWorld{name=world},x=-79.48349519244172,y=46.0,z=179.55748150715738,pitch=14.550003,yaw=-1.0499885}
+[2017/03/02 18:37:49] fybit executed /warp a at Location{world=CraftWorld{name=world},x=-80.04467971312842,y=46.0,z=180.26720025034479,pitch=23.100023,yaw=-306.30002}
+[2017/03/02 18:38:35] fybit executed /back at Location{world=CraftWorld{name=world},x=-80.0,y=46.0,z=179.0,pitch=-0.15,yaw=0.0}
+[2017/03/02 18:39:16] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-325.54406010817314,y=22.0,z=140.26685532973022,pitch=57.14993,yaw=249.30013}
+[2017/03/02 18:39:29] fybit executed /ezrankspro at Location{world=CraftWorld{name=world},x=-329.4467437606207,y=22.0,z=145.16719404011974,pitch=29.549925,yaw=-60.4498}
+[2017/03/02 18:39:33] fybit executed /ezrankspro list at Location{world=CraftWorld{name=world},x=-329.4467437606207,y=22.0,z=145.16719404011974,pitch=29.549925,yaw=-60.4498}
+[2017/03/02 18:43:36] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-336.4781341268371,y=22.0,z=132.05103745984727,pitch=21.749907,yaw=-197.84964}
+[2017/03/02 18:50:37] fybit executed //wand at Location{world=CraftWorld{name=world},x=-330.87161981173205,y=24.493907480229474,z=137.41772702416534,pitch=-5.8500485,yaw=175.351}
+[2017/03/02 18:50:42] fybit executed /spawn at Location{world=CraftWorld{name=world},x=-333.3218567658365,y=24.493907480229474,z=130.61778919996658,pitch=0.44995075,yaw=202.65094}
+[2017/03/02 18:51:24] fybit executed //cut at Location{world=CraftWorld{name=world},x=-320.35759886635503,y=22.0,z=112.67829994330066,pitch=81.15,yaw=184.80072}
+[2017/03/02 18:51:30] fybit executed //paste at Location{world=CraftWorld{name=world},x=-319.5014903832217,y=22.0,z=112.6588026604976,pitch=84.74998,yaw=176.70074}
+[2017/03/02 18:52:11] fybit executed //cut at Location{world=CraftWorld{name=world},x=-321.5881373695586,y=22.0,z=114.17554184551355,pitch=90.0,yaw=183.60042}
+[2017/03/02 18:52:14] fybit executed //paste at Location{world=CraftWorld{name=world},x=-320.7326575568471,y=22.0,z=114.22530256910984,pitch=90.0,yaw=183.60042}
+[2017/03/02 18:54:02] fybit executed //set 159:5 at Location{world=CraftWorld{name=world},x=-331.01542374984643,y=22.519411467608986,z=113.24559814572983,pitch=7.049991,yaw=190.50081}
+[2017/03/02 18:59:50] fybit executed /nbti mod add AttackDamage 0 1000 at Location{world=CraftWorld{name=world},x=-329.249434152616,y=22.0,z=129.56459558308333,pitch=3.7500057,yaw=174.3}
+[2017/03/02 19:23:06] fybit executed //cut at Location{world=CraftWorld{name=world},x=-336.34008102998285,y=22.0,z=114.58638794468183,pitch=21.600014,yaw=178.95642}
+[2017/03/02 19:23:26] fybit executed //cut at Location{world=CraftWorld{name=world},x=-310.6493805213986,y=29.03359385313949,z=114.07443821204537,pitch=-15.149987,yaw=190.65515}
+[2017/03/02 19:23:46] fybit executed //cit at Location{world=CraftWorld{name=world},x=-315.1935622169593,y=27.930167780092045,z=114.3278732605738,pitch=-18.74998,yaw=167.10596}
+[2017/03/02 19:23:48] fybit executed //cut at Location{world=CraftWorld{name=world},x=-315.20398494523556,y=27.930167780092045,z=114.3278732605738,pitch=-18.74998,yaw=167.10596}
+[2017/03/02 19:23:57] fybit executed //cut at Location{world=CraftWorld{name=world},x=-335.1025304569325,y=22.0,z=112.54975125758457,pitch=34.80001,yaw=172.3562}
+[2017/03/02 19:29:56] fybit executed //cut at Location{world=CraftWorld{name=world},x=-319.37727174106556,y=24.0,z=117.63974158366703,pitch=77.99996,yaw=177.30823}
+[2017/03/02 19:30:04] fybit executed //paste at Location{world=CraftWorld{name=world},x=-319.37727174106556,y=23.0,z=117.63974158366703,pitch=63.299946,yaw=174.00842}
+[2017/03/02 22:35:25] fybit executed /ranup at Location{world=CraftWorld{name=world},x=-322.49039930222887,y=22.0,z=141.38405223939577,pitch=1.3499501,yaw=-176.24356}
+[2017/03/02 22:35:29] fybit executed /rank at Location{world=CraftWorld{name=world},x=-323.5674029429931,y=22.0,z=140.84922969514815,pitch=1.3499501,yaw=-176.24356}
+[2017/03/02 22:35:33] fybit executed /ranks at Location{world=CraftWorld{name=world},x=-323.5674029429931,y=22.0,z=140.84922969514815,pitch=1.3499501,yaw=-176.24356}
+[2017/03/02 22:37:12] fybit executed /rankup at Location{world=CraftWorld{name=world},x=-316.8107221666694,y=22.0,z=149.427624183526,pitch=14.999949,yaw=21.156435}
+[2017/03/02 22:37:28] fybit executed /plot at Location{world=CraftWorld{name=world},x=-316.8107221666694,y=22.0,z=149.427624183526,pitch=14.84995,yaw=21.006435}
+[2017/03/02 22:37:41] fybit executed /plot help admin at Location{world=CraftWorld{name=world},x=-316.8107221666694,y=22.0,z=149.427624183526,pitch=14.84995,yaw=21.006435}
+[2017/03/02 22:38:38] fybit executed /rankup help at Location{world=CraftWorld{name=world},x=-316.8107221666694,y=22.0,z=149.427624183526,pitch=10.649951,yaw=20.106436}
+[2017/03/02 22:43:02] fybit executed /mv create plots normal -g PlotSquared at Location{world=CraftWorld{name=world},x=-316.8107221666694,y=22.0,z=149.427624183526,pitch=12.44995,yaw=-59.543556}
+[2017/03/02 22:43:16] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-325.74337339422203,y=22.0,z=129.6843959433182,pitch=3.14995,yaw=-215.8436}
+[2017/03/02 22:44:40] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-325.74337339422203,y=22.0,z=129.6843959433182,pitch=3.14995,yaw=-215.8436}
+[2017/03/02 22:45:05] fybit executed /gm 1 at Location{world=CraftWorld{name=plots},x=-33.46369291012129,y=65.0,z=-8.43639249512556,pitch=17.699978,yaw=-139.49992}
+[2017/03/02 22:45:20] fybit executed /back at Location{world=CraftWorld{name=plots},x=-6.5974396684726955,y=72.41324918038676,z=-15.852845554665468,pitch=18.899954,yaw=63.299816}
+[2017/03/02 22:46:07] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-84.74993167007787,y=46.0,z=179.488875,pitch=-0.15,yaw=0.0}
+[2017/03/02 22:50:53] fybit executed /mv create plotslg normal -g PlotSquared:h=54,s=100,b=44,f=159:9 at Location{world=CraftWorld{name=world},x=-84.76249998807907,y=46.0,z=179.36875121625988,pitch=-0.15,yaw=0.15}
+[2017/03/02 22:51:02] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-84.76249998807907,y=46.0,z=179.36875121625988,pitch=-0.15,yaw=0.15}
+[2017/03/02 22:51:14] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-80.03859027657688,y=46.0,z=179.09442265177236,pitch=4.3499947,yaw=7.499999}
+[2017/03/02 22:51:27] fybit executed /mv list at Location{world=CraftWorld{name=world},x=-80.03859027657688,y=46.0,z=179.09442265177236,pitch=4.3499947,yaw=7.499999}
+[2017/03/02 22:51:40] fybit executed /mv at Location{world=CraftWorld{name=world},x=-80.03859027657688,y=46.0,z=179.09442265177236,pitch=4.3499947,yaw=7.499999}
+[2017/03/02 22:51:57] fybit executed /mv del plots at Location{world=CraftWorld{name=world},x=-80.03859027657688,y=46.0,z=179.09442265177236,pitch=4.3499947,yaw=7.499999}
+[2017/03/02 22:52:14] fybit executed /mv delete plots at Location{world=CraftWorld{name=world},x=-80.03859027657688,y=46.0,z=179.09442265177236,pitch=4.3499947,yaw=7.499999}
+[2017/03/02 22:52:56] fybit executed /mv delete plots at Location{world=CraftWorld{name=world},x=-80.03859027657688,y=46.0,z=179.09442265177236,pitch=4.3499947,yaw=7.499999}
+[2017/03/02 22:53:27] fybit executed /mv delete plots at Location{world=CraftWorld{name=world},x=-80.03859027657688,y=46.0,z=179.09442265177236,pitch=3.8999944,yaw=7.349999}
+[2017/03/02 22:53:36] fybit executed /mvconfirm at Location{world=CraftWorld{name=world},x=-80.03859027657688,y=46.0,z=179.09442265177236,pitch=3.8999944,yaw=7.349999}
+[2017/03/02 22:53:43] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-80.28603120902731,y=48.543470144102855,z=177.33551714429083,pitch=17.999994,yaw=11.699998}
+[2017/03/02 22:53:46] fybit executed /p at Location{world=CraftWorld{name=world},x=-81.65453508338456,y=45.54910330803466,z=178.19999998807907,pitch=17.999994,yaw=11.699998}
+[2017/03/02 22:53:53] fybit executed /p help admin at Location{world=CraftWorld{name=world},x=-81.77513985465642,y=45.54910330803466,z=178.19999998807907,pitch=17.999994,yaw=11.699998}
+[2017/03/02 22:54:08] fybit executed /mv at Location{world=CraftWorld{name=world},x=-81.77513985465642,y=45.54910330803466,z=178.19999998807907,pitch=17.999994,yaw=11.699998}
+[2017/03/02 22:54:13] fybit executed /mv list at Location{world=CraftWorld{name=world},x=-81.77513985465642,y=45.54910330803466,z=178.19999998807907,pitch=17.999994,yaw=11.699998}
+[2017/03/02 22:54:25] fybit executed /world 4 at Location{world=CraftWorld{name=world},x=-81.77513985465642,y=45.54910330803466,z=178.19999998807907,pitch=17.999994,yaw=11.699998}
+[2017/03/02 22:54:30] fybit executed /world 3 at Location{world=CraftWorld{name=world},x=-80.99480433509777,y=45.54910330803466,z=178.19999998807907,pitch=17.999994,yaw=11.699998}
+[2017/03/02 22:56:10] fybit executed /warp a at Location{world=CraftWorld{name=plotslg},x=-103.06726038706316,y=55.5,z=170.24506693009695,pitch=18.599972,yaw=142.20015}
+[2017/03/02 22:56:15] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-325.3926277731078,y=22.0,z=136.1493189245216,pitch=29.39996,yaw=177.74995}
+[2017/03/02 22:56:26] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-80.0,y=46.0,z=179.0,pitch=0.0,yaw=0.0}
+[2017/03/02 22:56:42] fybit executed /mv delete plotslg at Location{world=CraftWorld{name=world},x=-80.0,y=46.0,z=179.0,pitch=0.0,yaw=0.0}
+[2017/03/02 22:56:49] fybit executed /mvconfirm at Location{world=CraftWorld{name=world},x=-80.0,y=46.0,z=179.0,pitch=0.0,yaw=0.0}
+[2017/03/02 22:57:05] fybit executed /p at Location{world=CraftWorld{name=world},x=-80.01886926417176,y=46.0,z=177.854598362855,pitch=0.0,yaw=0.0}
+[2017/03/02 22:57:10] fybit executed /p help all at Location{world=CraftWorld{name=world},x=-80.01886926417176,y=46.0,z=177.854598362855,pitch=0.0,yaw=0.0}
+[2017/03/02 22:57:18] fybit executed /p help all 2 at Location{world=CraftWorld{name=world},x=-80.01886926417176,y=46.0,z=177.854598362855,pitch=0.0,yaw=0.0}
+[2017/03/02 22:57:22] fybit executed /p help all 3 at Location{world=CraftWorld{name=world},x=-80.01886926417176,y=46.0,z=177.854598362855,pitch=0.0,yaw=0.0}
+[2017/03/02 22:57:35] fybit executed /p help all 4 at Location{world=CraftWorld{name=world},x=-80.01886926417176,y=46.0,z=177.854598362855,pitch=0.0,yaw=0.0}
+[2017/03/02 23:01:46] fybit executed /mv create plotslg normal -g PlotSquared:h=54,s=150,b=44,f=2, at Location{world=CraftWorld{name=world},x=-80.01886926417176,y=46.0,z=177.854598362855,pitch=0.0,yaw=0.0}
+[2017/03/02 23:01:52] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-80.01886926417176,y=46.0,z=177.854598362855,pitch=0.0,yaw=0.0}
+[2017/03/02 23:01:56] fybit executed /p auto 100 100 at Location{world=CraftWorld{name=world},x=-80.01886926417176,y=46.0,z=177.854598362855,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:03] fybit executed /p me at Location{world=CraftWorld{name=world},x=-80.01886926417176,y=46.0,z=177.854598362855,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:11] fybit executed /p help all 3 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:13] fybit executed /p help all 4 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:16] fybit executed /p help all 5 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:18] fybit executed /p help all 6 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:21] fybit executed /p help all 7 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:24] fybit executed /p help all 8 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:27] fybit executed /p help all 9 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:30] fybit executed /p help all 10 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:35] fybit executed /p help all 11 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:39] fybit executed /p help all 12 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:42] fybit executed /p help all 13 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:46] fybit executed /p help all 1 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:02:52] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:03:01] fybit executed /world 3 at Location{world=CraftWorld{name=world},x=-79.85752567041831,y=46.0,z=178.05381580579177,pitch=0.0,yaw=0.0}
+[2017/03/02 23:03:10] fybit executed /gm 1 at Location{world=CraftWorld{name=plotslg},x=-99.10767833318415,y=55.0,z=169.0620878572051,pitch=65.25001,yaw=173.09995}
+[2017/03/02 23:04:22] fybit executed /back at Location{world=CraftWorld{name=plotslg},x=-92.25878409230103,y=55.0,z=215.03522579094277,pitch=7.049881,yaw=75.14987}
+[2017/03/02 23:04:40] fybit executed /mv delete plotslg at Location{world=CraftWorld{name=world},x=-79.5,y=46.0,z=178.5,pitch=0.0,yaw=0.0}
+[2017/03/02 23:04:45] fybit executed /mvconfirm at Location{world=CraftWorld{name=world},x=-79.5,y=46.0,z=178.5,pitch=0.0,yaw=0.0}
+[2017/03/02 23:07:09] fybit executed /mv create plotslg normal -g PlotSquared:h=54,s=120,b=44,m=2 at Location{world=CraftWorld{name=world},x=-79.5,y=46.0,z=178.5,pitch=0.0,yaw=0.0}
+[2017/03/02 23:07:18] fybit executed /world 3 at Location{world=CraftWorld{name=world},x=-79.5,y=46.0,z=178.5,pitch=0.0,yaw=0.0}
+[2017/03/02 23:07:25] fybit executed /gm 1 at Location{world=CraftWorld{name=plotslg},x=-85.91857481744343,y=55.0,z=186.80446870131397,pitch=60.900017,yaw=32.400013}
+[2017/03/02 23:07:53] fybit executed /p update at Location{world=CraftWorld{name=plotslg},x=-94.93851565177205,y=63.11246318045303,z=196.2422131515707,pitch=3.6000223,yaw=-144.59999}
+[2017/03/02 23:08:32] fybit executed /warp a at Location{world=CraftWorld{name=plotslg},x=-94.93851565177205,y=63.11246318045303,z=196.2422131515707,pitch=3.6000223,yaw=-144.59999}
+[2017/03/02 23:08:45] fybit executed /mv delete plotslg at Location{world=CraftWorld{name=world},x=-326.5,y=22.0,z=134.5,pitch=29.39996,yaw=177.74995}
+[2017/03/02 23:08:50] fybit executed /mvconfirm at Location{world=CraftWorld{name=world},x=-326.5,y=22.0,z=134.5,pitch=29.39996,yaw=177.74995}
+[2017/03/02 23:11:18] fybit executed /mv create plots normal -g PlotSquared:b=44 at Location{world=CraftWorld{name=world},x=-325.1207864860785,y=22.0,z=137.517330215459,pitch=-11.25005,yaw=179.09993}
+[2017/03/02 23:11:31] fybit executed /world 3 at Location{world=CraftWorld{name=world},x=-325.1207864860785,y=22.0,z=137.517330215459,pitch=-11.25005,yaw=179.09993}
+[2017/03/02 23:11:47] fybit executed /gm 1 at Location{world=CraftWorld{name=plots},x=-329.3764057073475,y=65.0,z=131.2465913687644,pitch=75.89999,yaw=180.90012}
+[2017/03/02 23:12:15] fybit executed /p help admin at Location{world=CraftWorld{name=plots},x=-331.2639136619593,y=70.86944407895734,z=96.07483047353307,pitch=32.09996,yaw=290.55035}
+[2017/03/02 23:12:43] fybit executed /p help admin 2 at Location{world=CraftWorld{name=plots},x=-331.2639136619593,y=70.86944407895734,z=96.07483047353307,pitch=32.09996,yaw=290.55035}
+[2017/03/02 23:13:08] fybit executed /p createroadschematic 159:9 at Location{world=CraftWorld{name=plots},x=-331.2639136619593,y=70.86944407895734,z=96.07483047353307,pitch=32.09996,yaw=290.55035}
+[2017/03/02 23:13:18] fybit executed /p me at Location{world=CraftWorld{name=plots},x=-326.0960646087819,y=92.2311914140533,z=136.1019675802602,pitch=45.89997,yaw=45.600403}
+[2017/03/02 23:13:28] fybit executed /back at Location{world=CraftWorld{name=plots},x=-329.26970571494576,y=92.2311914140533,z=136.00985290400882,pitch=45.89997,yaw=45.600403}
+[2017/03/02 23:13:40] fybit executed /mv delete plots at Location{world=CraftWorld{name=world},x=-325.5,y=22.0,z=137.5,pitch=-11.25005,yaw=179.09993}
+[2017/03/02 23:13:47] fybit executed /mvconfirm at Location{world=CraftWorld{name=world},x=-325.5,y=22.0,z=137.5,pitch=-11.25005,yaw=179.09993}
+[2017/03/02 23:14:18] fybit executed /mv create plots normal -g PlotSquared:b=44,s=120,m=2 at Location{world=CraftWorld{name=world},x=-325.5,y=22.0,z=137.5,pitch=-11.25005,yaw=179.09993}
+[2017/03/02 23:14:29] fybit executed /world 3 at Location{world=CraftWorld{name=world},x=-325.5,y=22.0,z=137.5,pitch=-11.25005,yaw=179.09993}
+[2017/03/02 23:14:54] fybit executed /back at Location{world=CraftWorld{name=plots},x=-324.54900887964794,y=67.90711016218616,z=111.69999998807907,pitch=48.89996,yaw=217.20047}
+[2017/03/02 23:15:01] fybit executed /back at Location{world=CraftWorld{name=world},x=-325.5,y=22.0,z=137.5,pitch=-11.25005,yaw=179.09993}
+[2017/03/02 23:16:49] fybit executed /p debugroadregen at Location{world=CraftWorld{name=plots},x=-341.3235792766864,y=69.79345578627483,z=99.52235504288345,pitch=26.24994,yaw=171.90045}
+[2017/03/02 23:17:05] fybit executed /p debugroadregen 159:9 at Location{world=CraftWorld{name=plots},x=-341.3235792766864,y=69.79345578627483,z=99.52235504288345,pitch=26.24994,yaw=171.90045}
+[2017/03/02 23:17:24] fybit executed /p createroadschematic at Location{world=CraftWorld{name=plots},x=-342.54999639189793,y=69.79345578627483,z=101.8049143706607,pitch=26.39994,yaw=172.20045}
+[2017/03/02 23:17:29] fybit executed /plot auto at Location{world=CraftWorld{name=plots},x=-343.5996831110661,y=69.79345578627483,z=102.62388156926347,pitch=26.39994,yaw=172.20045}
+[2017/03/02 23:19:09] fybit executed /p createroadschematic at Location{world=CraftWorld{name=plots},x=-40.787080015156064,y=65.99889008673475,z=26.091891671501585,pitch=15.149961,yaw=242.69995}
+[2017/03/02 23:19:21] fybit executed /p debugroadregen at Location{world=CraftWorld{name=plots},x=-43.602845574023604,y=75.16992314228068,z=17.911198623866788,pitch=13.049959,yaw=179.39989}
+[2017/03/02 23:19:30] fybit executed /p debugroadregen at Location{world=CraftWorld{name=plots},x=-43.602845574023604,y=75.16992314228068,z=17.911198623866788,pitch=13.049959,yaw=179.39989}
+[2017/03/02 23:19:52] fybit executed /p regenallroads at Location{world=CraftWorld{name=plots},x=-43.602845574023604,y=75.16992314228068,z=17.911198623866788,pitch=13.049959,yaw=179.39989}
+[2017/03/02 23:25:26] fybit executed /warp a at Location{world=CraftWorld{name=world},x=-41.800350009500754,y=55.87884226454694,z=33.14501353991706,pitch=18.149971,yaw=63.449707}
+[2017/03/02 23:33:01] fybit executed /mv create plots normal -g PlotSquared:s=100,b=44,m=2 at Location{world=CraftWorld{name=world},x=-325.3434142140779,y=22.0,z=141.66444963063114,pitch=3.299958,yaw=259.79996}
+[2017/03/02 23:33:24] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-325.3434142140779,y=22.0,z=141.66444963063114,pitch=0.59995794,yaw=253.79997}
+[2017/03/02 23:38:42] fybit executed /back at Location{world=CraftWorld{name=plots},x=2.682194674125243,y=68.28727167454663,z=-16.15975953896981,pitch=19.349934,yaw=133.35065}
+[2017/03/02 23:40:55] fybit executed /p h at Location{world=CraftWorld{name=world},x=-41.2103095241761,y=4.0,z=34.73273173203544,pitch=6.5999722,yaw=-33.4503}
+[2017/03/02 23:41:06] fybit executed /gm 1 at Location{world=CraftWorld{name=plots},x=-72.61199254772801,y=65.0,z=4.898284890174125,pitch=48.45001,yaw=41.249977}
+[2017/03/02 23:43:15] fybit executed /mv at Location{world=CraftWorld{name=world},x=-41.2103095241761,y=4.0,z=34.73273173203544,pitch=10.049973,yaw=-98.400276}
+[2017/03/02 23:43:20] fybit executed /mv list at Location{world=CraftWorld{name=world},x=-41.2103095241761,y=4.0,z=34.73273173203544,pitch=10.049973,yaw=-98.400276}
+[2017/03/02 23:43:23] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-47.62756301130478,y=4.914011452343292,z=34.077244078754916,pitch=10.049973,yaw=-98.400276}
+[2017/03/02 23:43:59] fybit executed /mv create plots normal -g PlotSquared:s=100,m=3,b=44 at Location{world=CraftWorld{name=world},x=-48.28566787039385,y=4.0,z=33.92548248048761,pitch=10.049973,yaw=-98.400276}
+[2017/03/02 23:46:32] fybit executed /gm 1 at Location{world=CraftWorld{name=world},x=-59.60459830849503,y=4.0,z=36.96213482610962,pitch=10.049973,yaw=-98.400276}
+[2017/03/02 23:46:38] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-60.57180107681504,y=4.0,z=36.48896030279976,pitch=10.049973,yaw=-98.400276}
+[2017/03/02 23:46:40] fybit executed /p auto at Location{world=CraftWorld{name=world},x=-61.877249910174584,y=4.0,z=35.8994055158449,pitch=10.049973,yaw=-98.400276}
+[2017/03/02 23:46:51] fybit executed /world 3 at Location{world=CraftWorld{name=world},x=-12.151470596166915,y=6.4986057155738886,z=13.587003092153624,pitch=11.249973,yaw=-95.850174}
+[2017/03/02 23:47:01] fybit executed /gm 1 at Location{world=CraftWorld{name=plots},x=4.447090498671809,y=65.0,z=11.780647401363764,pitch=17.699995,yaw=-115.20003}
+[2017/03/02 23:47:32] fybit executed /p h at Location{world=CraftWorld{name=plots},x=46.0118643168575,y=90.73924330190599,z=-21.64525057909662,pitch=4.9500203,yaw=87.75013}
+[2017/03/02 23:47:41] fybit executed /p at Location{world=CraftWorld{name=plots},x=45.00446347571999,y=90.73924330190599,z=-21.63495909744615,pitch=4.9500203,yaw=87.75013}

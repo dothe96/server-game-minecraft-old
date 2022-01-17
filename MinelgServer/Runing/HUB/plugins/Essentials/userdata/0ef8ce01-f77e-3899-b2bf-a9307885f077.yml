@@ -1,0 +1,24 @@
+lastAccountName: Sniper
+timestamps:
+  login: 1477122390015
+  logout: 1477122925132
+  kits:
+    tanthu: 1477122467671
+    food: 1477122454274
+  lastteleport: 1477122581277
+ipAddress: 116.102.87.198
+socialspy: false
+lastlocation:
+  world: world
+  x: -85.56763381841594
+  y: 65.0
+  z: 1.7421875027179083
+  yaw: 350.95294
+  pitch: 17.519947
+logoutlocation:
+  world: world
+  x: 2893.4013740093064
+  y: 67.0
+  z: 2308.611954732661
+  yaw: 42.016247
+  pitch: 35.932816

@@ -1,0 +1,24 @@
+lastlocation:
+  world: world
+  x: -161.5
+  y: 87.0
+  z: -70.5
+  yaw: 0.0
+  pitch: 0.0
+lastAccountName: baoketban123
+timestamps:
+  login: 1476598432162
+  kits:
+    diemdanh: 1476598522712
+    tanthu: 1476598495147
+    tools: 1476598482168
+    food: 1476598488709
+  logout: 1476598574839
+ipAddress: 103.237.144.215
+logoutlocation:
+  world: world
+  x: -210.4245494711431
+  y: 101.0625
+  z: -46.7187586685195
+  yaw: -83.39975
+  pitch: 17.399984

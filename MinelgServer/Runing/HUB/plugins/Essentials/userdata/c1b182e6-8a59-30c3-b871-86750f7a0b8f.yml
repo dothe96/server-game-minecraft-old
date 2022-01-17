@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Adminshop
+timestamps:
+  login: 1478696527196
+  logout: 1478696738826
+ipAddress: 14.170.1.37
+lastlocation:
+  world: world
+  x: -150.5
+  y: 86.0
+  z: -87.5
+  yaw: 0.0
+  pitch: 0.0
+money: '100000'
+afk: false
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -59.550014
+  pitch: 3.4499862

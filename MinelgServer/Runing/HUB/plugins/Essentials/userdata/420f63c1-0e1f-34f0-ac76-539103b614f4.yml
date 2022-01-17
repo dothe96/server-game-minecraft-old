@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: Mr_Thua_Ls
+timestamps:
+  login: 1477464267279
+  kits:
+    diemdanh: 1477464324692
+  lastteleport: 1477464348518
+  logout: 1477464374856
+ipAddress: 115.78.125.136
+lastlocation:
+  world: world
+  x: 3440.0163872133476
+  y: 67.0
+  z: 3077.300000011921
+  yaw: -49.032326
+  pitch: 40.8001
+logoutlocation:
+  world: world
+  x: 3440.0163872133476
+  y: 67.0
+  z: 3077.300000011921
+  yaw: -49.032326
+  pitch: 40.8001

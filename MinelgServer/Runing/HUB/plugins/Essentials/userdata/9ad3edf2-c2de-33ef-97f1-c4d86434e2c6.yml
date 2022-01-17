@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: TheBuilder
+timestamps:
+  login: 1478436500255
+  logout: 1478437805585
+  kits:
+    diemdanh: 1478436566201
+    tanthu: 1478436522075
+    tools: 1478436542991
+    food: 1478436537490
+  lastteleport: 1478436891089
+ipAddress: 14.175.35.52
+lastlocation:
+  world: world
+  x: -114.353827902579
+  y: 68.0625
+  z: -26.592297709450335
+  yaw: 177.30232
+  pitch: 14.999977
+logoutlocation:
+  world: world
+  x: -110.83861362918132
+  y: 69.0
+  z: -98.43226820087868
+  yaw: 54.75017
+  pitch: 72.75001
+afk: false

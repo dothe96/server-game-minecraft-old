@@ -1,0 +1,15 @@
+broadcast:
+  pre: '[&6Minelg.com - Data&f] &9Đang lưu dữ liệu'
+  post: '[&6Minelg.com - Data&f] &9Lưu dữ liệu thành công'
+broadcastbackup:
+  pre: '[&6Minelg.com - Data&f] &9Tự động backup dữ liệu'
+  post: '[&6Minelg.com - Data&f] &9Tự động backup dữ liệu thành công'
+broadcastpurge:
+  pre: '[&6Minelg.com - Data&f] &9Tự động thanh tẩy'
+  post: '[&6Minelg.com - Data&f] &9Tự động thanh tẩy thành công'
+insufficentpermissions: '&cBạn không có quyền sử dụng.'
+autorestart:
+  restarting: '[&6Minelg.com - Data&f] &9Server đang khởi động lại'
+  countdown: '[&6Minelg.com - Data&f] &9Server sẽ khởi động lại sau {SECONDS} giây'
+worldregen:
+  kickmessage: '[&6Minelg.com - Data&f] &9Server tái tạo lại bản đồ, quay lại sau.'

@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: saracake
+timestamps:
+  login: 1476859185787
+  logout: 1476859579335
+  lastteleport: 1476859328389
+  kits:
+    food: 1476859356851
+ipAddress: 115.78.127.186
+lastlocation:
+  world: world
+  x: -165.26979263648468
+  y: 86.5
+  z: -18.656294933270885
+  yaw: 166.19498
+  pitch: 19.499971
+logoutlocation:
+  world: world
+  x: 2864.3414844546187
+  y: 69.0
+  z: 2081.3048146780857
+  yaw: -112.0336
+  pitch: 14.099944

@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: VietNam_Z
+timestamps:
+  login: 1477218132790
+  lastteleport: 1477218159476
+  logout: 1477218220825
+ipAddress: 116.99.255.141
+lastlocation:
+  world: world
+  x: 1.000010000263652E7
+  y: 173.0
+  z: 9999801.096646456
+  yaw: -252.59283
+  pitch: 19.199986
+logoutlocation:
+  world: world
+  x: -157.66393471105786
+  y: 88.0
+  z: -75.76867186697619
+  yaw: -142.8
+  pitch: 26.699986
+money: '0.0'

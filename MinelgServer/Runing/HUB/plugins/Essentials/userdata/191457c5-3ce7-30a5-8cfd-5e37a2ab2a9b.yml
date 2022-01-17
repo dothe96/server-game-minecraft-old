@@ -1,0 +1,27 @@
+lastAccountName: Dragonkiller
+timestamps:
+  login: 1478001445934
+  kits:
+    diemdanh: 1478001497361
+    tanthu: 1478001493399
+    tools: 1478001482529
+    food: 1478001488847
+  lastteleport: 1478004542167
+  logout: 1478005442533
+ipAddress: 115.78.126.139
+socialspy: false
+lastlocation:
+  world: world
+  x: -114.5
+  y: 69.0
+  z: -17.5
+  yaw: 1.948258
+  pitch: -6.4499927
+logoutlocation:
+  world: world
+  x: 2714.1870119089913
+  y: 70.0
+  z: 458.27338190691853
+  yaw: -270.11224
+  pitch: 8.250103
+money: '1244.0'

@@ -1,0 +1,34 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000094072798517E7
+  y: 173.0
+  z: 9999804.031075625
+  yaw: -249.29288
+  pitch: 13.2000065
+lastAccountName: Kunzed1
+timestamps:
+  login: 1476841267636
+  lastteleport: 1476844117430
+  kits:
+    tanthu: 1476842564801
+    food: 1476842561901
+  logout: 1476844342354
+ipAddress: 123.18.42.192
+afk: false
+homes:
+  home:
+    world: world
+    x: 2517.5
+    y: 7.0
+    z: 1677.5
+    yaw: -128.38885
+    pitch: 32.39997
+money: '1555.0'
+logoutlocation:
+  world: world
+  x: -158.960195398664
+  y: 88.0
+  z: -76.6995408403947
+  yaw: 67.79993
+  pitch: 13.500006

@@ -1,0 +1,27 @@
+lastAccountName: thanhsu
+timestamps:
+  login: 1477097995994
+  kits:
+    diemdanh: 1477098047436
+    tanthu: 1477098053808
+    tools: 1477098066814
+    food: 1477098062967
+  lastteleport: 1477098137705
+  logout: 1477098177133
+ipAddress: 115.75.38.229
+lastlocation:
+  world: world
+  x: 1.000007485094396E7
+  y: 173.0
+  z: 9999794.646713505
+  yaw: -224.84271
+  pitch: 2.400005
+socialspy: false
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -149.22369042689579
+  y: 86.0
+  z: -64.79861398958101
+  yaw: -70.95002
+  pitch: 1.1999869

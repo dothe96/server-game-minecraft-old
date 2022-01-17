@@ -1,0 +1,24 @@
+ender:
+  location: world, -4991.614, 46.200, -128.461
+  lines:
+  - '&u&lGiáp Ender'
+dianguc:
+  location: world, -4991.320, 46.200, -137.390
+  lines:
+  - '&u&l Giáp Địa Ngục'
+kimcuong:
+  location: world, -4991.401, 46.200, -146.621
+  lines:
+  - '&u&lTrade Kim Cương'
+hoa:
+  location: world, -4991.706, 46.200, -155.698
+  lines:
+  - '&u&lGiáp Hoa'
+kiem:
+  location: world, -4991.514, 46.200, -164.497
+  lines:
+  - '&u&lKiếm Mine-LG'
+trung:
+  location: world, -4991.955, 46.200, -173.373
+  lines:
+  - '&u&lTrade Trứng'

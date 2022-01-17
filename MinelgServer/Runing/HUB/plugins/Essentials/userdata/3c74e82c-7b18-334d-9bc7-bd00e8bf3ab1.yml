@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: choirieng
+timestamps:
+  login: 1478502824443
+  lastteleport: 1478502863953
+  kits:
+    diemdanh: 1478502901317
+    tanthu: 1478502898113
+    tools: 1478502887462
+    food: 1478502893762
+  logout: 1478502950412
+ipAddress: 113.163.117.229
+lastlocation:
+  world: world
+  x: -134.8664231277516
+  y: 86.0
+  z: -57.82552021899187
+  yaw: -13.949978
+  pitch: -10.6500225
+logoutlocation:
+  world: world
+  x: -107.53556893283337
+  y: 67.0
+  z: -95.31312682962935
+  yaw: 142.19763
+  pitch: 21.300007

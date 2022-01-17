@@ -1,0 +1,26 @@
+lastAccountName: noggin123456789
+timestamps:
+  login: 1477396805758
+  lastteleport: 1477396932262
+  kits:
+    diemdanh: 1477396954335
+    tanthu: 1477396948419
+    tools: 1477396958862
+    food: 1477396885773
+  logout: 1477396966731
+ipAddress: 14.174.105.15
+socialspy: false
+lastlocation:
+  world: world
+  x: -113.36655780797548
+  y: 69.0625
+  z: -1.012409500140203
+  yaw: 39.448277
+  pitch: 90.0
+logoutlocation:
+  world: world
+  x: 1.0000073609836036E7
+  y: 173.0
+  z: 9999822.468274487
+  yaw: -27.4427
+  pitch: -23.850004

@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: tantai557
+timestamps:
+  login: 1477189536883
+  lastteleport: 1477189347898
+  kits:
+    diemdanh: 1477189399534
+    tanthu: 1477189395346
+    tools: 1477189388101
+    food: 1477189392051
+  logout: 1477189538802
+ipAddress: 115.78.119.27
+lastlocation:
+  world: world
+  x: -160.01369835427087
+  y: 86.0
+  z: -52.90143297979808
+  yaw: -10.349991
+  pitch: 21.449997
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 4.049987
+  pitch: -9.600014

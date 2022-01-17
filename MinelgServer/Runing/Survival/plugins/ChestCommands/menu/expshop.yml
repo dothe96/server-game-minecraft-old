@@ -1,0 +1,146 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+
+menu-settings:
+  name: '&5&lShop Kinh Nghiệm'
+  rows: 4
+  command: 'expshop'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+buy-dia:
+  LEVELS: 50
+  COMMAND: 'give: 264,5'
+  NAME: '&a&lĐổi EPX'
+  LORE:
+    - '&4► &2&l5 viên kim cương'
+    - '&4► &f&lGiá : 50 levels'
+  ID: 264
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 1
+buy-mone:
+  LEVELS: 100
+  COMMAND: 'op: eco give {player} 10000'
+  NAME: '&a&lĐổi EPX'
+  LORE:
+    - '&4► &2&l10.000 money'
+    - '&4► &f&lGiá : 100 levels'
+  ID: 358
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+buy-coin:
+  LEVELS: 100
+  COMMAND: 'op: p give {player} 1'
+  NAME: '&a&lĐổi EPX lấy COIN'
+  LORE:
+    - '&4► &2&l1 Coin'
+    - '&4► &f&lGiá : 100 levels'
+  ID: 371
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 3
+Kinh00:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 1
+  
+Kinh02:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+ 
+Kinh03:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 3
+  
+Kinh04:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 1
+  
+Kinh05:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 3
+  
+Kinh06:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 1
+  
+Kinh07:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 2
+  
+Kinh08:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 3
+Kinh09:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 1
+Kinh010:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 3
+#----------tác vụ--------------
+return-to-main:
+  COMMAND: 'open:example.yml'
+  NAME: '&6[arrow_left] Bam vào để trở lại menu'
+  ID: 166
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 4

@@ -1,0 +1,37 @@
+socialspy: false
+lastAccountName: namvn123
+timestamps:
+  login: 1477385168422
+  kits:
+    diemdanh: 1477383576751
+    tanthu: 1476796428922
+    tools: 1476796364261
+    food: 1477116077527
+  lastteleport: 1477385181178
+  logout: 1477385451864
+ipAddress: 113.169.178.90
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+homes:
+  home:
+    world: world
+    x: 3702.762499988079
+    y: 70.0
+    z: 1859.300000011921
+    yaw: 174.99756
+    pitch: 57.00001
+money: '2210.0'
+logoutlocation:
+  world: world
+  x: 3700.563744808702
+  y: 70.1378765517777
+  z: 1864.3012557980053
+  yaw: 213.99878
+  pitch: 4.349946
+nickname: NamVN
+afk: false

@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: asdasdasdad
+timestamps:
+  login: 1477103363528
+  lastteleport: 1477103386833
+  kits:
+    diemdanh: 1477103395836
+  logout: 1477103401805
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.500014
+logoutlocation:
+  world: world
+  x: 2822.3181423092715
+  y: 11.875
+  z: 2025.6596033101548
+  yaw: -95.23996
+  pitch: 43.050037

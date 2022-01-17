@@ -1,0 +1,26 @@
+lastAccountName: kietispro
+timestamps:
+  login: 1478517680443
+  kits:
+    diemdanh: 1478517742661
+    tanthu: 1478517708953
+    tools: 1478517715969
+    food: 1478517738177
+  lastteleport: 1478517975649
+  logout: 1478518062274
+ipAddress: 116.106.11.254
+socialspy: false
+lastlocation:
+  world: world
+  x: -157.79579371064585
+  y: 92.0
+  z: -13.823244404016354
+  yaw: 56.849815
+  pitch: 16.04999
+logoutlocation:
+  world: world
+  x: -107.57496961718927
+  y: 68.0625
+  z: -31.675963299458747
+  yaw: -255.15143
+  pitch: 15.300006

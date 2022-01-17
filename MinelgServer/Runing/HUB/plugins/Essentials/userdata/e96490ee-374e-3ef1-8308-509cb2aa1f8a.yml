@@ -1,0 +1,25 @@
+lastAccountName: baoantrt12
+timestamps:
+  login: 1477129166149
+  kits:
+    food: 1476879389965
+  lastteleport: 1476966696588
+  logout: 1477129288426
+ipAddress: 14.168.10.112
+socialspy: false
+lastlocation:
+  world: world
+  x: 2629.600199841749
+  y: 73.24750735073223
+  z: 2932.6989751573647
+  yaw: 58.37448
+  pitch: 26.849997
+money: '21700.0'
+logoutlocation:
+  world: world
+  x: -158.8444750712859
+  y: 88.0
+  z: -76.74611908820945
+  yaw: -283.05008
+  pitch: 2.5499663
+afk: false

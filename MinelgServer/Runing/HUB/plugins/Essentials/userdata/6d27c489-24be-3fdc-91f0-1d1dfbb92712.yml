@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: hieu_123
+timestamps:
+  login: 1477189259765
+  lastteleport: 1477190867286
+  kits:
+    diemdanh: 1477120304526
+    tanthu: 1477120539752
+    tools: 1477182377560
+    food: 1477190516808
+  logout: 1477191438164
+ipAddress: 171.226.247.240
+lastlocation:
+  world: world
+  x: 3523.6597462435534
+  y: 66.0
+  z: 1741.6169322160122
+  yaw: 56.723633
+  pitch: 32.400036
+money: '1537.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 3630.4455937605467
+    y: 21.0
+    z: 1729.300000011921
+    yaw: -193.77719
+    pitch: 61.049973
+logoutlocation:
+  world: world
+  x: 3507.535253105341
+  y: 12.0
+  z: 1834.7544295122605
+  yaw: -176.67554
+  pitch: 15.299985

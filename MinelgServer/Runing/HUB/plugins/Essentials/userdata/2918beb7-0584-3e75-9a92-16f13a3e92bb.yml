@@ -1,0 +1,35 @@
+lastAccountName: thu10
+timestamps:
+  login: 1478835627832
+  kits:
+    diemdanh: 1478397148478
+    tanthu: 1478397254378
+    tools: 1478397175657
+    food: 1478414223317
+  lastteleport: 1478836744250
+  logout: 1478836938467
+ipAddress: 171.250.102.100
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000085884691488E7
+  y: 173.0
+  z: 9999780.187724683
+  yaw: -69.742714
+  pitch: 2.1000092
+money: '1952.0'
+logoutlocation:
+  world: world
+  x: 4538.263501615022
+  y: 72.0
+  z: -2475.873648316025
+  yaw: 15.497864
+  pitch: -80.85
+homes:
+  home:
+    world: world
+    x: 4536.552518165003
+    y: 75.0
+    z: -2508.9791171231136
+    yaw: -353.05048
+    pitch: 29.099995

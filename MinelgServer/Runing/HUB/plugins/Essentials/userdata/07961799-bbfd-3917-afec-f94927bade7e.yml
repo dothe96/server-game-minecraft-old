@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: Kiler_VN
+timestamps:
+  login: 1477553547759
+  kits:
+    diemdanh: 1477554414632
+    tanthu: 1477554407025
+    tools: 1477554395521
+    food: 1477554401171
+  logout: 1477554497532
+ipAddress: 42.112.229.147
+lastlocation:
+  world: world
+  x: -166.5
+  y: 86.0
+  z: -75.5
+  yaw: 0.0
+  pitch: 0.0
+afk: false
+logoutlocation:
+  world: world
+  x: -157.37860836762542
+  y: 86.0
+  z: -51.06029394115468
+  yaw: 75.14929
+  pitch: 35.69998

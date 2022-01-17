@@ -1,0 +1,22 @@
+lastAccountName: Wirex
+timestamps:
+  login: 1476802588062
+  lastteleport: 1476802734294
+  logout: 1476802751206
+socialspy: false
+ipAddress: 203.205.32.10
+lastlocation:
+  world: world
+  x: -156.83834480576593
+  y: 86.0
+  z: -55.00465819515441
+  yaw: 25.34999
+  pitch: 27.599993
+money: '0'
+logoutlocation:
+  world: world
+  x: 222.7948022411522
+  y: 74.0
+  z: -3806.061812349313
+  yaw: 252.21074
+  pitch: -5.143746

@@ -1,0 +1,36 @@
+lastAccountName: trieu
+timestamps:
+  login: 1478421791002
+  kits:
+    diemdanh: 1477806679785
+    tanthu: 1478324428411
+    tools: 1477287818944
+    food: 1478421978003
+  lastteleport: 1478422152640
+  logout: 1478422238100
+ipAddress: 115.78.127.186
+socialspy: false
+lastlocation:
+  world: world
+  x: -161.39853768157462
+  y: 88.0
+  z: -77.01365879337877
+  yaw: 82.349976
+  pitch: 43.649982
+logoutlocation:
+  world: world
+  x: 3243.874767961655
+  y: 68.0
+  z: 1634.8622368853557
+  yaw: -18.584518
+  pitch: 1.2000118
+afk: false
+homes:
+  home:
+    world: world
+    x: 3244.508825341889
+    y: 64.0
+    z: 1644.5586507603416
+    yaw: 279.9158
+    pitch: 42.749973
+money: '0.0'

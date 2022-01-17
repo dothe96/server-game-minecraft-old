@@ -1,0 +1,26 @@
+lastAccountName: phong
+timestamps:
+  login: 1477811529933
+  logout: 1477811632377
+  lastteleport: 1477811580821
+  kits:
+    diemdanh: 1477811606024
+    tanthu: 1477811596360
+    tools: 1477811628283
+    food: 1477811620819
+ipAddress: 113.180.87.173
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.65575379336386
+  y: 87.0
+  z: -73.14359826699702
+  yaw: -3.4500186
+  pitch: 25.49998
+logoutlocation:
+  world: world
+  x: 2975.219175107534
+  y: 70.0
+  z: 487.3943380632365
+  yaw: 17.699951
+  pitch: 52.949978

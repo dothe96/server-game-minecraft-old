@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: Kassadin
+timestamps:
+  login: 1478761118564
+  lastteleport: 1478761185641
+  kits:
+    food: 1478761228113
+  logout: 1478761306800
+ipAddress: 113.160.102.208
+lastlocation:
+  world: world
+  x: -117.52680500312576
+  y: 79.53260088333643
+  z: -66.04840606252228
+  yaw: 213.15002
+  pitch: 19.79999
+logoutlocation:
+  world: world
+  x: 2134.890031889189
+  y: 76.46700672100285
+  z: 538.1706478405619
+  yaw: -173.08276
+  pitch: 18.750027
+money: '52545.0'
+homes:
+  home:
+    world: world
+    x: 3299.699999988079
+    y: 9.0
+    z: 700.6999999880791
+    yaw: 299.4135
+    pitch: 23.099987
+afk: false
+nickname: §2§lEmarald

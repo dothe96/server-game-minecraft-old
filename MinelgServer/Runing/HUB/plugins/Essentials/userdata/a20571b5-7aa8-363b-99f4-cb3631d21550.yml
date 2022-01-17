@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: '0903757895'
+timestamps:
+  login: 1477105418203
+  logout: 1477106056973
+ipAddress: 115.79.168.72
+lastlocation:
+  world: world
+  x: -59.41977326422615
+  y: 62.024424088213685
+  z: -40.471965896389634
+  yaw: 2.7005005
+  pitch: 24.300007
+logoutlocation:
+  world: world
+  x: -119.71587748121195
+  y: 68.0
+  z: -41.94378382061236
+  yaw: -74.54978
+  pitch: 25.350058

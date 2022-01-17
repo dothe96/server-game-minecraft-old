@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: Katze2008
+timestamps:
+  login: 1479215217387
+  lastteleport: 1479018552548
+  logout: 1479218248813
+  kits:
+    tools: 1477213598288
+    food: 1478930334264
+ipAddress: 113.169.0.99
+lastlocation:
+  world: world
+  x: -166.4805824897561
+  y: 76.29566555349932
+  z: 0.5376809641064016
+  yaw: -94.95016
+  pitch: 49.949997
+logoutlocation:
+  world: world
+  x: 3279.0607926238495
+  y: 77.0
+  z: 1645.5677509202533
+  yaw: -43.933556
+  pitch: 29.699997
+money: '94.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: -1864.699999988079
+    y: 65.0
+    z: 2245.699999988079
+    yaw: -157.33722
+    pitch: 8.399872

@@ -1,0 +1,35 @@
+lastAccountName: Killer
+timestamps:
+  login: 1477739483681
+  lastteleport: 1477739891115
+  logout: 1477740692179
+  kits:
+    tanthu: 1477627413316
+    tools: 1477703629935
+    food: 1477623714915
+ipAddress: 113.169.121.223
+socialspy: false
+lastlocation:
+  world: world
+  x: 2258.9063096247537
+  y: 66.0
+  z: 1541.349412798958
+  yaw: 43.35907
+  pitch: 36.750256
+homes:
+  home:
+    world: world
+    x: 2263.3783649426755
+    y: 66.0
+    z: 1541.173586881866
+    yaw: 266.10904
+    pitch: 13.350253
+logoutlocation:
+  world: world
+  x: 3488.3470982902
+  y: 63.0
+  z: 801.9986848841453
+  yaw: 279.22375
+  pitch: 19.199999
+afk: false
+money: '5000'

@@ -1,0 +1,25 @@
+lastAccountName: thanh
+timestamps:
+  login: 1478156631193
+  kits:
+    diemdanh: 1478155359206
+    tanthu: 1478155342727
+    food: 1478155333404
+  lastteleport: 1478155681259
+  logout: 1478156634063
+ipAddress: 113.182.131.40
+socialspy: false
+lastlocation:
+  world: world
+  x: -111.64621267745125
+  y: 68.5
+  z: -69.85790401104374
+  yaw: 200.99963
+  pitch: 6.4500065
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 3.4499865
+  pitch: -18.150017

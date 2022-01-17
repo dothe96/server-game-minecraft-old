@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: tuananh145632
+timestamps:
+  login: 1479024205473
+  kits:
+    diemdanh: 1479024325070
+  lastteleport: 1479024556508
+  logout: 1479024588683
+ipAddress: 183.91.27.116
+lastlocation:
+  world: world
+  x: -176.80757898720225
+  y: 86.0
+  z: -81.49426824798446
+  yaw: 116.549965
+  pitch: 29.84999
+logoutlocation:
+  world: world
+  x: -156.9874364866241
+  y: 92.0
+  z: -13.125326857244534
+  yaw: -98.85492
+  pitch: 19.799988

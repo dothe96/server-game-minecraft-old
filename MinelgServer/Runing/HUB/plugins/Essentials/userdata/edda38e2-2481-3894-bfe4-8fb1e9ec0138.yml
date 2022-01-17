@@ -1,0 +1,36 @@
+lastAccountName: baomap
+timestamps:
+  login: 1479262720934
+  lastteleport: 1479268073751
+  kits:
+    diemdanh: 1479089053732
+    tanthu: 1479089070800
+    tools: 1478826107817
+    food: 1478831075511
+  logout: 1479268177799
+ipAddress: 113.188.78.5
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -1.3500131
+  pitch: 20.549986
+logoutlocation:
+  world: world_the_end
+  x: 1.6999999880790706
+  y: 59.40739540236494
+  z: 1.6496401057681591
+  yaw: 114.001274
+  pitch: 38.25019
+afk: false
+money: '34508.0'
+homes:
+  home:
+    world: world_nether
+    x: 265.62388964392613
+    y: 128.0
+    z: 198.29154963316537
+    yaw: 58.955597
+    pitch: 12.450005

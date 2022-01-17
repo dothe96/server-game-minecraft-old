@@ -1,0 +1,27 @@
+lastAccountName: Subra
+timestamps:
+  login: 1478244060920
+  kits:
+    diemdanh: 1478244086079
+    tanthu: 1478244082507
+    tools: 1478244079188
+    food: 1478244077339
+  lastteleport: 1478244099221
+  logout: 1478244135136
+ipAddress: 113.180.117.129
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000092336221257E7
+  y: 174.0
+  z: 9999777.300000012
+  yaw: 235.50723
+  pitch: -23.399988
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014

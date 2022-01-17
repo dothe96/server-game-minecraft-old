@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: SolWolf
+timestamps:
+  login: 1478514028783
+  lastteleport: 1478515365657
+  kits:
+    diemdanh: 1478514621496
+    food: 1478514627217
+  logout: 1478515430729
+ipAddress: 113.180.87.49
+lastlocation:
+  world: world
+  x: 3348.836686805999
+  y: 85.0
+  z: 1268.699999988079
+  yaw: 89.46869
+  pitch: -5.6999993
+logoutlocation:
+  world: world
+  x: 3039.292031006099
+  y: 65.0
+  z: 549.3299133718534
+  yaw: 265.9006
+  pitch: 14.100021

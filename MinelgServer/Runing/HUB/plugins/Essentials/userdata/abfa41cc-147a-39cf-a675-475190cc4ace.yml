@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: TheSesyBoy
+timestamps:
+  login: 1476797198538
+  logout: 1476798294090
+  kits:
+    diemdanh: 1476797276717
+    tanthu: 1476797353203
+    food: 1476797501338
+  lastteleport: 1476798261823
+ipAddress: 113.180.78.74
+lastlocation:
+  world: world
+  x: -8.09464410554127
+  y: 212.54681427921204
+  z: 324.70530674562883
+  yaw: 262.34995
+  pitch: 86.25001
+logoutlocation:
+  world: world
+  x: 3143.886301645927
+  y: 87.48866383258374
+  z: 1788.9645593747557
+  yaw: 330.61597
+  pitch: 52.95002

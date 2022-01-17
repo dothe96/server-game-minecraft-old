@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: -98.9401534542665
+  y: 68.0
+  z: -48.603489249602255
+  yaw: 200.70001
+  pitch: 12.750024
+lastAccountName: TMLuluGamer
+timestamps:
+  login: 1477152713342
+  lastteleport: 1476855480118
+  kits:
+    diemdanh: 1476532404995
+    tanthu: 1476532489202
+    tools: 1476579483640
+    food: 1476588022775
+  logout: 1477152727882
+ipAddress: 116.98.70.29
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.3999865
+  pitch: -10.350014
+homes:
+  home:
+    world: world
+    x: 10007.81122715413
+    y: 68.0
+    z: 797.4500917595457
+    yaw: -197.5496
+    pitch: 6.1499953
+socialspy: false

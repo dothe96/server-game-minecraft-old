@@ -1,0 +1,25 @@
+lastAccountName: nhox_lay964
+timestamps:
+  login: 1478308339897
+  lastteleport: 1478311505132
+  kits:
+    diemdanh: 1478309212240
+    tanthu: 1478178614451
+  logout: 1478311559105
+ipAddress: 113.180.87.178
+socialspy: false
+lastlocation:
+  world: world
+  x: -165.31353507077165
+  y: 86.0
+  z: -69.42606681832766
+  yaw: -120.74984
+  pitch: 37.65001
+money: '40.0'
+logoutlocation:
+  world: world
+  x: 2992.699999988079
+  y: 19.0
+  z: 550.9761776795287
+  yaw: 108.55267
+  pitch: 76.79987

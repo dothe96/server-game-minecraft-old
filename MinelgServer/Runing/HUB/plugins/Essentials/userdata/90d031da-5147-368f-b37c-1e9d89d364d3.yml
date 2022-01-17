@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: nhat123
+timestamps:
+  login: 1477556899169
+  kits:
+    diemdanh: 1477556925243
+    tanthu: 1477551302346
+    food: 1477551429261
+  lastteleport: 1477556951821
+  logout: 1477557062775
+ipAddress: 115.78.125.136
+lastlocation:
+  world: world
+  x: -159.54239178355783
+  y: 87.0
+  z: -73.95241680131723
+  yaw: 57.449986
+  pitch: 4.199985
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 3367.699999988079
+  y: 47.0
+  z: 3115.6608660034085
+  yaw: -207.51756
+  pitch: 39.74998

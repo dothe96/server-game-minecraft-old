@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: LinusMius05
+timestamps:
+  login: 1477973973814
+  lastteleport: 1477974854803
+  logout: 1477974927928
+  kits:
+    diemdanh: 1477974436185
+    tanthu: 1477747816517
+    food: 1477974033452
+ipAddress: 14.191.169.202
+lastlocation:
+  world: world
+  x: 3287.643198767767
+  y: 60.0
+  z: 1535.0290856913498
+  yaw: 273.167
+  pitch: 9.56716
+logoutlocation:
+  world: world
+  x: -110.24926507574382
+  y: 69.17675927506424
+  z: -83.95836726975435
+  yaw: 283.18628
+  pitch: -8.809049
+homes:
+  home:
+    world: world
+    x: 3286.281722209374
+    y: 61.0
+    z: 1533.257990284674
+    yaw: 234.44566
+    pitch: 26.773386
+money: '0.0'

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: huygh
+timestamps:
+  login: 1478778331555
+  lastteleport: 1478779200001
+  logout: 1478779277547
+ipAddress: 115.78.114.146
+lastlocation:
+  world: world
+  x: -147.51482037010257
+  y: 86.0
+  z: -66.51011215539107
+  yaw: -20.250004
+  pitch: 53.999985
+logoutlocation:
+  world: world
+  x: 4518.268379164708
+  y: 18.0
+  z: -2473.699999988079
+  yaw: 115.09763
+  pitch: 44.40001

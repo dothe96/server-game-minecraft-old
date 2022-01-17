@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: tetsai
+timestamps:
+  login: 1477184375984
+  logout: 1477184599095
+ipAddress: 113.180.87.35
+lastlocation:
+  world: world
+  x: -165.5
+  y: 86.0
+  z: -82.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.67861911929018
+  y: 88.0
+  z: -78.60182120276176
+  yaw: -5.8500133
+  pitch: 18.449987

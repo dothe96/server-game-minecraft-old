@@ -1,0 +1,21 @@
+lastAccountName: BIsky1
+timestamps:
+  login: 1477397192849
+  lastteleport: 1477397688924
+  logout: 1477397847576
+ipAddress: 113.174.33.105
+socialspy: false
+lastlocation:
+  world: world
+  x: 2925.223685324351
+  y: 80.0
+  z: 1780.1906904626856
+  yaw: 273.31732
+  pitch: 29.249939
+logoutlocation:
+  world: world
+  x: 2669.4172164308698
+  y: 80.0
+  z: 1757.643681819517
+  yaw: 258.01697
+  pitch: 90.0

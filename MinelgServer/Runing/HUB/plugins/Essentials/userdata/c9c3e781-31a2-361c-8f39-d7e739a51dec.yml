@@ -1,0 +1,27 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: -160.1048674622215
+  y: 86.0
+  z: -71.46349814589325
+  yaw: 157.94997
+  pitch: 15.599992
+lastAccountName: Guniv
+timestamps:
+  login: 1477123013301
+  lastteleport: 1477123046160
+  logout: 1477123077696
+  kits:
+    diemdanh: 1477014596165
+    tanthu: 1477014793936
+    tools: 1477014809526
+    food: 1477014818224
+ipAddress: 117.3.62.181
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 1.0000091191023301E7
+  y: 174.0
+  z: 9999777.763991434
+  yaw: 49.20732
+  pitch: 29.099998

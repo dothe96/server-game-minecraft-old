@@ -1,0 +1,149 @@
+﻿
+
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&d&lKhu Menu'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 5
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'menu'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 340
+    left-click: false
+    right-click: false
+#   data-value: 0
+  open-action: 'tell: &eBạn đã bật &6&lMenu MineLG'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+spawncmd:
+  COMMAND: 'spawn'
+  NAME: '&f❖ &9&lTrở về Spawn'
+  LORE:
+    - '&f● &6Bạn có thể gõ /spawn'
+    - '&f● &6Chi Phí: Miễn phí'
+  ID: bed
+  POSITION-X: 1
+  POSITION-Y: 1
+
+
+huongdan:
+  COMMAND: 'open:huongdan.yml'
+  NAME: '&f❖ &9&lKhu Hướng Dẫn Của Server'
+  ID: 323
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+ec:
+  COMMAND: 'op:ec'
+  NAME: '&f❖ &9&lMở Rương Ender'
+  LORE:
+    - '&f● &6Giá: 20$'
+  PRICE: 20.0
+  ID: enderchest
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 1
+fix:
+  COMMAND: 'op:fix'
+  NAME: '&f❖ &9&lFix Vật Phẩm Đang Cầm'
+  LORE:
+    - '&f● &6Giá: 100$'
+  PRICE: 100.0
+  ID: anvil
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 1
+napt:
+  COMMAND: 'open:napthe.yml'
+  NAME: '&f❖ &9&lNạp Thẻ lấy coin'
+  ID: 339
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 1
+fixall:
+  COMMAND: 'op:fix all'
+  NAME: '&f❖ &9&lFix Tất Cả Vật Phẩm'
+  LORE:
+    - '&f● &6Giá: 500$'
+  PRICE: 500
+  ID: anvil
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 1 
+feedfood:
+  COMMAND: 'op:feed'
+  NAME: '&f❖ &9&lHồi Sinh Thanh Thức Ăn Bạn'
+  LORE:
+    - '&f● &6Giá: 300$'
+    - '&f● &6Giúp bạn không còn đói và hồi phục thức ăn'
+  PRICE: 300
+  ID: 322
+  KEEP-OPEN: false
+  POSITION-X: 7
+  POSITION-Y: 1
+cshop:
+  COMMAND: 'open:cshop.yml'
+  NAME: '&f❖ &9&lCửa Hàng coin'
+  ID: 388
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 2
+ranku:
+  COMMAND: 'open:rankup.yml'
+  NAME: '&f❖ &9&lRank Up'
+  ID: 421
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+feedfoo222d:
+  COMMAND: 'op: nbti lore add &a&l>&b&L> &6&lĐồ của {player}'
+  NAME: '&f❖ &9&lGhi tên lên đồ'
+  LORE:
+    - '&f● &6Giá: 5000$'
+    - '&f● &6Ghi tên riêng lên trang bị'
+  PRICE: 5000
+  ID: 386
+  KEEP-OPEN: false
+  POSITION-X: 9
+  POSITION-Y: 2
+feedfoo222dms:
+  COMMAND: 'op: lockeditems'
+  NAME: '&f❖ &bBật&f/&cTắt &9&lPhong ấn lên đồ'
+  LORE:
+    - '&f● &6Giá: 10000$'
+    - '&f● &6Phong ấn sở hữu không ai nhặt được'
+    - '&f● &6Chết không rơi, bạn cũng không thể vứt'
+    - '&f● &6Để vứt hãy để vào dương :)'
+    - '&f● &fLưu ý: &6Trang bị đã được đổi tên'
+  PRICE: 10000
+  ID: 287
+  KEEP-OPEN: false
+  POSITION-X: 8
+  POSITION-Y: 2
+#####################################################################
+
+menu-close-no-commands-no-lore:
+  NAME: '&6Đóng Menu'
+  ID: 166
+  POSITION-X: 9
+  POSITION-Y: 5
+  

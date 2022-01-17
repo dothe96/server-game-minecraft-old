@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: hainhobe789
+timestamps:
+  login: 1479180483940
+  logout: 1479182057857
+  lastteleport: 1479182022957
+  kits:
+    tanthu: 1478311981716
+    tools: 1478310861771
+    food: 1478909654203
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: 945.6999999880791
+  y: 74.0
+  z: -572.9552762361604
+  yaw: 44.822052
+  pitch: 55.050053
+logoutlocation:
+  world: world
+  x: 2039.747187644287
+  y: 64.0
+  z: 1421.4533710657774
+  yaw: -66.74023
+  pitch: 43.974483
+money: '17380.0'
+afk: false

@@ -1,0 +1,24 @@
+lastAccountName: thepro2016
+timestamps:
+  login: 1478484706313
+  logout: 1478486996281
+  kits:
+    tanthu: 1478485960958
+    food: 1478484968139
+  lastteleport: 1478485910091
+ipAddress: 113.188.78.5
+socialspy: false
+lastlocation:
+  world: world
+  x: 1810.3658733519828
+  y: 75.0
+  z: 1546.0802082797418
+  yaw: 157.21088
+  pitch: 10.649979
+logoutlocation:
+  world: world
+  x: 2088.847601595169
+  y: 84.0
+  z: 1796.4747846625496
+  yaw: 15.756348
+  pitch: 25.65011

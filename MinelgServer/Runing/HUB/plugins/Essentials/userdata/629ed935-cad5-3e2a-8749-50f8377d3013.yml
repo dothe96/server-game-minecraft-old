@@ -1,0 +1,24 @@
+lastAccountName: troskitugamer
+timestamps:
+  login: 1478217883064
+  kits:
+    food: 1476597654296
+  lastteleport: 1478218233567
+  logout: 1478218289227
+ipAddress: 113.176.150.161
+lastlocation:
+  world: world
+  x: 3533.9561868807396
+  y: 83.24303250440973
+  z: 1468.4918182293954
+  yaw: 205.96555
+  pitch: 24.90004
+money: '31478.0'
+socialspy: false
+logoutlocation:
+  world: world
+  x: 3538.5
+  y: 79.0
+  z: 1539.5
+  yaw: 252.76549
+  pitch: 8.250005

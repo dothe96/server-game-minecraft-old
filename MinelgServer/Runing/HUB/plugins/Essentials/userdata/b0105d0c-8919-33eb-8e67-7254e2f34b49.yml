@@ -1,0 +1,27 @@
+lastAccountName: kuken11
+timestamps:
+  login: 1478059259771
+  kits:
+    diemdanh: 1478059326967
+    tanthu: 1477957286375
+    tools: 1477957308499
+    food: 1478059316933
+  lastteleport: 1477958486075
+  logout: 1478059416260
+ipAddress: 115.79.54.54
+socialspy: false
+lastlocation:
+  world: world
+  x: -157.00329833325975
+  y: 86.0
+  z: -59.1527189551406
+  yaw: 1.6499866
+  pitch: -10.0500145
+afk: false
+logoutlocation:
+  world: world
+  x: 2343.0243035719927
+  y: 64.0
+  z: 601.7353208881844
+  yaw: -245.71179
+  pitch: 37.95015

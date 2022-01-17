@@ -1,0 +1,22 @@
+lastAccountName: shitdown
+timestamps:
+  login: 1476596896026
+  lastteleport: 1476529004786
+  kits:
+    food: 1476529255805
+  logout: 1476596932566
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -158.68694383846687
+  y: 86.0
+  z: -42.12414287942212
+  yaw: -17.399689
+  pitch: 18.3
+logoutlocation:
+  world: world
+  x: -106.9893183785025
+  y: 68.0
+  z: -63.08151063770886
+  yaw: -359.25
+  pitch: 60.449993

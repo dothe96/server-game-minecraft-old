@@ -1,0 +1,26 @@
+lastAccountName: Gaming_Gamer
+timestamps:
+  login: 1478829792951
+  kits:
+    diemdanh: 1478829820796
+    tanthu: 1478829811816
+    tools: 1478829804035
+    food: 1478829807054
+  lastteleport: 1478829824818
+  logout: 1478829906185
+ipAddress: 116.100.76.100
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5923092875164
+  y: 86.5
+  z: -72.1054326376492
+  yaw: 2.5729833
+  pitch: -10.01604
+logoutlocation:
+  world: world
+  x: -107.57112933442667
+  y: 69.5
+  z: -65.4493854347938
+  yaw: 149.58054
+  pitch: 25.033648

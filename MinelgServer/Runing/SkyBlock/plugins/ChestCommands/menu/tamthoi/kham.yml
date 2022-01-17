@@ -1,0 +1,357 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+
+  
+menu-settings:
+  name: '&b&lCửa Hàng Khảm Trang Bị'
+  rows: 10
+  
+  command: 'kham'
+  open-action: 'sound: note pling; tell: &eBạn Đã Bật Menu Khảm Trang Bị Của Server'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+samset:
+  POINTS: 20
+  COMMAND: 'op: ce enchant Lightning '
+  NAME: '&f&lKhảm Chiêu &4[Sấm Sét] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 20 Coin'
+    - '&c&lKhả Năng Triệu Hồi Sấm Sét Tăng Cũng Sẽ Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 1
+  POSITION-Y: 1
+  
+samset1:
+  POINTS: 35
+  COMMAND: 'op: ce enchant Lightning 2 '
+  NAME: '&f&lKhảm Chiêu &4[Sấm Sét] &6&lTrong Server '
+  LORE:
+    - '&fGiá : 35 Coin'
+    - '&c&lKhả Năng Triệu Hồi Sấm Sét Tăng Cũng Sẽ Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 2
+  POSITION-Y: 1
+
+samset2:
+  POINTS: 55
+  COMMAND: 'op: ce enchant Lightning 3'
+  NAME: '&f&lKhảm Chiêu &4[Sấm Sét] &6&lTrong Server '
+  LORE:
+    - '&fGiá : 55 Coin'
+    - '&c&lKhả Năng Triệu Hồi Sấm Sét Tăng Cũng Sẽ Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 3
+  POSITION-Y: 1
+  
+samset4:
+  POINTS: 65
+  COMMAND: 'op: ce enchant Lightning 4'
+  NAME: '&f&lKhảm Chiêu &4[Sấm Sét] &6&lTrong Server '
+  LORE:
+    - '&fGiá : 75 Coin'
+    - '&c&lKhả Năng Triệu Hồi Sấm Sét Tăng Cũng Sẽ Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 4
+  POSITION-Y: 1
+
+samset5:
+  POINTS: 80
+  COMMAND: 'op: ce enchant Lightning 5'
+  NAME: '&f&lKhảm Chiêu &4[Sấm Sét] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 100 Coin'
+    - '&c&lKhả Năng Triệu Hồi Sấm Sét Tăng Cũng Sẽ Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 5
+  POSITION-Y: 1
+
+hutmau:
+  POINTS: 20
+  COMMAND: 'op: ce enchant Vampire'
+  NAME: '&f&lKhảm Chiêu &4[Hút Máu] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 20 Coin'
+    - '&c&lNhấn Vào Lần Nữa Để Tăng Hút Máu'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 1
+  POSITION-Y: 2
+  
+hutmau2:
+  POINTS: 35
+  COMMAND: 'op: ce enchant Vampire 2'
+  NAME: '&f&lKhảm Chiêu &4[Hút Máu] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 35 Coin'
+    - '&c&lKhả Năng Hút Máu Cũng Sẽ Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 2
+  POSITION-Y: 2
+  
+hutmau3:
+  POINTS: 55
+  COMMAND: 'op: ce enchant Vampire 3'
+  NAME: '&f&lKhảm Chiêu &4[Hút Máu] &6&lTrong Server '
+  LORE:
+    - '&fGiá : 55 Coin'
+    - '&c&lKhả Năng Hút Máu Cũng Sẽ Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 3
+  POSITION-Y: 2
+ 
+hutmau4:
+  POINTS: 75
+  COMMAND: 'op: ce enchant Vampire 4'
+  NAME: '&f&lKhảm Chiêu &4[Hút Máu] &6&lTrong Server '
+  LORE:
+    - '&fGiá : 75 Coin'
+    - '&c&lKhả Năng Hút Máu Cũng Sẽ Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 4
+  POSITION-Y: 2
+  
+hutmau5:
+  POINTS: 100
+  COMMAND: 'op: ce enchant Vampire 5'
+  NAME: '&f&lKhảm Chiêu &4[Hút Máu] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 100 Coin'
+    - '&c&lKhả Năng Hút Máu Cũng Sẽ Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 5
+  POSITION-Y: 2
+  
+phaohoa:
+  POINTS: 80
+  COMMAND: 'op: ce enchant Firework'
+  NAME: '&f&lKhảm Hiệu Ứng &4[Pháo Hoa] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 80 Coin'
+  ID: 261
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 1
+  POSITION-Y: 3
+muloa:
+  POINTS: 20
+  COMMAND: 'op: ce enchant Wither'
+  NAME: '&f&lKhảm Chiêu &4[Mù Quáng] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 20 Coin'
+    - '&f&lTăng Thời Gian Mù Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 1
+  POSITION-Y: 4
+  
+muloa2:
+  POINTS: 35
+  COMMAND: 'op: ce enchant Wither 2'
+  NAME: '&f&lKhảm Chiêu &4[Mù Quáng] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 35 Coin'
+    - '&f&lTăng Thời Gian Mù Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 2
+  POSITION-Y: 4
+
+muloa3:
+  POINTS: 55
+  COMMAND: 'op: ce enchant Wither 3'
+  NAME: '&f&lKhảm Chiêu &4[Mù Quáng] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 55 Coin'
+    - '&f&lTăng Thời Gian Mù Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 3
+  POSITION-Y: 4
+  
+muloa4:
+  POINTS: 65
+  COMMAND: 'op: ce enchant Wither 4'
+  NAME: '&f&lKhảm Chiêu &4[Mù Quáng] &6&lTrong Server '
+  LORE:
+    - '&fGiá : 75 Coin'
+    - '&f&lTăng Thời Gian Mù Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 4
+  POSITION-Y: 4
+ 
+muloa5:
+  POINTS: 100
+  COMMAND: 'op: ce enchant Wither 5'
+  NAME: '&f&lKhảm Chiêu &4[Mù Quáng] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 100 Coin'
+    - '&f&lTăng Thời Gian Mù Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 5
+  POSITION-Y: 4
+docto:
+  POINTS: 20
+  COMMAND: 'op: ce enchant Poison'
+  NAME: '&f&lKhảm Chiêu &4[Độc Tố] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 20 Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 1
+  POSITION-Y: 5
+  
+docto2:
+  POINTS: 35
+  COMMAND: 'op: ce enchant Poison 2'
+  NAME: '&f&lKhảm Chiêu &4[Độc Tố] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 35 Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 2
+  POSITION-Y: 5
+  
+docto3:
+  POINTS: 55
+  COMMAND: 'op: ce enchant Poison 3'
+  NAME: '&f&lKhảm Chiêu &4[Độc Tố] &6&lTrong Server '
+  LORE:
+    - '&fGiá : 55 Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 3
+  POSITION-Y: 5
+  
+docto4:
+  POINTS: 75
+  COMMAND: 'op: ce enchant Poison 4 '
+  NAME: '&f&lKhảm Chiêu &4[Độc Tố] &6&lTrong Server '
+  LORE:
+    - '&fGiá : 75 Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 4
+  POSITION-Y: 5
+
+docto5:
+  POINTS: 100
+  COMMAND: 'op: ce enchant Poison 5'
+  NAME: '&f&lKhảm Chiêu &4[Độc Tố] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 100 Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 5
+  POSITION-Y: 5
+block:
+  POINTS: 20
+  COMMAND: 'op: ce enchant Shockwave '
+  NAME: '&f&lKhảm Chiêu &4[Bật Khối] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 80 Coin'
+    - '&f&lTăng Khả Nâng Bật Block Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 1
+  POSITION-Y: 6
+  
+block2:
+  POINTS: 35
+  COMMAND: 'op: ce enchant Shockwave 2'
+  NAME: '&f&lKhảm Chiêu &4[Bật Khối] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 35 Coin'
+    - '&f&lTăng Khả Nâng Bật Block Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 2
+  POSITION-Y: 6
+  
+block3:
+  POINTS: 55
+  COMMAND: 'op: ce enchant Shockwave 3'
+  NAME: '&f&lKhảm Chiêu &4[Bật Khối] &6&lTrong Server '
+  LORE:
+    - '&fGiá : 55 Coin'
+    - '&f&lTăng Khả Nâng Bật Block Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 3
+  POSITION-Y: 6
+  
+block4:
+  POINTS: 75
+  COMMAND: 'op: ce enchant Shockwave 4'
+  NAME: '&f&lKhảm Chiêu &4[Bật Khối] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 75 Coin'
+    - '&f&lTăng Khả Nâng Bật Block Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 4
+  POSITION-Y: 6
+  
+block5:
+  POINTS: 100
+  COMMAND: 'op: ce enchant Shockwave 5'
+  NAME: '&f&lKhảm Chiêu &4[Bật Khối] &6&lTrong Server  '
+  LORE:
+    - '&fGiá : 100 Coin'
+    - '&f&lTăng Khả Nâng Bật Block Cũng Tăng Coin'
+  ID: 276
+  KeepOpen: true
+  ENCHANTMENT: durability, 10
+  POSITION-X: 5
+  POSITION-Y: 6
+
+return-to-main:
+  COMMAND: 'open:main-menu.yml'
+  NAME: '&6[arrow_left] Quay Trở Lại Menu'
+  ID: 166
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 6

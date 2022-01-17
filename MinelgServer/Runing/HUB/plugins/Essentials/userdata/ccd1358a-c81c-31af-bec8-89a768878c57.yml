@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: Wreathlit
+timestamps:
+  login: 1478139282272
+  kits:
+    diemdanh: 1478139303640
+    tanthu: 1478139301436
+    tools: 1478139294439
+    food: 1478139296134
+  lastteleport: 1478139820681
+  logout: 1478140001032
+ipAddress: 123.20.14.22
+lastlocation:
+  world: world
+  x: -123.32270968426883
+  y: 68.0625
+  z: -3.93219444790679
+  yaw: -302.85187
+  pitch: 3.6000228
+logoutlocation:
+  world: world
+  x: 3223.9752835360655
+  y: 62.0
+  z: 2028.6762871443752
+  yaw: 352.21588
+  pitch: 30.4499

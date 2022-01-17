@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: tuham
+timestamps:
+  login: 1479268648146
+  kits:
+    diemdanh: 1479262936589
+    tanthu: 1479205316938
+    food: 1479262923934
+  lastteleport: 1479269083427
+  logout: 1479269131767
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: 4296.658579694037
+  y: 68.0
+  z: 815.4410405862392
+  yaw: -74.81839
+  pitch: 26.699966
+logoutlocation:
+  world: world
+  x: 4295.812433373207
+  y: 68.0
+  z: 816.4444814775779
+  yaw: -173.51859
+  pitch: 21.899986
+money: '21864.0'
+homes:
+  home:
+    world: world
+    x: 4332.637767545962
+    y: 64.0
+    z: 763.2924142982021
+    yaw: 310.38086
+    pitch: 10.049962

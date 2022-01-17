@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: ChanVL2
+timestamps:
+  login: 1477319714161
+  lastteleport: 1477320325166
+  logout: 1477320488569
+  kits:
+    food: 1477320175215
+ipAddress: 14.177.173.238
+lastlocation:
+  world: world
+  x: 3.192261562830789
+  y: 48.0
+  z: -53.533699334522225
+  yaw: -16.350033
+  pitch: 60.300003
+logoutlocation:
+  world: world
+  x: -151.4729013230993
+  y: 87.0
+  z: -45.00724164774753
+  yaw: -63.600037
+  pitch: 45.299957
+money: '0.0'

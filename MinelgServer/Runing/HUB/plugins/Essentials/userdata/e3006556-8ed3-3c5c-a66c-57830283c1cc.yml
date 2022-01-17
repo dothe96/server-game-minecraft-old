@@ -1,0 +1,25 @@
+lastAccountName: gaga
+timestamps:
+  login: 1478313264930
+  kits:
+    diemdanh: 1478313337545
+    tanthu: 1478313304834
+    tools: 1478313322179
+  lastteleport: 1478313349636
+  logout: 1478313413289
+ipAddress: 171.250.102.100
+socialspy: false
+lastlocation:
+  world: world
+  x: -156.73197578813847
+  y: 86.0
+  z: -64.20719743363745
+  yaw: -117.15001
+  pitch: 2.399984
+logoutlocation:
+  world: world
+  x: -114.97720307463163
+  y: 69.0
+  z: -16.39066218873299
+  yaw: 323.99817
+  pitch: 3.000009

@@ -1,0 +1,30 @@
+lastAccountName: Trung
+timestamps:
+  login: 1479191095253
+  lastteleport: 1479191163970
+  logout: 1479191169024
+ipAddress: 117.3.46.58
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+money: '1698.0'
+logoutlocation:
+  world: world
+  x: 1.0000093300000012E7
+  y: 174.0
+  z: 9999774.699999988
+  yaw: 98.107216
+  pitch: 48.149986
+homes:
+  home:
+    world: world
+    x: 4152.274383503135
+    y: 68.0
+    z: 1546.9938383091037
+    yaw: -14.781288
+    pitch: 12.599973

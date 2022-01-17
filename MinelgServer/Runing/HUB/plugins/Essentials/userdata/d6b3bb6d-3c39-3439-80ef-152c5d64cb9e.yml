@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: duccongcu123
+timestamps:
+  login: 1479212355558
+  lastteleport: 1479212811114
+  logout: 1479213802846
+  kits:
+    diemdanh: 1479212385231
+    tanthu: 1479089027783
+    food: 1479212392724
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -14.100013
+  pitch: -14.700014
+logoutlocation:
+  world: world
+  x: 1052.7242750315456
+  y: 67.0
+  z: -355.9866712128263
+  yaw: 56.249634
+  pitch: -5.5499477
+money: '1702.0'
+homes:
+  home:
+    world: world
+    x: 979.6301891973728
+    y: 73.0
+    z: -642.6371142571837
+    yaw: 85.81122
+    pitch: 34.350098
+afk: false

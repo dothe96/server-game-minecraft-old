@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: VeeNix
+timestamps:
+  login: 1478256711947
+  kits:
+    diemdanh: 1478256725591
+  lastteleport: 1478256735436
+  logout: 1478256746293
+ipAddress: 113.176.152.77
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 746.943710510299
+  y: 71.0
+  z: 1708.341870744811
+  yaw: 108.96714
+  pitch: 60.370712

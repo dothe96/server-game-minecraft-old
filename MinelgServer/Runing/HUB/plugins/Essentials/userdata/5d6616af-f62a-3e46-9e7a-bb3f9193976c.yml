@@ -1,0 +1,28 @@
+lastAccountName: HUNGTHANG
+timestamps:
+  login: 1477665018813
+  kits:
+    diemdanh: 1477313951698
+    tanthu: 1477313942295
+    tools: 1477313929367
+    food: 1477313934428
+  lastteleport: 1477319889119
+  logout: 1477665070232
+ipAddress: 113.169.175.248
+socialspy: false
+lastlocation:
+  world: world
+  x: -112.27042408933687
+  y: 67.0
+  z: -82.87279382773067
+  yaw: 207.78853
+  pitch: -11.381225
+logoutlocation:
+  world: world
+  x: -123.30546433605366
+  y: 68.0
+  z: -65.70405240513244
+  yaw: -159.93758
+  pitch: 23.130789
+afk: false
+money: '0.0'

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: SakjGamer
+timestamps:
+  login: 1477445695071
+  lastteleport: 1477445969235
+  logout: 1477446172701
+ipAddress: 115.78.121.155
+lastlocation:
+  world: world
+  x: 2356.7564081815985
+  y: 63.0
+  z: 1364.5324747232617
+  yaw: 117.30881
+  pitch: 33.89999
+logoutlocation:
+  world: world
+  x: 2205.1651515920817
+  y: 64.0
+  z: 1526.1769229251906
+  yaw: -46.193317
+  pitch: 34.05006

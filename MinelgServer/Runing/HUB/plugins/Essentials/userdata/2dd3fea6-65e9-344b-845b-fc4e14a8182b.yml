@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: boybao
+timestamps:
+  login: 1478406115851
+  lastteleport: 1478406139213
+  logout: 1478406287047
+ipAddress: 171.250.102.100
+lastlocation:
+  world: world
+  x: -153.6500220990156
+  y: 86.0
+  z: -68.93909228146119
+  yaw: -2.8500285
+  pitch: -9.150014
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 3123.8254462714076
+  y: 72.0
+  z: 1929.966640351854
+  yaw: 255.16788
+  pitch: 28.049984

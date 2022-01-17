@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: bim13112003
+timestamps:
+  login: 1478435541604
+  lastteleport: 1478394345727
+  logout: 1478435555276
+  kits:
+    diemdanh: 1478394265499
+    tanthu: 1477759456672
+    tools: 1477738539582
+    food: 1477752922700
+ipAddress: 14.175.35.52
+lastlocation:
+  world: world_the_end
+  x: 38.420962883796776
+  y: 49.0
+  z: -35.21850496642449
+  yaw: 304.19968
+  pitch: 20.099857
+money: '30.0'
+logoutlocation:
+  world: world
+  x: -155.28833286717244
+  y: 87.5
+  z: -74.93578239493706
+  yaw: 15.30005
+  pitch: 32.549915
+homes:
+  home:
+    world: world
+    x: 2512.7179533887797
+    y: 92.0
+    z: 1732.3387750319923
+    yaw: 110.333305
+    pitch: 29.00076
+afk: false

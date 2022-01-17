@@ -1,0 +1,141 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  name: '&6&lShop Coin'
+  rows: 4
+  command: 'cshop'
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+coins1:
+  POINTS: 100
+  COMMAND: 'op: give {player} 7 1 0 {display:{Name:"§b§lĐ§e§lá§f§l-§d§lT§6§lh§f§lầ§b§ln§c§l",Lore:["§b§l- Đây Là Xu-Donate Của Server!","§c§l- Có Giá Trị Rất Hiếm Và Dùng Để Trade Items Donate!","§6§l- Mệnh giá: 100 coin / 1 cái"]},ench:[{id:35,lvl:5}]}'
+  NAME: '&c&l[arrow_up] §b§lĐ§e§lá§f§l-§d§lT§6§lh§f§lầ§b§ln &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §b§lĐ§e§lá§f§l-§d§lT§6§lh§f§lầ§b§ln'
+    - '&a&lGiá: 100 Coin - 1 cái'
+  ID: 7
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 1
+coins2:
+  POINTS: 10
+  COMMAND: 'op: give {player} 388 1 0 {display:{Name:"§2§lN§1§lg§b§lọ§e§lc§f§l-§d§lT§6§lh§f§lầ§b§ln§c§l",Lore:["§b§l- Đây Là Xu-Donate Của Server!","§c§l- Có Giá Trị Rất Hiếm Và Dùng Để Trade Items Donate!","§6§l- Mệnh giá: 10 coin / 1 cái"]},ench:[{id:35,lvl:4}]}'
+  NAME: '&c&l[arrow_up] §2§lN§1§lg§b§lọ§e§lc§f§l-§d§lT§6§lh§f§lầ§b§ln &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §2§lN§1§lg§b§lọ§e§lc§f§l-§d§lT§6§lh§f§lầ§b§ln'
+    - '&a&lGiá: 10 Coin - 1 cái'
+  ID: 388
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 1
+muamoney:
+  POINTS: 20
+  COMMAND: 'op: eco give {player} 100000'
+  NAME: '&2&lMua &b&l100000&f$'
+  LORE: 
+    - '&4► &f&lBạn sẽ nhận được 100000$ Tiền vào tài khoản của bạn'
+    - '&4► &f&lGiá : 20 Coin'
+  ID: 264
+  POSITION-X: 1
+  POSITION-Y: 1
+Longfarm:
+  NAME: '&2&lMua &6&lLồng Farmmobs'
+  LORE: 
+    - '&4► &f&lVì lồng farm khá lag server :3'
+    - '&4► &f&lNên bạn nào mua liên hệ Owner!'
+    - '&4► &f&lGiá : 50 Coin'
+  ID: 52
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+doisang:
+  POINTS: 1
+  COMMAND: 'op: time set day'
+  NAME: '&2&lĐổi thành trời sáng toàn server'
+  LORE: 
+    - '&4► &f&lCó khả năng đổi thành trời sáng'
+    - '&4► &f&lNhư quyền Admin'
+    - '&4► &f&lGiá : 1 Coin'
+  ID: 377
+  KEEP-OPEN: false
+  POSITION-X: 3
+  POSITION-Y: 1
+doitoi:
+  POINTS: 1
+  COMMAND: 'op: time set night'
+  NAME: '&2&lĐổi thành trời tối toàn server'
+  LORE: 
+    - '&4► &f&lCó khả năng đổi thành trời tối ngay lập tức'
+    - '&4► &f&lNhư quyền Admin'
+    - '&4► &f&lGiá : 1 Coin'
+  ID: 377
+  KEEP-OPEN: false
+  POSITION-X: 4
+  POSITION-Y: 1
+homua:
+  POINTS: 1
+  COMMAND: 'op: weather storm'
+  NAME: '&2&lHô Mưa'
+  LORE: 
+    - '&4► &f&lCó khả năng đổi thành trời mưa toàn server'
+    - '&4► &f&lNhư quyền Admin'
+    - '&4► &f&lGiá : 1 Coin'
+  ID: 377
+  KEEP-OPEN: false
+  POSITION-X: 1
+  POSITION-Y: 2
+goinang:
+  POINTS: 1
+  COMMAND: 'op: weather sun'
+  NAME: '&2&lGọi Nắng'
+  LORE: 
+    - '&4► &f&lCó khả năng đổi thành trời nắng toàn server'
+    - '&4► &f&lNhư quyền Admin'
+    - '&4► &f&lGiá : 1 Coin'
+  ID: 377
+  KEEP-OPEN: false
+  POSITION-X: 2
+  POSITION-Y: 2
+return-to-main:
+  COMMAND: 'open:example.yml'
+  NAME: '&6[arrow_left] Bam vao quay lai menu'
+  ID: 166
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 4
+Kinh1:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 1
+Kinh2:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+Kinh3:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 3

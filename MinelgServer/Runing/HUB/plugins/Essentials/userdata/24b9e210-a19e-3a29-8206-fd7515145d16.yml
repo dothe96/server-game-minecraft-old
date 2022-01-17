@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: OmgOverGame
+timestamps:
+  login: 1477271821680
+  kits:
+    diemdanh: 1477239084125
+    tanthu: 1477195895287
+    tools: 1477222902920
+    food: 1477275415537
+  lastteleport: 1477275827580
+  logout: 1477277167490
+ipAddress: 14.191.40.241
+lastlocation:
+  world: world
+  x: 3011.699999988079
+  y: 85.0
+  z: 422.0437459654678
+  yaw: 320.11182
+  pitch: 18.600006
+money: '2920.0'
+homes:
+  home:
+    world: world
+    x: 3027.915454053415
+    y: 83.0
+    z: 410.74147946386904
+    yaw: -240.28796
+    pitch: 4.50006
+logoutlocation:
+  world: world
+  x: 2658.568912689933
+  y: 11.0
+  z: 2007.300000011921
+  yaw: -357.28482
+  pitch: 9.29998

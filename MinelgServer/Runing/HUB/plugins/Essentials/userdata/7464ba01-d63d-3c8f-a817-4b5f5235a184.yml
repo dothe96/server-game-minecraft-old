@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Fidddlestick
+timestamps:
+  login: 1477648183911
+  kits:
+    diemdanh: 1477633714192
+    tanthu: 1476828967013
+    tools: 1476828976713
+    food: 1477459819234
+  lastteleport: 1477608834130
+  logout: 1477648197770
+ipAddress: 123.18.39.18
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -67.80002
+  pitch: -17.700014
+homes:
+  home:
+    world: world
+    x: 2412.003520934684
+    y: 70.0
+    z: 1657.699999988079
+    yaw: 145.51788
+    pitch: 28.649975
+money: '6338.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+afk: false

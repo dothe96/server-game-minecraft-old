@@ -1,0 +1,129 @@
+[2017/02/19 00:01:51] §6[§aMember§6] §ffybit§r executed /list at Location{world=CraftWorld{name=world},x=-5084.47822892974,y=111.0,z=796.4521174720478,pitch=36.899975,yaw=-297.8996}
+[2017/02/19 00:01:54] §6[§aMember§6] §ffybit§r executed /tp chicken at Location{world=CraftWorld{name=world},x=-5084.47822892974,y=111.0,z=796.4521174720478,pitch=36.899975,yaw=-297.8996}
+[2017/02/19 00:03:29] §6[§aMember§6] §ffybit§r executed /tp chicken at Location{world=CraftWorld{name=world},x=-5085.33571165306,y=111.0,z=796.6628165568488,pitch=58.049976,yaw=-349.19962}
+[2017/02/19 00:04:19] §6[§aMember§6] §ffybit§r executed /tp chicken at Location{world=CraftWorld{name=world},x=-5085.422273721292,y=111.0,z=796.3739916802577,pitch=37.199978,yaw=-297.8996}
+[2017/02/19 00:04:49] §6[§aMember§6] §ffybit§r executed /tp chicken at Location{world=CraftWorld{name=world},x=-5087.274748230584,y=111.0,z=796.7661107796663,pitch=37.049973,yaw=-297.8996}
+[2017/02/19 00:05:51] §6[§aMember§6] §ffybit§r executed /tp chicken at Location{world=CraftWorld{name=world},x=-5087.274748230584,y=111.0,z=796.7661107796663,pitch=38.249977,yaw=-312.29953}
+[2017/02/19 00:07:46] §6[§aMember§6] §ffybit§r executed /tp chicken at Location{world=CraftWorld{name=world},x=-5087.274748230584,y=111.0,z=796.7661107796663,pitch=37.049976,yaw=-298.0496}
+[2017/02/19 00:09:46] §6[§aMember§6] §ffybit§r executed /spawn at Location{world=CraftWorld{name=world},x=-5085.512089372036,y=111.0,z=796.7286624289566,pitch=18.449978,yaw=-284.2496}
+[2017/02/19 00:25:22] §6[§aMember§6] §ffybit§r executed /asw at Location{world=CraftWorld{name=world},x=-5036.771206626384,y=66.0,z=-159.2728238755306,pitch=17.250008,yaw=85.94992}
+[2017/02/19 00:25:25] §6[§aMember§6] §ffybit§r executed /asw help at Location{world=CraftWorld{name=world},x=-5036.771206626384,y=66.0,z=-159.2728238755306,pitch=17.250008,yaw=85.94992}
+[2017/02/19 00:25:39] §6[§aMember§6] §ffybit§r executed /asw help serverstatus at Location{world=CraftWorld{name=world},x=-5036.771206626384,y=66.0,z=-159.2728238755306,pitch=17.250008,yaw=85.94992}
+[2017/02/19 00:25:50] §6[§aMember§6] §ffybit§r executed /asw serverstatus at Location{world=CraftWorld{name=world},x=-5036.771206626384,y=66.0,z=-159.2728238755306,pitch=17.250008,yaw=85.94992}
+[2017/02/19 00:25:56] §6[§aMember§6] §ffybit§r executed /asw serverstatus at Location{world=CraftWorld{name=world},x=-5036.771206626384,y=66.0,z=-159.2728238755306,pitch=17.250008,yaw=85.94992}
+[2017/02/19 01:11:40] §6[§aMember§6] §ffybit§r executed /list at Location{world=CraftWorld{name=world},x=-4982.354608370821,y=66.0,z=-161.44826222677742,pitch=33.75,yaw=273.30066}
+[2017/02/19 01:11:46] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-4982.354608370821,y=66.0,z=-161.44826222677742,pitch=33.75,yaw=273.30066}
+[2017/02/19 01:11:52] §6[§aMember§6] §ffybit§r executed /list at Location{world=CraftWorld{name=world},x=-4983.261430604106,y=66.0,z=-163.79332824348216,pitch=15.45,yaw=105.600655}
+[2017/02/19 01:12:19] §6[§aMember§6] §ffybit§r executed /gm 1 at Location{world=CraftWorld{name=world},x=-5006.685971946704,y=66.0,z=-135.72825611670288,pitch=23.099997,yaw=344.70068}
+[2017/02/19 01:13:11] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5006.600623667093,y=66.0,z=-135.0927101754001,pitch=23.549995,yaw=353.70065}
+[2017/02/19 01:14:37] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5006.7576988114,y=66.0,z=-134.76072146901768,pitch=23.999996,yaw=355.0506}
+[2017/02/19 01:14:48] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.240116395652,y=66.0,z=-134.7147900007142,pitch=24.449995,yaw=343.65067}
+[2017/02/19 01:15:12] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5006.874522544776,y=66.0,z=-135.08701707062664,pitch=24.599995,yaw=343.50067}
+[2017/02/19 01:15:18] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5006.874522544776,y=66.0,z=-135.08701707062664,pitch=23.849995,yaw=343.65067}
+[2017/02/19 01:16:12] §6[§aMember§6] §ffybit§r executed /deop at Location{world=CraftWorld{name=world},x=-5006.874522544776,y=66.0,z=-135.08701707062664,pitch=28.049997,yaw=354.90067}
+[2017/02/19 01:16:15] §6[§aMember§6] §ffybit§r executed /deop chicken at Location{world=CraftWorld{name=world},x=-5006.874522544776,y=66.0,z=-135.08701707062664,pitch=28.049997,yaw=354.90067}
+[2017/02/19 01:16:21] §6[§aMember§6] §ffybit§r executed /deop fybit at Location{world=CraftWorld{name=world},x=-5006.874522544776,y=66.0,z=-135.08701707062664,pitch=28.049997,yaw=354.90067}
+[2017/02/19 01:16:25] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5006.874522544776,y=66.0,z=-135.08701707062664,pitch=28.049997,yaw=354.90067}
+[2017/02/19 01:17:02] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5006.874522544776,y=66.0,z=-135.08701707062664,pitch=28.049997,yaw=354.90067}
+[2017/02/19 01:21:08] §6[§aMember§6] §ffybit§r executed /cunlock at Location{world=CraftWorld{name=world},x=-5006.874522544776,y=66.0,z=-135.08701707062664,pitch=25.200005,yaw=349.80072}
+[2017/02/19 01:21:19] §6[§aMember§6] §ffybit§r executed /cunlock anhthetq at Location{world=CraftWorld{name=world},x=-5006.874522544776,y=66.0,z=-135.08701707062664,pitch=25.200005,yaw=349.80072}
+[2017/02/19 01:22:27] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.471651582537,y=66.0,z=-135.67991207893334,pitch=20.550007,yaw=357.9006}
+[2017/02/19 01:22:40] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.459326545266,y=66.0,z=-134.82316645360928,pitch=23.100006,yaw=358.0506}
+[2017/02/19 01:24:51] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.459326545266,y=66.0,z=-134.82316645360928,pitch=26.400007,yaw=0.75061035}
+[2017/02/19 01:25:24] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.459326545266,y=66.0,z=-134.82316645360928,pitch=26.250008,yaw=0.75061035}
+[2017/02/19 01:26:39] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.459326545266,y=66.0,z=-134.82316645360928,pitch=26.250008,yaw=0.75061035}
+[2017/02/19 01:27:43] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.459326545266,y=66.0,z=-134.82316645360928,pitch=34.35001,yaw=2.2505798}
+[2017/02/19 01:28:32] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.74689645869,y=66.0,z=-135.43764207854883,pitch=23.699999,yaw=355.05063}
+[2017/02/19 01:28:41] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.699088524838,y=66.0,z=-134.58291979754262,pitch=27.75,yaw=358.5006}
+[2017/02/19 01:29:40] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.699088524838,y=66.0,z=-134.58291979754262,pitch=29.4,yaw=355.35065}
+[2017/02/19 01:29:45] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.699088524838,y=66.0,z=-134.58291979754262,pitch=28.65,yaw=1.6506348}
+[2017/02/19 01:29:50] §6[§aMember§6] §ffybit§r executed /gm 0 at Location{world=CraftWorld{name=world},x=-5007.699088524838,y=66.0,z=-134.58291979754262,pitch=27.75,yaw=0.75064087}
+[2017/02/19 01:29:59] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.714809536809,y=66.0,z=-134.59664422140983,pitch=25.950005,yaw=353.10056}
+[2017/02/19 01:30:10] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.714809536809,y=66.0,z=-134.59664422140983,pitch=26.250004,yaw=356.10056}
+[2017/02/19 01:31:22] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.714809536809,y=66.0,z=-134.59664422140983,pitch=33.000004,yaw=356.55057}
+[2017/02/19 01:32:39] §6[§aMember§6] §ffybit§r executed /cpassword at Location{world=CraftWorld{name=world},x=-5007.714809536809,y=66.0,z=-134.59664422140983,pitch=31.950003,yaw=357.75058}
+[2017/02/19 01:32:44] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.714809536809,y=66.0,z=-134.59664422140983,pitch=31.950003,yaw=357.6006}
+[2017/02/19 01:33:50] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.714809536809,y=66.0,z=-134.59664422140983,pitch=33.449997,yaw=353.25052}
+[2017/02/19 01:33:55] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.714809536809,y=66.0,z=-134.59664422140983,pitch=31.949995,yaw=358.0505}
+[2017/02/19 01:36:43] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-5007.469448335512,y=66.0,z=-134.79722943038166,pitch=37.35,yaw=347.1004}
+[2017/02/19 01:37:04] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.671658033551,y=66.0,z=-134.6682151123674,pitch=25.499996,yaw=0.15032959}
+[2017/02/19 01:37:12] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.683983530778,y=66.0,z=-134.6678611227612,pitch=28.199995,yaw=358.20035}
+[2017/02/19 01:37:23] §6[§aMember§6] §ffybit§r executed /cunlock at Location{world=CraftWorld{name=world},x=-5007.683983530778,y=66.0,z=-134.6719009043905,pitch=30.599993,yaw=357.75037}
+[2017/02/19 01:37:28] §6[§aMember§6] §ffybit§r executed /cunlock anhthetq at Location{world=CraftWorld{name=world},x=-5007.683983530778,y=66.0,z=-134.6719009043905,pitch=30.599993,yaw=357.75037}
+[2017/02/19 01:39:02] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.683983530778,y=66.0,z=-134.6719009043905,pitch=29.399996,yaw=357.3004}
+[2017/02/19 01:39:11] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.683983530778,y=66.0,z=-134.6719009043905,pitch=29.249996,yaw=357.3004}
+[2017/02/19 01:39:18] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.683983530778,y=66.0,z=-134.6719009043905,pitch=29.099997,yaw=357.3004}
+[2017/02/19 01:39:41] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-5007.6886044674775,y=66.0,z=-134.8874747291792,pitch=28.949997,yaw=357.00043}
+[2017/02/19 01:40:00] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.6886044674775,y=66.0,z=-134.8874747291792,pitch=28.049997,yaw=357.15042}
+[2017/02/19 01:40:06] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.6886044674775,y=66.0,z=-134.8874747291792,pitch=28.049997,yaw=357.15042}
+[2017/02/19 01:43:36] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-5007.6886044674775,y=66.0,z=-134.8874747291792,pitch=28.049997,yaw=357.15042}
+[2017/02/19 01:43:40] §6[§aMember§6] §ffybit§r executed /deop at Location{world=CraftWorld{name=world},x=-5007.6886044674775,y=66.0,z=-134.8874747291792,pitch=27.899998,yaw=357.15042}
+[2017/02/19 01:43:44] §6[§aMember§6] §ffybit§r executed /deop fybit at Location{world=CraftWorld{name=world},x=-5007.6886044674775,y=66.0,z=-134.8874747291792,pitch=27.899998,yaw=357.15042}
+[2017/02/19 01:44:00] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.882807182741,y=66.0,z=-134.62284740150923,pitch=26.099989,yaw=350.2504}
+[2017/02/19 01:44:11] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.882807182741,y=66.0,z=-134.62284740150923,pitch=26.099989,yaw=350.2504}
+[2017/02/19 01:44:20] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.882807182741,y=66.0,z=-134.62284740150923,pitch=26.099989,yaw=350.2504}
+[2017/02/19 01:44:26] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.882807182741,y=66.0,z=-134.62284740150923,pitch=26.099989,yaw=350.2504}
+[2017/02/19 01:44:38] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.882807182741,y=66.0,z=-134.62284740150923,pitch=26.999985,yaw=348.90036}
+[2017/02/19 01:44:48] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5007.9975920238385,y=66.0,z=-134.3160504807772,pitch=27.14998,yaw=348.00037}
+[2017/02/19 01:49:02] §6[§aMember§6] §ffybit§r executed /cpassword at Location{world=CraftWorld{name=world},x=-5007.9975920238385,y=66.0,z=-134.3160504807772,pitch=27.14998,yaw=348.00037}
+[2017/02/19 01:49:08] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.9975920238385,y=66.0,z=-134.3160504807772,pitch=27.14998,yaw=348.00037}
+[2017/02/19 01:49:17] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.9975920238385,y=66.0,z=-134.3160504807772,pitch=26.99998,yaw=349.50037}
+[2017/02/19 01:49:21] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.9975920238385,y=66.0,z=-134.3160504807772,pitch=27.29998,yaw=349.65036}
+[2017/02/19 01:49:51] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.9975920238385,y=66.0,z=-134.3160504807772,pitch=25.34998,yaw=349.35034}
+[2017/02/19 01:50:10] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.9975920238385,y=66.0,z=-134.3160504807772,pitch=25.34998,yaw=349.50034}
+[2017/02/19 01:51:55] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-4969.54047167101,y=67.0,z=-160.47180921241775,pitch=-6.5999975,yaw=89.39996}
+[2017/02/19 01:52:37] §6[§aMember§6] §ffybit§r executed /cunlock anhthetq at Location{world=CraftWorld{name=world},x=-5008.0264618033725,y=66.0,z=-134.6277295934831,pitch=24.899992,yaw=-10.950047}
+[2017/02/19 01:52:43] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5008.0264618033725,y=66.0,z=-134.6277295934831,pitch=24.899992,yaw=-10.950047}
+[2017/02/19 01:52:59] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5008.0264618033725,y=66.0,z=-134.6277295934831,pitch=24.899992,yaw=-10.950047}
+[2017/02/19 01:53:17] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5008.0264618033725,y=66.0,z=-134.6277295934831,pitch=24.899992,yaw=-10.950047}
+[2017/02/19 01:53:35] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.564470543486,y=66.0,z=-134.4819525274792,pitch=30.899986,yaw=-1.2000482}
+[2017/02/19 01:53:53] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.564470543486,y=66.0,z=-134.4819525274792,pitch=31.949984,yaw=1.0499514}
+[2017/02/19 01:54:03] §6[§aMember§6] §ffybit§r executed /cpassword at Location{world=CraftWorld{name=world},x=-5007.564470543486,y=66.0,z=-134.4819525274792,pitch=31.949984,yaw=1.0499514}
+[2017/02/19 01:55:11] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.564470543486,y=66.0,z=-134.4819525274792,pitch=31.949984,yaw=1.0499514}
+[2017/02/19 01:55:16] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.564470543486,y=66.0,z=-134.4819525274792,pitch=32.099983,yaw=1.0499514}
+[2017/02/19 01:55:29] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.564470543486,y=66.0,z=-134.4819525274792,pitch=31.949984,yaw=1.0499514}
+[2017/02/19 01:55:44] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.564470543486,y=66.0,z=-134.4819525274792,pitch=31.799984,yaw=1.0499514}
+[2017/02/19 01:55:53] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5007.681908598483,y=66.0,z=-135.46530163938925,pitch=34.199986,yaw=3.59995}
+[2017/02/19 01:57:48] §6[§aMember§6] §ffybit§r executed /cpassword anhthetq at Location{world=CraftWorld{name=world},x=-5007.679353059117,y=66.0,z=-134.8235197997806,pitch=26.099983,yaw=-0.90005004}
+[2017/02/19 01:58:01] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-4969.54047167101,y=67.0,z=-160.47180921241775,pitch=-6.5999975,yaw=89.39996}
+[2017/02/19 01:59:41] §6[§aMember§6] §ffybit§r executed /cunlock anhthetq at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=31.800013,yaw=1.649958}
+[2017/02/19 01:59:48] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=30.300014,yaw=1.0499581}
+[2017/02/19 01:59:59] §6[§aMember§6] §ffybit§r executed /cpassword at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=29.850014,yaw=1.0499581}
+[2017/02/19 02:00:49] §6[§aMember§6] §ffybit§r executed /lwc -c password anhthetq at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=1.3500135,yaw=-11.850041}
+[2017/02/19 02:03:37] §6[§aMember§6] §ffybit§r executed /lýc at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=-2.999988,yaw=-22.95004}
+[2017/02/19 02:03:43] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=-2.999988,yaw=-22.95004}
+[2017/02/19 02:04:22] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=8.550012,yaw=-27.150042}
+[2017/02/19 02:04:28] §6[§aMember§6] §ffybit§r executed /asdjfklasdlfhkj at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=8.550012,yaw=-27.150042}
+[2017/02/19 02:04:34] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=8.550012,yaw=-27.150042}
+[2017/02/19 02:05:46] §6[§aMember§6] §ffybit§r executed /cprivate at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=26.400011,yaw=2.0999575}
+[2017/02/19 02:08:55] §6[§aMember§6] §ffybit§r executed /lwc help at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=26.400011,yaw=2.0999575}
+[2017/02/19 02:08:59] §6[§aMember§6] §ffybit§r executed /lýc at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=26.400011,yaw=2.0999575}
+[2017/02/19 02:09:04] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=26.400011,yaw=2.0999575}
+[2017/02/19 02:09:58] §6[§aMember§6] §ffybit§r executed /cpublic at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=26.400011,yaw=2.0999575}
+[2017/02/19 02:12:12] §6[§aMember§6] §ffybit§r executed /cpassword at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=27.000013,yaw=0.899957}
+[2017/02/19 02:12:36] §6[§aMember§6] §ffybit§r executed /cunlock at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=27.000013,yaw=0.899957}
+[2017/02/19 02:18:38] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=27.000013,yaw=0.899957}
+[2017/02/19 02:18:56] §6[§aMember§6] §ffybit§r executed /cinfo at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=27.000013,yaw=0.899957}
+[2017/02/19 02:20:51] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.64680104711,y=66.0,z=-134.6601585348728,pitch=30.600012,yaw=-2.8500433}
+[2017/02/19 02:24:41] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.464786441523,y=66.0,z=-135.0106979167738,pitch=24.450005,yaw=2.699896}
+[2017/02/19 02:24:46] §6[§aMember§6] §ffybit§r executed /unlock at Location{world=CraftWorld{name=world},x=-5007.464786441523,y=66.0,z=-135.0106979167738,pitch=21.900005,yaw=2.8498962}
+[2017/02/19 02:25:04] §6[§aMember§6] §ffybit§r executed /cpassword at Location{world=CraftWorld{name=world},x=-5007.464786441523,y=66.0,z=-135.0106979167738,pitch=21.900005,yaw=2.8498962}
+[2017/02/19 02:25:38] §6[§aMember§6] §ffybit§r executed /cunlock at Location{world=CraftWorld{name=world},x=-5007.464786441523,y=66.0,z=-135.0106979167738,pitch=21.900005,yaw=2.8498962}
+[2017/02/19 02:25:42] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5007.464786441523,y=66.0,z=-135.0106979167738,pitch=21.900005,yaw=2.8498962}
+[2017/02/19 02:36:42] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-4969.54047167101,y=67.0,z=-160.47180921241775,pitch=0.7500022,yaw=87.59997}
+[2017/02/19 02:37:00] §6[§aMember§6] §ffybit§r executed /cpassword at Location{world=CraftWorld{name=world},x=-5007.491854645886,y=66.0,z=-135.50108872256527,pitch=22.200003,yaw=1.7999598}
+[2017/02/19 02:37:06] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5007.491854645886,y=66.0,z=-135.50108872256527,pitch=22.200003,yaw=1.7999598}
+[2017/02/19 02:42:05] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-4969.54047167101,y=67.0,z=-160.47180921241775,pitch=-6.5999975,yaw=89.549965}
+[2017/02/19 02:42:15] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-5005.952689711128,y=66.0,z=-152.8722418359973,pitch=3.0000029,yaw=42.449955}
+[2017/02/19 02:44:44] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-4969.54047167101,y=67.0,z=-160.47180921241775,pitch=-6.5999975,yaw=89.39996}
+[2017/02/19 02:44:48] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-4969.967338454122,y=67.0,z=-160.4697422118126,pitch=-4.7999973,yaw=88.34996}
+[2017/02/19 02:45:47] §6[§aMember§6] §ffybit§r executed /deop fybit at Location{world=CraftWorld{name=world},x=-4969.967338454122,y=67.0,z=-160.4697422118126,pitch=-4.7999973,yaw=88.34996}
+[2017/02/19 02:46:27] §6[§aMember§6] §ffybit§r executed /lwc at Location{world=CraftWorld{name=world},x=-4996.996648425602,y=66.0,z=-158.5965337003657,pitch=-5.2499976,yaw=71.69997}
+[2017/02/19 02:46:37] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.677169828918,y=66.0,z=-134.6931418200576,pitch=25.650007,yaw=-4.3500204}
+[2017/02/19 02:47:02] §6[§aMember§6] §ffybit§r executed /lock at Location{world=CraftWorld{name=world},x=-5007.82044803565,y=66.0,z=-134.75157998239615,pitch=25.950006,yaw=-9.000022}
+[2017/02/19 02:56:06] §6[§aMember§6] §fminelg§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-4969.5,y=67.0,z=-160.5,pitch=-7.049998,yaw=89.24996}
+[2017/02/19 03:02:04] §6[§aMember§6] §fminelg§r executed /deop minelg at Location{world=CraftWorld{name=world},x=-5010.615978360112,y=66.0,z=-135.01441287008944,pitch=23.399996,yaw=-65.250046}
+[2017/02/19 03:06:41] §6[§aMember§6] §fminelg§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-4969.54047167101,y=67.0,z=-160.47180921241775,pitch=-6.5999975,yaw=88.799965}
+[2017/02/19 03:07:30] §6[§aMember§6] §fminelg§r executed /lwc at Location{world=CraftWorld{name=world},x=-5000.420695748909,y=66.0,z=-155.9063020178644,pitch=14.100008,yaw=241.1999}
+[2017/02/19 03:08:06] §6[§aMember§6] §fminelg§r executed /kit at Location{world=CraftWorld{name=world},x=-5040.948675189027,y=66.0,z=-164.17204705826762,pitch=5.8500037,yaw=70.9498}
+[2017/02/19 03:08:12] §6[§aMember§6] §fminelg§r executed /kit food at Location{world=CraftWorld{name=world},x=-5040.948675189027,y=66.0,z=-164.17204705826762,pitch=5.8500037,yaw=70.9498}

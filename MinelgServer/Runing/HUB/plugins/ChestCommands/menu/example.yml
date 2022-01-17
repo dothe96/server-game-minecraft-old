@@ -1,0 +1,153 @@
+﻿
+
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&2&LChọn server'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 5
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'chonserver;sv'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    id: 347
+    left-click: true
+    right-click: true
+#   data-value: 0
+  open-action: 'tell: &fChọn server &d- &6Minelg &2Network'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+towny:
+  COMMAND: 'server towny'
+  NAME: '&f❖ &9&lServer &2&LTowny'
+  LORE:
+    - ''
+    - '&fChế độ: &2Survival'
+    - '&aServer towny keep'
+    - '&fPhiên bản: &d1.10&f - &d1.11'
+    - ''
+    - '&2Nhấp để kết nối'
+    - '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: 276
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 3
+  POSITION-Y: 3
+prison:
+  COMMAND: 'server prison'
+  NAME: '&f❖ &9&lServer &7&LPrison'
+  LORE:
+    - ''
+    - '&fChế độ: &2Nhà tù'
+    - '&aServer vượt ngục'
+    - '&fPhiên bản: &d1.10&f - &d1.11'
+    - ''
+    - '&2Nhấp để kết nối'
+    - '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: 101
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 5
+  POSITION-Y: 3
+skyblock:
+  COMMAND: 'server skyblock'
+  NAME: '&f❖ &9&lServer &b&LSkyBlock'
+  LORE:
+    - ''
+    - '&fChế độ: &2SkyBlock'
+    - '&aServer đảo trên trời'
+    - '&fPhiên bản: &d1.10&f - &d1.11'
+    - ''
+    - '&2Nhấp để kết nối'
+    - '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: 2
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 7
+  POSITION-Y: 3
+glass1:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:14'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 1
+  POSITION-Y: 1
+glass2:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:3'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 2
+  POSITION-Y: 1
+glass3:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:5'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 1
+  POSITION-Y: 2
+glass4:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:14'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 9
+  POSITION-Y: 1
+glass5:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:3'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 8
+  POSITION-Y: 1
+glass6:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:5'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 9
+  POSITION-Y: 2
+glass7:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:14'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 1
+  POSITION-Y: 5
+glass8:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:5'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 1
+  POSITION-Y: 4
+glass9:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:3'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 2
+  POSITION-Y: 5
+glass10:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:14'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 9
+  POSITION-Y: 5
+glass11:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:5'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 9
+  POSITION-Y: 4
+glass12:
+  NAME: '&a&lM&3&li&d&ln&6&le&7&lL&b&lg'
+  ID: '160:3'
+  ENCHANTMENT: 'Efficiency, 5'
+  POSITION-X: 8
+  POSITION-Y: 5

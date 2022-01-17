@@ -1,0 +1,23 @@
+lastAccountName: Tiger_VN
+timestamps:
+  login: 1477185358834
+  lastteleport: 1477185400512
+  kits:
+    diemdanh: 1477185426615
+  logout: 1477185432084
+socialspy: false
+ipAddress: 113.180.87.35
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: -118.57141533886974
+  y: 68.0625
+  z: -14.880358623112743
+  yaw: -25.94991
+  pitch: 35.699978

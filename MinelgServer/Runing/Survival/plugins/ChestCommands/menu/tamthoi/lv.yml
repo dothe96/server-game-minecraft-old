@@ -1,0 +1,217 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&d&lKhu Xu Shop Của &a&lServer'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 2
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'xshop'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 340
+    left-click: false
+    right-click: true
+#   data-value: 0
+  open-action: 'sound: note pling; tell: &eBạn đã bật &6&lXu-Shop Của Server'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+coins:
+  POINTS: 10
+  COMMAND: 'op: give {player} 370 1 0 {display:{Name:"§b§lĐ§e§lá§f§l-§d§lT§6§lh§f§lầ§b§ln§c§l",Lore:["§b§l- Đây Là Xu-Donate Của Server!","§c§l- Có Giá Trị Rất Hiếm Và Dùng Để Trade Items Donate!"]}'
+  NAME: '&c&l[arrow_up] §b§lĐ§e§lá§f§l-§d§lT§6§lh§f§lầ§b§ln &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §b§lĐ§e§lá§f§l-§d§lT§6§lh§f§lầ§b§ln'
+    - '&a&lGiá: 10 Coin - 1 cái'
+  ID: 370
+  KEEP-OPEN: false
+  POSITION-X: 5
+  POSITION-Y: 1
+  
+Kinh:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 1
+  POSITION-Y: 1
+  
+Kinh2:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 2
+  POSITION-Y: 1
+ 
+Kinh3:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 3
+  POSITION-Y: 1
+  
+Kinh4:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 4
+  POSITION-Y: 1
+  
+Kinh5:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 6
+  POSITION-Y: 1
+  
+Kinh6:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 7
+  POSITION-Y: 1
+  
+Kinh7:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 8
+  POSITION-Y: 1
+  
+Kinh8:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 9
+  POSITION-Y: 1
+  
+coins1:
+  POINTS: 20
+  COMMAND: 'op: trail hearts {player}'
+  NAME: '&c&l[arrow_up] §b§lHiệu§f§l-§d§lỨ§6§ln§f§lg §d§lTrái§b§l§b§lTim &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §b§l§b§lHiệu§f§l-§d§lỨ§6§ln§f§lg'
+    - '&b&lMember,&6&lVIP,&5&lKing &3&lCó Trails Blood Free /trails Blood Để Sử Dụng'
+    - '&a&lGiá: 20 Coin'
+  ID: 421
+  KEEP-OPEN: false
+  POSITION-X: 3
+  POSITION-Y: 2
+  
+coins2:
+  POINTS: 20
+  COMMAND: 'op: trail music {player}'
+  NAME: '&c&l[arrow_up] §b§lHiệu§f§l-§d§lỨ§6§ln§f§lg §d§lÂm§b§l§b§lNhạc &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §b§l§b§lHiệu§f§l-§d§lỨ§6§ln§f§lg'
+    - '&b&lMember,&6&lVIP,&5&lKing &3&lCó Trails Blood Free /trails Blood Để Sử Dụng'
+    - '&a&lGiá: 20 Coin'
+  ID: 421
+  KEEP-OPEN: false
+  POSITION-X: 4
+  POSITION-Y: 2
+  
+coins3:
+  POINTS: 20
+  COMMAND: 'op: trail loot {player}'
+  NAME: '&c&l[arrow_up] §b§lHiệu§f§l-§d§lỨ§6§ln§f§lg §d§lKhoáng§b§l§b§lSản &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §b§l§b§lHiệu§f§l-§d§lỨ§6§ln§f§lg'
+    - '&b&lMember,&6&lVIP,&5&lKing &3&lCó Trails Blood Free /trails Blood Để Sử Dụng'
+    - '&a&lGiá: 20 Coin'
+  ID: 421
+  KEEP-OPEN: false
+  POSITION-X: 5
+  POSITION-Y: 2
+  
+coins4:
+  POINTS: 20
+  COMMAND: 'op: trail flowers {player}'
+  NAME: '&c&l[arrow_up] §b§lHiệu§f§l-§d§lỨ§6§ln§f§lg §d§lBông§b§l§b§lHoa &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §b§l§b§lHiệu§f§l-§d§lỨ§6§ln§f§lg'
+    - '&b&lMember,&6&lVIP,&5&lKing &3&lCó Trails Blood Free /trails Blood Để Sử Dụng'
+    - '&a&lGiá: 20 Coin'
+  ID: 421
+  KEEP-OPEN: false
+  POSITION-X: 6
+  POSITION-Y: 2
+  
+coins5:
+  POINTS: 20
+  COMMAND: 'op: trail magma {player}'
+  NAME: '&c&l[arrow_up] §b§lHiệu§f§l-§d§lỨ§6§ln§f§lg §d§lLửa &c&l[arrow_up]'
+  LORE:
+    - '&e&lNhấp Vào Để Mua §b§l§b§lHiệu§f§l-§d§lỨ§6§ln§f§lg'
+    - '&b&lMember,&6&lVIP,&5&lKing &3&lCó Trails Blood Free /trails Blood Để Sử Dụng'
+    - '&a&lGiá: 20 Coin'
+  ID: 421
+  KEEP-OPEN: false
+  POSITION-X: 7
+  POSITION-Y: 2
+  
+Kinh9:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 1
+  POSITION-Y: 2
+  
+Kinh10:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 2
+  POSITION-Y: 2
+  
+Kinh11:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - ''
+  ID: 102
+  KEEP-OPEN: false
+  POSITION-X: 8
+  POSITION-Y: 2
+  
+Kinh12:
+  NAME: '&c&l[arrow_up] &b&lLoading... &c&l[arrow_up]'
+  LORE:
+    - '&f&lSử Dụng Lệnh /trails off Để Tắt Hiệu Ứng'
+  ID: Sign
+  KEEP-OPEN: false
+  POSITION-X: 9
+  POSITION-Y: 2

@@ -1,0 +1,481 @@
+[23:37:44] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[23:37:44] [Server thread/INFO]: Loading properties
+[23:37:44] [Server thread/INFO]: Default game type: SURVIVAL
+[23:37:44] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-570526c-75a8885 (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[23:37:44] [Server thread/INFO]: Debug logging is disabled
+[23:37:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:37:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:37:44] [Server thread/INFO]: Generating keypair
+[23:37:45] [Server thread/INFO]: Starting Minecraft server on *:25597
+[23:37:45] [Server thread/INFO]: Using default channel type
+[23:37:48] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[23:37:48] [Server thread/INFO]: UnbreakableEnch on books will have 1:27 chance when enough XP
+[23:37:49] [Server thread/INFO]: [INFO][NoCheatPlus] Sun Mar 05 23:37:49 ICT 2017
+[23:37:49] [Server thread/INFO]: Player instances are stored for efficiency.
+[23:37:49] [Server thread/INFO]: [RPGHealthIndicator] Loading RPGHealthIndicator v1.6
+[23:37:49] [Server thread/INFO]: [Questioner] Loading Questioner v0.6
+[23:37:49] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.6.0
+[23:37:49] [Server thread/INFO]: [PlaceholderAPI] This server is running Spigot
+[23:37:49] [Server thread/INFO]: [PlaceholderAPI] Detected NMS version: v1_10_R1
+[23:37:49] [Server thread/INFO]: [PlugMan] Loading PlugMan v2.1.1
+[23:37:49] [Server thread/INFO]: [BetterChairs] Loading BetterChairs v0.9.0
+[23:37:49] [Server thread/INFO]: [CommandLog] Loading CommandLog v1.2
+[23:37:49] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.1.2
+[23:37:49] [Server thread/INFO]: [EnchantmentAPI] Loading EnchantmentAPI v4.28
+[23:37:49] [Server thread/INFO]: [Unbreakable] Loading Unbreakable v4.8.2
+[23:37:49] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v12.8.1
+[23:37:49] [Server thread/INFO]: [DeathMessages] Loading DeathMessages v3.1.1
+[23:37:49] [Server thread/INFO]: [DeathDropsAPI] Loading DeathDropsAPI v1.5
+[23:37:49] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v1.0.4
+[23:37:49] [Server thread/INFO]: [ViaVersion] ViaVersion 1.0.4 is now loaded, injecting!
+[23:37:50] [Server thread/INFO]: [Tablist] Loading Tablist v1.3.0.2
+[23:37:50] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v6.1.3;7a097ca
+[23:37:50] [Server thread/INFO]: [SimpleTrading] Loading SimpleTrading v1.3
+[23:37:50] [Server thread/INFO]: [BossBroadcast] Loading BossBroadcast v1.0.5
+[23:37:50] [Server thread/INFO]: [NBTEditor] Loading NBTEditor v2.0.1
+[23:37:50] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.9.3
+[23:37:50] [Server thread/INFO]: [EnchantPotionPack] Loading EnchantPotionPack v1.0
+[23:37:50] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.1.0
+[23:37:50] [Server thread/INFO]: [AutoSaveWorld] Loading AutoSaveWorld v4.14.2
+[23:37:50] [Server thread/INFO]: [NoCheatPlus] Loading NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[23:37:50] [Server thread/INFO]: onLoad: Early set up of static API, configuration, logging.
+[23:37:50] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[23:37:50] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.10.2
+[23:37:50] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[23:37:50] [Server thread/WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[23:37:50] [Server thread/INFO]: [EnchantActivePack] Loading EnchantActivePack v1.0
+[23:37:50] [Server thread/INFO]: [PTweaks] Loading PTweaks v6.0.15
+[23:37:50] [Server thread/INFO]: [SQLibrary] Loading SQLibrary v7.1
+[23:37:50] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[23:37:50] [Server thread/INFO]: [EnchantTrapPack] Loading EnchantTrapPack v1.0
+[23:37:50] [Server thread/INFO]: [EnchantPassivePack] Loading EnchantPassivePack v1.0
+[23:37:50] [Server thread/INFO]: [AntiCreeper] Loading AntiCreeper v4.19
+[23:37:50] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.4
+[23:37:50] [Server thread/INFO]: [LWC] Loading LWC v4.5.0-SNAPSHOT
+[23:37:50] [Server thread/INFO]: [PlayerPoints] Loading PlayerPoints v2.1.5-SNAPSHOT
+[23:37:50] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v6.1.2;e38d98d
+[23:37:50] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.1.4
+[23:37:50] [Server thread/INFO]: [LockedItems] Loading LockedItems v2.8
+[23:37:50] [Server thread/INFO]: [CreeperHeal] Loading CreeperHeal v7.0.2
+[23:37:50] [Server thread/INFO]: [CratesPlus] Loading CratesPlus v4.2.4
+[23:37:50] [Server thread/INFO]: [CrazyEnchantments] Loading CrazyEnchantments v1.7.6.6
+[23:37:50] [Server thread/INFO]: [Orebfuscator4] Loading Orebfuscator4 v4.1.4
+[23:37:50] [Server thread/INFO]: [Essentials] Loading Essentials v2.0.1-b370
+[23:37:50] [Server thread/INFO]: [KitAdder] Loading KitAdder v2.5
+[23:37:50] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.21-SNAPSHOT (build 1472)
+[23:37:50] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.77
+[23:37:50] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.0.1-b427
+[23:37:50] [Server thread/INFO]: [PixelVip] Loading PixelVip v1.0.5
+[23:37:50] [Server thread/INFO]: [NoFlyZone] Loading NoFlyZone v1.3
+[23:37:50] [Server thread/INFO]: [Quests] Loading Quests v2.7.6-b120
+[23:37:50] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.0.1-b427
+[23:37:50] [Server thread/INFO]: [TitleManager] Loading TitleManager v2.0.6
+[23:37:50] [Server thread/INFO]: [Towny] Loading Towny v0.91.4.0
+[23:37:50] [Server thread/INFO]: [InfoBoardReborn] Loading InfoBoardReborn v1.7.0
+[23:37:50] [Server thread/INFO]: [TownyNameUpdater] Loading TownyNameUpdater v1.0
+[23:37:50] [Server thread/INFO]: [MyPet] Loading MyPet v2.2.6
+[23:37:51] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.1.0
+[23:37:51] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[23:37:51] [Server thread/INFO]: [AutoSaveWorld] Enabling AutoSaveWorld v4.14.2
+[23:37:51] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[23:37:51] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[23:37:51] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[23:37:51] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[23:37:51] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[23:37:51] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[23:37:51] [Server thread/INFO]: [LWC] Enabling LWC v4.5.0-SNAPSHOT
+[23:37:52] [Server thread/INFO]: [LWC] Connecting to SQLite
+[23:37:52] [Server thread/INFO]: [Orebfuscator4] Enabling Orebfuscator4 v4.1.4
+[23:37:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:37:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:37:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:37:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:37:52] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[23:37:52] [Server thread/INFO]: Preparing level "world"
+[23:37:52] [Server thread/INFO]: -------- World Settings For [world] --------
+[23:37:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:37:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:37:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:37:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:37:52] [Server thread/INFO]: View Distance: 10
+[23:37:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:37:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:37:52] [Server thread/INFO]: Mob Spawn Range: 4
+[23:37:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Max TNT Explosions: 100
+[23:37:52] [Server thread/INFO]: Structure Info Saving: true
+[23:37:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:37:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:37:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:37:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:37:52] [Server thread/INFO]: Random Lighting Updates: false
+[23:37:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:37:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:37:52] [Server thread/INFO]: Max Entity Collisions: 8
+[23:37:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[23:37:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:37:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:37:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:37:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:37:52] [Server thread/INFO]: View Distance: 10
+[23:37:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:37:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:37:52] [Server thread/INFO]: Mob Spawn Range: 4
+[23:37:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Max TNT Explosions: 100
+[23:37:52] [Server thread/INFO]: Structure Info Saving: true
+[23:37:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:37:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:37:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:37:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:37:52] [Server thread/INFO]: Random Lighting Updates: false
+[23:37:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:37:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:37:52] [Server thread/INFO]: Max Entity Collisions: 8
+[23:37:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[23:37:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:37:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:37:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:37:52] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[23:37:52] [Server thread/INFO]: View Distance: 10
+[23:37:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:37:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:37:52] [Server thread/INFO]: Mob Spawn Range: 4
+[23:37:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:37:52] [Server thread/INFO]: Max TNT Explosions: 100
+[23:37:52] [Server thread/INFO]: Structure Info Saving: true
+[23:37:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:37:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[23:37:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:37:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[23:37:52] [Server thread/INFO]: Random Lighting Updates: false
+[23:37:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:37:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[23:37:52] [Server thread/INFO]: Max Entity Collisions: 8
+[23:37:53] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2347792175013291886)
+[23:37:54] [Server thread/INFO]: Preparing spawn area: 12%
+[23:37:55] [Server thread/INFO]: Preparing spawn area: 48%
+[23:37:55] [Server thread/INFO]: Preparing start region for level 1 (Seed: 8031121800067509211)
+[23:37:57] [Server thread/INFO]: Preparing spawn area: 40%
+[23:37:57] [Server thread/INFO]: Preparing start region for level 2 (Seed: 8031121800067509211)
+[23:37:58] [Server thread/INFO]: [RPGHealthIndicator] Enabling RPGHealthIndicator v1.6
+[23:37:58] [Server thread/INFO]: [Questioner] Enabling Questioner v0.6
+[23:37:58] [Server thread/INFO]: [Questioner] v0.6 - Enabled
+[23:37:58] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.6.0
+[23:37:58] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[23:37:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered essentials placeholder expansion!
+[23:37:58] [Server thread/INFO]: [PlaceholderAPI] NMS based placeholders such as %player_ping% have been enabled for your server version!
+[23:37:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered player placeholder expansion!
+[23:37:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered server placeholder expansion!
+[23:37:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered towny placeholder expansion!
+[23:37:58] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion list from extendedclip.com...
+[23:37:58] [Server thread/INFO]: [PlaceholderAPI] Fetching available injector list from extendedclip.com...
+[23:37:58] [Server thread/INFO]: [PlugMan] Enabling PlugMan v2.1.1
+[23:37:58] [Server thread/INFO]: [BetterChairs] Enabling BetterChairs v0.9.0
+[23:37:58] [Server thread/INFO]: [BetterChairs] Your server is running version v1_10_R1
+[23:37:58] [Server thread/INFO]: [BetterChairs] NMS hooked !
+[23:37:58] [Server thread/INFO]: [CommandLog] Enabling CommandLog v1.2
+[23:37:58] [Server thread/INFO]: There are 2 commands in the ignore list
+[23:37:58] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.1.2
+[23:37:58] [Server thread/INFO]: [NametagEdit] Found PermissionsEx! Hooking in.
+[23:37:58] [Server thread/INFO]: [EnchantmentAPI] Enabling EnchantmentAPI v4.28
+[23:37:58] [Server thread/INFO]: [EnchantmentAPI] Loaded enchantments from plugin: EnchantPotionPack
+[23:37:58] [Server thread/INFO]: [EnchantmentAPI] Loaded enchantments from plugin: EnchantActivePack
+[23:37:58] [Server thread/INFO]: [EnchantmentAPI] Loaded enchantments from plugin: EnchantTrapPack
+[23:37:58] [Server thread/INFO]: [EnchantmentAPI] Loaded enchantments from plugin: EnchantPassivePack
+[23:37:59] [Server thread/INFO]: [Unbreakable] Enabling Unbreakable v4.8.2
+[23:37:59] [Server thread/INFO]: [Unbreakable] Unbreakable in force, protecting tools and armor; by Filbert66
+[23:37:59] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v12.8.1
+[23:37:59] [Server thread/INFO]: [0;32;1mDetected Minecraft [0;33;1mv1_10_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[m
+[23:37:59] [Server thread/WARN]: [AutoSaveWorld] Plugin SkinsRestorer attempted to establish connection http://www.spigotmc.org/api/general.php in main server thread
+[23:37:59] [Server thread/WARN]: [AutoSaveWorld] Plugin SkinsRestorer attempted to establish connection socket://www.spigotmc.org:80 in main server thread
+[23:37:59] [Server thread/INFO]: [m
+[23:37:59] [Server thread/INFO]: [0;32;1m    +===============+[m
+[23:37:59] [Server thread/INFO]: [0;32;1m    | SkinsRestorer |[m
+[23:37:59] [Server thread/INFO]: [0;32;1m    +===============+[m
+[23:37:59] [Server thread/INFO]: [m
+[23:37:59] [Server thread/INFO]: [0;36;1m    Current version: [0;31;1m12.8.1[m
+[23:37:59] [Server thread/INFO]: [0;31;1m    A new version is available! Download it at:[m
+[23:37:59] [Server thread/INFO]: [0;33;1m    https://www.spigotmc.org/resources/skinsrestorer.2124/[m
+[23:37:59] [Server thread/INFO]: [m
+[23:37:59] [Server thread/INFO]: [DeathMessages] Enabling DeathMessages v3.1.1
+[23:37:59] [Server thread/INFO]: <<[ DeathMessages ]>>  [ Version ]=[ 3.1.1 ] [ Successfully Loaded! ]
+[23:37:59] [Server thread/INFO]: [DeathDropsAPI] Enabling DeathDropsAPI v1.5
+[23:37:59] [Server thread/INFO]: [DeathDropsAPI] Spigot v1_10_R1 detected.
+[23:37:59] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v1.0.4
+[23:37:59] [Server thread/INFO]: [Tablist] Enabling Tablist v1.3.0.2
+[23:37:59] [Server thread/INFO]: Tablist> Tablist v1.3.0.2 enabled!!
+[23:37:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v6.1.3;7a097ca
+[23:38:00] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[23:38:00] [Server thread/INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_10_R1 as the Bukkit adapter
+[23:38:00] [Server thread/INFO]: [SimpleTrading] Enabling SimpleTrading v1.3
+[23:38:00] [Server thread/INFO]: [SimpleTrading] SimpleTrading v1.3 enabled!
+[23:38:00] [Server thread/INFO]: [BossBroadcast] Enabling BossBroadcast v1.0.5
+[23:38:00] [Server thread/INFO]: [BossBroadcast] BossBroadcast is now Enabled!
+[23:38:00] [Server thread/INFO]: [NBTEditor] Enabling NBTEditor v2.0.1
+[23:38:00] [Server thread/INFO]: [NBTEditor] NBTEditor has been enabled
+[23:38:00] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.9.3
+[23:38:00] [Server thread/INFO]: [ClearLag] Loading modules...
+[23:38:00] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[23:38:00] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[23:38:00] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[23:38:00] [Server thread/INFO]: [EnchantPotionPack] Enabling EnchantPotionPack v1.0
+[23:38:00] [Thread-21/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.10]...
+[23:38:00] [Server thread/ERROR]: Error occurred while enabling EnchantPotionPack v1.0 (Is it up to date?)
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at com.sucy.potion.EnchantPotionPack.onEnable(EnchantPotionPack.java:56) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292) ~[spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373) [spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535) [spigot.jar:git-Spigot-570526c-75a8885]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[23:38:01] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.13.7-RC-sMD5NET-b925
+[23:38:01] [Server thread/WARN]: [NoCheatPlus] Running in Bukkit-API-only mode (git-Spigot-570526c-75a8885 (MC: 1.10.2)). If this is not intended, please check for updates and consider to request support.
+[23:38:01] [Server thread/WARN]: [NoCheatPlus]  Check for updates and support at BukkitDev: http://dev.bukkit.org/server-mods/nocheatplus/
+[23:38:01] [Server thread/WARN]: [NoCheatPlus]  Development builds (unsupported by the Bukkit Staff, use at your own risk): http://ci.md-5.net/job/NoCheatPlus/changes
+[23:38:01] [Server thread/WARN]: [NoCheatPlus] Bukkit-API-only mode: Some features will likely not function properly, performance might suffer.
+[23:38:01] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.4.6|1.4.7|1.5.x|1.6.x|1.7.x|1.8.x|? / Bukkit-API
+[23:38:01] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+[23:38:01] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+[23:38:01] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+[23:38:01] [Server thread/INFO]: [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+[23:38:01] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[23:38:01] [Server thread/WARN]: [NoCheatPlus] Can't tell if the packet level hooks are compatible to the version of ProtocolLib in use.
+[23:38:01] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[23:38:01] [Server thread/INFO]: [NoCheatPlus] Version 3.13.7-RC-sMD5NET-b925 is enabled.
+[23:38:01] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[23:38:01] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[23:38:01] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[23:38:01] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[23:38:01] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[23:38:01] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[23:38:01] [Server thread/INFO]: [EnchantActivePack] Enabling EnchantActivePack v1.0
+[23:38:01] [Server thread/INFO]: [PTweaks] Enabling PTweaks v6.0.15
+[23:38:01] [Server thread/ERROR]: Error occurred while enabling PTweaks v6.0.15 (Is it up to date?)
+java.lang.NoClassDefFoundError: org/bukkit/craftbukkit/v1_8_R3/CraftServer
+	at me.devplugin.ptweaks.PerformanceTweaks.onEnable(PerformanceTweaks.java:22) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292) ~[spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373) [spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535) [spigot.jar:git-Spigot-570526c-75a8885]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.v1_8_R3.CraftServer
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:91) ~[spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[spigot.jar:git-Spigot-570526c-75a8885]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_121]
+	... 12 more
+[23:38:01] [Server thread/INFO]: [SQLibrary] Enabling SQLibrary v7.1
+[23:38:01] [Server thread/INFO]: SQLibrary loaded.
+[23:38:01] [Server thread/INFO]: [EnchantTrapPack] Enabling EnchantTrapPack v1.0
+[23:38:01] [Server thread/INFO]: [EnchantPassivePack] Enabling EnchantPassivePack v1.0
+[23:38:01] [Server thread/ERROR]: Error occurred while enabling EnchantPassivePack v1.0 (Is it up to date?)
+java.lang.NoSuchMethodError: org.bukkit.Server.getOnlinePlayers()[Lorg/bukkit/entity/Player;
+	at com.sucy.passive.EnchantPassivePack.onEnable(EnchantPassivePack.java:30) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:292) ~[spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:337) [spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugin(CraftServer.java:373) [spigot.jar:git-Spigot-570526c-75a8885]
+	at org.bukkit.craftbukkit.v1_10_R1.CraftServer.enablePlugins(CraftServer.java:323) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.t(MinecraftServer.java:412) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.l(MinecraftServer.java:377) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.a(MinecraftServer.java:332) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.DedicatedServer.init(DedicatedServer.java:271) [spigot.jar:git-Spigot-570526c-75a8885]
+	at net.minecraft.server.v1_10_R1.MinecraftServer.run(MinecraftServer.java:535) [spigot.jar:git-Spigot-570526c-75a8885]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_121]
+[23:38:01] [Server thread/INFO]: [AntiCreeper] Enabling AntiCreeper v4.19
+[23:38:01] [Server thread/INFO]: [AntiCreeper] brought to you by Filbert66
+[23:38:01] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.4
+[23:38:02] [Server thread/INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[23:38:02] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[23:38:02] [Server thread/INFO]: [PlayerPoints] Enabling PlayerPoints v2.1.5-SNAPSHOT
+[23:38:02] [Server thread/WARN]: [AutoSaveWorld] Plugin SQLibrary attempted to establish connection socket://localhost:3306 in main server thread
+[23:38:02] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v6.1.2;e38d98d
+[23:38:02] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[23:38:02] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[23:38:02] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[23:38:02] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[23:38:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[23:38:03] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[23:38:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[23:38:03] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[23:38:03] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[23:38:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[23:38:03] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[23:38:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[23:38:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[23:38:03] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[23:38:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[23:38:03] [Server thread/INFO]: [WorldGuard] Loading region data...
+[23:38:03] [Thread-21/INFO]: [ClearLag] No updates found!
+[23:38:03] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.1.4
+[23:38:03] [Server thread/INFO]: [ChestCommands] Hooked PlayerPoints
+[23:38:04] [Server thread/INFO]: [LockedItems] Enabling LockedItems v2.8
+[23:38:04] [Server thread/INFO]: [CreeperHeal] Enabling CreeperHeal v7.0.2
+[23:38:04] [Server thread/INFO]: debug: false
+[23:38:04] [Server thread/INFO]: [CratesPlus] Enabling CratesPlus v4.2.4
+[23:38:04] [Server thread/INFO]: [0;36;1mCratesPlus Version 4.2.4[m
+[23:38:04] [Server thread/INFO]: [0;32;1mHolographicDisplays was found, hooking in![m
+[23:38:04] [Server thread/INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v1.7.6.6
+[23:38:04] [Server thread/WARN]: [AutoSaveWorld] Plugin CrazyEnchantments attempted to establish connection http://www.spigotmc.org/api/general.php in main server thread
+[23:38:04] [Server thread/WARN]: [AutoSaveWorld] Plugin CrazyEnchantments attempted to establish connection socket://www.spigotmc.org:80 in main server thread
+[23:38:05] [Server thread/INFO]: [0;30;1m[[0;32;1mCrazyEnchants[0;30;1m]: [0;31;1mYour server is running [0;37;22mv1.7.6.6[0;31;1m and the newest is [0;37;22mv1.7.6.7[0;31;1m.[m
+[23:38:05] [Server thread/INFO]: [Essentials] Enabling Essentials v2.0.1-b370
+[23:38:05] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsChat to the same version.
+[23:38:05] [Server thread/WARN]: [Essentials] §4Version mismatch! Please update EssentialsSpawn to the same version.
+[23:38:05] [Server thread/INFO]: Using locale vn
+[23:38:05] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[23:38:05] [Server thread/INFO]: [Essentials] Using Reflection based provider as spawn egg provider.
+[23:38:05] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[23:38:05] [Server thread/INFO]: Using locale vn
+[23:38:05] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global PluginMetrics config.
+[23:38:05] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[23:38:05] [Server thread/INFO]: [KitAdder] Enabling KitAdder v2.5
+[23:38:05] [Server thread/INFO]: [KitAdder] KitAdder plugin has been enabled!
+[23:38:06] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.21-SNAPSHOT (build 1472)
+[23:38:06] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.77
+[23:38:07] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.0.1-b427
+[23:38:07] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
+[23:38:07] [Server thread/INFO]: [PixelVip] Enabling PixelVip v1.0.5
+[23:38:07] [Server thread/INFO]: PixelVip: [Init config module...][m
+[23:38:07] [Server thread/INFO]: PixelVip: [Init utils module...][m
+[23:38:07] [Server thread/INFO]: PixelVip: [Init essentials module...][m
+[23:38:07] [Server thread/INFO]: PixelVip: [Essentials found. Hooked!][m
+[23:38:07] [Server thread/INFO]: PixelVip: [Init economy module...][m
+[23:38:07] [Server thread/INFO]: PixelVip: [-> Vault found. Hooked.][m
+[23:38:07] [Server thread/INFO]: PixelVip: [Init commands module...][m
+[23:38:07] [Server thread/INFO]: PixelVip: [Init scheduler module...][m
+[23:38:07] [Server thread/INFO]: PixelVip: [Reloading tasks...][m
+[23:38:07] [Server thread/INFO]: PixelVip: [-> Task started][m
+[23:38:07] [Server thread/INFO]: PixelVip: [[0;33;22mWe have 1 active Vips[m][m
+[23:38:07] [Server thread/INFO]: PixelVip: [[0;32;1m[21mPixelVip enabled![m][m
+[23:38:07] [Server thread/INFO]: [NoFlyZone] Enabling NoFlyZone v1.3
+[23:38:07] [Server thread/INFO]: [NoFlyZone] Hooked into WorldGuard 6.1.2;e38d98d
+[23:38:07] [Server thread/INFO]: [Quests] Enabling Quests v2.7.6-b120
+[23:38:07] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.0.1-b427
+[23:38:07] [Server thread/WARN]: §4Version mismatch! Please update all Essentials jars to the same version.
+[23:38:07] [Server thread/INFO]: [TitleManager] Enabling TitleManager v2.0.6
+[23:38:09] [Server thread/INFO]: [Towny] Enabling Towny v0.91.4.0
+[23:38:09] [Server thread/INFO]: ====================      Towny      ========================
+[23:38:10] [Server thread/INFO]: [Towny] Database: [Load] flatfile [Save] flatfile
+[23:38:10] [Server thread/INFO]: [Towny] Using: PermissionsEX v1.23.4, Essentials Economy via Vault, Questioner v0.6
+[23:38:10] [Server thread/INFO]: [Towny] Time until a New Day: 12 hours, 21 minutes, 50 seconds
+[23:38:11] [Server thread/INFO]: =============================================================
+[23:38:11] [Server thread/INFO]: [Towny] Version: 0.91.4.0 - Mod Enabled
+[23:38:11] [Server thread/INFO]: =============================================================
+[23:38:11] [Server thread/INFO]: [InfoBoardReborn] Enabling InfoBoardReborn v1.7.0
+[23:38:11] [Server thread/INFO]: Metrics was started!
+[23:38:11] [Server thread/INFO]: [TownyNameUpdater] Enabling TownyNameUpdater v1.0
+[23:38:11] [Server thread/INFO]: Level: INFO
+[23:38:11] [Server thread/INFO]: [[0;32;22mMyPet[m] [mEnabling MyPet v2.2.6[m
+[23:38:11] [Server thread/WARN]: [AutoSaveWorld] Plugin MyPet attempted to establish connection http://update.mypet-plugin.de/check.php?plugin=MyPet&package=v1_10_R1uild=1083 in main server thread
+[23:38:11] [Server thread/WARN]: [AutoSaveWorld] Plugin MyPet attempted to establish connection socket://update.mypet-plugin.de:80 in main server thread
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [m#############################################[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [m#  A new version is available: MyPet 2.2.9  #[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [m#############################################[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [mCitizens (2.0.21-SNAPSHOT (build 1472)) hook activated.[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [mPlaceholderAPI (2.6.0) hook activated.[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [mProtocolLib (4.1.0) hook activated.[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [mTowny (0.91.4.0) hook activated.[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [mVault (1.5.6-b49) hook activated.[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [mWorldGuard (6.1.2;e38d98d) hook activated.[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [mCompat mode for v1_10_R1 loaded.[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [m--- Loading WorldGroups ---------------------------[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [m   added 'world' to 'default'[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [m   added 'world_nether' to 'default'[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [m   added 'world_the_end' to 'default'[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [m-------------------------------------------------[m
+[23:38:12] [Server thread/INFO]: [[0;32;22mMyPet[m] [mversion 2.2.6-b1083[0;32;1m ENABLED[m
+[23:38:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:38:12] [Server thread/INFO]: Done (20,318s)! For help, type "help" or "?"
+[23:38:12] [Server thread/INFO]: [PlugMan] Metrics started: http://mcstats.org/plugin/PlugMan
+[23:38:12] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.10(210)
+[23:38:13] [Craft Scheduler Thread - 14/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[23:38:13] [Server thread/WARN]: [NoCheatPlus] The block breaking data is incomplete, default to allow instant breaking:
+--- Missing entries -------------------------------
+* MISSING 198(END_ROD / IGN_PASSABLE) 
+* MISSING 199(CHORUS_PLANT / IGN_PASSABLE) 
+* MISSING 200(CHORUS_FLOWER / IGN_PASSABLE) 
+* MISSING 201(PURPUR_BLOCK / SOLID+GROUND) 
+* MISSING 202(PURPUR_PILLAR / SOLID+GROUND) 
+* MISSING 203(PURPUR_STAIRS / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+* MISSING 204(PURPUR_DOUBLE_SLAB / SOLID+GROUND) 
+* MISSING 205(PURPUR_SLAB / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+* MISSING 206(END_BRICKS / SOLID+GROUND) 
+* MISSING 207(BEETROOT_BLOCK / IGN_PASSABLE) 
+* MISSING 208(GRASS_PATH / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+* MISSING 209(END_GATEWAY / IGN_PASSABLE) 
+* MISSING 210(COMMAND_REPEATING / SOLID+GROUND) 
+* MISSING 211(COMMAND_CHAIN / SOLID+GROUND) 
+* MISSING 212(FROSTED_ICE / SOLID+IGN_PASSABLE+GROUND+GROUND_HEIGHT) 
+* MISSING 213(MAGMA / SOLID+GROUND) 
+* MISSING 214(NETHER_WART_BLOCK / SOLID+GROUND) 
+* MISSING 215(RED_NETHER_BRICK / SOLID+GROUND) 
+* MISSING 216(BONE_BLOCK / SOLID+GROUND) 
+* MISSING 217(STRUCTURE_VOID / IGN_PASSABLE) 
+* MISSING 255(STRUCTURE_BLOCK / SOLID+GROUND) 
+[23:38:13] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[23:38:13] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[23:38:13] [Server thread/INFO]: [HolographicDisplays] Found a new version available: v2.2.5
+[23:38:13] [Server thread/INFO]: [HolographicDisplays] Download it on Bukkit Dev:
+[23:38:13] [Server thread/INFO]: [HolographicDisplays] dev.bukkit.org/bukkit-plugins/holographic-displays
+[23:38:13] [Craft Scheduler Thread - 7/INFO]: [PlaceholderAPI] 4 placeholder injectors are available on the cloud.
+[23:38:13] [Craft Scheduler Thread - 7/INFO]: [PlaceholderAPI] 0 injectors you use have updates.
+[23:38:13] [Server thread/INFO]: [Citizens] Loaded 1 NPCs.
+[23:38:13] [Craft Scheduler Thread - 7/INFO]: [Vault] Checking for Updates ... 
+[23:38:14] [Craft Scheduler Thread - 8/INFO]: [PlugMan] No update was found.
+[23:38:14] [Craft Scheduler Thread - 6/INFO]: [PlaceholderAPI] 73 placeholder expansions are available on the cloud.
+[23:38:14] [Craft Scheduler Thread - 6/INFO]: [PlaceholderAPI] 0 expansions you use have updates.
+[23:38:14] [Craft Scheduler Thread - 2/INFO]: [LWC] [LWC] The updater ran into a minor issue: Server returned HTTP response code: 520 for URL: http://update.griefcraft.com/lwc/branch/stable/LATEST
+[23:38:14] [Craft Scheduler Thread - 2/INFO]: [LWC] [LWC] This can probably be ignored.
+[23:38:14] [Server thread/INFO]: [Quests] 3 Quest(s) loaded.
+[23:38:14] [Server thread/INFO]: [Quests] 5 Event(s) loaded.
+[23:38:14] [Server thread/INFO]: [Quests] 845 Phrase(s) loaded.
+[23:38:14] [Craft Scheduler Thread - 7/INFO]: [Vault] No new version available
+[23:38:15] [Craft Scheduler Thread - 7/INFO]: [0;32;1mChecking for updates via Spigot...[m
+[23:38:15] [Craft Scheduler Thread - 7/INFO]: [0;37;22m[[0;36;1mQuay s?[0;37;22m] [mNo update was found, you are running the latest version. Will check again later.[m
+[23:38:16] [Server thread/INFO]: [0;33;1m[ProtocolLib] The updater found an update: 4.2.0 (Running 4.1.0). Download at https://www.spigotmc.org/resources/protocollib.1997/[m
+[23:38:25] [Server thread/INFO]: CONSOLE issued server command: /kit 
+[23:38:25] [Server thread/INFO]: [0;33;22mKit:[m Tools Food Tanthu Diemdanh[m
+[23:38:30] [Server thread/INFO]: L?nh không ðúng, ki?m tra l?i![m
+[23:38:32] [Server thread/INFO]: CONSOLE issued server command: /kits 
+[23:38:32] [Server thread/INFO]: [0;33;22mKit:[m Tools Food Tanthu Diemdanh[m

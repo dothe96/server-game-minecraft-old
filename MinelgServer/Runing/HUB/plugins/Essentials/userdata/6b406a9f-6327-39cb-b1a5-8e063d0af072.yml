@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: alex_mario
+timestamps:
+  login: 1477793501749
+  kits:
+    diemdanh: 1477793203291
+    tools: 1477793170179
+  lastteleport: 1477793192848
+  logout: 1477793522171
+ipAddress: 115.79.50.119
+lastlocation:
+  world: world
+  x: -158.46880522395645
+  y: 86.0
+  z: -30.980968166287006
+  yaw: 124.49994
+  pitch: 5.6999874
+logoutlocation:
+  world: world
+  x: -144.14585896716028
+  y: 86.0
+  z: -70.59063011344446
+  yaw: -235.95007
+  pitch: 55.799984

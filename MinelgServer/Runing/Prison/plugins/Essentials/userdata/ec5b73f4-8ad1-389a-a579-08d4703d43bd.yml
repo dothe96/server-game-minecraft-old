@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: chicken
+timestamps:
+  login: 1487850609955
+  logout: 1487850636626
+  lastteleport: 1487774242440
+  kits:
+    food: 1487766166325
+ipAddress: 192.168.69.100
+logoutlocation:
+  world: world
+  x: -5017.277781344709
+  y: 67.63142797262114
+  z: -158.4973165593538
+  yaw: -1.199585
+  pitch: 9.600033
+lastlocation:
+  world: world
+  x: -5177.653242620051
+  y: 66.0
+  z: -177.69999998807907
+  yaw: 44.26477
+  pitch: 59.249973
+afk: false
+money: '0.0'
+teleportenabled: true

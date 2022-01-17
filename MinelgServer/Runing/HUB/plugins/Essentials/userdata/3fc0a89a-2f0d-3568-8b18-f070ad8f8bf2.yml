@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: Gadn
+timestamps:
+  login: 1476880828406
+  lastteleport: 1476881505304
+  logout: 1476881585576
+ipAddress: 115.79.214.215
+lastlocation:
+  world: world
+  x: -161.3538927137305
+  y: 86.0
+  z: -12.300000011920929
+  yaw: 29.095036
+  pitch: -1.3491512E-5
+logoutlocation:
+  world: world
+  x: 2912.6207359294035
+  y: 70.0625
+  z: 1702.4031389326042
+  yaw: 85.95801
+  pitch: 39.20683

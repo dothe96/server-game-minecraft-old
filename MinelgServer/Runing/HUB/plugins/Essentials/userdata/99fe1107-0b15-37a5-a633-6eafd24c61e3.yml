@@ -1,0 +1,25 @@
+lastAccountName: huyjaki2
+timestamps:
+  login: 1477224274935
+  kits:
+    diemdanh: 1477224138630
+    tanthu: 1477224128175
+    tools: 1477224066601
+    food: 1477224078465
+  logout: 1477224315719
+ipAddress: 14.162.2.215
+socialspy: false
+lastlocation:
+  world: world
+  x: -160.5
+  y: 88.0
+  z: -79.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -153.81581764966683
+  y: 86.0
+  z: -66.00663302304473
+  yaw: -29.850008
+  pitch: 18.449986

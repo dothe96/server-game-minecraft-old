@@ -1,0 +1,36 @@
+lastAccountName: rubencam
+timestamps:
+  login: 1479211385134
+  kits:
+    diemdanh: 1478912207074
+    tanthu: 1478937661678
+    tools: 1478997396290
+    food: 1478999946987
+  lastteleport: 1479095930142
+  logout: 1479212215676
+ipAddress: 113.169.125.156
+socialspy: false
+lastlocation:
+  world: world
+  x: 3039.042456107058
+  y: 65.0
+  z: 550.6225483826619
+  yaw: 123.850044
+  pitch: 7.950039
+logoutlocation:
+  world: world
+  x: 3290.4620259195767
+  y: 63.0
+  z: 1052.5935880790653
+  yaw: 65.56305
+  pitch: 45.29992
+money: '21122.0'
+homes:
+  home:
+    world: world
+    x: 3041.5
+    y: 65.0
+    z: 550.5
+    yaw: 92.20054
+    pitch: -2.6999967
+afk: false

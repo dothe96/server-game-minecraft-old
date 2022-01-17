@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: anhminhdk1234
+timestamps:
+  login: 1479253734505
+  lastteleport: 1479256556130
+  logout: 1479256631528
+  kits:
+    diemdanh: 1479254034276
+    tanthu: 1478912066149
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: 3242.7385396757786
+  y: 64.0
+  z: 1627.8759671085165
+  yaw: 221.41638
+  pitch: 18.75002
+logoutlocation:
+  world: world
+  x: -111.15113750859618
+  y: 68.0625
+  z: -6.431445117364763
+  yaw: 215.84566
+  pitch: 19.50001
+money: '11685.0'
+homes:
+  home:
+    world: world
+    x: 3250.2978646837505
+    y: 68.0
+    z: 1652.1874509246763
+    yaw: 127.21664
+    pitch: 36.90005

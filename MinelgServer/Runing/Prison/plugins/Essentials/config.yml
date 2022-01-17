@@ -1,0 +1,386 @@
+# 
+# +------------------------------------------------------+ #
+# |                       Notes                          | #
+# +------------------------------------------------------+ #
+ops-name-color: none
+nickname-prefix: '~'
+max-nick-length: 15
+ignore-colors-in-max-nick-length: false
+change-displayname: true
+teleport-safety: true
+force-disable-teleport-safety: false
+teleport-cooldown: 10
+teleport-delay: 2
+teleport-invulnerability: 4
+teleport-to-center: true
+heal-cooldown: 60
+near-radius: 200
+permission-based-item-spawn: false
+spawnmob-limit: 10
+warn-on-smite: true
+drop-items-if-full: false
+notify-no-new-mail: true
+locale: vn
+disabled-commands:
+- ce
+- customenchant
+- plugins
+- server
+- server server1
+- server server2
+socialspy-commands:
+- msg
+- w
+- r
+- mail
+- m
+- t
+- whisper
+- emsg
+- tell
+- er
+- reply
+- ereply
+- email
+- action
+- describe
+- eme
+- eaction
+- edescribe
+- etell
+- ewhisper
+- pm
+mute-commands:
+- f
+- kittycannon
+player-commands:
+- afk
+- afk.auto
+- back
+- back.ondeath
+- balance
+- balance.others
+- balancetop
+- build
+- chat.color
+- chat.format
+- chat.shout
+- chat.question
+- clearinventory
+- compass
+- depth
+- delhome
+- getpos
+- geoip.show
+- help
+- helpop
+- home
+- home.others
+- ignore
+- info
+- itemdb
+- kit
+- kits.tools
+- list
+- mail
+- mail.send
+- me
+- motd
+- msg
+- msg.color
+- nick
+- near
+- pay
+- ping
+- protect
+- r
+- rules
+- realname
+- seen
+- sell
+- sethome
+- setxmpp
+- signs.create.protection
+- signs.create.trade
+- signs.break.protection
+- signs.break.trade
+- signs.use.balance
+- signs.use.buy
+- signs.use.disposal
+- signs.use.enchant
+- signs.use.free
+- signs.use.gamemode
+- signs.use.heal
+- signs.use.info
+- signs.use.kit
+- signs.use.mail
+- signs.use.protection
+- signs.use.repair
+- signs.use.sell
+- signs.use.time
+- signs.use.trade
+- signs.use.warp
+- signs.use.weather
+- spawn
+- suicide
+- time
+- warp
+- warp.list
+- world
+- worth
+- xmpp
+skip-used-one-time-kits-from-kit-list: false
+kits:
+  diemdanh:
+    delay: 86400
+    items:
+    - 339:0 1 name:§4§lPhiếu_§5§lĐiểm_§9§lDanh lore:§4§l►_§2Nhận_được_mỗi_ngày_tại_§6§l/kit_diemdanh
+  vip1:
+    delay: 86400
+    items:
+    - 339:0 1 loot_bonus_blocks:10 name:§6Phiếu_§e§lLG-Prison lore:§4-_Loại_phiếu_chỉ_có_trong_quay_số|§2-_Thu_thập_đủ_số_lượng_để_đổi_vật_phẩm_đặc_biệt|§6-_/Warp_choden
+    - 364:0 64
+    - 57:0 5
+    - 133:0 5
+    - 384:0 64
+    - 169:0 5
+    - 42:0 5
+    - 41:0 5
+  vip2:
+    delay: 86400
+    items:
+    - 384:0 64
+    - 320:0 64
+    - 384:0 64
+    - 339:0 2 loot_bonus_blocks:10 name:§6Phiếu_§e§lLG-Prison lore:§4-_Loại_phiếu_chỉ_có_trong_quay_số|§2-_Thu_thập_đủ_số_lượng_để_đổi_vật_phẩm_đặc_biệt|§6-_/Warp_choden
+    - 57:0 10
+    - 133:0 10
+    - 169:0 10
+    - 364:0 64
+    - 42:0 10
+    - 41:0 10
+  vip3:
+    delay: 86400
+    items:
+    - 364:0 64
+    - 320:0 64
+    - 364:0 64
+    - 384:0 64
+    - 384:0 64
+    - 384:0 64
+    - 384:0 64
+    - 339:0 3 loot_bonus_blocks:10 name:§6Phiếu_§e§lLG-Prison lore:§4-_Loại_phiếu_chỉ_có_trong_quay_số|§2-_Thu_thập_đủ_số_lượng_để_đổi_vật_phẩm_đặc_biệt|§6-_/Warp_choden
+    - 57:0 20
+    - 169:0 20
+    - 133:0 20
+    - 320:0 64
+    - 424:0 64
+    - 22:0 10
+    - 41:0 10
+    - 42:0 10
+  G:
+    delay: 86400
+    items:
+    - 264:0 5
+    - 384:0 16
+    - 42:0 8
+    - 364:0 32
+  P:
+    delay: 86400
+    items:
+    - 42:0 10
+    - 41:0 5
+    - 384:0 32
+    - 264:0 10
+    - 364:0 32
+  T:
+    delay: 86400
+    items:
+    - 41:0 10
+    - 133:0 2
+    - 364:0 64
+    - 384:0 64
+  W:
+    delay: 86400
+    items:
+    - 57:0 2
+    - 42:0 2
+    - 41:0 2
+    - 133:0 2
+    - 364:0 64
+    - 22:0 2
+  Z:
+    delay: 86400
+    items:
+    - 57:0 3
+    - 41:0 3
+    - 42:0 3
+    - 133:0 3
+    - 22:0 3
+    - 322:1 1
+    - 320:0 64
+    - 339:0 1 loot_bonus_blocks:10 name:§6Phiếu_§e§lLG-Prison lore:§4-_Loại_phiếu_chỉ_có_trong_quay_số|§2-_Thu_thập_đủ_số_lượng_để_đổi_vật_phẩm_đặc_biệt|§6-_/Warp_choden
+enabledSigns:
+- color
+- balance
+- buy
+- sell
+- trade
+- free
+- disposal
+- warp
+- kit
+- mail
+- enchant
+- gamemode
+- heal
+- info
+- spawnmob
+- repair
+- time
+- weather
+sign-use-per-second: 4
+backup:
+  interval: 30
+per-warp-permission: true
+list:
+  Admins: owner admin
+debug: false
+remove-god-on-disconnect: false
+auto-afk: 300
+auto-afk-kick: -1
+freeze-afk-players: false
+disable-item-pickup-while-afk: false
+cancel-afk-on-interact: true
+cancel-afk-on-move: true
+afk-list-name: none
+death-messages: true
+allow-silent-join-quit: false
+custom-join-message: '* &a{USERNAME}&e vừa vào &7Prison'
+custom-quit-message: '* &a{USERNAME}&e đã thoát'
+world-teleport-permissions: false
+default-stack-size: -1
+oversized-stacksize: 64
+repair-enchanted: true
+unsafe-enchantments: true
+register-back-in-listener: false
+login-attack-delay: 5
+max-fly-speed: 0.8
+max-walk-speed: 0.8
+mails-per-minute: 1000
+max-tempban-time: -1
+last-message-reply-recipient: true
+last-message-reply-recipient-timeout: 180
+milk-bucket-easter-egg: true
+send-fly-enable-on-join: true
+world-time-permissions: false
+command-cooldown-persistence: true
+update-bed-at-daytime: true
+world-home-permissions: false
+sethome-multiple:
+  ba: 3
+  nam: 5
+  bay: 7
+tpa-accept-cancellation: 120
+starting-balance: 0
+currency-symbol: $
+max-money: 10000000000000
+min-money: -10000
+economy-log-enabled: false
+use-bukkit-permissions: false
+minimum-pay-amount: 0.001
+non-ess-in-help: true
+hide-permissionless-help: true
+chat:
+  radius: 0
+  format: '{prestige}{DISPLAYNAME} &2»&f {MESSAGE}'
+protect:
+  prevent:
+    lava-flow: false
+    water-flow: false
+    water-bucket-flow: false
+    fire-spread: true
+    lava-fire-spread: true
+    flint-fire: false
+    lightning-fire-spread: true
+    portal-creation: false
+    tnt-explosion: false
+    tnt-playerdamage: false
+    tnt-minecart-explosion: false
+    tnt-minecart-playerdamage: false
+    fireball-explosion: false
+    fireball-fire: false
+    fireball-playerdamage: false
+    witherskull-explosion: false
+    witherskull-playerdamage: false
+    wither-spawnexplosion: false
+    wither-blockreplace: false
+    creeper-explosion: false
+    creeper-playerdamage: false
+    creeper-blockdamage: false
+    enderdragon-blockdamage: true
+    enderman-pickup: false
+    villager-death: false
+    entitytarget: false
+    spawn:
+      creeper: false
+      skeleton: false
+      spider: false
+      giant: false
+      zombie: false
+      slime: false
+      ghast: false
+      pig_zombie: false
+      enderman: false
+      cave_spider: false
+      silverfish: false
+      blaze: false
+      magma_cube: false
+      ender_dragon: false
+      pig: false
+      sheep: false
+      cow: false
+      chicken: false
+      squid: false
+      wolf: false
+      mushroom_cow: false
+      snowman: false
+      ocelot: false
+      iron_golem: false
+      villager: false
+      wither: false
+      bat: false
+      witch: false
+      horse: false
+  creeper:
+    max-height: -1
+  disable:
+    fall: false
+    pvp: false
+    drown: false
+    suffocate: false
+    lavadmg: false
+    projectiles: false
+    contactdmg: false
+    firedmg: false
+    lightning: false
+    wither: false
+    weather:
+      storm: false
+      thunder: false
+      lightning: false
+    build: true
+    use: true
+    warn-on-build-disallow: true
+  alert:
+    on-placement: 10,11,46,327
+    on-use: 327
+  blacklist:
+    placement: 10,11,46,327
+    usage: 327
+newbies:
+  announce-format: '&dChào mừng &a{DISPLAYNAME}&d đến với server!'
+  spawnpoint: newbies
+respawn-listener-priority: high
+respawn-at-home: false
+spawn-on-join: true

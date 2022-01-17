@@ -1,0 +1,27 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: 2135.5
+  y: 57.0
+  z: 1571.5
+  yaw: 0.0
+  pitch: 0.0
+lastAccountName: vituyen170
+timestamps:
+  login: 1478908814612
+  lastteleport: 1478911156289
+  logout: 1478911591545
+  kits:
+    diemdanh: 1478597810555
+    tanthu: 1478305313717
+    food: 1478305374771
+ipAddress: 113.188.78.5
+logoutlocation:
+  world: world
+  x: 2130.758269700253
+  y: 63.0
+  z: 1617.6878836232395
+  yaw: 198.15125
+  pitch: 30.749907
+money: '900.0'
+afk: false

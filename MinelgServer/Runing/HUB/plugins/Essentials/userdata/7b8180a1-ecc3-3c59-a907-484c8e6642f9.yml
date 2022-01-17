@@ -1,0 +1,34 @@
+lastAccountName: thuanpham
+timestamps:
+  login: 1476857325260
+  lastteleport: 1476611278395
+  kits:
+    tanthu: 1476589057418
+    food: 1476588370963
+  logout: 1476857449165
+ipAddress: 117.3.105.70
+lastlocation:
+  world: world
+  x: 1.000009394568588E7
+  y: 174.0
+  z: 9999778.271997921
+  yaw: -238.94261
+  pitch: 22.050014
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: 3621.373333353478
+    y: 70.0
+    z: 1901.3856160246658
+    yaw: -230.68248
+    pitch: 17.700043
+logoutlocation:
+  world: world
+  x: -212.93370935502313
+  y: 101.0625
+  z: -54.73140036365239
+  yaw: -78.300026
+  pitch: 18.900002
+afk: false
+socialspy: false

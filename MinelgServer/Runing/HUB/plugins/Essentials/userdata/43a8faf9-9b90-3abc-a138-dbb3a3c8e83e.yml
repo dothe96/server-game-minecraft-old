@@ -1,0 +1,25 @@
+lastAccountName: baomap123
+timestamps:
+  login: 1478484329087
+  kits:
+    tanthu: 1478484555142
+    food: 1478484855787
+  lastteleport: 1478489269524
+  logout: 1478489389974
+ipAddress: 113.188.78.5
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.34734016523034
+  yaw: 2.5499866
+  pitch: -10.200014
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 1983.6505254899619
+  y: 64.0
+  z: 1096.5301450191907
+  yaw: 54.012085
+  pitch: 54.59989

@@ -1,0 +1,25 @@
+lastlocation:
+  world: world
+  x: 1.0000076857854875E7
+  y: 173.0
+  z: 9999817.873553792
+  yaw: -11.842285
+  pitch: 23.549986
+lastAccountName: soainhi
+timestamps:
+  login: 1476607797291
+  lastteleport: 1476611149894
+  kits:
+    diemdanh: 1476528171588
+    tanthu: 1476528448664
+    food: 1476607850880
+  logout: 1476611400909
+ipAddress: 103.237.144.215
+logoutlocation:
+  world: world
+  x: 3622.870320506402
+  y: 72.0
+  z: 1894.6876180844217
+  yaw: -76.782425
+  pitch: 5.400022
+money: '25840.0'

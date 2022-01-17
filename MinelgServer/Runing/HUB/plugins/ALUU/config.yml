@@ -1,0 +1,43 @@
+#Multiple of 9;
+inv-size: 45
+total-servers: 3
+inv-name: '&c&lCHỌN SERVER &f- &e&lMinelg &2&lNetWork'
+join-compass: true
+compass-name: '&5&lCHỌN SERVER &f- &e&lMinelg &2&lNetWork'
+player-slot: 0
+compass-drop: false
+
+server:
+   1:
+      itemid: 399
+      itemamount: 1
+      display: '&b&lServer Towny'
+      activatelore: true
+      bungee-connect: 'Towny'
+      invslot: 0
+      lore:
+      - '§f❀ §6Click để chọn !'
+      - '§f❀ §6Tình Trạng §f: §2Hoạt Động'
+      - '§1§lM §2§lI §3§lN §4§lE §5§lL §6§lG'
+    2:
+      itemid: 160
+      itemamount: 1
+      display: '&b&lServer Towny'
+      activatelore: true
+      bungee-connect: 'Towny'
+      invslot: 0
+      lore:
+      - '§f❀ §6Click để chọn !'
+      - '§f❀ §6Tình Trạng §f: §2Hoạt Động'
+      - '§1§lM §2§lI §3§lN §4§lE §5§lL §6§lG'
+    3:
+      itemid: 160
+      itemamount: 1
+      display: '&b&lServer Towny'
+      activatelore: true
+      bungee-connect: 'Towny'
+      invslot: 0
+      lore:
+      - '§f❀ §6Click để chọn !'
+      - '§f❀ §6Tình Trạng §f: §2Hoạt Động'
+      - '§1§lM §2§lI §3§lN §4§lE §5§lL §6§lG'

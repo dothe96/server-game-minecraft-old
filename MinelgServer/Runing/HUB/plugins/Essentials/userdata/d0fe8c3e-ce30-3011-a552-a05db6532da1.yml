@@ -1,0 +1,35 @@
+lastAccountName: Trang_Anh
+timestamps:
+  login: 1477984607564
+  lastteleport: 1477812304699
+  kits:
+    diemdanh: 1477202997781
+    tanthu: 1477202989137
+    tools: 1477202976355
+    food: 1477237939080
+  logout: 1477984637382
+ipAddress: 14.172.233.245
+socialspy: false
+lastlocation:
+  world: world
+  x: -153.85914984284858
+  y: 86.0
+  z: -83.65443101233222
+  yaw: -300.75003
+  pitch: 12.749988
+money: '200.0'
+logoutlocation:
+  world: world
+  x: -148.9795754440901
+  y: 86.5
+  z: -80.31552621274427
+  yaw: 315.45004
+  pitch: 63.149998
+homes:
+  home:
+    world: world
+    x: 3385.988906984249
+    y: 27.0
+    z: 1749.385563403524
+    yaw: 97.96582
+    pitch: 1.650007

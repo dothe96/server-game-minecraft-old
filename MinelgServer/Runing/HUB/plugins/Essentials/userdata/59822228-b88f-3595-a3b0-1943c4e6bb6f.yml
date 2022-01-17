@@ -1,0 +1,28 @@
+lastlocation:
+  world: world
+  x: 1.0000089879549257E7
+  y: 174.0
+  z: 9999777.847246408
+  yaw: 338.40918
+  pitch: 6.8999333
+lastAccountName: 00sacrox00_
+timestamps:
+  login: 1476596003161
+  lastteleport: 1476598445741
+  logout: 1476598450807
+ipAddress: 103.237.144.215
+homes:
+  home:
+    world: world
+    x: 2546.912593045536
+    y: 71.0
+    z: 2367.8461570217796
+    yaw: 185.11655
+    pitch: 4.1999774
+logoutlocation:
+  world: world
+  x: 2546.5
+  y: 71.0
+  z: 2367.5
+  yaw: 184.36656
+  pitch: 4.4999776

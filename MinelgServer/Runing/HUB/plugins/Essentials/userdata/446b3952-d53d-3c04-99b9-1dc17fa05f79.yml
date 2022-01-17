@@ -1,0 +1,24 @@
+lastAccountName: kentkian
+timestamps:
+  login: 1477730926060
+  kits:
+    tanthu: 1477731029326
+    tools: 1477731035575
+    food: 1477731023569
+  logout: 1477731367946
+ipAddress: 42.118.224.87
+socialspy: false
+lastlocation:
+  world: world
+  x: -160.5
+  y: 86.0
+  z: -71.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -128.49249783468787
+  y: 68.0625
+  z: -12.084124937378773
+  yaw: 177.31885
+  pitch: 7.500011

@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: jazsoccer11
+timestamps:
+  login: 1478191262224
+  kits:
+    diemdanh: 1478191007681
+    tanthu: 1477416666319
+    food: 1477488894919
+  lastteleport: 1478191025195
+  logout: 1478191293633
+ipAddress: 58.187.107.127
+lastlocation:
+  world: world
+  x: -159.34678115058466
+  y: 86.0
+  z: -44.48267055458206
+  yaw: 77.85001
+  pitch: 0.29998624
+money: '900.0'
+homes:
+  home:
+    world: world
+    x: 5527.314460710772
+    y: 69.0
+    z: 1287.9718192096057
+    yaw: 123.46612
+    pitch: 16.200117
+afk: false
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014

@@ -1,0 +1,34 @@
+lastAccountName: xlender111
+timestamps:
+  login: 1477545112566
+  lastteleport: 1477545205558
+  kits:
+    tanthu: 1476939823568
+    tools: 1476939819569
+    food: 1476939838819
+  logout: 1477545260554
+ipAddress: 42.119.94.96
+socialspy: false
+lastlocation:
+  world: world
+  x: 2121.345219076267
+  y: 62.0
+  z: 405.8989974613095
+  yaw: -98.700134
+  pitch: -9.173444
+homes:
+  home:
+    world: world
+    x: 1744.230406192966
+    y: 64.0
+    z: 317.88651519365095
+    yaw: 103.36682
+    pitch: 6.749992
+money: '470.0'
+logoutlocation:
+  world: world
+  x: -160.64243787707835
+  y: 88.0
+  z: -77.78821513539225
+  yaw: -204.75008
+  pitch: 22.500004

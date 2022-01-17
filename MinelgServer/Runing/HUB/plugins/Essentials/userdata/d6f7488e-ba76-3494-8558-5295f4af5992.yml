@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: vnkr01
+timestamps:
+  login: 1479187417543
+  logout: 1479187720489
+ipAddress: 118.70.177.89
+lastlocation:
+  world: world
+  x: -169.5
+  y: 86.0
+  z: -76.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -43.800014
+  pitch: -83.55002

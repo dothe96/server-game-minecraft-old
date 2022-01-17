@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Food
+timestamps:
+  login: 1479173966753
+  kits:
+    diemdanh: 1479173991394
+    food: 1479173989318
+  lastteleport: 1479173997381
+  logout: 1479174021115
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 3.1499865
+  pitch: -10.8000145
+logoutlocation:
+  world: world
+  x: 4131.144476904167
+  y: 64.0
+  z: 2410.859794658093
+  yaw: 78.56795
+  pitch: 49.05002

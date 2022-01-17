@@ -1,0 +1,24 @@
+lastAccountName: Dikka
+socialspy: false
+timestamps:
+  login: 1479173841337
+  kits:
+    diemdanh: 1479173858288
+    food: 1479173855235
+  lastteleport: 1479173864212
+  logout: 1479173877880
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 4111.5
+  y: 64.0
+  z: 2415.5
+  yaw: 217.9176
+  pitch: 29.250021

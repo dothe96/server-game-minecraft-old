@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: rubemcam
+timestamps:
+  login: 1477043179868
+  lastteleport: 1477044627489
+  kits:
+    diemdanh: 1477043424101
+    tanthu: 1477043308502
+    food: 1477044113508
+  logout: 1477044723732
+ipAddress: 113.180.87.248
+lastlocation:
+  world: world
+  x: 2615.4016715026114
+  y: 1.0
+  z: 2860.5257493616973
+  yaw: -77.37209
+  pitch: -6.6000004
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -128.44707257636418
+  y: 68.0625
+  z: -15.82870504095023
+  yaw: -61.79944
+  pitch: 19.349972

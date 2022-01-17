@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: nhut123
+timestamps:
+  login: 1477555066810
+  kits:
+    tanthu: 1477555136965
+    food: 1477555147369
+  lastteleport: 1477555337124
+  logout: 1477555477615
+ipAddress: 115.78.125.136
+lastlocation:
+  world: world
+  x: -123.89462252260066
+  y: 68.5
+  z: -88.52182529385117
+  yaw: -291.29932
+  pitch: -20.40001
+logoutlocation:
+  world: world
+  x: 3426.21651541435
+  y: 5.0
+  z: 3113.926703395913
+  yaw: 330.4687
+  pitch: -8.699989

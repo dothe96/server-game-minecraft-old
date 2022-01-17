@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Darkness
+timestamps:
+  login: 1477311909553
+  logout: 1477311913257
+ipAddress: 222.254.70.184
+lastlocation:
+  world: world
+  x: -160.5
+  y: 86.0
+  z: -83.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014

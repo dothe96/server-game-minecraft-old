@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Rabit
+timestamps:
+  login: 1477360285580
+  logout: 1477360367246
+ipAddress: 117.2.130.122
+lastlocation:
+  world: world
+  x: -157.5
+  y: 86.0
+  z: -85.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.51797585986787
+  y: 88.0
+  z: -77.19168296918075
+  yaw: 358.05
+  pitch: -8.850014

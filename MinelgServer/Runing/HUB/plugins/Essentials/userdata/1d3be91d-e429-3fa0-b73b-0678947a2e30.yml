@@ -1,0 +1,32 @@
+lastlocation:
+  world: world
+  x: 4986.017404526193
+  y: 41.45604663572167
+  z: 2311.32916528392
+  yaw: -38.830948
+  pitch: 20.850138
+lastAccountName: idosi
+timestamps:
+  login: 1476604940872
+  lastteleport: 1476606013403
+  kits:
+    food: 1476605830780
+  logout: 1476599436787
+ipAddress: 103.237.144.215
+logoutlocation:
+  world: world
+  x: 3384.0703687289338
+  y: 70.0
+  z: 1546.8096459999615
+  yaw: 164.117
+  pitch: 35.550034
+afk: false
+homes:
+  home:
+    world: world
+    x: 4987.909515648959
+    y: 42.352291350221336
+    z: 2310.6502073774527
+    yaw: 30.169546
+    pitch: 27.000051
+money: '900.0'

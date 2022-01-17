@@ -1,0 +1,164 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&2&lRank Up'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'rankup'
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'tell: &eBạn đã bật menu &2&lRank Up Của Server'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 7
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+glass1:
+  NAME: '&6&l[arrow_up] &f- &6&l[arrow_up]'
+  ID: '160:4'
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 3
+glass2:
+  NAME: '&f&l[arrow_up] &f- &f&l[arrow_up]'
+  ID: 160
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 3
+glass3:
+  NAME: '&b&l[arrow_up] &f- &b&l[arrow_up]'
+  ID: '160:3'
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 3
+vip30:
+  POINTS: 60
+  COMMAND: 'console: addvip {player} Vip 30; op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Kiếm §e§lVip §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Nón §e§lVip §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Áo §e§lVip §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Quần §e§lVip §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Giầy §e§lVip §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l30 ngày"]},ench:[{id:35,lvl:5}]}'
+  NAME: '&fMua &6&lVip &f30 ngày'
+  LORE:
+    - '&fGiá : 60 Coin'
+  ID: 266
+  POSITION-X: 3
+  POSITION-Y: 2
+vip7:
+  POINTS: 20
+  COMMAND: 'console: addvip {player} Vip 7; op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Kiếm §e§lVip §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Nón §e§lVip §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Áo §e§lVip §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Quần §e§lVip §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Giầy §e§lVip §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §e§lVip §6§l7 ngày"]},ench:[{id:35,lvl:5}]}'
+  NAME: '&fMua &6&lVip &f7 ngày'
+  LORE:
+    - '&fGiá : 20 Coin'
+  ID: 266
+  POSITION-X: 3
+  POSITION-Y: 4
+tk30:
+  POINTS: 150
+  COMMAND: 'console: addvip {player} TheKing 30; op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Kiếm §3§lThe King §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Nón §3§lThe King §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Áo §3§lThe King §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Quần §3§lThe King §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Giầy §3§lThe King §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l30 ngày"]},ench:[{id:35,lvl:5}]}'
+  NAME: '&fMua &9&lThe King &f30 ngày'
+  LORE:
+    - '&fGiá : 150 Coin'
+  ID: 264
+  POSITION-X: 7
+  POSITION-Y: 2
+tk7:
+  POINTS: 50
+  COMMAND: 'console: addvip {player} TheKing 7; op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Kiếm §3§lThe King §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Nón §3§lThe King §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Áo §3§lThe King §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Quần §3§lThe King §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Giầy §3§lThe King §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §3§lThe King §6§l7 ngày"]},ench:[{id:35,lvl:5}]}'
+  NAME: '&fMua &9&lThe King &f7 ngày'
+  LORE:
+    - '&fGiá : 50 Coin'
+  ID: 264
+  POSITION-X: 7
+  POSITION-Y: 4
+lg30:
+  POINTS: 300
+  COMMAND: 'console: addvip {player} Legend 30; op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Kiếm §9§lLegend §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Nón §9§lLegend §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Áo §9§lLegend §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Quần §9§lLegend §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l30 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Giầy §9§lLegend §6§l30 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l30 ngày"]},ench:[{id:35,lvl:5}]}'
+  NAME: '&fMua &1&lL&c&le&6&lg&a&le&b&ln&5&ld &f30 ngày'
+  LORE:
+    - '&fGiá : 300 Coin'
+  ID: 399
+  POSITION-X: 5
+  POSITION-Y: 2
+lg7:
+  POINTS: 100
+  COMMAND: 'console: addvip {player} Legend 7;op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Kiếm §9§lLegend §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Nón §9§lLegend §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Áo §9§lLegend §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Quần §9§lLegend §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l7 ngày"]},ench:[{id:35,lvl:5}]};op: give {player} 339 1 0 {display:{Name:"§6§lPhiếu Đổi Giầy §9§lLegend §6§l7 ngày",Lore:["§4► §b§lNhận được khi mua rank §9§lLegend §6§l7 ngày"]},ench:[{id:35,lvl:5}]}'
+  NAME: '&fMua &1&lL&c&le&6&lg&a&le&b&ln&5&ld &f7 ngày'
+  LORE:
+    - '&fGiá : 100 Coin'
+  ID: 399
+  POSITION-X: 5
+  POSITION-Y: 4  
+  
+quyenloivip:
+  NAME: '&5&lQuyền lợi khi mua Rank:'
+  LORE:
+    - '&f&6/fly &f: để bật tắt bay'
+    - '&f&6/fix all &f: Sửa tất cả món đồ'
+    - '&f&6/feed &f: Hồi thanh thức ăn'
+    - '&f&6/wb &f: &fBật bàn chế tạo mọi lúc mọi nơi'
+    - '&f&6/name <tên> &f: &fĐặt tên clone' 
+    - '&f&6/ec &f: &fBật enderchest mọi lúc mọi nơi'
+    - '&6Chat Màu'
+    - '&f&6Join Server Khi Full'
+    - '&f* Từ TheKing trở lên &3/heal &fđể hồi đầy máu'
+    - '&f* Từ TheKing trở lên có &3/god &fđể bất tử'
+    - '&f* Rank legend có &3/tp <x> <y> <z> &ftới điểm bất kì'
+    - '&6và còn nhiều tính năng hơn nữa....'
+    - '&4&lĐặc biệt: &2mỗi rank sẽ được &4&ltặng kèm theo 1 sét đồ'
+    - '&2             độ tươi tùy theo rank'
+    - '&4&lLưu ý : &2Mua rank có cộng dồn!'
+    - '&4&lLưu ý đặc biệt: &2kho đồ phải trống ít nhất 5 ô'
+    - '&2                    khi mua rank để nhận phiếu đổi đồ'
+  ID: 323
+  POSITION-X: 7
+  POSITION-Y: 6
+quyennapthe:
+  COMMAND: 'open:napthe.yml'
+  NAME: '&e&l[arrow_up] &b&lN&c&lạ&d&lp &e&lT&6&lh&5&lẻ &e&l[arrow_up]'
+  LORE: 
+    - '&a&l>>Nạp 20.000 = 20 coin'
+    - '&a&l>>Nạp 50.000 = 50 coin'
+    - '&a&l>>Nạp 100.000 = 100 coin'
+    - '&a&l>>Nạp 200.000 = 200 coin'
+    - '&a&l>>Nạp 500.000 = 500 coin'
+    - '&a&l>>Nạp 2.000.000 = 3000 coin (liên hệ Owner)'
+    - '&4&l>>>>Khuyến Mại<<<<'
+    - '&a&l- Khuyến mại: &6&lHiện chưa có &f(&4Nên check để xem khuyến mại&f)'
+    - '&a&l- Cộng 100% khi có khuyến mại, VD: 100k = 200 coin'
+  ID: 323
+  POSITION-X: 8
+  POSITION-Y: 6
+removerank:
+  COMMAND: 'op: viptime'
+  NAME: '&a&lXem thời hạn Rank'
+  LORE:
+    - '&2► &6bấm vào để xem thời hạn!'
+  ID: 217
+  KEEP-OPEN: false
+  POSITION-X: 6
+  POSITION-Y: 6
+  
+return-to-main:
+  COMMAND: 'open:example.yml'
+  NAME: '&6[arrow_left] Quay Trở Lại Menu'
+  ID: 166
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 6

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: FuckOa
+timestamps:
+  login: 1476798130855
+  lastteleport: 1476798157858
+  logout: 1476798216590
+ipAddress: 222.254.70.184
+lastlocation:
+  world: world
+  x: -158.96516809177203
+  y: 86.0
+  z: -57.35927539957339
+  yaw: -2.7000134
+  pitch: 13.949987
+logoutlocation:
+  world: world
+  x: -163.06060314704138
+  y: 86.0625
+  z: -12.986882115153856
+  yaw: 207.44493
+  pitch: 21.449991

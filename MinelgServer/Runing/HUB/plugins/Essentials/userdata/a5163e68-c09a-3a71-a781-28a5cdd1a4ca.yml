@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: aloha123
+timestamps:
+  login: 1477742184854
+  lastteleport: 1477743025418
+  kits:
+    diemdanh: 1477743017639
+  logout: 1477743091470
+ipAddress: 14.175.35.52
+lastlocation:
+  world: world
+  x: -223.72047595411945
+  y: 87.0
+  z: -52.15699844417411
+  yaw: -3.5162354
+  pitch: 8.009944
+logoutlocation:
+  world: world
+  x: -117.08566707188027
+  y: 68.0625
+  z: -20.29541511299085
+  yaw: -115.96604
+  pitch: 29.162558

@@ -1,0 +1,22 @@
+lastAccountName: event
+timestamps:
+  login: 1476916810932
+  logout: 1476917341229
+  lastteleport: 1476916956498
+ipAddress: 183.80.171.250
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000114699999988E7
+  y: 173.0
+  z: 9999773.300000012
+  yaw: 70.50728
+  pitch: 16.049997
+logoutlocation:
+  world: world
+  x: -159.40211820305387
+  y: 88.0
+  z: -76.35258365463785
+  yaw: 3.7499206
+  pitch: 35.849995
+money: '0.0'

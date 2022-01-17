@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: thidang
+timestamps:
+  login: 1479089717416
+  lastteleport: 1479089771334
+  logout: 1479089793228
+  kits:
+    diemdanh: 1478823307497
+    tanthu: 1478659998173
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: 3886.5520197827823
+  y: 64.0
+  z: 1623.9414482326058
+  yaw: -177.08252
+  pitch: 47.399994
+logoutlocation:
+  world: world
+  x: 4346.673100899745
+  y: 65.0
+  z: 753.741562389495
+  yaw: 141.03082
+  pitch: 29.399965
+homes:
+  home:
+    world: world
+    x: 3884.6848145918607
+    y: 64.0
+    z: 1622.495751044848
+    yaw: -272.33185
+    pitch: 11.550013
+money: '400.0'
+afk: false

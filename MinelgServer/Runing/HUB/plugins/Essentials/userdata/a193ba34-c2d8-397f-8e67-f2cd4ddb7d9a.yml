@@ -1,0 +1,35 @@
+lastAccountName: SKLzesh
+timestamps:
+  login: 1477050579212
+  lastteleport: 1477051089682
+  kits:
+    diemdanh: 1477050637648
+    tanthu: 1476800430016
+    tools: 1476800432562
+    food: 1476887444872
+  logout: 1477051412482
+ipAddress: 203.205.32.10
+socialspy: false
+lastlocation:
+  world: world
+  x: 2914.300000011921
+  y: 11.993235300062135
+  z: -454.30000001192093
+  yaw: 184.93744
+  pitch: 53.399967
+money: '10306.0'
+logoutlocation:
+  world: world
+  x: -164.2614889072936
+  y: 92.0
+  z: -13.049773974320436
+  yaw: -93.904976
+  pitch: -7.949994
+homes:
+  home:
+    world: world
+    x: 294.6766180670393
+    y: 63.9375
+    z: 692.6633510228968
+    yaw: -89.3117
+    pitch: 32.714905

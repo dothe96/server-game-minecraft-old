@@ -1,0 +1,26 @@
+lastAccountName: nhocviprong2004
+timestamps:
+  login: 1477746234906
+  kits:
+    diemdanh: 1477746352525
+    tanthu: 1477746391889
+    tools: 1477747159411
+    food: 1477746508190
+  lastteleport: 1477747530163
+  logout: 1477747552944
+ipAddress: 222.252.255.1
+socialspy: false
+lastlocation:
+  world: world
+  x: -49.929414868331605
+  y: 61.0
+  z: -41.05797394554082
+  yaw: 125.550354
+  pitch: 1.3499926
+logoutlocation:
+  world: world
+  x: -206.53520305889478
+  y: 101.0625
+  z: -48.29761729019355
+  yaw: 86.7
+  pitch: 32.69999

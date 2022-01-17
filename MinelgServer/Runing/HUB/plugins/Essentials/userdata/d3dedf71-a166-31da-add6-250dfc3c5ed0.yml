@@ -1,0 +1,43 @@
+socialspy: false
+lastAccountName: DoThe
+timestamps:
+  login: 1478349588449
+  logout: 1478354385533
+  lastteleport: 1478350481498
+  lastheal: 1476024813206
+  kits:
+    test: 1476167053359
+    member: 1476114742560
+    diemdanh: 1477318238859
+    vangdoan: 1476165336726
+    bachkimdoan: 1476166541330
+    tanthu: 1476116043612
+    tools: 1476166618086
+    food: 1477318297631
+ipAddress: 42.112.145.115
+lastlocation:
+  world: world
+  x: 100348.26665968943
+  y: 71.79217302240113
+  z: 1.0000082968724879E7
+  yaw: -87.446655
+  pitch: 13.19995
+logoutlocation:
+  world: world
+  x: 100646.57262325373
+  y: 97.20888153757491
+  z: 1.0000642583921487E7
+  yaw: 136.32089
+  pitch: 52.349987
+afk: false
+homes:
+  home:
+    world: world
+    x: 100630.64362262371
+    y: 105.35867659715132
+    z: 1.000013895351042E7
+    yaw: -191.09967
+    pitch: 18.899958
+money: '0.0'
+godmode: false
+teleportenabled: true

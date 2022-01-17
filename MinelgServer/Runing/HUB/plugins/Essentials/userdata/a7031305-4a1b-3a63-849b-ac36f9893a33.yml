@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: duongnightcore
+timestamps:
+  login: 1478320329456
+  lastteleport: 1478313488659
+  kits:
+    diemdanh: 1478240887995
+    tanthu: 1478240904380
+    tools: 1478095180721
+    food: 1478312773376
+  logout: 1478320369542
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: 4035.5730328469185
+  y: 134.0
+  z: -2494.051325353807
+  yaw: 322.3751
+  pitch: 33.600033
+money: '406.0'
+homes:
+  home:
+    world: world
+    x: 4036.699999988079
+    y: 134.0
+    z: -2492.6059453851885
+    yaw: 100.37502
+    pitch: 55.950024
+logoutlocation:
+  world: world
+  x: -157.24199693904524
+  y: 86.0
+  z: -41.786291278934115
+  yaw: 137.85017
+  pitch: 36.75005

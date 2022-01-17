@@ -1,0 +1,135 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+
+menu-settings:
+  name: '&5&LHướng Dẫn Cơ Bản'
+  rows: 3
+  command: 'help'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+
+tanthu:
+  COMMAND: ''
+  NAME: '&e&lHướng Dẫn Người Chơi Mới'
+  LORE:
+    - '&f/menu để mở các tiện ích'  
+    - '&f/sethome để lưu lại nhà'
+    - '&f/Rankup để mua rank'
+    - '&f/Warp để xem các địa điểm'
+    - '&f/home để về chỗ nhà đã lưu'
+    - '&f/spawn để về nơi mới vào'
+    - '&f/changepassword <mật khẩu cũ> <mật khẩu mới> để đổi mật khẩu'
+  ID: paper
+  POSITION-X: 1
+  POSITION-Y: 1
+
+  
+  
+caothu:
+  COMMAND: ''
+  NAME: '&b&lHướng Dẫn Towny'
+  LORE:
+    - '&f/t help để xem đầy đủ các lệnh' 
+    - '&f/t new &6tên town'
+    - '&f/t claim để mở rộng đất'
+    - '&f/t rank add tên để thêm người vào town'
+    - '&f/t rank remove tên để kick thành viên'     
+    - '&f/t leave để thoát khỏi town'
+    - '&f/t delete tên town để bỏ towny'
+    - '&f/t here để xem town đang đứng' 
+    - '&f/t list xem danh sách towny'
+    - '&f/t deposit số tiền để chuyển tiền vào town'
+    - '&f/t set spawn để set điểm đến cho town'
+    - '&f/t spawn tên town dịch chuyển tới town'
+    - '&f/t sethome để lưu lại nhà faction'
+    - '&f/t home để về chỗ đã lưu lại nhà faction'
+    - '&3&l các lệnh quy định trong town:'
+    - '&6&l /t set perm build on/off - Bật tắt chế độ xây dựng trong town'
+    - '&6&l /t set perm destroy on/off - Bật tắt chế độ phá block trong town'
+    - '&6&l /t set perm switch on/off - Bật tắt công tắc trong town'
+    - '&6&l /t set perm itemuse on/off - Bật tắt quyền sử dụng item'
+    - '&6&l /t set perm '
+    - '&6&l {resident/ally/outsider} {build/destroy/switch/itemuse} {on/off}:'
+
+  ID: paper
+  POSITION-X: 2
+  POSITION-Y: 1
+  
+  
+dangthu:
+  COMMAND: ''
+  NAME: '&4&lHướng Dẫn Trao Đổi'
+  LORE:
+    - '&f/trade <tên> để trao đổi với người khác'
+    - '&f/trade accept để chấp nhận trao đổi'
+    - '&fLưu ý : phải đứng gần 3 block để trao đổi'
+  ID: paper
+  POSITION-X: 3
+  POSITION-Y: 1
+
+  
+hangthu:
+  COMMAND: ''
+  NAME: '&c&lHướng Dẫn Lệnh Cơ Bản'
+  LORE:
+    - '&f/back để trở về chỗ cũ'
+    - '&f/money để xem tiền của mình'
+    - '&f/balancetop để xem top tiền'
+    - '&f/delhome để xóa chỗ lưu lại nhà'
+    - '&f/pay <tên> <số tiền> để chuyển tiền cho người khác'
+    - '&f/tpa tên để dịch chuyển đến người đó'
+    - '&f/tpaccept để chấp nhận dịch chuyển'
+    - '&f/tpdeny để hủy bỏ dịch chuyển'
+    - '&f/tpahere để dịch chuyển người đó đến chỗ mình'
+  ID: paper
+  POSITION-X: 4
+  POSITION-Y: 1
+  
+   
+batpet:
+  COMMAND: ''
+  NAME: '&7&lHướng Dẫn Bắt Pet'
+  LORE:
+    - '&fCầm dây dẫn giết con vật muốn bắt'
+    - '&f/pcst để chọn kĩ năng cho pet'
+    - '&f/petname <tên> để đổi tên cho pet , có màu'
+    - '&f/petc để  triệu hồi pet'
+    - '&f/psa để cất pet'
+    - '&f/petinfo để xem thông tin về pet'
+    - '&f/pettype <tên> để xem thông tin pet muốn bắt'
+    - '&f/petrelease <Tên pet> để xóa pet'
+    - '&f/petbeacon để chọn tăng kĩ năng cho chủ pet'
+    - '&f/mypet để xem các lệnh của pet'
+  ID: paper
+  POSITION-X: 5
+  POSITION-Y: 1
+  
+  
+xu:
+  COMMAND: ''
+  NAME: '&9&lHướng Dẫn Lệnh Xu'
+  LORE:
+    - '&f/p me để xem số xu mình đang có'
+    - '&aDonate nạp thẻ tại &6http://minelg.com/donate'
+  ID: paper
+  POSITION-X: 6
+  POSITION-Y: 1
+  
+  
+return-to-main:
+  COMMAND: 'open:example.yml'
+  NAME: '&6[arrow_left] Bấm vào quay lại menu'
+  ID: nether_star
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 3

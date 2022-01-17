@@ -1,0 +1,32 @@
+lastAccountName: skt123
+timestamps:
+  login: 1479082907714
+  lastteleport: 1479084170710
+  kits:
+    diemdanh: 1478571380828
+  logout: 1479084305110
+ipAddress: 115.74.206.199
+socialspy: false
+lastlocation:
+  world: world
+  x: 4668.734446199835
+  y: 49.0
+  z: -2364.343641414276
+  yaw: -75.402954
+  pitch: 6.750011
+money: '18.0'
+logoutlocation:
+  world: world
+  x: 4675.218184665698
+  y: 64.0
+  z: -2336.5693457562274
+  yaw: -194.95374
+  pitch: 18.750004
+homes:
+  home:
+    world: world
+    x: 4669.4692260152815
+    y: 67.0
+    z: -2368.3595252046166
+    yaw: 5.596189
+    pitch: 47.999992

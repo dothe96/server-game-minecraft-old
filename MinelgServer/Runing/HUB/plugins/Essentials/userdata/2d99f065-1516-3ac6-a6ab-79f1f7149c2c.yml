@@ -1,0 +1,21 @@
+lastAccountName: thach_gaming
+timestamps:
+  login: 1479003134654
+  logout: 1479003518904
+  lastteleport: 1479003394484
+ipAddress: 117.3.71.91
+socialspy: false
+lastlocation:
+  world: world
+  x: -19.851025144637976
+  y: 61.0
+  z: -66.57218858768218
+  yaw: -90.4494
+  pitch: 12.149983
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 1.3499866
+  pitch: -7.800014

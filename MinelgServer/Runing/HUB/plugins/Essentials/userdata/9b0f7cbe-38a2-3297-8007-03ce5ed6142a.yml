@@ -1,0 +1,37 @@
+lastAccountName: Maingu
+timestamps:
+  login: 1478002894379
+  lastteleport: 1478003290276
+  kits:
+    diemdanh: 1477400871143
+    tanthu: 1477629111050
+    food: 1477809027168
+  logout: 1478003491739
+  mute: 0
+ipAddress: 115.78.126.139
+socialspy: false
+lastlocation:
+  world: world
+  x: 2325.268439804672
+  y: 67.0
+  z: 1431.375688723494
+  yaw: 187.78217
+  pitch: 20.549984
+money: '7026.0'
+logoutlocation:
+  world: world
+  x: -117.67743378970917
+  y: 67.0
+  z: -65.68964428303089
+  yaw: -114.60001
+  pitch: 66.000015
+homes:
+  home:
+    world: world_the_end
+    x: 4520.778962116007
+    y: 59.0
+    z: -859.4487995832383
+    yaw: 71.39603
+    pitch: -9.15001
+muted: false
+afk: false

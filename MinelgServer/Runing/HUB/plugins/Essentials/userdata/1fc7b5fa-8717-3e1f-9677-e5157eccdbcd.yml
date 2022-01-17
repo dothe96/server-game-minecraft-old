@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: balusa
+timestamps:
+  login: 1478179926768
+  lastteleport: 1478179258877
+  kits:
+    diemdanh: 1478178274086
+    tanthu: 1478178223176
+    food: 1478178370597
+  logout: 1478180000819
+ipAddress: 113.180.87.178
+lastlocation:
+  world: world
+  x: 3078.15255481521
+  y: 78.0
+  z: 420.17411055210005
+  yaw: 113.502594
+  pitch: 56.999958
+money: '519.0'
+logoutlocation:
+  world: world
+  x: -157.69999998807907
+  y: 87.5
+  z: -78.42862947844495
+  yaw: -49.500008
+  pitch: 24.300024

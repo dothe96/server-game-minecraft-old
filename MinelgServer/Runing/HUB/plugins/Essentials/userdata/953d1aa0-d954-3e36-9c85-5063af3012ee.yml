@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: njghja
+timestamps:
+  login: 1477105559630
+  lastteleport: 1477105580803
+  kits:
+    diemdanh: 1477105591004
+    food: 1477105587513
+  logout: 1477105596511
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -1.8000135
+  pitch: -10.650014
+logoutlocation:
+  world: world
+  x: 3254.384399153157
+  y: 80.0
+  z: 1261.5933626321819
+  yaw: -91.63737
+  pitch: 23.100079

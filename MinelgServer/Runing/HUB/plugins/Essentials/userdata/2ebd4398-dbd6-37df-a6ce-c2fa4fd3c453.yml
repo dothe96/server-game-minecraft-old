@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: clone_mmail
+timestamps:
+  login: 1477741285600
+  lastteleport: 1477741353562
+  logout: 1477741519615
+ipAddress: 42.118.234.220
+lastlocation:
+  world: world
+  x: -159.52614881144837
+  y: 88.0
+  z: -76.21041062959294
+  yaw: 17.249987
+  pitch: 4.949993
+logoutlocation:
+  world: world
+  x: 3518.5
+  y: 63.0
+  z: 772.5
+  yaw: -109.27475
+  pitch: 7.6498785

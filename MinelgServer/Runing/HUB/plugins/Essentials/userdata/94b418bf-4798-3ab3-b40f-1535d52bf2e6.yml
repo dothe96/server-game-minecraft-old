@@ -1,0 +1,27 @@
+lastAccountName: zakuza
+timestamps:
+  login: 1476856456837
+  logout: 1476856569996
+  lastteleport: 1476537573972
+  kits:
+    diemdanh: 1476450396127
+    tanthu: 1476450390211
+    tools: 1476450382444
+    food: 1476454502270
+ipAddress: 117.3.105.70
+lastlocation:
+  world: world
+  x: -241.64537613941502
+  y: 187.0
+  z: -125.20176527960591
+  yaw: -136.49982
+  pitch: 29.69999
+logoutlocation:
+  world: world
+  x: -207.9732282076344
+  y: 101.0625
+  z: -52.80541530207217
+  yaw: -105.14966
+  pitch: 40.19998
+money: '0.0'
+socialspy: false

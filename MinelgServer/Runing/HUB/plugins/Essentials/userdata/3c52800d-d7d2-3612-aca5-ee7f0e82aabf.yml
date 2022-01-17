@@ -1,0 +1,24 @@
+lastAccountName: Halloween
+timestamps:
+  login: 1478336436721
+  lastteleport: 1478336552860
+  kits:
+    diemdanh: 1478336618586
+    tanthu: 1478336616392
+  logout: 1478336824262
+ipAddress: 115.79.11.78
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 87.0
+  z: -72.85575462488084
+  yaw: -1.30623575E-5
+  pitch: 16.949986
+logoutlocation:
+  world: world
+  x: -101.36283918650363
+  y: 68.0625
+  z: -9.392353662970354
+  yaw: 18.74827
+  pitch: 18.6

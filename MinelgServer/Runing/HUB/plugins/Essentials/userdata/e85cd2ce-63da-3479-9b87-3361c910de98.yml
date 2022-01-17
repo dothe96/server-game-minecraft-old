@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: leemax803
+timestamps:
+  login: 1477555978000
+  lastteleport: 1477556121681
+  kits:
+    diemdanh: 1477556341499
+  logout: 1477556417806
+ipAddress: 14.171.127.234
+lastlocation:
+  world: world
+  x: -158.2944106092809
+  y: 88.0
+  z: -76.53616335446699
+  yaw: -142.05
+  pitch: 32.549988
+logoutlocation:
+  world: world
+  x: -159.50922458440326
+  y: 86.0
+  z: -29.90584888410255
+  yaw: 134.40039
+  pitch: 4.0500093

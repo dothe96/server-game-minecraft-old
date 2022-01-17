@@ -1,0 +1,26 @@
+lastAccountName: truong
+timestamps:
+  login: 1477704124388
+  lastteleport: 1477704138443
+  kits:
+    diemdanh: 1476928754079
+    tanthu: 1477703943706
+    food: 1477703968089
+  logout: 1477704198131
+ipAddress: 115.78.127.186
+socialspy: false
+lastlocation:
+  world: world
+  x: 3257.0269778981233
+  y: 62.71267384622218
+  z: 1612.6630053210577
+  yaw: -15.672699
+  pitch: 54.149982
+logoutlocation:
+  world: world
+  x: -159.40612956056475
+  y: 88.0
+  z: -76.3862856498668
+  yaw: -5.2500134
+  pitch: 3.4499857
+afk: false

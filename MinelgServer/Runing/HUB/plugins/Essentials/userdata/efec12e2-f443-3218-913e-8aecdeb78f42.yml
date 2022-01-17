@@ -1,0 +1,27 @@
+lastAccountName: meocon
+timestamps:
+  login: 1479003167615
+  lastteleport: 1479005152041
+  logout: 1479005211871
+  kits:
+    diemdanh: 1478937590265
+    tanthu: 1478937596928
+    tools: 1479003667973
+    food: 1479003463836
+ipAddress: 113.180.87.70
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: 23.21689063857344
+  y: 59.0
+  z: -9.077167219447508
+  yaw: -248.6981
+  pitch: 20.100016
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+money: '426.0'

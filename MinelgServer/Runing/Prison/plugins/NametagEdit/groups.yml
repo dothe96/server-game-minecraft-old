@@ -1,0 +1,141 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '[&3Admin&f] &6'
+    Suffix: ' &7&lAD'
+    SortPriority: 2
+  A:
+    Permission: nte.a
+    Prefix: '[&aA&f]&7'
+    Suffix: '&f'
+    SortPriority: 3
+  B:
+    Permission: nte.b
+    Prefix: '[&aB&f]&7'
+    Suffix: '&f'
+    SortPriority: 4
+  C:
+    Permission: nte.c
+    Prefix: '[&aC&f]&7'
+    Suffix: '&f'
+    SortPriority: 5
+  D:
+    Permission: nte.d
+    Prefix: '[&aD&f]&7'
+    Suffix: '&f'
+    SortPriority: 6
+  E:
+    Permission: nte.e
+    Prefix: '[&aE&f]&7'
+    Suffix: '&f'
+    SortPriority: 7
+  F:
+    Permission: nte.f
+    Prefix: '[&aF&f]&7'
+    Suffix: '&f'
+    SortPriority: 8
+  G:
+    Permission: nte.g
+    Prefix: '[&6G&f]&7'
+    Suffix: '&f'
+    SortPriority: 9
+  H:
+    Permission: nte.h
+    Prefix: '[&6H&f]&7'
+    Suffix: '&f'
+    SortPriority: 10
+  I:
+    Permission: nte.i
+    Prefix: '[&6I&f]&7'
+    Suffix: '&f'
+    SortPriority: 11
+  J:
+    Permission: nte.j
+    Prefix: '[&6J&f]&7'
+    Suffix: '&f'
+    SortPriority: 12
+  K:
+    Permission: nte.k
+    Prefix: '[&6K&f]&7'
+    Suffix: '&f'
+    SortPriority: 13
+  L:
+    Permission: nte.l
+    Prefix: '[&6L&f]&7'
+    Suffix: '&f'
+    SortPriority: 14
+  M:
+    Permission: nte.m
+    Prefix: '[&6M&f]&7'
+    Suffix: '&f'
+    SortPriority: 15
+  N:
+    Permission: nte.n
+    Prefix: '[&6N&f]&7'
+    Suffix: '&f'
+    SortPriority: 16
+  O:
+    Permission: nte.o
+    Prefix: '[&6O&f]&7'
+    Suffix: '&f'
+    SortPriority: 17
+  P:
+    Permission: nte.p
+    Prefix: '[&bP&f]&7'
+    Suffix: '&f'
+    SortPriority: 18
+  Q:
+    Permission: nte.q
+    Prefix: '[&bQ&f]&7'
+    Suffix: '&f'
+    SortPriority: 19
+  R:
+    Permission: nte.r
+    Prefix: '[&bR&f]&7'
+    Suffix: '&f'
+    SortPriority: 20
+  S:
+    Permission: nte.s
+    Prefix: '[&bS&f]&7'
+    Suffix: '&f'
+    SortPriority: 21
+  T:
+    Permission: nte.t
+    Prefix: '[&dT&f]&7'
+    Suffix: '&f'
+    SortPriority: 22
+  U:
+    Permission: nte.u
+    Prefix: '[&dU&f]&7'
+    Suffix: '&f'
+    SortPriority: 23
+  V:
+    Permission: nte.v
+    Prefix: '[&dV&f]&7'
+    Suffix: '&f'
+    SortPriority: 24
+  W:
+    Permission: nte.w
+    Prefix: '[&cW&f]&7'
+    Suffix: '&f'
+    SortPriority: 25
+  X:
+    Permission: nte.x
+    Prefix: '[&cX&f]&7'
+    Suffix: '&f'
+    SortPriority: 26
+  Y:
+    Permission: nte.y
+    Prefix: '[&cY&f]&7'
+    Suffix: '&f'
+    SortPriority: 27
+  Z:
+    Permission: nte.z
+    Prefix: '[&9Z&f]&7'
+    Suffix: '&f'
+    SortPriority: 28
+  vip1:
+    Permission: nte.vip1
+    Prefix: ''
+    Suffix: '&fadas'
+    SortPriority: 28

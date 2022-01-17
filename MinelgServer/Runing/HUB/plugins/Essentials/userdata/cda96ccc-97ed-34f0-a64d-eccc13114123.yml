@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Storm272
+timestamps:
+  login: 1477399479562
+  kits:
+    diemdanh: 1477332526378
+    tanthu: 1477152750503
+    tools: 1477213590921
+    food: 1477215607808
+  lastteleport: 1477399976900
+  logout: 1477402125654
+ipAddress: 27.3.254.36
+lastlocation:
+  world: world
+  x: -131.07499998807907
+  y: 69.0625
+  z: -17.338638743442395
+  yaw: -102.74992
+  pitch: 22.800007
+money: '17380.0'
+homes:
+  home:
+    world: world
+    x: 3012.351781909076
+    y: 76.0
+    z: 412.80127736604567
+    yaw: -179.54102
+    pitch: 14.099974
+logoutlocation:
+  world: world
+  x: 3020.8683716428627
+  y: 76.0
+  z: 376.69999998807907
+  yaw: 0.7621702
+  pitch: 4.6501064
+afk: false

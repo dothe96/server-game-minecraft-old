@@ -1,0 +1,24 @@
+lastAccountName: Hayppla
+timestamps:
+  login: 1479174098643
+  kits:
+    diemdanh: 1479174124624
+    food: 1479174116915
+  lastteleport: 1479174131560
+  logout: 1479174149914
+ipAddress: 117.2.130.20
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.52614881144837
+  y: 88.0
+  z: -76.21041062959294
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 4019.1236671053493
+  y: 64.0
+  z: 2344.81315142842
+  yaw: -130.53209
+  pitch: 26.850044

@@ -1,0 +1,26 @@
+lastAccountName: Queena
+timestamps:
+  login: 1476525140161
+  kits:
+    tanthu: 1476516519939
+    tools: 1476518999937
+    food: 1476516529114
+  logout: 1476525761850
+  lastteleport: 1476525501808
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -111.74363845821105
+  y: 68.69109454400405
+  z: -33.04128409149658
+  yaw: 106.20044
+  pitch: 8.399927
+logoutlocation:
+  world: world
+  x: 1.0000100004576256E7
+  y: 181.55615566956988
+  z: 9999800.336385911
+  yaw: 328.0586
+  pitch: 34.650063
+money: '1699.0'
+afk: false

@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: nonoxinthaem
+timestamps:
+  login: 1478409985447
+  kits:
+    diemdanh: 1478338588216
+    tanthu: 1478338879553
+    tools: 1478411530928
+    food: 1478410785439
+  lastteleport: 1478410967098
+  logout: 1478414414562
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: 4382.638071120508
+  y: 69.0
+  z: -2173.7943086417476
+  yaw: 221.2973
+  pitch: 36.449974
+money: '19.0'
+homes:
+  home:
+    world: world
+    x: 4257.433381064644
+    y: 61.0
+    z: -2158.4568289993967
+    yaw: 110.14388
+    pitch: 25.049992
+logoutlocation:
+  world: world
+  x: 4417.662020718427
+  y: 64.0
+  z: -2185.9007322556536
+  yaw: 32.742012
+  pitch: 66.14998

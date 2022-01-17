@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: OttocAr
+timestamps:
+  login: 1477274824833
+  kits:
+    diemdanh: 1477198144804
+    tanthu: 1477275128414
+    food: 1477275118696
+  lastteleport: 1477275225438
+  logout: 1477275501635
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 75.59996
+  pitch: 82.2
+logoutlocation:
+  world: world
+  x: 3540.19190393547
+  y: 11.0
+  z: 1527.3694678639802
+  yaw: 265.50082
+  pitch: 13.499996
+homes:
+  home:
+    world: world
+    x: 2825.0356916124697
+    y: 11.0
+    z: 2027.5
+    yaw: 69.0092
+    pitch: 11.400027
+money: '160.0'

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: xdarkar
+timestamps:
+  login: 1477360834169
+  lastteleport: 1477361224423
+  logout: 1477361453366
+ipAddress: 203.205.32.31
+lastlocation:
+  world: world
+  x: -163.49973430599468
+  y: 93.0625
+  z: -10.701145173950648
+  yaw: 170.09993
+  pitch: -0.29997706
+logoutlocation:
+  world: world
+  x: -188.5284843376141
+  y: 86.0
+  z: -44.51528325190432
+  yaw: 145.64943
+  pitch: 15.14998

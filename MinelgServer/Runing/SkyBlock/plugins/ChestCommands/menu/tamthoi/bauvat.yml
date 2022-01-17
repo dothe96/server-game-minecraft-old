@@ -1,0 +1,71 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&b&lShop Báu Vật'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 2
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'bauvat'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 8
+    left-click: false
+    right-click: true
+#   data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+bauvat1:
+  POINTS: 50
+  COMMAND: 'op: case give {player} &f&l-=[&e&lRương Vip&f&l]=-'
+  NAME: '&aMua &eRương Vip'
+  LORE:
+    - '&aGiá : &b50 Coins'
+  ID: 54
+  POSITION-X: 2
+  POSITION-Y: 1
+  
+
+bauvat2:
+  POINTS: 100
+  COMMAND: 'op: case give {player} &f&l-=[&b&lRương Huyền Thoại&f&l]=-'
+  NAME: '&aMua &eRương Huyền Thoại'
+  LORE:
+    - '&aGiá : &b100 Coins'
+  ID: 54
+  POSITION-X: 5
+  POSITION-Y: 1
+
+bauvat3:
+  POINTS: 170
+  COMMAND: 'op: case give {player} &f&l-=[&6&lRương Nhà Giàu&f&l]=-'
+  NAME: '&aMua &eRương Nhà Giàu'
+  LORE:
+    - '&aGiá : &b170 Coins'
+  ID: 54
+  POSITION-X: 8
+  POSITION-Y: 1  
+  
+return-to-main:
+  COMMAND: 'open:main-menu.yml'
+  NAME: '&6[arrow_left] Trở về menu'
+  ID: nether_star
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 2

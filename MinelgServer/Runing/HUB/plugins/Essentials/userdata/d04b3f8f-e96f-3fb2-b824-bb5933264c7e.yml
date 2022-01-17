@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: rappertun
+timestamps:
+  login: 1478321369155
+  lastteleport: 1478322468226
+  logout: 1478322570184
+  kits:
+    diemdanh: 1478317973272
+    tanthu: 1478317984584
+    food: 1478317976892
+ipAddress: 42.115.178.21
+lastlocation:
+  world: world
+  x: -137.90569799915556
+  y: 68.02989959368347
+  z: -1.6127885167318414
+  yaw: -62.55173
+  pitch: 53.399986
+logoutlocation:
+  world: world
+  x: -116.90716732494883
+  y: 67.0
+  z: -76.64703689385237
+  yaw: 7.800171
+  pitch: -13.49999
+money: '0.0'

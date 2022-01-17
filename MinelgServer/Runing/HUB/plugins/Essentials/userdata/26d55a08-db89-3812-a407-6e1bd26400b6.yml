@@ -1,0 +1,37 @@
+lastAccountName: HuyenPig
+timestamps:
+  login: 1479268148574
+  lastteleport: 1479038193043
+  kits:
+    diemdanh: 1479002630874
+    tanthu: 1476448278411
+    tools: 1477967714374
+    food: 1479037776212
+  logout: 1479268214953
+ipAddress: 123.28.143.241
+lastlocation:
+  world: world
+  x: 3567.3084966253573
+  y: 95.13156704771686
+  z: 1463.3493877543635
+  yaw: 64.21605
+  pitch: 36.60005
+homes:
+  home:
+    world: world_nether
+    x: -164.6458268285742
+    y: 68.0
+    z: -149.5515132363009
+    yaw: -19.350311
+    pitch: 38.4
+money: '281086.0'
+logoutlocation:
+  world: world
+  x: 3569.7322603360662
+  y: 81.76199551940687
+  z: 1458.193786201921
+  yaw: -118.03394
+  pitch: 16.80006
+socialspy: false
+afk: false
+nickname: §6§k§lHuyen

@@ -1,0 +1,34 @@
+[2017/02/04 20:38:41] §6[§a§lMember§6]-§f§l§4Luky§r executed //wand at Location{world=CraftWorld{name=world},x=41.08984047124667,y=79.16933178452113,z=-16.987226793405302,pitch=31.199942,yaw=337.64685}
+[2017/02/04 20:39:25] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35 at Location{world=CraftWorld{name=world},x=41.645439569069715,y=75.80449359635305,z=17.905147150242115,pitch=74.70002,yaw=223.19672}
+[2017/02/04 20:40:25] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=39.97345303529062,y=79.66500818496554,z=-15.772653888069597,pitch=16.350029,yaw=243.14734}
+[2017/02/04 20:40:56] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=39.6007729565755,y=78.56754090408049,z=-16.532039548005972,pitch=1.0500709,yaw=268.19696}
+[2017/02/04 20:41:26] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=38.64560663314599,y=72.5732077706834,z=10.739434316975418,pitch=26.250084,yaw=316.49768}
+[2017/02/04 20:41:33] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14\ at Location{world=CraftWorld{name=world},x=40.458102851967425,y=74.83017861073682,z=14.607586028276671,pitch=55.950073,yaw=295.64746}
+[2017/02/04 20:41:35] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=40.458102851967425,y=74.83017861073682,z=14.607586028276671,pitch=55.950073,yaw=295.64746}
+[2017/02/04 20:51:29] §6[§a§lMember§6]-§f§l§4Luky§r executed /weather sun at Location{world=CraftWorld{name=world},x=11.730553749662398,y=73.37934577869805,z=34.52527059775704,pitch=10.200005,yaw=90.30078}
+[2017/02/04 20:51:56] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35 at Location{world=CraftWorld{name=world},x=6.581919855503384,y=75.26622377124238,z=8.328501282353782,pitch=20.849955,yaw=355.64954}
+[2017/02/04 20:52:25] §6[§a§lMember§6]-§f§l§4Luky§r executed //cut at Location{world=CraftWorld{name=world},x=-2.3406186949398817,y=69.6520858812482,z=25.9587134940631,pitch=-48.75004,yaw=40.34851}
+[2017/02/04 20:53:18] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=-14.313560648493308,y=79.37370471516466,z=24.749600706647506,pitch=13.199986,yaw=39.897095}
+[2017/02/04 20:53:37] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=-18.01597546057124,y=70.00926407543199,z=25.00505145457404,pitch=-20.40002,yaw=-37.05292}
+[2017/02/04 20:53:55] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=-11.860434946195628,y=70.00926407543199,z=23.904634327494797,pitch=-10.050009,yaw=71.69708}
+[2017/02/04 20:54:07] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=22.956832589139765,y=76.74820375380195,z=26.801038638118314,pitch=-34.199993,yaw=79.197075}
+[2017/02/04 20:58:02] §6[§a§lMember§6]-§f§l§4Luky§r executed //cut at Location{world=CraftWorld{name=world},x=17.887175267616954,y=78.9336095349349,z=-26.881739481604722,pitch=33.14996,yaw=85.49844}
+[2017/02/04 20:58:25] §6[§a§lMember§6]-§f§l§4Luky§r executed //cut at Location{world=CraftWorld{name=world},x=15.981860620526671,y=78.2819007624268,z=-35.50134282563839,pitch=33.14994,yaw=181.64948}
+[2017/02/04 20:59:43] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35 at Location{world=CraftWorld{name=world},x=10.74133384053985,y=73.41658659385946,z=-41.69999998807907,pitch=29.549902,yaw=279.89868}
+[2017/02/04 21:00:07] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=16.097975274001122,y=80.9349553057109,z=-35.570559391680476,pitch=47.099895,yaw=203.99884}
+[2017/02/04 21:00:20] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=16.22520247134222,y=72.32454925474892,z=-34.938627577242166,pitch=-29.100122,yaw=181.79987}
+[2017/02/04 21:00:33] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=-5.5741300274205186,y=72.32454925474892,z=-32.38053170028594,pitch=12.5998745,yaw=149.85034}
+[2017/02/04 21:00:44] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=-8.781926104861018,y=77.1786368599982,z=-33.05544992801673,pitch=-27.900093,yaw=183.75049}
+[2017/02/04 21:00:53] §6[§a§lMember§6]-§f§l§4Luky§r executed //cut at Location{world=CraftWorld{name=world},x=15.331796684027488,y=73.05928483441863,z=-33.87962993763913,pitch=19.799898,yaw=190.19958}
+[2017/02/04 21:00:59] §6[§a§lMember§6]-§f§l§4Luky§r executed //cut at Location{world=CraftWorld{name=world},x=4.656049391515034,y=64.45229274372541,z=-34.2102703126829,pitch=37.79988,yaw=160.79993}
+[2017/02/04 21:16:11] §6[§a§lMember§6]-§f§l§4Luky§r executed //cut at Location{world=CraftWorld{name=world},x=7.300000011920929,y=55.0,z=3.300000011920929,pitch=16.349924,yaw=-224.849}
+[2017/02/04 21:23:53] §6[§a§lMember§6]-§f§l§4Luky§r executed //wand at Location{world=CraftWorld{name=world},x=38.408623532763016,y=98.37272662263246,z=-18.09607314527063,pitch=7.9499555,yaw=282.00256}
+[2017/02/04 21:24:02] §6[§a§lMember§6]-§f§l§4Luky§r executed //wand at Location{world=CraftWorld{name=world},x=38.591301219073024,y=94.62836090135937,z=-2.6884985249431876,pitch=10.0499525,yaw=293.70258}
+[2017/02/04 21:24:07] §6[§a§lMember§6]-§f§l§4Luky§r executed //cut at Location{world=CraftWorld{name=world},x=38.591301219073024,y=94.62836090135937,z=-2.6782486653536983,pitch=10.0499525,yaw=293.70258}
+[2017/02/04 21:27:42] §6[§a§lMember§6]-§f§l§4Luky§r executed //cut at Location{world=CraftWorld{name=world},x=39.56207457709098,y=81.51652902535169,z=6.180065973346223,pitch=29.24999,yaw=273.4569}
+[2017/02/04 21:28:59] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35 at Location{world=CraftWorld{name=world},x=42.907072931737204,y=92.40283613291335,z=25.15813725297889,pitch=-10.80003,yaw=191.55786}
+[2017/02/04 21:29:55] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=37.25390444949603,y=99.91401500272366,z=21.593265542563202,pitch=21.149984,yaw=273.45746}
+[2017/02/04 21:30:09] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=39.28954763310245,y=93.55006711289803,z=23.852025102436077,pitch=9.599984,yaw=253.65796}
+[2017/02/04 21:30:14] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=40.83451635680298,y=96.91225591499324,z=23.42531943080073,pitch=-23.400017,yaw=250.65808}
+[2017/02/04 21:30:24] §6[§a§lMember§6]-§f§l§4Luky§r executed //set 35:14 at Location{world=CraftWorld{name=world},x=41.717078806952415,y=95.04248374627214,z=-22.3395479137046,pitch=21.449987,yaw=331.95886}
+[2017/02/04 21:45:23] §6[§a§lMember§6]-§f§l§4Luky§r executed //cut at Location{world=CraftWorld{name=world},x=40.760624031907135,y=99.18463206636955,z=-20.95547652061974,pitch=11.550014,yaw=341.10913}

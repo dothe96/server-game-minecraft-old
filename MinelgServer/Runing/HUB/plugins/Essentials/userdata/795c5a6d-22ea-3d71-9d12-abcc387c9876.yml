@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: sieucap
+timestamps:
+  login: 1479224384788
+  lastteleport: 1479224480246
+  logout: 1479224501037
+ipAddress: 171.224.224.202
+lastlocation:
+  world: world
+  x: -161.60145546827025
+  y: 87.0
+  z: -19.809850125643244
+  yaw: -229.44893
+  pitch: 11.179956
+logoutlocation:
+  world: world
+  x: 2986.6172842223414
+  y: 68.0
+  z: 1701.6939802320182
+  yaw: 249.08249
+  pitch: 13.715681

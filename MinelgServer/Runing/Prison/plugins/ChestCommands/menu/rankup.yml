@@ -1,0 +1,160 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&2&lGet Vip'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'Get Vip'
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'tell: &eBạn đã bật menu &2&lGet Vip &eCủa Server'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 7
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+vip1:
+  POINTS: 60
+  COMMAND: 'console: pex user {player} suffix &f[&6VIP&b1&f]; console: bc &6{player} &2đã mua rank &6VIP&b1&f;
+  console: pex user {player} add essentials.fly; console: pex user {player} add essentials.repair;
+  console: pex user {player} add essentials.workbench; console: pex user {player} add essentials.enderchest;
+  console: pex user {player} add essentials.joinfullserver; console: pex user {player} add mycommand.cmd.shortcutvip1;
+  console: pex user {player} add essentials.kits.vip1; console: pex user {player} add essentials.nick;
+  console: pex user {player} add essentials.nick.color; console: pex user {player} add essentials.warps.vip1;
+  console: pex user {player} add essentials.sethome.multiple.ba; op: asa addmultiplier {player} 1 1:0:0'
+  NAME: '&fMua &6VIP&b1&f &fvĩnh viễn'
+  LORE:
+    - '&fGiá : 100 Coin'
+  ID: 264,1
+  POSITION-X: 3
+  POSITION-Y: 1
+vip2:
+  POINTS: 20
+  COMMAND: 'console: pex user {player} suffix &f[&6VIP&b2&f]; console: bc &6{player} &2đã mua rank &6VIP&b2&f;
+  console: pex user {player} add essentials.fly; console: pex user {player} add essentials.repair;
+  console: pex user {player} add essentials.workbench; console: pex user {player} add essentials.enderchest;
+  console: pex user {player} add essentials.joinfullserver; console: pex user {player} add mycommand.cmd.shortcutvip2;
+  console: pex user {player} add essentials.kits.vip2; console: pex user {player} add essentials.nick;
+  console: pex user {player} add essentials.nick.color; console: pex user {player} add essentials.repair.all;
+  console: pex user {player} add essentials.feed; console: pex user {player} add essentials.warps.vip2;
+  console: pex user {player} add essentials.sethome.multiple.nam; op: asa addmultiplier {player} 2 1:0:0'
+  NAME: '&fMua &6VIP&b2&f &fvĩnh viễn'
+  LORE:
+    - '&fGiá : 250 Coin'
+  ID: 264,2
+  POSITION-X: 5
+  POSITION-Y: 1
+vip3:
+  POINTS: 150
+  COMMAND: 'console: pex user {player} suffix &f[&6VIP&b3&f]; console: bc &6{player} &2đã mua rank &6VIP&b3&f;
+  console: pex user {player} add essentials.fly; console: pex user {player} add essentials.repair;
+  console: pex user {player} add essentials.workbench; console: pex user {player} add essentials.enderchest;
+  console: pex user {player} add essentials.joinfullserver; console: pex user {player} add mycommand.cmd.shortcutvip3;
+  console: pex user {player} add essentials.kits.vip3; console: pex user {player} add essentials.nick;
+  console: pex user {player} add essentials.nick.color; console: pex user {player} add essentials.repair.all;
+  console: pex user {player} add essentials.feed; console: pex user {player} add essentials.heal; console: pex user {player} add essentials.warps.vip3;
+  console: pex user {player} add essentials.sethome.multiple.bay; op: asa addmultiplier {player} 3 1:0:0'
+  NAME: '&fMua &6VIP&b3&f &fvĩnh viễn'
+  LORE:
+    - '&fGiá : 500 Coin'
+  ID: 264,3
+  POSITION-X: 7
+  POSITION-Y: 1
+quyenloivip1:
+  NAME: '&5&lQuyền lợi &6VIP&b1&f :'
+  LORE:
+    - '&f&6/fly &f: để bật tắt bay'
+    - '&f&6/fix &f: Sửa món đồ cầm trên tay'
+    - '&f&6/wb &f: &fBật bàn chế tạo mọi lúc mọi nơi'
+    - '&f&6/nick <tên> &f: &fĐặt tên clone' 
+    - '&f&6/ec &f: &fBật enderchest mọi lúc mọi nơi'
+    - '&f* &bJoin Server Khi Full'
+    - '&f* &bCó warp mine riêng &f"&dvip1&f"'
+    - '&f* &bTới warp &6VIP&b1&f gõ &f/vip1'
+    - '&f* &bNhận được kit &6VIP&b1&f'
+    - '&f* &bSet home 3 lần'
+    - '&f* &bNhân x2 tiền bán blocks 1 ngày'
+  ID: 323
+  POSITION-X: 3
+  POSITION-Y: 2
+quyenloivip2:
+  NAME: '&5&lQuyền lợi &6VIP&b2&f :'
+  LORE:
+    - '&f&6/fly &f: để bật tắt bay'
+    - '&f&6/fix &f: Sửa món đồ cầm trên tay'
+    - '&f&6/fix all &f: Sửa tất cả'
+    - '&f&6/feed &f: Hồi thanh thức ăn'
+    - '&f&6/wb &f: &fBật bàn chế tạo mọi lúc mọi nơi'
+    - '&f&6/nick <tên> &f: &fĐặt tên clone' 
+    - '&f&6/ec &f: &fBật enderchest mọi lúc mọi nơi'
+    - '&f* &bJoin Server Khi Full'
+    - '&f* &bCó warp mine riêng &f"&dvip2&f"'
+    - '&f* &bTới warp &6VIP&b2&f gõ &f/vip2'
+    - '&f* &bNhận được kit &6VIP&b2&f'
+    - '&f* &bSet home 5 lần'
+    - '&f* &bNhân x3 tiền bán blocks 1 ngày'
+  ID: 323
+  POSITION-X: 5
+  POSITION-Y: 2
+quyenloivip3:
+  NAME: '&5&lQuyền lợi &6VIP&b3&f :'
+  LORE:
+    - '&f&6/fly &f: để bật tắt bay'
+    - '&f&6/fix &f: Sửa món đồ cầm trên tay'
+    - '&f&6/fix all &f: Sửa tất cả'
+    - '&f&6/heal &f: hồi đầy máu'
+    - '&f&6/feed &f: Hồi thanh thức ăn'
+    - '&f&6/wb &f: &fBật bàn chế tạo mọi lúc mọi nơi'
+    - '&f&6/nick <tên> &f: &fĐặt tên clone' 
+    - '&f&6/ec &f: &fBật enderchest mọi lúc mọi nơi'
+    - '&f* &bJoin Server Khi Full'
+    - '&f* &bCó warp mine riêng &f"&dvip3&f"'
+    - '&f* &bTới warp &6VIP&b3&f gõ &f/vip3'
+    - '&f* &bNhận được kit &6VIP&b3&f'
+    - '&f* &bSet home 7 lần'
+    - '&f* &bNhân x4 tiền bán blocks 1 ngày'
+  ID: 323
+  POSITION-X: 7
+  POSITION-Y: 2
+quyennapthe:
+  NAME: '&e&l[arrow_up] &b&lN&c&lạ&d&lp &e&lT&6&lh&5&lẻ &e&l[arrow_up]'
+  LORE: 
+    - '&a&l>>Nạp 20.000 = 20 coin'
+    - '&a&l>>Nạp 50.000 = 50 coin'
+    - '&a&l>>Nạp 100.000 = 100 coin'
+    - '&a&l>>Nạp 200.000 = 200 coin'
+    - '&a&l>>Nạp 500.000 = 500 coin'
+    - '&a&l>>Nạp 2.000.000 = 3000 coin (liên hệ Owner)'
+    - '&4&l>>>>Khuyến Mại<<<<'
+    - '&a&l- Khuyến mại: &6&lHiện chưa có &f(&4Nên check để xem khuyến mại&f)'
+    - '&a&l- Cộng 100% khi có khuyến mại, VD: 100k = 200 coin'
+  ID: 323
+  POSITION-X: 8
+  POSITION-Y: 4
+return-to-main:
+  COMMAND: 'open:example.yml'
+  NAME: '&6[arrow_left] Quay Trở Lại Menu'
+  ID: 166
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 4

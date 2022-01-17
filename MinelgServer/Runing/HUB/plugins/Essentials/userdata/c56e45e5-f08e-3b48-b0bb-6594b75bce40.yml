@@ -1,0 +1,28 @@
+lastAccountName: Vu_Dieu
+timestamps:
+  login: 1477273713849
+  lastteleport: 1477273800240
+  kits:
+    diemdanh: 1477098723646
+    tanthu: 1477098713426
+    tools: 1477098692238
+    food: 1477104319079
+  logout: 1477274779862
+ipAddress: 117.3.102.228
+socialspy: false
+lastlocation:
+  world: world
+  x: 3639.7259953643215
+  y: 77.0
+  z: 1321.5896205294462
+  yaw: -129.28363
+  pitch: 36.149986
+logoutlocation:
+  world: world
+  x: -159.64092701178697
+  y: 88.0
+  z: -78.24244927181182
+  yaw: -18.150011
+  pitch: 2.8499856
+money: '7500.0'
+afk: false

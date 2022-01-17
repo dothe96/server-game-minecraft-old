@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: Xray
+timestamps:
+  login: 1479000773237
+  logout: 1479001853062
+  lastteleport: 1478915669498
+  kits:
+    diemdanh: 1477540151847
+    tools: 1478840168210
+    food: 1477614658860
+ipAddress: 113.169.123.17
+lastlocation:
+  world: world
+  x: 3556.3283274740625
+  y: 77.0
+  z: 1529.7040446817375
+  yaw: -340.93408
+  pitch: 19.799976
+logoutlocation:
+  world: world
+  x: 3533.699999988079
+  y: 77.0
+  z: 1535.7423458561973
+  yaw: -278.83167
+  pitch: 48.149937
+money: '20635.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 3568.6022370211795
+    y: 117.0
+    z: 1440.5297535501452
+    yaw: 26.86602
+    pitch: 88.799995

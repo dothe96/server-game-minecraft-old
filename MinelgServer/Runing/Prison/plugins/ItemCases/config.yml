@@ -1,0 +1,62 @@
+Case:
+  Item:
+    type: 54
+    amount: 1
+    durability: 0
+    meta: true
+    name: '&a&l%NAME%'
+    lore:
+    - ''
+    - '&7Phần thưởng:'
+    - '&2> &e%CONTENTS%'
+    - ''
+    - '&7Right click + %NAME%&7 để mở'
+    - '&7Left click để xem phần thưởng.'
+    ShowChance: true
+  Key:
+    type: 131
+    amount: 1
+    durability: 0
+    meta: true
+    name: '&6&LChìa khóa &a&l%NAME%'
+    lore:
+    - '&2M&3i&4n&5e&6L&7g'
+    - '&6Sử dụng để mở &2%NAME%.'
+Reward:
+  Item:
+    Icon:
+      type: 54
+      amount: 1
+      durability: 0
+  Command:
+    Icon:
+      type: 339
+      amount: 1
+      durability: 0
+      meta: true
+      name: '&a&lCommand phần thưởng'
+      lore:
+      - ''
+      - '&7Command: &e%COMMAND%'
+Mystery:
+  DefaultChoiceButton:
+    type: 130
+    amount: 1
+    durability: 0
+    meta: true
+    name: '&f&lChọn phần thưởng ẩn'
+    lore:
+    - ''
+    - '&7Click để chọn'
+    - '&7on this.'
+Crate:
+  Hologram:
+    Lines:
+    - '&a&l%NAME%'
+    - '&7Right click + %NAME%&7 để mở'
+    - '&7Left click để xem phần thưởng.'
+    YOffset: 0.1
+Preview:
+  Enabled: true
+VirtualKeys:
+  Enabled: false

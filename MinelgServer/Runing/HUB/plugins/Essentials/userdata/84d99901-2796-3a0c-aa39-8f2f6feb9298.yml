@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: KeoHu5
+timestamps:
+  login: 1478517715152
+  lastteleport: 1478517884848
+  kits:
+    diemdanh: 1478518816669
+    tanthu: 1478518254191
+  logout: 1478519801228
+ipAddress: 113.180.87.49
+lastlocation:
+  world: world
+  x: -162.3023679801036
+  y: 87.0
+  z: -74.41725905727935
+  yaw: -275.7
+  pitch: 90.0
+afk: false
+logoutlocation:
+  world: world
+  x: 3059.699999988079
+  y: 88.0
+  z: 503.30000001192093
+  yaw: -24.19815
+  pitch: 14.699994

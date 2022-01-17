@@ -1,0 +1,38 @@
+socialspy: false
+lastAccountName: Lion_King
+timestamps:
+  login: 1477806712614
+  lastteleport: 1477810048323
+  kits:
+    diemdanh: 1477803376386
+    tanthu: 1477803373602
+    tools: 1477803388965
+    food: 1477803371064
+  logout: 1477810477599
+  mute: 0
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: -161.60443134606882
+  y: 88.0
+  z: -79.64419364232171
+  yaw: -22.350025
+  pitch: 14.249978
+money: '65735.0'
+logoutlocation:
+  world: world
+  x: 2717.9492467504774
+  y: 70.0
+  z: 457.6545036730592
+  yaw: 82.38656
+  pitch: 13.050046
+homes:
+  home:
+    world: world_the_end
+    x: 4579.7865722489805
+    y: 85.0
+    z: -934.2988752778305
+    yaw: 0.14605713
+    pitch: 5.6999803
+afk: false
+muted: false

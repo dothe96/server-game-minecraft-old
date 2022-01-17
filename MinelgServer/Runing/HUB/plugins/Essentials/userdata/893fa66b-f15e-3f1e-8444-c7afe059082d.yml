@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Hallper
+timestamps:
+  login: 1479171710340
+  kits:
+    diemdanh: 1479171748951
+    food: 1479171746826
+  lastteleport: 1479171781333
+  logout: 1479171793218
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world_nether
+  x: 205.03536493082268
+  y: 69.714885513577
+  z: 92.64300020948151
+  yaw: -268.6505
+  pitch: -8.400008
+logoutlocation:
+  world: world_nether
+  x: 205.03536493082268
+  y: 69.714885513577
+  z: 92.64300020948151
+  yaw: -268.6505
+  pitch: -8.400008

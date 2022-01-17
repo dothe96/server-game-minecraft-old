@@ -1,0 +1,27 @@
+lastAccountName: nhoxdragon1
+timestamps:
+  login: 1477814943333
+  kits:
+    diemdanh: 1477815031630
+    tanthu: 1477815012814
+    tools: 1477815020868
+    food: 1477815025066
+  lastteleport: 1477815178417
+  logout: 1477815235423
+ipAddress: 113.180.93.240
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000072159142185E7
+  y: 173.0
+  z: 9999818.779579183
+  yaw: -127.49269
+  pitch: 5.8500166
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -159.97229800617708
+  y: 86.5
+  z: -72.69999998807907
+  yaw: -178.2001
+  pitch: 1.9499846

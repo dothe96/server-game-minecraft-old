@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: SKT1
+timestamps:
+  login: 1478570096982
+  lastteleport: 1478575653355
+  logout: 1478576480953
+ipAddress: 115.74.206.199
+lastlocation:
+  world: world
+  x: 4242.560266891468
+  y: 63.0
+  z: -1871.699999988079
+  yaw: -245.80328
+  pitch: 23.250004
+money: '4660.0'
+homes:
+  home:
+    world: world
+    x: 4243.6245500669675
+    y: 63.0
+    z: -1869.402960154033
+    yaw: -238.60345
+    pitch: -11.399998
+logoutlocation:
+  world: world
+  x: 4245.510116999229
+  y: 52.0
+  z: -1869.110655150458
+  yaw: -155.95325
+  pitch: -28.80003

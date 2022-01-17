@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: aduhacknao
+timestamps:
+  login: 1476796678543
+  lastteleport: 1476796827737
+  kits:
+    diemdanh: 1476796866948
+    tanthu: 1476796859213
+    tools: 1476796850835
+    food: 1476796852613
+  logout: 1476796876507
+ipAddress: 171.248.174.166
+lastlocation:
+  world: world
+  x: -159.38569302316654
+  y: 86.0
+  z: -66.0579343749112
+  yaw: 5.999984
+  pitch: 11.399991
+logoutlocation:
+  world: world
+  x: 2025.1784178089774
+  y: 71.0
+  z: 267.1102468960491
+  yaw: 331.1897
+  pitch: 23.485336

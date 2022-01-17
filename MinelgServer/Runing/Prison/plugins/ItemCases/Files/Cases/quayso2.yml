@@ -1,0 +1,349 @@
+Type: CS_GO
+Name: quayso2
+RedeemDelay: -1
+Rewards:
+  ==: net.lightshard.itemcases.cases.reward.RewardsSerializer
+  rewardMap:
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 8
+      DisplayedItem: null
+    : 10.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GRILLED_PORK
+        amount: 64
+      DisplayedItem: null
+    : 10.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 2
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 10
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BLAZE_ROD
+        amount: 32
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lKiếm Miner
+          enchants:
+            DAMAGE_ALL: 7
+            DAMAGE_UNDEAD: 3
+            DURABILITY: 5
+            DAMAGE_ARTHROPODS: 3
+            KNOCKBACK: 3
+            FIRE_ASPECT: 4
+            MENDING: 1
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy5ZP98s/0mySxgLAydIyCc1sbhkwo5tjUsy77CzMbA55uaX5pU4aDGAAQcDS3BOfgkDR25iZl5GYl4KBwMv3Aq/xNxUBpH01LzUosxkvcSSksTkbJfE3MT0VGYGTv+C1KLEksz8PKgxYMUcMFcxIDnIw6DZ59J113XIDpp+06F4a+DSp3AH2bdUPXRfJ1JNHQcxYjqIAQBG9yDlQAEAAA==
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lAutoSmelt IV
+          lore:
+          - §7Drag book and drop on Item.
+          - §7Right click for more Info.
+          - §7Has a chance to auto smelt
+          - §7ores and give more ingots.
+          - ''
+          - '§6Found in:'
+          - §7 - §a§l§nCommon
+          - §7 - §9§l§nRare
+          - §7 - §4§l§nLegendary
+          - '§6Enchantable Items: §aPickaxes'
+          - §40% Destroy Chance
+          - §a100% Success Chance
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§l๖ۣۜ §7§lBúa Thor §e§l๖ۣۜ
+          lore:
+          - §7Dash V
+          - §7Lightning XV
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 5
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 5
+            KNOCKBACK: 3
+            FIRE_ASPECT: 5
+            MENDING: 1
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy7RM5YxOVnnZ8PCwAkS8klNLC5Z+X/n+3ZNj4tsDGyOufmleSUOdgxgwMHAEpyTX8LAkZuYmZeRmJfCwcALt8IvMTeVQSQ9NS+1KDNZL7GkJDE52yUxNzE9lZmB078gtSixJDM/D2oMWDEHzFUMSA7aa7yCu/iq33VkB82rWnniYPHUdISD9Ih1kDTMQdl5+cnZSUA3BaUWZxaXJOYlk+YubbfEhg4OH1Fkd/XOmjtH/I4sC9xd9peNwYCwu0Rh7srNL0vNTc0rCS5ITU1BcxEjposYAC5l9K7ZAQAA
+      DisplayedItem: null
+    : 2.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§l Giáp Miner
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5ZtsTk6qpKXx0WBk6QkE9qYnHJ/P1y98+qyGSzMbA55uaX5pU4qDCAAQcDS3BOfgkDa3JGanEJBwMv3Hy/xNxUBsH01LzUosxkvdzECo/UxJySDGYGTv+C1KLEksz8PKgBYJUcMPcwMAAAk1YioKkAAAA=
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_BLOCK
+        amount: 2
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lQuần Miner
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy4JbZzLaZrmfIKFgRMk5JOaWFzS/fHEc+N5LSfYGNgcc/NL80ocVBjAgIOBJTgnv4SBJSc1vZiDgRduvF9ibiqDYHpqXmpRZrJebmKFR2piTkkGMwOnf0FqUWJJZn4eVD9YJQfMOQwMAF1taFioAAAA
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LAPIS_BLOCK
+        amount: 2
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE_BLOCK
+        amount: 2
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§l๖ۣۜ §e§lGiáp Gai §6§l๖ۣۜ
+          lore:
+          - §7Reflection XV
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            MENDING: 1
+            THORNS: 10
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy6p+rXi65HPvoosDJwgIZ/UxOKSZdpyr7Ys72xnY2BzzM0vzStxMGEAAw4GluCc/BIG1uSM1OISDgZeuPl+ibmpDILpqXmpRZnJermJFR6piTklGcwMnP4FqUWJJZn5eVADwCo5YO5hQHLKXNFL3BYJnh3ITunOPeNi/yWyCOEUPaKcwgtzSmJRbn4RSc6YvWR+WHeiww5kZ2yNm2p8OXGdDNwZ9jtngsAsSpzBiOkMBgCWqzWOtwEAAA==
+      DisplayedItem: null
+    : 3.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        amount: 5
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lMũ Miner
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy6J2vj8AGOI8yUWBk6QkE9qYnFJ57s3pvefnfnFxsDmmJtfmlfioMIABhwMLME5+SUMLBmpiSkcDLxw4/0Sc1MZBNNT81KLMpP1chMrPFITc0oymBk4/QtSixJLMvPzoPrBKjlgzmFgAAAKix9UqAAAAA==
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lGiày Miner
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy7Je+/yWFXBOZeFgRMk5JOaWFwyw32p06kT7vFsDGyOufmleSUOKgxgwMHAEpyTX8LAkpaaWsLBwAs33i8xN5VBMD01L7UoM1kvN7HCIzUxpySDmYHTvyC1KLEkMz8Pqh+skgPmHAYGACvSfy6oAAAA
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 32
+      DisplayedItem: null
+    : 5.0
+Sound: true
+Background:
+  ==: net.lightshard.itemcases.cases.counterstrike.CounterStrikeCase$Background
+  rainbow: true
+  slots:
+    0:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 9
+    1:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 9
+    2:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 9
+    3:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 6
+    4:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 4
+    5:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 9
+    6:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 4
+    7:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 6
+    8:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 1
+    9:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 3
+    10:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 3
+    16:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 4
+    17:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 13
+    18:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 9
+    19:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 6
+    20:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 2
+    21:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 6
+    22:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 13
+    23:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 2
+    24:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 6
+    25:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    26:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+      damage: 5

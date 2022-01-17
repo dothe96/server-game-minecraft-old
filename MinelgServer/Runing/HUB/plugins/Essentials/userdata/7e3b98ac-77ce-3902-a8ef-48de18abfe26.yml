@@ -1,0 +1,27 @@
+lastAccountName: wecomeplay
+timestamps:
+  login: 1477238038556
+  kits:
+    diemdanh: 1477238118607
+    tanthu: 1477238140890
+    tools: 1477238136030
+    food: 1477238123260
+  lastteleport: 1477238848412
+  logout: 1477239053092
+ipAddress: 123.22.166.187
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000106688491238E7
+  y: 173.0
+  z: 9999790.230295096
+  yaw: 2.7086487
+  pitch: 35.99997
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 1.0000106688491238E7
+  y: 173.0
+  z: 9999790.230295096
+  yaw: 2.7086487
+  pitch: 35.99997

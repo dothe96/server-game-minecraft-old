@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: Mr_Roberrt
+timestamps:
+  login: 1477475109276
+  kits:
+    diemdanh: 1477475194649
+    tanthu: 1477475173458
+    tools: 1477475144482
+    food: 1477475146923
+  lastteleport: 1477475354547
+  logout: 1477475366764
+ipAddress: 115.78.135.233
+lastlocation:
+  world: world
+  x: -221.22915802967614
+  y: 87.0
+  z: -45.36248058494454
+  yaw: 305.99484
+  pitch: -34.050003
+logoutlocation:
+  world: world
+  x: -68.69511140194516
+  y: 65.0
+  z: -49.900967076749524
+  yaw: 86.250305
+  pitch: 21.299992

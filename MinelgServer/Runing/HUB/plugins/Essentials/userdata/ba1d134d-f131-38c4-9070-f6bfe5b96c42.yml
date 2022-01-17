@@ -1,0 +1,26 @@
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: 4620.727095702065
+  y: 60.00133597911215
+  z: -899.7956616892109
+  yaw: -207.30501
+  pitch: 11.250008
+lastAccountName: ccccc
+timestamps:
+  login: 1477803432578
+  lastteleport: 1477803311688
+  kits:
+    tanthu: 1477534985249
+    tools: 1477802569609
+    food: 1477802794133
+  logout: 1477803444810
+ipAddress: 123.28.143.169
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+money: '0.0'

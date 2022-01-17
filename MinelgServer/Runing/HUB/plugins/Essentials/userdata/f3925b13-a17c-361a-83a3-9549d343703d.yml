@@ -1,0 +1,35 @@
+lastAccountName: Yatokami
+timestamps:
+  login: 1477809923302
+  kits:
+    diemdanh: 1477810006966
+    tanthu: 1477810000300
+    tools: 1477810004000
+    food: 1477810009065
+  lastteleport: 1477810528548
+  logout: 1477811081840
+ipAddress: 14.188.58.29
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 33.449986
+  pitch: 37.799984
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: 2709.5339202447744
+    y: 70.0
+    z: 468.30000001192093
+    yaw: -160.61357
+    pitch: 20.850006
+logoutlocation:
+  world: world
+  x: 2615.438094770723
+  y: 75.0
+  z: 422.1432330926038
+  yaw: 61.536488
+  pitch: -0.7499647

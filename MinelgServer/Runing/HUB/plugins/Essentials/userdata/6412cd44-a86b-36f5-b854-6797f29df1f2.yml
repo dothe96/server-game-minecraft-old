@@ -1,0 +1,36 @@
+lastlocation:
+  world: world
+  x: -156.83877783256477
+  y: 86.0625
+  z: -67.28911895875972
+  yaw: 139.94995
+  pitch: 20.100002
+socialspy: false
+lastAccountName: vinhvinhvinh
+timestamps:
+  login: 1477402322449
+  lastteleport: 1477402361212
+  kits:
+    diemdanh: 1477185769646
+    tanthu: 1477097173507
+    tools: 1477402358273
+    food: 1477187180407
+  logout: 1477402455975
+ipAddress: 113.169.121.223
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: 3035.140898700423
+    y: 76.0
+    z: 399.735873027811
+    yaw: -271.9387
+    pitch: 2.4000745
+logoutlocation:
+  world: world
+  x: 3078.2002907509504
+  y: 77.0
+  z: 372.32402075478586
+  yaw: 74.86133
+  pitch: 16.049997
+afk: false

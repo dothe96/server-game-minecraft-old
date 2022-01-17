@@ -1,0 +1,16 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '[&3Admin&f] &6'
+    Suffix: ' &7&lAD'
+    SortPriority: 2
+  Owner:
+    Permission: nte.Owner
+    Prefix: '[&eOwner&f] '
+    Suffix: '&f'
+    SortPriority: 8
+  Hub:
+    Permission: nte.hub
+    Prefix: '[&aHub&f] '
+    Suffix: '&f'
+    SortPriority: 9

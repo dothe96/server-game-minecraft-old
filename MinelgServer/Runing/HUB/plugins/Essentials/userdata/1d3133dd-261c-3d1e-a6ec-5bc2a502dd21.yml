@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: Fizzzzzz
+timestamps:
+  login: 1476829997374
+  kits:
+    diemdanh: 1476830007017
+  logout: 1476830012419
+ipAddress: 123.18.42.192
+lastlocation:
+  world: world
+  x: -151.5
+  y: 86.0
+  z: -74.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.4809300834313
+  y: 88.0
+  z: -77.49577480517699
+  yaw: 2.999988
+  pitch: 29.699982

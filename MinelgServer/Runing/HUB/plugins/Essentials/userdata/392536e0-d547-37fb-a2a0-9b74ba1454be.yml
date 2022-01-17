@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: PleyBoy
+timestamps:
+  login: 1478838700486
+  lastteleport: 1478839205499
+  logout: 1478839575298
+  kits:
+    diemdanh: 1478838743104
+    tanthu: 1478838739876
+    tools: 1478838734151
+    food: 1478838736205
+ipAddress: 123.22.82.15
+lastlocation:
+  world: world
+  x: -104.02555791218255
+  y: 68.0625
+  z: -29.12035051668413
+  yaw: -220.05206
+  pitch: 7.650024
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 3677.3852941602454
+  y: 61.247620275190556
+  z: 2115.6017653741314
+  yaw: 357.76675
+  pitch: 28.500002

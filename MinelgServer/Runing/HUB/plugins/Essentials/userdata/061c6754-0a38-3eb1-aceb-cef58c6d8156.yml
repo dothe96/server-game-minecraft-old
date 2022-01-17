@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: linhthue2005
+timestamps:
+  login: 1476830091153
+  kits:
+    diemdanh: 1476830103448
+  logout: 1476830115150
+ipAddress: 123.18.42.192
+lastlocation:
+  world: world
+  x: -150.5
+  y: 86.0
+  z: -73.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -155.18225632949085
+  y: 86.0
+  z: -62.94185493996707
+  yaw: -14.400035
+  pitch: 21.149986

@@ -1,0 +1,38 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: 4678.015784694275
+  y: 69.0
+  z: -2374.7452654024096
+  yaw: -88.303795
+  pitch: 26.549927
+lastAccountName: Minh_me
+timestamps:
+  login: 1479269910858
+  kits:
+    diemdanh: 1479186584316
+    tanthu: 1479186590628
+    tools: 1479204333883
+    food: 1479204329698
+  logout: 1479270660439
+  lastteleport: 1479270602585
+  mute: 0
+ipAddress: 117.2.130.122
+logoutlocation:
+  world: world
+  x: -208.87936167475877
+  y: 102.0
+  z: -61.044538553263386
+  yaw: 235.6517
+  pitch: 48.90001
+money: '20047.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 4685.5
+    y: 70.0
+    z: -2384.5
+    yaw: -100.15381
+    pitch: 38.699924
+muted: false

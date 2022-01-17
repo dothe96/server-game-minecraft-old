@@ -1,0 +1,11 @@
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\config.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\advanced.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\config.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\advanced.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world\grief.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\config.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\advanced.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_nether\grief.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\config.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\advanced.yml
+21:20:04 [INFO] [CreeperHeal] Defaults loaded for file plugins\CreeperHeal\world_the_end\grief.yml

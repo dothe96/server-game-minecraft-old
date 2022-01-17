@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: nhixinh123
+timestamps:
+  login: 1478930246719
+  logout: 1478930799502
+  lastteleport: 1478930622968
+  kits:
+    diemdanh: 1478930558866
+    tanthu: 1478930551505
+    food: 1478930539055
+ipAddress: 116.99.158.138
+lastlocation:
+  world: world
+  x: -169.1046713551533
+  y: 92.0
+  z: -10.669125725960663
+  yaw: -29.100258
+  pitch: 12.299987
+logoutlocation:
+  world: world
+  x: -130.24503582585305
+  y: 68.0625
+  z: -18.24926384861967
+  yaw: 222.44693
+  pitch: 14.25001

@@ -1,0 +1,34 @@
+lastAccountName: temo_LMHT
+timestamps:
+  login: 1478759738974
+  logout: 1478759747072
+  lastteleport: 1477750307491
+  kits:
+    diemdanh: 1477371634639
+    food: 1477371650337
+ipAddress: 123.18.31.21
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.57755793317972
+  y: 86.0
+  z: -61.87977760982645
+  yaw: 1.4556959
+  pitch: 27.856985
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+money: '7570.0'
+afk: false
+homes:
+  home:
+    world: world
+    x: 3069.0848971807773
+    y: 100.0
+    z: 405.0235573514348
+    yaw: 172.84454
+    pitch: 82.21838

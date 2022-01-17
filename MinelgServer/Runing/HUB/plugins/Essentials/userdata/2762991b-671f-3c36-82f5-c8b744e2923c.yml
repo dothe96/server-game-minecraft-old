@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Diana
+timestamps:
+  login: 1479173686122
+  kits:
+    diemdanh: 1479173719081
+    food: 1479173716733
+  lastteleport: 1479173725090
+  logout: 1479173732138
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.0999866
+  pitch: -15.000014
+logoutlocation:
+  world: world
+  x: -193.5
+  y: 87.0
+  z: -65.5
+  yaw: -94.49995
+  pitch: 18.599985

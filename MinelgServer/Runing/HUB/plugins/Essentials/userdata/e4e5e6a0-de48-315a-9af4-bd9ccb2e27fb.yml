@@ -1,0 +1,33 @@
+lastAccountName: Xoxo000
+timestamps:
+  login: 1476599176648
+  lastteleport: 1476599259350
+  kits:
+    diemdanh: 1476588565499
+    tanthu: 1476588553182
+    food: 1476594451598
+  logout: 1476599108841
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -234.28067191046128
+  y: 69.0
+  z: -1203.0473671931563
+  yaw: 53.999676
+  pitch: 19.800098
+money: '14840.0'
+homes:
+  home:
+    world: world
+    x: -234.92744025416775
+    y: 69.0
+    z: -1203.1049362760646
+    yaw: 18.599733
+    pitch: 24.7501
+logoutlocation:
+  world: world
+  x: -234.36693503359754
+  y: 69.0
+  z: -1202.292561767875
+  yaw: 66.29975
+  pitch: 32.25009

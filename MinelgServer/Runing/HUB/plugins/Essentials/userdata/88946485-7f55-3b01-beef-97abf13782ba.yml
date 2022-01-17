@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Kaito
+timestamps:
+  login: 1477436429613
+  logout: 1477436526172
+ipAddress: 27.2.32.207
+lastlocation:
+  world: world
+  x: -165.5
+  y: 86.0
+  z: -69.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -151.52062197338566
+  y: 86.0
+  z: -65.2197595983825
+  yaw: 16.649986
+  pitch: 17.099983

@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: Uchiha
+timestamps:
+  login: 1479190102591
+  kits:
+    diemdanh: 1479190137900
+    food: 1479190135845
+  lastteleport: 1479190143808
+  logout: 1479190157141
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.0999866
+  pitch: -15.000014
+logoutlocation:
+  world: world
+  x: -116.4944477708713
+  y: 68.0625
+  z: -5.164457241334601
+  yaw: 195.14815
+  pitch: 4.2000165

@@ -1,0 +1,28 @@
+lastAccountName: huyBest
+timestamps:
+  login: 1477404435542
+  lastteleport: 1477238776297
+  kits:
+    diemdanh: 1477404794807
+    tanthu: 1477143075611
+    tools: 1477194818934
+    food: 1477194216018
+  logout: 1477406048023
+ipAddress: 14.162.190.224
+socialspy: false
+lastlocation:
+  world: world
+  x: -197.84020936440118
+  y: 108.59563273362987
+  z: -43.039164740123326
+  yaw: -60.900677
+  pitch: 50.849827
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 2546.0555048283923
+  y: 65.0
+  z: 649.0684658381423
+  yaw: 111.04071
+  pitch: 12.149799
+afk: false

@@ -1,0 +1,27 @@
+lastAccountName: hieu_456
+timestamps:
+  login: 1477195734002
+  kits:
+    diemdanh: 1477191759797
+    tanthu: 1477191734492
+    tools: 1477191747490
+    food: 1477191726441
+  lastteleport: 1477191789995
+  logout: 1477195770417
+ipAddress: 171.226.247.240
+socialspy: false
+lastlocation:
+  world: world
+  x: -163.2142374759216
+  y: 86.0
+  z: -56.16482740757641
+  yaw: 3.2999494
+  pitch: 3.5999873
+afk: false
+logoutlocation:
+  world: world
+  x: -134.49274323770265
+  y: 86.0
+  z: -55.36340176265141
+  yaw: -10.650011
+  pitch: 10.649971

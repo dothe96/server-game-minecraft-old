@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: MinhBeautiful
+timestamps:
+  login: 1477471318852
+  kits:
+    diemdanh: 1477471339490
+    tanthu: 1477471336290
+    tools: 1477471341689
+    food: 1477471343039
+  lastteleport: 1477471359789
+  logout: 1477471381185
+ipAddress: 115.72.42.214
+lastlocation:
+  world: world
+  x: -164.54541220927655
+  y: 86.0
+  z: -69.7273404170875
+  yaw: -82.05005
+  pitch: 77.69998
+logoutlocation:
+  world: world
+  x: -101.07596266460179
+  y: 68.0625
+  z: -27.250935455424667
+  yaw: -121.201706
+  pitch: 16.500017

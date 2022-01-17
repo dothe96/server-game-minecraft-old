@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: Tuankhodo
+timestamps:
+  login: 1477820204214
+  lastteleport: 1477820444880
+  kits:
+    diemdanh: 1477820487856
+    tanthu: 1477820476118
+    food: 1477820463819
+  logout: 1477820494299
+ipAddress: 113.180.87.173
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 59.529417382044365
+  y: 59.0
+  z: -131.31395336539853
+  yaw: 181.95027
+  pitch: 15.15002

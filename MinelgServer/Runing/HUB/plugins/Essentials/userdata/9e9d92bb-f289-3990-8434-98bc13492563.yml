@@ -1,0 +1,25 @@
+lastAccountName: Wolf
+timestamps:
+  login: 1476357095892
+  logout: 1476357577400
+  lastteleport: 1476357373867
+  kits:
+    tanthu: 1476356802289
+    tools: 1476356824134
+    food: 1476356795361
+ipAddress: 192.168.15.102
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 10197.925853093086
+  y: 68.0
+  z: 9603.627532125613
+  yaw: -269.4001
+  pitch: 26.700037
+money: '0.0'

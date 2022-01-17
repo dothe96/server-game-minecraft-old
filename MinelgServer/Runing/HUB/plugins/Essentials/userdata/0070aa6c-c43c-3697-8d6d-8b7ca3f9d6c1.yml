@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: god_god
+timestamps:
+  login: 1476850501932
+  lastteleport: 1476800285849
+  kits:
+    diemdanh: 1476799913240
+    tanthu: 1476799908280
+    food: 1476799910081
+  logout: 1476850530381
+ipAddress: 42.114.172.151
+lastlocation:
+  world: world
+  x: 3402.699999988079
+  y: 5.0
+  z: 1785.2832515197833
+  yaw: 209.11797
+  pitch: 33.749985
+homes:
+  home:
+    world: world
+    x: 3402.699999988079
+    y: 5.0
+    z: 1785.2832515197833
+    yaw: 277.968
+    pitch: 49.34998
+money: '560.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 7.499987
+  pitch: -4.8000145

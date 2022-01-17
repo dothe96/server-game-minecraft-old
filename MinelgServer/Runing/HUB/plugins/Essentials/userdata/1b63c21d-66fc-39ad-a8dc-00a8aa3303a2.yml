@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: JokerTheMiner
+timestamps:
+  login: 1478095750130
+  lastteleport: 1478098767304
+  kits:
+    diemdanh: 1478060053900
+  logout: 1478098885793
+ipAddress: 116.102.232.214
+lastlocation:
+  world: world
+  x: 71.25876308727823
+  y: 94.04815198852624
+  z: -182.0669040871121
+  yaw: -313.70316
+  pitch: 65.99996
+logoutlocation:
+  world: world
+  x: -158.53299987563585
+  y: 86.0
+  z: -34.2708476798089
+  yaw: -15.749996
+  pitch: 4.049988
+afk: false
+money: '98410.0'

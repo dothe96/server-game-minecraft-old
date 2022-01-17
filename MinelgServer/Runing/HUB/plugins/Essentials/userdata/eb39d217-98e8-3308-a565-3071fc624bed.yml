@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: OopsBinCool
+timestamps:
+  login: 1479188576770
+  logout: 1479188589014
+ipAddress: 42.114.20.171
+lastlocation:
+  world: world
+  x: -149.5
+  y: 86.0
+  z: -74.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -158.53797716007833
+  y: 86.0
+  z: -70.09892359276125
+  yaw: -51.900017
+  pitch: 13.049987

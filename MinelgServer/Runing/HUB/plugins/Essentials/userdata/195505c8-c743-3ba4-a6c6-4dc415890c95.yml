@@ -1,0 +1,30 @@
+socialspy: false
+lastAccountName: hanyeuoi
+timestamps:
+  login: 1479001309581
+  lastteleport: 1479005195533
+  logout: 1479005618724
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: 4239.566202342003
+  y: 77.0
+  z: 1718.2151983601175
+  yaw: 240.06836
+  pitch: 15.600107
+logoutlocation:
+  world: world
+  x: -113.82853058504773
+  y: 68.0
+  z: -43.39627226615646
+  yaw: 318.60028
+  pitch: -27.29994
+homes:
+  home:
+    world: world
+    x: 4242.302145192543
+    y: 77.0
+    z: 1719.8517066092347
+    yaw: -26.643538
+    pitch: 7.4999995
+money: '60.0'

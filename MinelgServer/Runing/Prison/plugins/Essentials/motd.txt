@@ -1,0 +1,4 @@
+&6Welcome, {PLAYER}&6!
+&6Gõ &c/help&6 để xem các lệnh.
+&6Gõ &c/list&6 để xem danh sách online.
+&6Số người online:&c {ONLINE} &6- Thời gian bây giờ:&c {WORLDTIME12}

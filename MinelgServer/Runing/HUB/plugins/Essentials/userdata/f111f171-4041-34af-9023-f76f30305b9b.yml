@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Rivas
+timestamps:
+  login: 1477404144409
+  lastteleport: 1477404168534
+  kits:
+    diemdanh: 1477229891010
+    tanthu: 1477229895175
+    tools: 1477142462575
+    food: 1477307132374
+  logout: 1477404272107
+ipAddress: 1.52.125.201
+lastlocation:
+  world: world
+  x: -153.35739279219092
+  y: 86.0
+  z: -67.61780448086766
+  yaw: 52.95033
+  pitch: -2.8500164
+money: '200.0'
+logoutlocation:
+  world: world
+  x: 2536.2924702874866
+  y: 45.0
+  z: 592.858251467025
+  yaw: 328.9859
+  pitch: -3.000037
+homes:
+  home:
+    world: world
+    x: 2566.165198557913
+    y: 64.0
+    z: 652.7908417994021
+    yaw: -148.16458
+    pitch: 10.9499655
+afk: false

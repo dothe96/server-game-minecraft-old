@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: s2hoangtien
+timestamps:
+  login: 1477970413164
+  kits:
+    diemdanh: 1477970484505
+    tanthu: 1477970493289
+    tools: 1477970463909
+    food: 1477970473898
+  lastteleport: 1477971606470
+  logout: 1477971737242
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: 2719.588141845307
+  y: 70.0
+  z: 455.88344749288126
+  yaw: -35.063145
+  pitch: 23.550007
+money: '1241.0'
+logoutlocation:
+  world: world
+  x: -80.69999998807906
+  y: 65.0
+  z: -45.31724147952709
+  yaw: 52.050148
+  pitch: -1.6500455
+homes:
+  home:
+    world: world_the_end
+    x: 1680.076229958136
+    y: 65.0
+    z: -873.7160777285225
+    yaw: 244.50098
+    pitch: 20.099968
+afk: false

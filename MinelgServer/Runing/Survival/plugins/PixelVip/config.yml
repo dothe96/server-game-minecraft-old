@@ -1,0 +1,99 @@
+# =============== PixelVip Configuration Options ================
+# 
+# This is the default configuration and some information about some configurations.
+# 
+# In "groups" on "commands" and "cmdChances"(Lists) you can use this placeholders:
+# - {p} = Players Name
+# - {vip} = Vip Group
+# - {playergroup} = Player Group before Vip activation
+# - {days} = Days of activated Vip
+# 
+# In "groups" > "cmdChances"(List) you can add commands to run based on a % chance. 
+# Use numbers below 0-100 like the example on "vip1".
+# 
+# In "configs" > "cmdOnRemoveVip"(String) you can use this placeholders:
+# - {p} = Player Name
+# - {vip} = Name of Vip Removed
+# 
+# In "configs" > "commandsToRunOnChangeVip"(List) you can use this placeholders:
+# - {p} = Player Name
+# - {newvip} = Name of Vip the player is changing to
+# - {oldvip} = Name of Vip the player is changing from
+# 
+# In "configs" > "commandsToRunOnVipFinish"(List) you can use this placeholders:
+# - {p} = Player Name
+# - {vip} = Name of Vip
+# - {playergroup} = Player Group before Vip activation
+
+
+groups:
+  Vip:
+    essentials-kit: shit
+    commands:
+    - bc &9Người chơi &6{p} &9đã mua rank &e{vip} &9thời hạn &6{days} &9ngày.
+    - tm message {p} &2&lBạn đã mua rank &e&lVip
+  TheKing:
+    essentials-kit: shit
+    commands:
+    - bc &9Người chơi &6{p} &9đã mua rank &b{vip} &9thời hạn &6{days} &9ngày.
+    - tm message {p} &2&lBạn đã mua rank &b&lThe King
+  Legend:
+    essentials-kit: shit
+    commands:
+    - bc &9Người chơi &6{p} &9đã mua rank &5{vip} &9thời hạn &6{days} &9ngày.
+    - tm message {p} &2&lBạn đã mua rank &5&lLegend
+configs:
+  key-size: 10
+  useVault-toChangePlayerGroup: true
+  cmdToReloadPermPlugin: pex reload
+  cmdOnRemoveVip: ''
+  commandsToRunOnVipFinish:
+  - nick {p} off
+  commandsToRunOnChangeVip: []
+  queueCmdsForOfflinePlayers: false
+bungee:
+  enableSync: false
+  serverID: Towny
+keys: []
+itemKeys: []
+strings:
+  _pluginTag: '&7[&6Minelg &f- &6Rankup&7] '
+  noPlayersByName: '&cTên thành viên không tồn tại!'
+  onlyPlayers: '&cChỉ có người chơi có thể sử dụng!'
+  noKeys: '&aKhông có Key! Sử dụng &6/newkey &ahoặc &6/newikey &ađể tạo một key.'
+  listKeys: '&aDanh sách key:'
+  listItemKeys: '&aDanh sách items key:'
+  vipInfoFor: '&aThông tin Rank của &f'
+  playerNotVip: '&cNgười chơi không phải là rank ngày!'
+  moreThanZero: '&cSố này phải lớn hơn 0'
+  noGroups: '&cRank này không tồn tại '
+  keyGenerated: '&aĐã tạo ra key sau:'
+  invalidKey: '&cKey không hợp lệ hoặc không tồn tại!'
+  vipActivated: '&aRankup thành công:'
+  usesLeftActivation: '&b Key này có thể dùng thêm: &6{uses} &blần.'
+  activeVip: '&7- &2Rank&f: &6{vip}'
+  activeDays: '&7- &2Ngày&f: &6{days} &bngày'
+  timeLeft: '&7- &2Thời gian hết hạn&f: &6'
+  totalTime: '&7- &2Ngày&f: &6'
+  timeKey: '&7- &2Key&f: &6'
+  timeGroup: '&7- &2Rank&7: &6'
+  timeActive: '&7- &2Đang sử dụng&f: &6'
+  infoUses: '&7- &2Thời hạn&f: &6'
+  activeVipSetTo: '&aRankup thành công '
+  days: ' &bngày'
+  hours: ' &bgiờ'
+  minutes: ' &bphút'
+  and: ' &bvà'
+  vipEnded: ' &bRank của bạn &6{vip} &bđã hết hạn. &eBạn có thể đăng ký Rankup tiếp
+    &a:D'
+  lessThan: '&6Đợi xíu...'
+  vipsRemoved: '&aRemove Rank người chơi thành công!'
+  vipSet: '&aSet rank cho người chơi thành công!'
+  sync-groups: '&aGroup configs send to all servers!'
+  list-of-vips: '&aDanh sách rankup: '
+  vipAdded: '&aAdd rank thành công cho người chơi!'
+  item: '&a-- Item: &b'
+  itemsGiven: '&aGiven {items} item(s) using a key.'
+  itemsAdded: '&aItem(s) added to key:'
+  keyRemoved: '&aKey removed with success: &b'
+  noKeyRemoved: '&cTheres no keys to remove!'

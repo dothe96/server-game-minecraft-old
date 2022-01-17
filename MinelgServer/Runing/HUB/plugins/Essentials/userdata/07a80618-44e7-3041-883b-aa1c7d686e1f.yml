@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: ADYDY
+timestamps:
+  login: 1476800096352
+  lastteleport: 1476800110025
+  logout: 1476800126087
+ipAddress: 222.254.70.184
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 4.049987
+  pitch: -11.550014
+logoutlocation:
+  world: world
+  x: -159.1708609583883
+  y: 86.0
+  z: -13.544079065313849
+  yaw: 112.345024
+  pitch: 16.19999

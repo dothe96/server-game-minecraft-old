@@ -1,0 +1,35 @@
+lastAccountName: nhatancuanat
+timestamps:
+  login: 1479269721906
+  lastteleport: 1479176206286
+  logout: 1479270546988
+  kits:
+    diemdanh: 1479176209183
+    tanthu: 1478748535077
+    food: 1478835691474
+ipAddress: 113.188.78.5
+socialspy: false
+lastlocation:
+  world: world
+  x: 995.1409998770772
+  y: 75.0
+  z: -641.9102330955118
+  yaw: 328.52097
+  pitch: 40.650143
+homes:
+  home:
+    world: world
+    x: 1004.4030985018318
+    y: 66.0
+    z: -611.2864536787631
+    yaw: 356.86597
+    pitch: 20.099985
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 996.8509594772001
+  y: 73.0
+  z: -634.4695988691883
+  yaw: 205.81592
+  pitch: 20.549992
+afk: false

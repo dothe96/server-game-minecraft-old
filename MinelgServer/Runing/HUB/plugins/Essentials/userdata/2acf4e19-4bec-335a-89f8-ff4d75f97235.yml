@@ -1,0 +1,25 @@
+lastAccountName: Giap2603
+timestamps:
+  login: 1476539758259
+  kits:
+    diemdanh: 1476539769931
+    tanthu: 1476539766504
+    food: 1476539779603
+  lastteleport: 1476539879322
+  logout: 1476539935786
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: 1.0000077873092119E7
+  y: 173.0
+  z: 9999783.418390203
+  yaw: 302.40738
+  pitch: 13.5000305
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 1.0000077873092119E7
+  y: 173.0
+  z: 9999783.418390203
+  yaw: 302.40738
+  pitch: 13.5000305

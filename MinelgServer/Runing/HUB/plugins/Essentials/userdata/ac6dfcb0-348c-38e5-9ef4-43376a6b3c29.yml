@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: Kuan911
+timestamps:
+  login: 1477719681722
+  kits:
+    tanthu: 1477318041850
+    food: 1477373847774
+  lastteleport: 1477719808726
+  logout: 1477719856013
+ipAddress: 115.78.126.139
+lastlocation:
+  world: world
+  x: 4306.698271220878
+  y: 66.0
+  z: -2304.0525514681117
+  yaw: 331.3958
+  pitch: 28.200003
+homes:
+  home:
+    world: world
+    x: 4226.170590215138
+    y: 63.0
+    z: -2335.102156399855
+    yaw: 170.29568
+    pitch: 9.59999
+logoutlocation:
+  world: world
+  x: 4315.5
+  y: 66.9375
+  z: -2337.5
+  yaw: 71.74711
+  pitch: 7.7999735
+money: '203.0'

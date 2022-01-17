@@ -1,0 +1,341 @@
+/*!
+ * MyLG v0.1 (...)
+ * Copyright 2016 Đô Thế.
+ * Licensed under MIT (...)
+ */
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,300,800);
+@import url(http://fonts.googleapis.com/css?family=Lato:700,400,300);
+
+body{
+  background: url(/img/bglg.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+@media (min-width: 600px){
+.menutong {
+  width: 75%;
+  height: 100%;
+  padding-top: 0px;
+  float: right;
+  text-shadow: none;
+}
+}
+.logocl {
+  width: 31.4%;
+  padding-top: 10px;
+  
+}
+.navlg {
+	width: 100%;
+	height: 80px;
+	background-color: #81BEF7;
+	opacity: 0.8;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom: 3px solid red;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nentrang {
+  padding-left: 30px;
+  background-image: url(/img/menubg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 0px;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  border-bottom:3px outset #A4A4A4; 
+}
+.nentrangdad {
+	color: white;
+	border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+.nenpage {
+	width: 100%;
+	text-align: center;
+	background-image: url(/imglg/nenpagemini.jpg);
+	color: white;
+	border-bottom: 7px outset white;
+	border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.daupagenho {
+  text-align: center;
+  width: 100%;
+  background-image: url(/img/menubg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-bottom: 2px outset #A4A4A4;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+.thanhnho {
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-top: 10px;
+  border-bottom: 1px outset #9FF781;
+  text-align: left;
+  color: #8181F7;
+  font-weight: bold;
+  text-shadow: none;
+}
+.cangiua {
+  margin-left: 15px;
+  margin-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: justify;
+  color: #8181F7;
+  text-shadow: none;
+}
+.fromdangky {
+  width: 100%;
+  padding-top: 20px;
+}
+/*media for mobile by DoThe administrator minelg*/
+@media screen and (max-width: 600px)
+{
+	.navlg
+	{
+	width: 100%;
+	height: 50px;
+	background-color: #81BEF7;
+	opacity: 1;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-bottom: 3px solid red;
+	margin-left: auto;
+	margin-right: auto;
+	}
+.menutong {
+  position: absolute;
+  width: 50%;
+  padding-top: 50px;
+  text-shadow: none;
+}
+.menulg1 > li {
+	background-color: #81DAF5;
+    display: block;
+    position: relative;
+	height: 46px;
+	padding: 10px 5px;
+}
+.menutong > ul > li{
+	padding-left: 0px;
+  padding-right: 0px;
+	width: 100%;
+	border-bottom: 1px solid white;
+}
+.menulg1 > li:first-child {
+    border-radius: 0 0 0 0;
+}
+.menulg1 > li:last-child {
+    border-radius: 0 0 0 0;
+}
+.logocl {
+  width: 40%;
+  height: 45px;
+}
+.logodidong{
+	width: 100%;
+	margin-top: -6%;
+	margin-left: 5%;
+	max-height: 150%;
+}
+.menutoggle{
+	display: block;
+	background: url(/imglg/3gach.png) no-repeat center center;
+	color: white;
+	float: right;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 10%;
+    height: 36px;
+    width: 36px;
+	cursor: pointer;
+}
+.xz{
+	display: block;
+	background: url(/imglg/daux.png) no-repeat center center;
+	color: white;
+	float: right;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-right: 10%;
+    height: 36px;
+    width: 36px;
+	cursor: pointer;
+}
+.menulg1, .menulg1 ul {
+	display: none;
+}
+.submenu1 {
+	opacity: 1;
+    filter: alpha(opacity=50);
+	display: none;
+	left: 100%;
+	top: 0px;
+    position: absolute;
+	animation: myAnimation 0.35s ease;
+    -moz-animation: myAnimation 0.35s ease;
+    -webkit-animation: myAnimation 0.35s ease;
+    -o-animation: myAnimation 0.35s ease;
+}
+@keyframes myAnimation {
+    from {left: 160%;}
+    to {left: 100%;}
+}
+
+/* Hien thi cho Firefox */
+@-moz-keyframes myAnimation {
+    from {left: 160%;}
+    to {left: 100%;}
+}
+
+/* Hien thi cho Safari and Chrome */
+@-webkit-keyframes myAnimation {
+    from {left: 160%;}
+    to {left: 100%;}
+}
+
+/* Hien thi cho Opera */
+@-o-keyframes myAnimation {
+    from {left: 160%;}
+    to {left: 100%;}
+}
+.submenu1 li:last-child{
+	border-bottom-right-radius: 0px;
+	border-bottom-left-radius: 0px;
+}
+.submenu1 li:first-child {
+	border-top: 1px outset white;
+}
+.submenu1 > li {
+	opacity: 0;
+	background: #4B8A08;
+	text-decoration: none;
+	list-style: none;
+	border-bottom: 1px solid #F4FA58;
+	height: 46px;
+
+}
+.menulg1 .submenu1 li {
+	padding: 15px 10px 15px 15px;
+}
+.minimenu {
+  font-size: 22px;
+  padding-left: 2%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-image: url(/imglg/bgmini.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 250px;
+  border-radius: 0 30px 30px 0;
+  border-left: 10px inset #31B404;
+}
+.minimenu2 {
+  font-size: 22px;
+  padding-left: 2%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-image: url(/imglg/bgmini.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 90%;
+  border-radius: 0 30px 30px 0;
+  border-left: 10px inset #31B404;
+}
+.minimenu3 {
+  font-size: 22px;
+  padding-left: 2%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  background-image: url(/imglg/bgmini.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 250px;
+  border-radius: 0 30px 30px 0;
+  border-left: 10px inset #31B404;
+}
+.form-group {
+  width: 100%;
+}
+.menulg1 > li:nth-child(1) > a {
+  padding: 13px 80px 15px 20px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #585858;
+  text-decoration: none;
+}
+.menulg1 > li:nth-child(2) > a {
+  padding: 13px 38px 15px 20px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #585858;
+  text-decoration: none;
+}
+.menulg1 > li:nth-child(3) > a {
+  padding: 13px 65px 15px 20px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #585858;
+  text-decoration: none;
+}
+.menulg1 > li:nth-child(4) > a {
+  padding: 13px 66px 15px 20px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #585858;
+  text-decoration: none;
+}
+.menulg1 > li:nth-child(5) > a {
+  padding: 13px 50px 15px 20px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #585858;
+  text-decoration: none;
+}
+.menulg1 > li:nth-child(6) > a {
+  padding: 13px 60px 15px 20px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #585858;
+  text-decoration: none;
+}
+.menulg1 > li:nth-child(7) > a {
+  padding: 13px 50px 15px 20px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #585858;
+  text-decoration: none;
+}
+.submenu1 > li {
+  opacity: 0;
+  background: #4B8A08;
+  text-decoration: none;
+  list-style: none;
+  border-bottom: 2px solid #F4FA58;
+  width: 160px;
+}
+.submenu1 li:nth-child(1) a{
+  padding: 18px 50px 8px 15px;
+}
+.submenu1 li:nth-child(2) a{
+  padding: 18px 50px 9px 15px;
+}
+.submenu1 li:nth-child(3) a{
+  padding: 18px 70px 9px 15px;
+}
+.submenu1 li:nth-child(4) a{
+  padding: 18px 60px 9px 15px;
+}
+.canphaif {
+  font-size: 14px;
+}
+.cantraif {
+  font-size: 14px;
+}
+}

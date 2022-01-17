@@ -1,0 +1,350 @@
+Type: CS_GO
+Name: quayso3
+RedeemDelay: -1
+Rewards:
+  ==: net.lightshard.itemcases.cases.reward.RewardsSerializer
+  rewardMap:
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 12
+      DisplayedItem: null
+    : 7.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Reflection V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy55scLq8BV95/csDJwgIZ/UxOKSDXf12V0eahezMbA55uaX5pU4qDCAAQcDS3BOfgkDa3JGanEJBwMv3Hy/xNxUBsH01LzUosxkvdzECo/UxJySDGYGTv+C1KLEksz8PKgBYJUcMPcwIDlFuvDGpFXcXtuQndIqm5wrXZurT6pTeGFOSSzKzS8i7AwGANkKUqkwAQAA
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SEA_LANTERN
+        amount: 64
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Wither I
+          - §7Knockup II
+          enchants:
+            DAMAGE_ALL: 8
+            DAMAGE_UNDEAD: 4
+            DAMAGE_ARTHROPODS: 4
+            DURABILITY: 5
+            FIRE_ASPECT: 6
+            MENDING: 1
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy75nHDTp/OOaxwLAydIyCc1sbhkk963jUvUi++zMbA55uaX5pU46DGAAQcDS3BOfgkDR25iZl5GYl4KBwMv3Aq/xNxUBpH01LzUosxkvcSSksTkbJfE3MT0VGYGTv+C1KLEksz8PKgxYMUcMFcxIDkoo9pq48e9rmeQHdTcGG4vNFf4NdxB9lOqHrqvE6mmjoMY8TpIhHHzJqNU5xXIDurg4l5i2p3rh3DQzpkgMIuwg4RRHRRckJqaQtg9DAAep+a30AEAAA==
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 12
+      DisplayedItem: null
+    : 10.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 6
+      DisplayedItem: null
+    : 7.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_BLOCK
+        amount: 6
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: LAPIS_BLOCK
+        amount: 6
+      DisplayedItem: null
+    : 7.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lAutoSmelt IV
+          lore:
+          - §7Drag book and drop on Item.
+          - §7Right click for more Info.
+          - §7Has a chance to auto smelt
+          - §7ores and give more ingots.
+          - ''
+          - '§6Found in:'
+          - §7 - §a§l§nCommon
+          - §7 - §9§l§nRare
+          - §7 - §4§l§nLegendary
+          - '§6Enchantable Items: §aPickaxes'
+          - §40% Destroy Chance
+          - §a100% Success Chance
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Reflection V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy5hLjyxIE3HP4mFgRMk5JOaWFwy9W987++S7s1sDGyOufmleSUOKgxgwMHAEpyTX8LAkpGamMLBwAs33i8xN5VBMD01L7UoM1kvN7HCIzUxpySDmYHTvyC1KLEkMz8Pqh+skgPmHAYkl0x+WOP3S9qlBdklO5Wfn3Wd98aMRJfwwlySWJSbX0TYFQwAUrHc7C4BAAA=
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 6
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§l๖ۣۜ §5§lThần Ma Cung §4§l๖ۣۜ
+          lore:
+          - §7Boom V
+          - §7Rapid XV
+          - §7Knockup III
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_FIRE: 5
+            DURABILITY: 10
+            ARROW_INFINITE: 1
+            MENDING: 1
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy6RtjimvLrT4TILAydIyCc1sbhkmaHavtz2a7/ZGNgcc/NL80ocVBjAgIOBJTgnv4SBIzcxMy8jMS+Fg4EXboVfYm4qg0h6al5qUWayXmJJSWJytktibmJ6KjMDp39BalFiSWZ+HtQYsGIOmKsYkBy0Pqzmp0K/50lkB0161hc1/37gNoSD9Ih1kCDMQbmJFR6piTklGYRdwwAANq5gqj0BAAA=
+      DisplayedItem: null
+    : 3.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lBlast I
+          lore:
+          - §7Drag book and drop on Item.
+          - §7Right click for more Info.
+          - §7Breaks blocks in a 3 x level x 3 radius
+          - §7depending on the power of the enchantment.
+          - ''
+          - '§6Found in:'
+          - §7 - §a§l§nCommon
+          - §7 - §9§l§nRare
+          - §7 - §4§l§nLegendary
+          - '§6Enchantable Items: §aPickaxes'
+          - §40% Destroy Chance
+          - §a100% Success Chance
+      DisplayedItem: null
+    : 3.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: BEACON
+      DisplayedItem: null
+    : 10.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Reflection V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy6JdnpmsizQ5QULAydIyCc1sbhkV8QJoxO8rexsDGyOufmleSUOKgxgwMHAEpyTX8LAkpOaXszBwAs33i8xN5VBMD01L7UoM1kvN7HCIzUxpySDmYHTvyC1KLEkMz8Pqh+skgPmHAYkl3gJd/+etsTXCtkliyJ+XnE5/FGIRJfwwlySWJSbX0TYFQwAEX6bMi4BAAA=
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE_BLOCK
+        amount: 6
+      DisplayedItem: null
+    : 5.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4§l๖ۣۜ §c§l �?ầu Quỷ Mặt Xanh §4§l๖ۣۜ
+          lore:
+          - §7Rejuvenating X
+          - §7Reflection V
+          - §7Brilliance II
+          - §7Life V
+          - §7Night Vision V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            OXYGEN: 5
+            THORNS: 10
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZWHgCA31dPHNLy7ZsTWg3svU8RgLAydIyCc1sbikjbtGWdl13ik2BjbH3PzSvBIHEwYw4GBgCc7JL2FgyUhNTOFg4IUb75eYm8ogmJ6al1qUmayXm1jhkZqYU5LBzMDpX5BalFiSmZ8H1Q9WyQFzDgOSS37x96YnvfY+h+ySKWvbljyftHEv3CX2O2eCwCwKXcKI1yVM9kmLmNn9bZFdsqxxxlm1RClDEsOEF+aSxKLc/CKSwiN78gfeomJflJhZdExw3pnVlx+TGB54XYE/LJ488/p554+DOLIr9jL8qWvO+x+BCAsVYsJCGuaK7Lz85OykxOTsoNTizOKSxLzkVMIhwwAAzIFtZdICAAA=
+      DisplayedItem: null
+    : 3.0
+    ? ==: net.lightshard.itemcases.cases.reward.ItemReward
+      Item:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Reflection V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy5pEQ3T3C/utZeFgRMk5JOaWFzS1TJr/XOGYlE2BjbH3PzSvBIHFQYw4GBgCc7JL2FgSUtNLeFg4IUb75eYm8ogmJ6al1qUmayXm1jhkZqYU5LBzMDpX5BalFiSmZ8H1Q9WyQFzDgOSS46J92+a/sKhHdklPSqyeld6tyuQ6BJemEsSi3Lziwi7ggEAF/OXgS4BAAA=
+      DisplayedItem: null
+    : 5.0
+Sound: true
+Background:
+  ==: net.lightshard.itemcases.cases.counterstrike.CounterStrikeCase$Background
+  rainbow: true
+  slots:
+    0:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    1:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    2:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    3:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    4:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    5:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    6:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    7:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    8:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    9:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    10:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    16:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    17:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    18:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    19:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    20:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    21:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    22:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    23:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    24:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    25:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE
+    26:
+      ==: org.bukkit.inventory.ItemStack
+      type: STAINED_GLASS_PANE

@@ -1,0 +1,103 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&6&l&nDịch Chuyển'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 3
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  command: 'taxi'
+
+  # open-with-item - OPTIONAL (you can remove this or
+  # set the item-id/data-value to 0)
+  # In this case it will open with a book (right click)
+  open-with-item:
+    item-id: 340
+    left-click: false
+    right-click: true
+ # data-value: 0
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+
+taxi:
+  COMMAND: 'op: warp trade {player}'
+  NAME: '&a&lĐến khu đổi đồ Farm'
+  LORE:
+    - '&e&lTương đương /warp trade'
+  ID: 170
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 1
+  
+  
+taxi1:
+  COMMAND: 'op: warp afk {player}'
+  NAME: '&a&lĐến khu AFK'
+  LORE:
+    - '&e&lTương đương /warp afk'
+  ID: 384
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+  
+  
+taxi2:
+  COMMAND: 'op: warp donatevip {player}'
+  NAME: '&a&lĐi Đến Khu Donate VIP'
+  LORE:
+    - '&e&lTương đương /warp donatevip'
+  ID: 276
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 1
+  
+  
+taxi3:
+  COMMAND: 'op: warp Donate {player}'
+  NAME: '&a&lĐi Đến Khu Donate'
+  LORE:
+    - '&e&lTương đương /warp donate'
+  ID: 283
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 1
+  
+taxi4:
+  COMMAND: 'op: warp farmmob {player}'
+  NAME: '&a&lĐi Đến Khu Farm mob'
+  LORE:
+    - '&e&lTương đương /warp farmmob'
+  ID: 352
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 1
+taxi5:
+  COMMAND: 'op: warp survival {player}'
+  NAME: '&a&lĐi Đến Khu sinh tồn'
+  LORE:
+    - '&e&lTương đương /warp survival'
+  ID: 278
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 1
+return-to-main:
+  COMMAND: 'open:example.yml'
+  NAME: '&6[arrow_left] Bấm vào quay lại menu'
+  ID: nether_star
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 3
+  

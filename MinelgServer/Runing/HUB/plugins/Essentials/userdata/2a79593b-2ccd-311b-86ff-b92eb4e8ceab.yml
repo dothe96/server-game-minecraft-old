@@ -1,0 +1,38 @@
+socialspy: false
+lastAccountName: sang_yen
+timestamps:
+  login: 1479168720647
+  lastteleport: 1479174682515
+  kits:
+    diemdanh: 1479168806188
+    tanthu: 1478934676604
+    tools: 1479085660669
+    food: 1477276313098
+  logout: 1479174727682
+  mute: 0
+ipAddress: 117.2.130.122
+lastlocation:
+  world: world
+  x: 3736.300000011921
+  y: 69.0
+  z: 1439.7845727856552
+  yaw: 51.31372
+  pitch: 30.149963
+logoutlocation:
+  world: world
+  x: 2859.469101194006
+  y: 70.0
+  z: 1825.1926139905759
+  yaw: -1.0333898
+  pitch: 17.999979
+money: '24599.0'
+homes:
+  home:
+    world: world
+    x: 3823.4492260717125
+    y: 66.0
+    z: 1335.4801463429483
+    yaw: 203.86465
+    pitch: 39.75002
+afk: false
+muted: false

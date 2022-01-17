@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: DitMeeuro1
+timestamps:
+  login: 1477435621401
+  logout: 1477435649878
+ipAddress: 123.18.39.18
+lastlocation:
+  world: world
+  x: -155.5
+  y: 86.0
+  z: -71.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.0999866
+  pitch: -15.000014

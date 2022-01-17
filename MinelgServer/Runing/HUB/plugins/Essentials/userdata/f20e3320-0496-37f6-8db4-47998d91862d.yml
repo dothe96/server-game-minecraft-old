@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: HuynhTrang
+timestamps:
+  login: 1479263853243
+  kits:
+    diemdanh: 1479130576873
+    tanthu: 1479130579172
+    tools: 1479173076742
+    food: 1479188993288
+  lastteleport: 1479266822014
+  logout: 1479267581416
+ipAddress: 117.2.130.20
+lastlocation:
+  world: world
+  x: 4122.300000011921
+  y: 64.0
+  z: 2415.1569860167806
+  yaw: -250.5323
+  pitch: 12.900031
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 4192.740916280163
+  y: 71.0
+  z: 2372.2159987546097
+  yaw: 323.9686
+  pitch: 24.599993
+homes:
+  home:
+    world: world
+    x: 4113.869945086755
+    y: 64.0
+    z: 2413.8742649310366
+    yaw: 271.7674
+    pitch: 3.7500036

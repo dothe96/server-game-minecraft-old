@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: emkokon335
+timestamps:
+  login: 1477398205773
+  logout: 1477398235061
+  kits:
+    diemdanh: 1477398221563
+ipAddress: 115.78.125.136
+lastlocation:
+  world: world
+  x: 3260.699999988079
+  y: 63.0
+  z: 1579.300000011921
+  yaw: 92.71628
+  pitch: -3.750013
+logoutlocation:
+  world: world
+  x: -171.600885692783
+  y: 86.0
+  z: -70.19532047209849
+  yaw: 81.29997
+  pitch: 46.79997

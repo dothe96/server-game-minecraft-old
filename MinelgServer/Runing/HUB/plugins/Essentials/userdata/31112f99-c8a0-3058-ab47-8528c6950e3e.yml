@@ -1,0 +1,34 @@
+lastlocation:
+  world: world
+  x: -166.48076807799762
+  y: 86.0625
+  z: -12.78018267213697
+  yaw: -101.70492
+  pitch: 19.349995
+socialspy: false
+lastAccountName: skill
+timestamps:
+  login: 1476851419886
+  lastteleport: 1476851619979
+  kits:
+    diemdanh: 1476799403116
+    tanthu: 1476799400016
+    food: 1476851632919
+  logout: 1476851639477
+ipAddress: 42.114.172.151
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: 2872.990454695067
+    y: 67.0
+    z: 1963.5584741791868
+    yaw: 21.316332
+    pitch: 22.650038
+logoutlocation:
+  world: world
+  x: 2313.6526509801656
+  y: 15.0
+  z: 1563.741558337102
+  yaw: -310.48447
+  pitch: 23.25001

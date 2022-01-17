@@ -1,0 +1,35 @@
+lastAccountName: thanhvu_em
+timestamps:
+  login: 1478828090335
+  lastteleport: 1478662088675
+  kits:
+    diemdanh: 1478653652795
+    tanthu: 1478662019136
+    food: 1478828149185
+  logout: 1478830778541
+ipAddress: 113.188.78.5
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.000009248236079E7
+  y: 177.0
+  z: 9999775.105836382
+  yaw: -96.74274
+  pitch: 5.699998
+money: '2209.0'
+homes:
+  home:
+    world: world
+    x: 2223.8719550762135
+    y: 65.0
+    z: 1565.681303505561
+    yaw: 184.36317
+    pitch: 16.94993
+logoutlocation:
+  world: world
+  x: -109.3638353644301
+  y: 68.0
+  z: -82.79339670279376
+  yaw: -167.70007
+  pitch: -90.0
+afk: false

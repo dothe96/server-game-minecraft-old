@@ -1,0 +1,24 @@
+socialspy: false
+lastAccountName: omocan
+timestamps:
+  login: 1477401550770
+  lastteleport: 1477402064898
+  kits:
+    diemdanh: 1477388678653
+  logout: 1477402117204
+ipAddress: 123.19.172.172
+lastlocation:
+  world: world
+  x: 3072.433529418368
+  y: 77.0
+  z: 381.3553530555939
+  yaw: 152.44742
+  pitch: 7.6785088
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -90.81049683967028
+  y: 68.0
+  z: -49.5511749454855
+  yaw: -24.543701
+  pitch: 7.0661225

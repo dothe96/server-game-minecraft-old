@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: salmar2
+timestamps:
+  login: 1476878246883
+  lastteleport: 1476881576603
+  kits:
+    food: 1476879523159
+  logout: 1476882031130
+ipAddress: 42.113.187.47
+lastlocation:
+  world: world
+  x: -157.3759079781398
+  y: 86.0
+  z: -64.49712223877216
+  yaw: 80.5502
+  pitch: -12.150011
+money: '10000'
+afk: false
+logoutlocation:
+  world: world
+  x: -160.31294962948374
+  y: 86.0
+  z: -14.305881216340081
+  yaw: 264.14505
+  pitch: -7.3500056

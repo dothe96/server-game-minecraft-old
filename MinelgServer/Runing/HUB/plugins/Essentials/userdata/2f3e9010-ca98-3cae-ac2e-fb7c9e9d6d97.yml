@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: MinhNguyen
+timestamps:
+  login: 1479096946109
+  kits:
+    diemdanh: 1479018669273
+    tanthu: 1479018663681
+    tools: 1478253626615
+    food: 1479036161011
+  lastteleport: 1479098324556
+  logout: 1479098593935
+ipAddress: 117.2.130.122
+lastlocation:
+  world: world
+  x: -159.9259526378516
+  y: 88.0
+  z: -77.8604123032331
+  yaw: -4.949707
+  pitch: 46.800007
+homes:
+  home:
+    world: world_the_end
+    x: 4579.816574296489
+    y: 73.0
+    z: -879.8845424849587
+    yaw: -106.50555
+    pitch: -5.1000113
+logoutlocation:
+  world: world
+  x: -4278.492798015994
+  y: 63.0
+  z: 540.8680325636028
+  yaw: -328.20227
+  pitch: 25.049978
+afk: false
+money: '0.0'

@@ -1,0 +1,35 @@
+lastAccountName: Thekidgaming
+timestamps:
+  login: 1477145131320
+  lastteleport: 1477147425938
+  kits:
+    diemdanh: 1477145377765
+    tanthu: 1477145346299
+    tools: 1477145369973
+    food: 1477147244784
+  logout: 1477147750385
+socialspy: false
+ipAddress: 27.74.248.254
+lastlocation:
+  world: world
+  x: 1.0000105325171359E7
+  y: 173.0
+  z: 9999782.385442283
+  yaw: -298.0428
+  pitch: 21.15001
+homes:
+  home:
+    world: world
+    x: 2978.62947077702
+    y: 58.0
+    z: 1974.662704208349
+    yaw: 9.016418
+    pitch: 48.449936
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -156.72117259549609
+  y: 86.0
+  z: -88.66616883286456
+  yaw: -161.8497
+  pitch: 55.349983

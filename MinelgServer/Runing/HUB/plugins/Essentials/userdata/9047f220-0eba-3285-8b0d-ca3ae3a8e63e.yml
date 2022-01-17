@@ -1,0 +1,35 @@
+lastAccountName: hau237
+timestamps:
+  login: 1479081919376
+  kits:
+    diemdanh: 1479094235423
+    tanthu: 1477305253201
+    food: 1478825210199
+  lastteleport: 1479096292345
+  logout: 1479098593611
+ipAddress: 115.78.236.129
+socialspy: false
+lastlocation:
+  world: world
+  x: 2250.209200999286
+  y: 64.875
+  z: 1534.311375860376
+  yaw: 194.40894
+  pitch: 60.300213
+homes:
+  home:
+    world: world
+    x: 3566.699999988079
+    y: 77.0
+    z: 1463.1192920440856
+    yaw: -242.8341
+    pitch: 52.80006
+money: '13649.0'
+logoutlocation:
+  world: world
+  x: 2277.411622177399
+  y: 70.0
+  z: 1527.8135932410091
+  yaw: 45.009094
+  pitch: 65.8503
+afk: false

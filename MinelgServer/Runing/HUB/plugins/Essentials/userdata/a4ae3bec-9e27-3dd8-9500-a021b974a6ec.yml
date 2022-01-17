@@ -1,0 +1,30 @@
+lastAccountName: stylevu
+timestamps:
+  login: 1477014156983
+  logout: 1477014358442
+  lastteleport: 1477014351871
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 0.29998654
+  pitch: -7.050015
+socialspy: false
+logoutlocation:
+  world: world
+  x: 1.0000091457406914E7
+  y: 173.0
+  z: 9999796.036322698
+  yaw: 358.50714
+  pitch: 15.899993
+homes:
+  home:
+    world: world
+    x: -159.57024300310025
+    y: 88.0
+    z: -77.54386858885684
+    yaw: 293.99973
+    pitch: 57.89997
+money: '0.0'

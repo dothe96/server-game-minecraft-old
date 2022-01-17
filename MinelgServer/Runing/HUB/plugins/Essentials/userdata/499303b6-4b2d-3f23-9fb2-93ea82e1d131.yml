@@ -1,0 +1,35 @@
+lastAccountName: KiritoKun
+timestamps:
+  login: 1476879264836
+  kits:
+    diemdanh: 1476600423820
+    tanthu: 1476600425898
+    food: 1476785303065
+  lastteleport: 1476785245852
+  logout: 1476879296787
+ipAddress: 42.113.187.47
+lastlocation:
+  world: world
+  x: -158.47606233622307
+  y: 86.0
+  z: -50.89021945400863
+  yaw: -11.850051
+  pitch: 44.399975
+money: '50949.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 1.0499866
+  pitch: 10.1999855
+homes:
+  home:
+    world: world
+    x: 1830.03147556857
+    y: 107.0
+    z: 1776.441524589746
+    yaw: -280.17706
+    pitch: -38.801437
+afk: false
+socialspy: false

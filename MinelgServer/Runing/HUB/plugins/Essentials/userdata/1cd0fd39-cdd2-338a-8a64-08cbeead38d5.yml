@@ -1,0 +1,36 @@
+lastAccountName: onghangxom
+timestamps:
+  login: 1477555218784
+  lastteleport: 1477555642168
+  kits:
+    diemdanh: 1477555517418
+    tanthu: 1477184222162
+    tools: 1477555533455
+    food: 1477555549198
+  logout: 1477555982091
+ipAddress: 117.6.118.90
+socialspy: false
+lastlocation:
+  world: world
+  x: 2834.6758833480917
+  y: 17.0
+  z: 1331.069078006186
+  yaw: 90.16681
+  pitch: -16.349955
+homes:
+  home:
+    world: world
+    x: 2823.946234937556
+    y: 17.0
+    z: 1368.699999988079
+    yaw: 352.96698
+    pitch: 7.8000164
+logoutlocation:
+  world: world
+  x: 2492.3302587767216
+  y: 7.0
+  z: 1780.5900885279368
+  yaw: -119.08569
+  pitch: 81.149994
+money: '0.0'
+afk: false

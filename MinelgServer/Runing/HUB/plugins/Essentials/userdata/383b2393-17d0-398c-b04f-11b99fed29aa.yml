@@ -1,0 +1,24 @@
+lastAccountName: Craff
+timestamps:
+  login: 1476596696949
+  kits:
+    diemdanh: 1476593013098
+    tanthu: 1476593007726
+    food: 1476596941611
+  lastteleport: 1476596988620
+  logout: 1476597528961
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -116.2248765596494
+  y: 68.0625
+  z: -13.97493041820928
+  yaw: 73.55702
+  pitch: 11.418648
+logoutlocation:
+  world: world
+  x: 1830.1186308317128
+  y: 107.0
+  z: 1778.890006239607
+  yaw: -311.03818
+  pitch: 21.13446

@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: thanhdien
+timestamps:
+  login: 1479175906705
+  lastteleport: 1479183010992
+  logout: 1479183034836
+  kits:
+    tanthu: 1479177821081
+    tools: 1478572735825
+    food: 1478565856675
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.0999866
+  pitch: 11.699988
+money: '1316.0'
+logoutlocation:
+  world: world
+  x: 2097.6630743925925
+  y: 71.90199999809265
+  z: 2333.4678765170906
+  yaw: -7.345838
+  pitch: 76.050064
+homes:
+  home:
+    world: world
+    x: 879.1753293748955
+    y: 65.0
+    z: -369.13613341679854
+    yaw: -97.776794
+    pitch: 9.749995
+afk: false

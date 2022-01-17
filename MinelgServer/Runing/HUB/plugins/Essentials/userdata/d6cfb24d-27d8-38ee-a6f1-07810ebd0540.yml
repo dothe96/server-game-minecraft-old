@@ -1,0 +1,32 @@
+socialspy: false
+lastAccountName: phuc113
+timestamps:
+  login: 1479089164553
+  kits:
+    tanthu: 1479088580935
+  lastteleport: 1479092398702
+  logout: 1479092795344
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: 4243.300000011921
+  y: 4.921599998474121
+  z: 1809.6074313690842
+  yaw: -285.2387
+  pitch: 24.449972
+logoutlocation:
+  world: world
+  x: 4243.300000011921
+  y: 4.921599998474121
+  z: 1809.6074313690842
+  yaw: -285.2387
+  pitch: 24.449972
+homes:
+  home:
+    world: world
+    x: 4241.135257895118
+    y: 76.0
+    z: 1826.468414734789
+    yaw: -218.03735
+    pitch: 21.000082
+money: '5730.0'

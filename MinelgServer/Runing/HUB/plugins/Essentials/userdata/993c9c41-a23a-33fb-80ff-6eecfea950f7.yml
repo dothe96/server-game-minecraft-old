@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Namrunbon
+timestamps:
+  login: 1477285000864
+  lastteleport: 1477285091710
+  kits:
+    diemdanh: 1477200862235
+    tanthu: 1477200888432
+    tools: 1477107694135
+    food: 1477200879027
+  logout: 1478004226117
+ipAddress: 123.18.26.125
+lastlocation:
+  world: world
+  x: 2417.743882876001
+  y: 70.0
+  z: 1657.699999988079
+  yaw: 111.58453
+  pitch: 47.16059
+money: '2859.0'
+homes:
+  home:
+    world: world
+    x: 2124.6157841047243
+    y: 49.0
+    z: 431.4496489170153
+    yaw: 170.8399
+    pitch: 62.163578
+logoutlocation:
+  world: world
+  x: -160.94769820744997
+  y: 87.0
+  z: -72.6643621022789
+  yaw: 235.6339
+  pitch: 37.34082
+afk: false

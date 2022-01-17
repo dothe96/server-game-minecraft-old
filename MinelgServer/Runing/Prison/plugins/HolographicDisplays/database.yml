@@ -1,0 +1,16 @@
+tbspawn:
+  location: world, -79.430, 49.367, 183.558
+  lines:
+  - '&u&lּּ Server Prison ּּ'
+  - '&f&l/help &6&lĐể xem hướng dẫn'
+  - '&f&l/<tên_warp> &6&lĐể đến warp tương ứng'
+  - '&f&l/menu &6&lĐể xem các tiện ích của server'
+  - '&a&lBắt đầu hành trình gõ &f&l/a'
+  - '&d&lChúc các bạn online vui vẻ :)'
+pvp:
+  location: pvp, 1706.299, 14.200, -1027.506
+  lines:
+  - '&u&lPvP'
+  - '&f&l/pvptoggle &6&lĐể bật tắt PvP'
+  - '&6&lThắng nhận &2&l$&f&l50 &6&lthua trừ &2&l$&f&l100'
+  - '&f&lSpam kill sẽ bị kick tái phạm band nick'

@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Dargon_citi
+timestamps:
+  login: 1479028427696
+  lastteleport: 1479028821424
+  kits:
+    diemdanh: 1479002585556
+    tanthu: 1479003626750
+    tools: 1477623966654
+    food: 1479027418542
+  logout: 1479028884379
+ipAddress: 117.2.130.122
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -76.95895846538582
+  yaw: 8.399985
+  pitch: -3.600014
+homes:
+  home:
+    world: world
+    x: 3536.9304874104423
+    y: 77.0
+    z: 1463.8500558278222
+    yaw: 102.16604
+    pitch: 13.500044
+money: '5427.0'
+logoutlocation:
+  world: world
+  x: -47.2051140928491
+  y: 61.0
+  z: -40.82407787986454
+  yaw: 80.40039
+  pitch: 54.750008
+afk: false

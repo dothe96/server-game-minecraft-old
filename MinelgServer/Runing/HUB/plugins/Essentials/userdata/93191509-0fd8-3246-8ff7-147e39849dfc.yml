@@ -1,0 +1,35 @@
+lastAccountName: pokegirl2
+timestamps:
+  login: 1478512700114
+  kits:
+    diemdanh: 1478511972331
+    tanthu: 1478511968582
+    tools: 1478511961084
+    food: 1478511964980
+  lastteleport: 1478514554789
+  logout: 1478514654877
+ipAddress: 113.170.58.99
+socialspy: false
+lastlocation:
+  world: world
+  x: 3456.200702879502
+  y: 112.92289830236584
+  z: 1289.4239396685268
+  yaw: -100.26944
+  pitch: 86.24997
+logoutlocation:
+  world: world
+  x: -159.3265199989612
+  y: 86.0
+  z: -64.55941197759496
+  yaw: 4.6499867
+  pitch: -8.700014
+homes:
+  home:
+    world: world
+    x: 3450.2457298544064
+    y: 177.0
+    z: 1287.0903001966421
+    yaw: 262.28058
+    pitch: -6.8082566
+money: '0.0'

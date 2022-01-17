@@ -1,0 +1,36 @@
+lastAccountName: mmail
+timestamps:
+  login: 1478860563467
+  kits:
+    diemdanh: 1478774290404
+    tanthu: 1478321044775
+    tools: 1477709705865
+    food: 1478782583585
+  lastteleport: 1478861251797
+  logout: 1478861266706
+ipAddress: 42.118.234.225
+socialspy: false
+lastlocation:
+  world: world
+  x: 3467.6418295254934
+  y: 79.0
+  z: 1267.2064382208716
+  yaw: -226.63943
+  pitch: 20.849937
+homes:
+  home:
+    world: world
+    x: 3455.286483448554
+    y: 177.0
+    z: 1284.5734733345255
+    yaw: -257.74335
+    pitch: 21.360872
+afk: false
+logoutlocation:
+  world: world
+  x: 3455.3172679792037
+  y: 181.0
+  z: 1283.699999988079
+  yaw: -349.99313
+  pitch: 50.610863
+money: '0.0'

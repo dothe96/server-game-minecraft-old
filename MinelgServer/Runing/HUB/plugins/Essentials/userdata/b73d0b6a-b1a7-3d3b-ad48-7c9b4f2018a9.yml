@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: marka
+timestamps:
+  login: 1478257020368
+  kits:
+    diemdanh: 1478257034676
+  lastteleport: 1478257041038
+  logout: 1478257052148
+ipAddress: 113.176.152.77
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 743.6950465607139
+  y: 71.0
+  z: 1703.925659959798
+  yaw: -5.082767
+  pitch: 28.439024

@@ -1,0 +1,26 @@
+lastAccountName: myxinhgai1
+timestamps:
+  login: 1477710601105
+  lastteleport: 1477573953039
+  kits:
+    diemdanh: 1477544570985
+    tanthu: 1477406267543
+    food: 1477544584570
+  logout: 1477710724123
+ipAddress: 116.99.185.182
+lastlocation:
+  world: world
+  x: -44.54088338323729
+  y: 61.0
+  z: -58.18585151171538
+  yaw: -154.20058
+  pitch: 6.599991
+socialspy: false
+money: '74.0'
+logoutlocation:
+  world: world
+  x: -65.47763362267216
+  y: 64.0
+  z: -56.906739215496565
+  yaw: -137.69995
+  pitch: 28.199974

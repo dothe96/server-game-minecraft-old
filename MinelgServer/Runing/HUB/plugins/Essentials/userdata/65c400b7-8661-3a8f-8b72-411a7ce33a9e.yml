@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: nhoclaanh
+timestamps:
+  login: 1479030074587
+  lastteleport: 1479030188765
+  logout: 1479030230095
+ipAddress: 27.3.32.196
+lastlocation:
+  world: world
+  x: 1.000009106382153E7
+  y: 173.0
+  z: 9999784.410024587
+  yaw: -17.409986
+  pitch: 23.684166
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014

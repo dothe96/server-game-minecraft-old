@@ -1,0 +1,36 @@
+lastAccountName: tailavip
+timestamps:
+  login: 1478584775070
+  kits:
+    diemdanh: 1477046053459
+    tanthu: 1477046048268
+    tools: 1477046041900
+    food: 1477092822715
+  lastteleport: 1478585011931
+  logout: 1478585018273
+ipAddress: 115.78.206.227
+socialspy: false
+lastlocation:
+  world: world
+  x: 2128.33785616315
+  y: 62.0
+  z: 487.14948365481484
+  yaw: -48.582966
+  pitch: -0.8999925
+money: '2949.0'
+logoutlocation:
+  world: world
+  x: -119.17505766184783
+  y: 82.0625
+  z: -17.665649023645862
+  yaw: 93.74958
+  pitch: -18.150005
+homes:
+  home:
+    world: world
+    x: 2051.769607775544
+    y: 64.0
+    z: 376.17518015088876
+    yaw: 269.71628
+    pitch: 2.6999621
+nickname: §b§lMySona

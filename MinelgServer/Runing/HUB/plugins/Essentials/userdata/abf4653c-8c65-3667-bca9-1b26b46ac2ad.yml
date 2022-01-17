@@ -1,0 +1,24 @@
+lastAccountName: kenoki
+timestamps:
+  login: 1477449404663
+  kits:
+    diemdanh: 1477449573602
+    tanthu: 1477449583091
+    food: 1477449562055
+  logout: 1477449646472
+ipAddress: 115.78.238.38
+socialspy: false
+lastlocation:
+  world: world
+  x: -166.5
+  y: 86.0
+  z: -79.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -99.44572771975476
+  y: 68.0625
+  z: -16.58772851503873
+  yaw: -20.999735
+  pitch: 22.199959

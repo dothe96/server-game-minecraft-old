@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: BelenMc
+timestamps:
+  login: 1476967364689
+  logout: 1476967429996
+ipAddress: 14.168.10.112
+lastlocation:
+  world: world
+  x: -162.5
+  y: 88.0
+  z: -81.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -1.650051
+  pitch: 80.399994

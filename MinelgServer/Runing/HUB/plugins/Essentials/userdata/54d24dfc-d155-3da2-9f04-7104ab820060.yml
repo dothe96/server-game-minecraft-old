@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: FuckBitch
+timestamps:
+  login: 1478695451713
+  lastteleport: 1478695779685
+  kits:
+    diemdanh: 1478695582210
+    tanthu: 1477228680127
+    food: 1478695578740
+  logout: 1478697573231
+ipAddress: 14.170.1.37
+lastlocation:
+  world: world
+  x: 3475.2167378228028
+  y: 66.0
+  z: 3062.9432237793203
+  yaw: 217.96884
+  pitch: -0.8999719
+homes:
+  home:
+    world: world
+    x: 2819.699999988079
+    y: 5.0
+    z: 359.38213417836516
+    yaw: -87.590385
+    pitch: 11.099989
+money: '4020.0'
+logoutlocation:
+  world: world
+  x: -159.51307440549135
+  y: 88.0
+  z: -76.85881632743974
+  yaw: -13.950013
+  pitch: 1.7999859
+afk: false

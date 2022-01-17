@@ -1,0 +1,36 @@
+lastlocation:
+  world: world_the_end
+  x: 8.323920863074028
+  y: 96.75178390334713
+  z: 24.052134752094148
+  yaw: 242.25006
+  pitch: 50.25001
+socialspy: false
+lastAccountName: Fire_girl
+timestamps:
+  login: 1479190910328
+  kits:
+    diemdanh: 1478998810558
+    tanthu: 1476856036963
+    food: 1477550854295
+  lastteleport: 1479191243270
+  logout: 1479191523647
+ipAddress: 1.55.109.18
+money: '20599.0'
+homes:
+  home:
+    world: world
+    x: 101958.69999998808
+    y: 80.0
+    z: 1.0000933692760898E7
+    yaw: 321.5995
+    pitch: 28.650059
+logoutlocation:
+  world: world
+  x: 4045.179144114842
+  y: 5.0
+  z: 2341.7662278664197
+  yaw: 147.56827
+  pitch: 27.299934
+afk: false
+nickname: HeroBrine

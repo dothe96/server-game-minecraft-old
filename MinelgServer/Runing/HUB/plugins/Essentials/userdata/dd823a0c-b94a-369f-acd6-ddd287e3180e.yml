@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: tester
+timestamps:
+  login: 1476853290707
+  logout: 1476853413520
+ipAddress: 183.80.171.250
+lastlocation:
+  world: world
+  x: -156.5
+  y: 87.0
+  z: -76.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -101.39303718350912
+  y: 68.0
+  z: -51.523254220225716
+  yaw: 276.00067
+  pitch: 10.049957

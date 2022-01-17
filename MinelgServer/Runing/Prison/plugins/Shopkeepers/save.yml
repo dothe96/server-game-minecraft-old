@@ -1,0 +1,1742 @@
+'1':
+  uniqueId: 97547e8c-dfc8-4e11-9d63-62b36ec84d0d
+  name: '&b&l Set Newbie'
+  world: world
+  x: -55
+  y: 38
+  z: 255
+  type: admin
+  object: villager
+  uuid: f7260170-ea88-44b6-98e6-b37b4fbd4264
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§l Kiếm Newbie
+          enchants:
+            DAMAGE_ALL: 5
+            DAMAGE_UNDEAD: 2
+            DURABILITY: 3
+            DAMAGE_ARTHROPODS: 2
+            FIRE_ASPECT: 3
+            MENDING: 1
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy6RMQsNnizs8o2FgRMk5JOaWFyyJqpLulxD7AIbA5tjbn5pXomDBgMYcDCwBOfklzBw5CZm5mUk5qVwMPDCrfBLzE1lEElPzUstykzWSywpSUzOdknMTUxPZWbg9C9ILUosyczPgxoDVswBcxUDkoMeuK6Uy93t9BnZQQtes1tI8BbsRjiIgVgHCaM6KLggNTWFsHsYAJBbpAg/AQAA
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lMũ Newbie
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 4
+            PROTECTION_FALL: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+            PROTECTION_PROJECTILE: 4
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy65dCWg7rGSczwLAydIyCc1sbhkcpgws23OF2Y2BjbH3PzSvBIHEQYw4GBgCc7JL2FgyUhNTOFg4IUb75eYm8ogmJ6al1qUmayXm1jhkZqYU5LBzMDpX5BalFiSmZ8H1Q9WyQFzDgOSS9oXSUkZtHrqIbtkb0LsXMHbW6+T6BJemEsSi3Lziwi7ggEAyHUfUS4BAAA=
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§l Giáp Newbie
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 4
+            PROTECTION_FALL: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+            PROTECTION_PROJECTILE: 4
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy5hl517e8Emj8ksDJwgIZ/UxOKSWbwHF+qvi53NxsDmmJtfmlfiIMIABhwMLME5+SUMrMkZqcUlHAy8cPP9EnNTGQTTU/NSizKT9XITKzxSE3NKMpgZOP0LUosSSzLz86AGgFVywNzDgOSUs86mv4Uj3ASRnbJxInPSzPRVQaQ6hRfmlMSi3Pwiws5gAADHpEY3MAEAAA==
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lQuần Newbie
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 4
+            PROTECTION_FALL: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+            PROTECTION_PROJECTILE: 4
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy5RSD5lm1Pg3sXCwAkS8klNLC7pll95T8HlvB8bA5tjbn5pXomDCAMYcDCwBOfklzCw5KSmF3Mw8MKN90vMTWUQTE/NSy3KTNbLTazwSE3MKclgZuD0L0gtSizJzM+D6ger5IA5hwHJJfvXXvzHPc+tAdkly0+yC760TKwi0SW8MJckFuXmFxF2BQMAyupG6y4BAAA=
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lGiày Newbie
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 4
+            PROTECTION_FIRE: 4
+            PROTECTION_FALL: 4
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 4
+            PROTECTION_PROJECTILE: 4
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy4JjpUz3rzRbSsLAydIyCc1sbhkeXIVr3Hys09sDGyOufmleSUOIgxgwMHAEpyTX8LAkpaaWsLBwAs33i8xN5VBMD01L7UoM1kvN7HCIzUxpySDmYHTvyC1KLEkMz8Pqh+skgPmHAYkl7Sqi5sZb3TmQHZJX3bn171PjThJdAkvzCWJRbn5RYRdwQAA6VG3JC4BAAA=
+'2':
+  uniqueId: 9ee60aff-35d6-41d6-a97b-3acf3799bf7f
+  name: '&6&l Set Miner'
+  world: world
+  x: -53
+  y: 38
+  z: 255
+  type: admin
+  object: villager
+  uuid: 3d1fdce0-5b1a-4306-8d3a-d9e00605f2b5
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lMũ Miner
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy6J2vj8AGOI8yUWBk6QkE9qYnFJ57s3pvefnfnFxsDmmJtfmlfioMIABhwMLME5+SUMLBmpiSkcDLxw4/0Sc1MZBNNT81KLMpP1chMrPFITc0oymBk4/QtSixJLMvPzoPrBKjlgzmFgAAAKix9UqAAAAA==
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§l Giáp Miner
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy5ZtsTk6qpKXx0WBk6QkE9qYnHJ/P1y98+qyGSzMbA55uaX5pU4qDCAAQcDS3BOfgkDa3JGanEJBwMv3Hy/xNxUBsH01LzUosxkvdzECo/UxJySDGYGTv+C1KLEksz8PKgBYJUcMPcwMAAAk1YioKkAAAA=
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lQuần Miner
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy4JbZzLaZrmfIKFgRMk5JOaWFzS/fHEc+N5LSfYGNgcc/NL80ocVBjAgIOBJTgnv4SBJSc1vZiDgRduvF9ibiqDYHpqXmpRZrJebmKFR2piTkkGMwOnf0FqUWJJZn4eVD9YJQfMOQwMAF1taFioAAAA
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lGiày Miner
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 5
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 4
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 3
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZGHgCA31dPHNLy7Je+/yWFXBOZeFgRMk5JOaWFwyw32p06kT7vFsDGyOufmleSUOKgxgwMHAEpyTX8LAkpaaWsLBwAs33i8xN5VBMD01L7UoM1kvN7HCIzUxpySDmYHTvyC1KLEkMz8Pqh+skgPmHAYGACvSfy6oAAAA
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: COAL
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lKiếm Miner
+          enchants:
+            DAMAGE_ALL: 7
+            DAMAGE_UNDEAD: 3
+            DURABILITY: 5
+            DAMAGE_ARTHROPODS: 3
+            KNOCKBACK: 3
+            FIRE_ASPECT: 4
+            MENDING: 1
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy5ZP98s/0mySxgLAydIyCc1sbhkwo5tjUsy77CzMbA55uaX5pU4aDGAAQcDS3BOfgkDR25iZl5GYl4KBwMv3Aq/xNxUBpH01LzUosxkvcSSksTkbJfE3MT0VGYGTv+C1KLEksz8PKgxYMUcMFcxIDnIw6DZ59J113XIDpp+06F4a+DSp3AH2bdUPXRfJ1JNHQcxYjqIAQBG9yDlQAEAAA==
+'3':
+  uniqueId: d4c9a238-90a6-4c0d-a867-e8e80f6af702
+  name: '&9&lTools &b&lSuper &4&l+1'
+  world: world
+  x: -51
+  y: 38
+  z: 255
+  type: admin
+  object: villager
+  uuid: c3e0072c-1f55-4386-936a-464bb3e48946
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9§lCúp §b§lSuper §4§l+1
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 3
+            MENDING: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9§lRìu §b§lSuper §4§l+1
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 3
+            MENDING: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: COBBLESTONE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: LOG
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9§lXẻng §b§lSuper §4§l+1
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 3
+            MENDING: 1
+'4':
+  uniqueId: 4d31ed1e-8b00-4677-b8af-af2d1ac5d1b0
+  name: '&b&lTools &9&lSuper &4&l+2'
+  world: world
+  x: -49
+  y: 38
+  z: 255
+  type: admin
+  object: villager
+  uuid: f2afc421-3e71-4929-8457-b7e75dac7f58
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9§lCúp §b§lSuper §4§l+1
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 3
+            MENDING: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 48
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§l Cúp §9§lSuper §4§l+2
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 4
+            LOOT_BONUS_BLOCKS: 2
+            MENDING: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9§lRìu §b§lSuper §4§l+1
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 3
+            MENDING: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 48
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§l Rìu §9§lSuper §4§l+2
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 4
+            LOOT_BONUS_BLOCKS: 2
+            MENDING: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §9§lXẻng §b§lSuper §4§l+1
+          enchants:
+            DIG_SPEED: 2
+            DURABILITY: 3
+            MENDING: 1
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 48
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SPADE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§l Xẻng §9§lSuper §4§l+2
+          enchants:
+            DIG_SPEED: 4
+            DURABILITY: 4
+            LOOT_BONUS_BLOCKS: 2
+            MENDING: 1
+'5':
+  uniqueId: ffaf97ec-e549-4a39-8897-50f3cbd020a7
+  name: '&e&lLG-&6&lHero'
+  world: world
+  x: -48
+  y: 38
+  z: 257
+  type: admin
+  object: villager
+  uuid: 326dfd8a-0398-4cea-888e-2b1da52a1265
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Wither I
+          - §7Knockup II
+          enchants:
+            DAMAGE_ALL: 8
+            DAMAGE_UNDEAD: 4
+            DAMAGE_ARTHROPODS: 4
+            DURABILITY: 5
+            FIRE_ASPECT: 6
+            MENDING: 1
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy75nHDTp/OOaxwLAydIyCc1sbhkk963jUvUi++zMbA55uaX5pU46DGAAQcDS3BOfgkDR25iZl5GYl4KBwMv3Aq/xNxUBpH01LzUosxkvcSSksTkbJfE3MT0VGYGTv+C1KLEksz8PKgxYMUcMFcxIDkoo9pq48e9rmeQHdTcGG4vNFf4NdxB9lOqHrqvE6mmjoMY8TpIhHHzJqNU5xXIDurg4l5i2p3rh3DQzpkgMIuwg4RRHRRckJqaQtg9DAAep+a30AEAAA==
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Reflection V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy5hLjyxIE3HP4mFgRMk5JOaWFwy9W987++S7s1sDGyOufmleSUOKgxgwMHAEpyTX8LAkpGamMLBwAs33i8xN5VBMD01L7UoM1kvN7HCIzUxpySDmYHTvyC1KLEkMz8Pqh+skgPmHAYkl0x+WOP3S9qlBdklO5Wfn3Wd98aMRJfwwlySWJSbX0TYFQwAUrHc7C4BAAA=
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Reflection V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy55scLq8BV95/csDJwgIZ/UxOKSDXf12V0eahezMbA55uaX5pU4qDCAAQcDS3BOfgkDa3JGanEJBwMv3Hy/xNxUBsH01LzUosxkvdzECo/UxJySDGYGTv+C1KLEksz8PKgBYJUcMPcwIDlFuvDGpFXcXtuQndIqm5wrXZurT6pTeGFOSSzKzS8i7AwGANkKUqkwAQAA
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Reflection V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy6JdnpmsizQ5QULAydIyCc1sbhkV8QJoxO8rexsDGyOufmleSUOKgxgwMHAEpyTX8LAkpOaXszBwAs33i8xN5VBMD01L7UoM1kvN7HCIzUxpySDmYHTvyC1KLEkMz8Pqh+skgPmHAYkl3gJd/+etsTXCtkliyJ+XnE5/FGIRJfwwlySWJSbX0TYFQwAEX6bMi4BAAA=
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 20
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§lLG-§6§lHero
+          lore:
+          - §7Reflection V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 7
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy5pEQ3T3C/utZeFgRMk5JOaWFzS1TJr/XOGYlE2BjbH3PzSvBIHFQYw4GBgCc7JL2FgSUtNLeFg4IUb75eYm8ogmJ6al1qUmayXm1jhkZqYU5LBzMDpX5BalFiSmZ8H1Q9WyQFzDgOSS46J92+a/sKhHdklPSqyeld6tyuQ6BJemEsSi3Lziwi7ggEAF/OXgS4BAAA=
+'6':
+  uniqueId: 80974e08-ebf2-403d-a88b-3ea25c97e938
+  name: '&2&l Len'
+  world: world
+  x: -48
+  y: 38
+  z: 259
+  type: admin
+  object: villager
+  uuid: c9495bfc-e57d-4f2f-92df-de97e2e64d63
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 15
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 5
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 6
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 1
+        amount: 64
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 14
+        amount: 64
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 11
+        amount: 64
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOL
+        damage: 4
+        amount: 64
+'7':
+  uniqueId: 713c1b1b-5d47-4464-a842-e5455265a348
+  name: '&2&l Thủy Tinh'
+  world: world
+  x: -48
+  y: 38
+  z: 261
+  type: admin
+  object: villager
+  uuid: 4c3c3be4-18bd-442d-b50d-501b7a633178
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GLASS
+        amount: 64
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 6
+        amount: 64
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 11
+        amount: 64
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        amount: 64
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 15
+        amount: 64
+    '5':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 5
+        amount: 64
+    '6':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 4
+        amount: 64
+    '7':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: STAINED_GLASS
+        damage: 14
+        amount: 64
+'8':
+  uniqueId: bb1c2847-e2b9-49b0-bacb-0d56c51c9429
+  name: '&b&lTrứng'
+  world: world
+  x: -48
+  y: 38
+  z: 263
+  type: admin
+  object: villager
+  uuid: 4804acbd-7c2d-4e82-a3f2-839e6113ddc9
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWANzkhNLWBgAAABt1TGHQAAAA==
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB2zi9nYAAAtJxfHxsAAAA=
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWB3zshMzk7NY2AAAGifiu0fAAAA
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWAOyExnYAAASo1SARsAAAA=
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MONSTER_EGG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAAAONiYOBi4HTNK8ksqQxJTOdgYMpMYWALSkxKyixhYAAAFcawFB4AAAA=
+'9':
+  uniqueId: 7200fb1e-3216-4e09-9cbd-d68a43e29696
+  name: '&c&lSet &4&lCai Ngục'
+  world: world
+  x: -50
+  y: 38
+  z: 263
+  type: admin
+  object: villager
+  uuid: 84199f1f-d556-430a-b45c-52f7ae41883f
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §c§l Kiếm §4§lCai Ngục
+          lore:
+          - §7Blind II
+          - §7Knockup III
+          - §7Berserking IV
+          enchants:
+            DAMAGE_ALL: 9
+            DAMAGE_UNDEAD: 5
+            DAMAGE_ARTHROPODS: 7
+            FIRE_ASPECT: 7
+            MENDING: 1
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy4JO7R4WkyIey0LAydIyCc1sbhke9W1STMWrFzGxsDmmJtfmlfiYMIABhwMLME5+SUMHLmJmXkZiXkpHAy8cCv8EnNTGUTSU/NSizKT9RJLShKTs10ScxPTU5kZOP0LUosSSzLz86DGgBVzwFzFgOSgD2s5Ht9vdfiC7KC2tNUCatetXeAOsp+3I/B1q9wO6jiIEa+Dcs0PXAr47jYT2UGzNvMZHXnYuQ4RQirEhpAgzEG5iRUeqYk5JRmEg4cBAI434Y/OAQAA
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §c§l Mũ §4§lCai Ngục
+          lore:
+          - §7Reflection V
+          - §7Brilliance II
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 8
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy5xipaMKVjtP52FgRMk5JOaWFyy883TyNInHlJsDGyOufmleSUOKgxgwMHAEpyTX8LAkpGamMLBwAs33i8xN5VBMD01L7UoM1kvN7HCIzUxpySDmYHTvyC1KLEkMz8Pqh+skgPmHAYklzivlf3aIu/piuySuYre2698djSCu8R+StVD93Ui1RS6hBGvS+yl+99sKfQKRXZJj8+3XWenvzMhMUx4YS5JLMrNLyIcHgwAcGDy87gBAAA=
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §c§l Áo §4§lCai Ngục
+          lore:
+          - §7Reflection V
+          - §7Brilliance II
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 8
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy7R5TQO+bXIfyILAydIyCc1sbhkqUWH+05ByUdsDGyOufmleSUOKgxgwMHAEpyTX8LAmpyRWlzCwcALN98vMTeVQTA9NS+1KDNZLzexwiM1Mackg5mB078gtSixJDM/D2oAWCUHzD0MSE6p8EvkuP7CeT6yU3oXCO6z/nVQFe4U+ylVD93XiVRT6hRGvE7J12d6nH7A6yeyU9bkmM5aMZm3h9RQ4YU5JbEoN7+IcIgwAAA6YuRmuwEAAA==
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §c§l Quần §4§lCai Ngục
+          lore:
+          - §7Reflection V
+          - §7Brilliance II
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 8
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy7RPssSHnzeZRMLAydIyCc1sbhk23N9ke2t0iVsDGyOufmleSUOKgxgwMHAEpyTX8LAkpOaXszBwAs33i8xN5VBMD01L7UoM1kvN7HCIzUxpySDmYHTvyC1KLEkMz8Pqh+skgPmHAYkl9yePSv8aJvrEmSXtKUdc84UVLkKd4n9lKqH7utEqil0CSNel7S2ZWTP0PDOR3bJStWDf9QD+81JDBNemEsSi3LziwiHBwMA7D0fuLgBAAA=
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EYE_OF_ENDER
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §c§l Giày §4§lCai Ngục
+          lore:
+          - §7Reflection V
+          - §7Brilliance II
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 8
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            THORNS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy45IrRd5piY/woWBk6QkE9qYnHJJKe1M/bOMbjDxsDmmJtfmlfioMIABhwMLME5+SUMLGmpqSUcDLxw4/0Sc1MZBNNT81KLMpP1chMrPFITc0oymBk4/QtSixJLMvPzoPrBKjlgzmFAckn8simZOrMc2JFdst1vVd3n7D5euEvsp1Q9dF8nUk2hSxjxuiTXdceWu5H+Tsgu6Vyw7r49WzYDiWHCC3NJYlFufhHh8GAAAHjSdza4AQAA
+'10':
+  uniqueId: 3d30a12f-6848-4110-a137-964e60dbb9ed
+  name: '&6&l Lồng spawner'
+  world: world
+  x: -52
+  y: 38
+  z: 263
+  type: admin
+  object: villager
+  uuid: f85deaef-097a-4698-a2dd-e9b2492b6447
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: LAPIS_BLOCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_BLOCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §rPig Spawner
+          internal: H4sIAAAAAAAAAE1PWw6CQAwcFiSyia/oATyLj08MURO/qzS4kSyKSwRP6LFcFo02aaavmbYSkBgu8uJ0WWujTLOnTGASU71hKo+NKyq+IxSYbvlWqZLTJKeGyy3pjDEWkLsrPfSyqLRBIBG5dEWG+hAqhZ+oDAIDq9l12NL9uUDPRZj58GpYs9h88NliR5dxcXQ8Lr+rus1Bq6n0TxOvCCOXJoVhezjld2l1PImwe+7vIB/hgVV2Nu2A9TfPCDcQCQEAAA==
+          blockMaterial: MOB_SPAWNER
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: REDSTONE_BLOCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 64
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: MOB_SPAWNER
+        meta:
+          ==: ItemMeta
+          meta-type: TILE_ENTITY
+          display-name: §rPig Spawner
+          internal: H4sIAAAAAAAAAE1PWw6CQAwcFiSyia/oATyLj08MURO/qzS4kSyKSwRP6LFcFo02aaavmbYSkBgu8uJ0WWujTLOnTGASU71hKo+NKyq+IxSYbvlWqZLTJKeGyy3pjDEWkLsrPfSyqLRBIBG5dEWG+hAqhZ+oDAIDq9l12NL9uUDPRZj58GpYs9h88NliR5dxcXQ8Lr+rus1Bq6n0TxOvCCOXJoVhezjld2l1PImwe+7vIB/hgVV2Nu2A9TfPCDcQCQEAAA==
+          blockMaterial: MOB_SPAWNER
+'11':
+  uniqueId: cc0b7b7f-c524-4d5a-bd29-79ae8fe0d4b0
+  name: '&6&lPhiếu &e&lLG-Prison'
+  world: world
+  x: -54
+  y: 38
+  z: 263
+  type: admin
+  object: villager
+  uuid: 6d10c12e-b7c6-45cb-81ad-b0d86c5f793f
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §2§lN§1§lg§b§lọ§e§lc§f§l-§d§lT§6§lh§f§lầ§b§ln§c§l
+          lore:
+          - §b§l- Đây Là Xu-Donate Của Server!
+          - §c§l- Có Giá Trị Rất Hiếm Và Dùng Để Trade Items Donate!
+          - '§6§l- Mệnh giá: 10 coin / 1 cái'
+          enchants:
+            LOOT_BONUS_BLOCKS: 4
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§l Phiếu §e§lĐổi Đồ
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+'12':
+  uniqueId: 965682f0-d2b0-440f-8d31-3ab70b280b4f
+  name: '&aNgọc lưu ly'
+  world: world
+  x: -45
+  y: 38
+  z: 176
+  type: admin
+  object: villager
+  uuid: a4eddf70-85dd-4b3a-aa7f-c5b1903576f9
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 25
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: INK_SACK
+        damage: 4
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOK
+'13':
+  uniqueId: c17cb78c-3145-41e6-acaa-b89914b9384a
+  name: '&aSách enchant'
+  world: world
+  x: -39
+  y: 38
+  z: 176
+  type: admin
+  object: villager
+  uuid: 70a8d350-2dad-430b-927f-8f2e943117fc
+  prof: BUTCHER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 16
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            MENDING: 1
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 16
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DIG_SPEED: 1
+    '2':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 16
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DIG_SPEED: 2
+    '3':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DURABILITY: 1
+    '4':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 32
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            DURABILITY: 2
+'14':
+  uniqueId: 596045aa-cd9e-4562-b150-fee2f2217667
+  name: '&2&l Quay Số 1'
+  world: world
+  x: -86
+  y: 38
+  z: 266
+  type: admin
+  object: villager
+  uuid: 6e494c70-d8e4-4617-922b-8e27d5d47f56
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLE
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: APPLE
+        amount: 2
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lChìa khóa §a§lquayso1
+          lore:
+          - §2M§3i§4n§5e§6L§7g
+          - §6Sử dụng để mở §2quayso1.
+'15':
+  uniqueId: fcf866cf-42dd-4ef8-83e8-852d69403414
+  name: '&2&l Quay Số 3'
+  world: world
+  x: -87
+  y: 38
+  z: 258
+  type: admin
+  object: villager
+  uuid: f0996408-3faf-470f-b1ea-0e6b69f69bce
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_BLOCK
+        amount: 15
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: EMERALD_BLOCK
+        amount: 15
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lChìa khóa §a§lquayso3
+          lore:
+          - §2M§3i§4n§5e§6L§7g
+          - §6Sử dụng để mở §2quayso3.
+'16':
+  uniqueId: c36e57bf-3a35-4543-97b6-ac767cfc27c5
+  name: '&2&l Quay Số 2'
+  world: world
+  x: -86
+  y: 38
+  z: 250
+  type: admin
+  object: villager
+  uuid: 2382936f-fbd4-41db-a282-539b7bf42250
+  prof: BLACKSMITH
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_BLOCK
+        amount: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: IRON_BLOCK
+        amount: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: TRIPWIRE_HOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§lChìa khóa §a§lquayso2
+          lore:
+          - §2M§3i§4n§5e§6L§7g
+          - §6Sử dụng để mở §2quayso2.
+'17':
+  uniqueId: 3b3bc82c-e81d-4924-a7b8-531a393f0c49
+  name: '&e&l Giáp Gai'
+  world: world
+  x: -28
+  y: 11
+  z: 309
+  type: admin
+  object: villager
+  uuid: fdf751aa-51b6-477d-960a-558bbf730ee1
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6§l๖ۣۜ §e§lGiáp Gai §6§l๖ۣۜ
+          lore:
+          - §7Reflection XV
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            PROTECTION_FIRE: 5
+            PROTECTION_FALL: 5
+            DURABILITY: 10
+            PROTECTION_EXPLOSIONS: 5
+            PROTECTION_PROJECTILE: 5
+            MENDING: 1
+            THORNS: 10
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy6p+rXi65HPvoosDJwgIZ/UxOKSZdpyr7Ys72xnY2BzzM0vzStxMGEAAw4GluCc/BIG1uSM1OISDgZeuPl+ibmpDILpqXmpRZnJermJFR6piTklGcwMnP4FqUWJJZn5eVADwCo5YO5hQHLKXNFL3BYJnh3ITunOPeNi/yWyCOEUPaKcwgtzSmJRbn4RSc6YvWR+WHeiww5kZ2yNm2p8OXGdDNwZ9jtngsAsSpzBiOkMBgCWqzWOtwEAAA==
+'18':
+  uniqueId: 1e0073f8-685f-4e57-97a4-b5913e369820
+  name: '&c&l Đầu Quỷ Mặt Xanh'
+  world: world
+  x: -30
+  y: 11
+  z: 309
+  type: admin
+  object: villager
+  uuid: 3c6c2d00-1ecc-44a5-8252-84207735917e
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 12
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: SKULL_ITEM
+        damage: 4
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: §4§l๖ۣۜ §c§l Đầu Quỷ Mặt Xanh §4§l๖ۣۜ
+          lore:
+          - §7Rejuvenating X
+          - §7Reflection V
+          - §7Brilliance II
+          - §7Life V
+          - §7Night Vision V
+          enchants:
+            PROTECTION_ENVIRONMENTAL: 10
+            OXYGEN: 5
+            THORNS: 10
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZWHgCA31dPHNLy7ZsTWg3svU8RgLAydIyCc1sbikjbtGWdl13ik2BjbH3PzSvBIHEwYw4GBgCc7JL2FgyUhNTOFg4IUb75eYm8ogmJ6al1qUmayXm1jhkZqYU5LBzMDpX5BalFiSmZ8H1Q9WyQFzDgOSS37x96YnvfY+h+ySKWvbljyftHEv3CX2O2eCwCwKXcKI1yVM9kmLmNn9bZFdsqxxxlm1RClDEsOEF+aSxKLc/CKSwiN78gfeomJflJhZdExw3pnVlx+TGB54XYE/LJ488/p554+DOLIr9jL8qWvO+x+BCAsVYsJCGuaK7Lz85OykxOTsoNTizOKSxLzkVMIhwwAAzIFtZdICAAA=
+'19':
+  uniqueId: 94af1034-af08-4b71-9019-e7f857306c58
+  name: '&5&lĐả &6&lCẩu &2&lBổng'
+  world: world
+  x: -32
+  y: 11
+  z: 309
+  type: admin
+  object: villager
+  uuid: 701e557f-06d7-4d13-b4ec-6f48960bff53
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 24
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BONE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§l๖ۣۜ §5§lĐả §6§lCẩu §2§lBổng §4§l๖ۣۜ
+          lore:
+          - §7Blind II
+          - §7DoubleDamage V
+          - §7Rage IV
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 5
+            DAMAGE_ARTHROPODS: 5
+            DURABILITY: 10
+            KNOCKBACK: 2
+            FIRE_ASPECT: 10
+            LOOT_BONUS_MOBS: 5
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy7RjDpo/eqI21IWBk6QkE9qYnHJzhV7pi94FnmdjYHNMTe/NK/EwYQBDDgYWIJz8ksYOHITM/MyEvNSOBh44Vb4JeamMoikp+alFmUm6yWWlCQmZ7sk5iampzIzcPoXpBYllmTm50GNASvmgLmKAclBMkff7qgJ9DJGdlDz0dnW86YnacMdZL9yJgjMoo6DGPE6SEU8Jyb9m08vSgipq+r/VvmlhXDQA2JDSBjVQcEFqakphN3DAACPODS50AEAAA==
+'20':
+  uniqueId: d00896c1-c12d-426d-adc6-8905ebc7dd22
+  name: '&5&lThần Ma Cung'
+  world: world
+  x: -34
+  y: 11
+  z: 309
+  type: admin
+  object: villager
+  uuid: fe70f0d6-1575-4f5f-8441-0578a375faed
+  prof: BLACKSMITH
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 18
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §4§l๖ۣۜ §5§lThần Ma Cung §4§l๖ۣۜ
+          lore:
+          - §7Boom V
+          - §7Rapid XV
+          - §7Knockup III
+          enchants:
+            ARROW_DAMAGE: 10
+            ARROW_FIRE: 5
+            DURABILITY: 10
+            ARROW_INFINITE: 1
+            MENDING: 1
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgYmHgCA31dPHNLy6RtjimvLrT4TILAydIyCc1sbhkmaHavtz2a7/ZGNgcc/NL80ocVBjAgIOBJTgnv4SBIzcxMy8jMS+Fg4EXboVfYm4qg0h6al5qUWayXmJJSWJytktibmJ6KjMDp39BalFiSWZ+HtQYsGIOmKsYkBy0Pqzmp0K/50lkB0161hc1/37gNoSD9Ih1kCDMQbmJFR6piTklGYRdwwAANq5gqj0BAAA=
+'21':
+  uniqueId: a6a7a351-9ef6-4240-884a-397ed1baf9fa
+  name: '&2&l Sách Cúp Nung'
+  world: world
+  x: -35
+  y: 11
+  z: 306
+  type: admin
+  object: villager
+  uuid: 537a1962-d633-4256-8867-04e13ca881f2
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lAutoSmelt IV
+          lore:
+          - §7Drag book and drop on Item.
+          - §7Right click for more Info.
+          - §7Has a chance to auto smelt
+          - §7ores and give more ingots.
+          - ''
+          - '§6Found in:'
+          - §7 - §a§l§nCommon
+          - §7 - §9§l§nRare
+          - §7 - §4§l§nLegendary
+          - '§6Enchantable Items: §aPickaxes'
+          - §40% Destroy Chance
+          - §a100% Success Chance
+'22':
+  uniqueId: 542ae533-bb58-4135-b49f-ce1c9c994327
+  name: '&2&l Sách Cúp Nổ'
+  world: world
+  x: -35
+  y: 11
+  z: 304
+  type: admin
+  object: villager
+  uuid: f5793493-5842-4214-b131-cb84fe7f293e
+  prof: PRIEST
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 8
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §b§lBlast I
+          lore:
+          - §7Drag book and drop on Item.
+          - §7Right click for more Info.
+          - §7Breaks blocks in a 3 x level x 3 radius
+          - §7depending on the power of the enchantment.
+          - ''
+          - '§6Found in:'
+          - §7 - §a§l§nCommon
+          - §7 - §9§l§nRare
+          - §7 - §4§l§nLegendary
+          - '§6Enchantable Items: §aPickaxes'
+          - §40% Destroy Chance
+          - §a100% Success Chance
+'23':
+  uniqueId: 0180aaca-1d70-4f48-abc4-87003bd1ea3a
+  world: world
+  x: -35
+  y: 11
+  z: 302
+  type: admin
+  object: villager
+  uuid: f12c8b52-05b8-43b8-8a9a-12ea2345336a
+  prof: BUTCHER
+  recipes: {}
+'24':
+  uniqueId: de9629ca-1423-4b05-9380-3f1f4d9e2223
+  world: world
+  x: -35
+  y: 11
+  z: 300
+  type: admin
+  object: villager
+  uuid: 3fc2cade-e704-4b6a-92dd-728aa07a151b
+  prof: BLACKSMITH
+  recipes: {}
+'25':
+  uniqueId: 482071ba-7b73-44e8-b5db-91925726f52d
+  name: '&6&l Búa Thor'
+  world: world
+  x: -35
+  y: 11
+  z: 298
+  type: admin
+  object: villager
+  uuid: 9310cecc-5292-42c3-b70b-77deab2a2d5f
+  prof: LIBRARIAN
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        type: PAPER
+        amount: 20
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §6Phiếu §e§lLG-Prison
+          lore:
+          - §4- Loại phiếu chỉ có trong quay số
+          - §2- Thu thập đủ số lượng để đổi vật phẩm đặc biệt
+          - §6- /Warp choden
+          enchants:
+            LOOT_BONUS_BLOCKS: 10
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: DIAMOND_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: §e§l๖ۣۜ §7§lBúa Thor §e§l๖ۣۜ
+          lore:
+          - §7Dash V
+          - §7Lightning XV
+          enchants:
+            DAMAGE_ALL: 10
+            DAMAGE_UNDEAD: 5
+            DURABILITY: 10
+            DAMAGE_ARTHROPODS: 5
+            KNOCKBACK: 3
+            FIRE_ASPECT: 5
+            MENDING: 1
+          Unbreakable: true
+          internal: H4sIAAAAAAAAAONiYOBkEHIsKSnKTCotSfXNT8lMy0wtKuZiYGBgZmHgCA31dPHNLy7RM5YxOVnnZ8PCwAkS8klNLC5Z+X/n+3ZNj4tsDGyOufmleSUOdgxgwMHAEpyTX8LAkZuYmZeRmJfCwcALt8IvMTeVQSQ9NS+1KDNZL7GkJDE52yUxNzE9lZmB078gtSixJDM/D2oMWDEHzFUMSA7aa7yCu/iq33VkB82rWnniYPHUdISD9Ih1kDTMQdl5+cnZSUA3BaUWZxaXJOYlk+YubbfEhg4OH1Fkd/XOmjtH/I4sC9xd9peNwYCwu0Rh7srNL0vNTc0rCS5ITU1BcxEjposYAC5l9K7ZAQAA

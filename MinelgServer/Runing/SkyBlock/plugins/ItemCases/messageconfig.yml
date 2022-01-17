@@ -1,0 +1,69 @@
+Case:
+  Open:
+    NoKey: '&cBạn không có chìa khóa để mở!'
+    AlreadyOpening: '&cBạn đã mở quay số!'
+    Empty: '&cQuay số rỗng.'
+    MysteryNoButtons: '&cLỗi quay số'
+  Preview:
+    Disabled: '&cQuay số bị khóa.'
+Command:
+  Case:
+    PlayerNotFound: '&ckhông tìm thấy người chơi.'
+    DoesntExist: '&ckhông tồn tại giá trị.'
+    InvalidNumber: '&c&l%INPUT% &7là số không hợp lệ.'
+    AlreadyExists: '&cquay số đã tồn tại.'
+    BeingEdited: '&cđã được chỉnh bởi người khác.'
+    Create:
+      UnknownType: '&ctype không tồn tại /case types'
+      Success: '&aĐã tạo quay số thành công.'
+    Types:
+      Success: '&atypes case: %TYPES%.'
+    Remove:
+      Success: '&aĐã xóa quay số.'
+    List:
+      Success: '&aQuay số: %LIST%.'
+    GiveKey:
+      Success:
+        MultipleUsers: '&a%AMOUNT% key(s) đã gửi cho tất cả người chơi online.'
+        SingleUser: '&a%AMOUNT% key(s) đã gửi cho %PLAYER%.'
+    GiveCase:
+      Success:
+        MultipleUsers: '&a%AMOUNT% case(s) đã gửi cho tất cả người chơi online.'
+        SingleUser: '&a%AMOUNT% case(s) đã gửi cho %PLAYER%.'
+    Give:
+      Success:
+        MultipleUsers: '&a%AMOUNT% case(s) và key(s) đã gửi cho tất cả người chơi online.'
+        SingleUser: '&a%AMOUNT% case(s) và key(s) đã gửi cho %PLAYER%.'
+    Open:
+      Error: '&cLỗi quay số, lý do: ''%ERROR%''.'
+      Successful: '&a%PLAYERS% đã mở quay số.'
+      Unsuccessful: '&c%PLAYERS% đang bận.'
+    Reload:
+      Success: '&aReload thành công.'
+    RedeemPermission:
+      NoPermission: '&cBạn không thể dùng lệnh này.'
+      NotRedeemable: '&cKhông sử dụng được.'
+      OnCooldown: '&cBạn cần đợi %TIME% minute(s) trước khi làm lần nữa.'
+      Claimed: '&aBạn đã Claimed %NAME%.'
+      Message: '&aCho phép %NAME% là ''&e%PERMISSION%&a''.'
+    SetItem:
+      InvalidArg: '&cYou must type either ''key'' or ''case'' to set the item for
+        this case.'
+      NoDisplayName: '&cThe item you use must be renamed / have a name!'
+      NoItemInHand: '&cYou do not have an item in your hand!'
+      Success: '&aYou manually set the %ITEMTYPE% for the case %CASE%.'
+    SetRedeemDelay:
+      NotANumber: '&cYou didn''t input a number of seconds for how long the delay
+        will be.'
+      Success: '&aDelay set.'
+  Crate:
+    Create:
+      Success: '&aĐã tạo quay số.'
+    Remove:
+      Success: '&aĐã xóa quay số.'
+  Help:
+    Format: '&b%EXAMPLE% &f - %DESCRIPTION%'
+    Header: '&e------------------- Trang %PAGE% / %PAGES% -------------------'
+Error:
+  NoPermission: '&cBạn không dùng được lệnh này.'
+  MustBeInGame: '&cBạn phỉa ở trong game để làm nó.'

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: tykenton
+timestamps:
+  login: 1476970964892
+  lastteleport: 1476971183672
+  logout: 1476971273796
+ipAddress: 42.112.227.26
+lastlocation:
+  world: world
+  x: -208.69941865763658
+  y: 108.5
+  z: -1.9042717403143476
+  yaw: 0.45009047
+  pitch: -0.9001491
+logoutlocation:
+  world: world
+  x: -101.17174849856447
+  y: 69.0625
+  z: -5.92500001192093
+  yaw: -35.549896
+  pitch: 26.249964

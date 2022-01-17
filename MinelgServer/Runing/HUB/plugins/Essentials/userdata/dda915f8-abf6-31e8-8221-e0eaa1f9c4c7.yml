@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: test2
+timestamps:
+  login: 1474981776022
+  lastteleport: 1474299671365
+  logout: 1474981829955
+ipAddress: 192.168.15.100
+lastlocation:
+  world: world
+  x: 721.3000000119209
+  y: 5.0
+  z: 46.300000011920915
+  yaw: -72.74956
+  pitch: 67.80022
+logoutlocation:
+  world: world
+  x: -149.30000001192093
+  y: 85.93964976613749
+  z: -58.30000001192093
+  yaw: 114.30014
+  pitch: 38.749992

@@ -1,0 +1,23 @@
+lastAccountName: CHAL
+timestamps:
+  login: 1476798344708
+  kits:
+    food: 1476798409651
+  lastteleport: 1476798515737
+  logout: 1476798575510
+ipAddress: 222.254.70.184
+socialspy: false
+lastlocation:
+  world: world
+  x: -113.7604274151932
+  y: 68.0625
+  z: -26.498319471846315
+  yaw: -3.95813
+  pitch: 8.463146
+logoutlocation:
+  world: world
+  x: -161.86736194193813
+  y: 87.0
+  z: -19.619227644613662
+  yaw: 4.644998
+  pitch: 29.25

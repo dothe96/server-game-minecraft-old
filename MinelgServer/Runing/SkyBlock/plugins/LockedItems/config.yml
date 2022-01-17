@@ -1,0 +1,11 @@
+#The locked lore line
+#Warning: if you change this, item with old locked lore won't be checked
+locked: '&2&l๖ۣۜPhong ๖ۣۜẤn'
+#commands that can't be used while holding a locked item
+blocked-cmds:
+- command1
+- command2
+#Can locked items be dropped when the player die?
+keep-on-death: true
+#Can players drop their locked items?
+block-drop: true

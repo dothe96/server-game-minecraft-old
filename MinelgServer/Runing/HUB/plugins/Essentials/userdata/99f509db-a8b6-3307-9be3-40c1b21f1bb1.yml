@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: AcQuySiCoLa
+timestamps:
+  login: 1477749486209
+  lastteleport: 1477749529701
+  kits:
+    diemdanh: 1477733794109
+    tanthu: 1477747296741
+    food: 1477747277114
+  logout: 1477750393989
+ipAddress: 180.93.130.211
+lastlocation:
+  world: world
+  x: 3475.166197934127
+  y: 61.0
+  z: 2709.7730172390534
+  yaw: 187.165
+  pitch: 2.7007651
+logoutlocation:
+  world: world
+  x: 3475.166197934127
+  y: 61.0
+  z: 2709.7730172390534
+  yaw: 187.165
+  pitch: 2.7007651
+money: '0.0'

@@ -1,0 +1,38 @@
+socialspy: false
+lastAccountName: euro1
+timestamps:
+  login: 1478483883969
+  kits:
+    diemdanh: 1477540305907
+    tanthu: 1477657553454
+    tools: 1477743151918
+    food: 1477806421881
+  lastteleport: 1478483926302
+  logout: 1478484511074
+  mute: 0
+ipAddress: 123.28.142.176
+lastlocation:
+  world: world
+  x: -162.0271650421065
+  y: 87.0
+  z: -72.13888161615569
+  yaw: 211.49998
+  pitch: 12.29999
+money: '14961.0'
+logoutlocation:
+  world: world
+  x: 3453.571744264326
+  y: 80.0
+  z: 1267.9331544876618
+  yaw: 290.8623
+  pitch: 15.149995
+homes:
+  home:
+    world: world
+    x: 3451.4285749929777
+    y: 79.0
+    z: 1267.3482465020006
+    yaw: 312.91235
+    pitch: 39.600006
+afk: false
+muted: false

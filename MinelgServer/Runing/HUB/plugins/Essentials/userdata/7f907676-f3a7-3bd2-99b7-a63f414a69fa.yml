@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: dz001
+timestamps:
+  login: 1478498585109
+  kits:
+    diemdanh: 1478498605337
+    tanthu: 1478498614323
+    food: 1478499180236
+  lastteleport: 1478498889129
+  logout: 1478499209468
+ipAddress: 116.108.156.160
+lastlocation:
+  world: world
+  x: -38.23379423452249
+  y: 61.0
+  z: -53.23170552540918
+  yaw: -45.14978
+  pitch: -5.549971
+logoutlocation:
+  world: world
+  x: 3207.738677550592
+  y: 77.0
+  z: 1680.19942679692
+  yaw: -127.632904
+  pitch: 8.850038

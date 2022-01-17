@@ -1,0 +1,36 @@
+lastAccountName: KuBi_thieu
+timestamps:
+  login: 1477093758726
+  lastteleport: 1477093888398
+  kits:
+    diemdanh: 1477093935150
+    tanthu: 1476926764113
+    tools: 1477093953394
+    food: 1477093924693
+  logout: 1477093962815
+ipAddress: 117.3.102.228
+lastlocation:
+  world: world
+  x: -182.81449194729
+  y: 85.5
+  z: -74.93117629772003
+  yaw: -104.24998
+  pitch: 27.299986
+socialspy: false
+money: '394.0'
+logoutlocation:
+  world: world
+  x: 3114.390263574678
+  y: 63.0
+  z: 1204.4589370281005
+  yaw: 181.82175
+  pitch: 15.749961
+homes:
+  home:
+    world: world
+    x: 3112.7264406805602
+    y: 63.0
+    z: 1210.4188970894745
+    yaw: -178.77829
+    pitch: 18.14995
+afk: false

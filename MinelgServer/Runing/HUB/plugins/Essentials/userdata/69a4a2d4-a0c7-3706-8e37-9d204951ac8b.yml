@@ -1,0 +1,21 @@
+lastAccountName: CHAN
+timestamps:
+  login: 1476800314123
+  lastteleport: 1476800392768
+  logout: 1476800410719
+ipAddress: 222.254.70.184
+socialspy: false
+lastlocation:
+  world: world
+  x: -151.94655242569644
+  y: 86.0
+  z: -70.91545362888078
+  yaw: -318.60004
+  pitch: 29.849983
+logoutlocation:
+  world: world
+  x: 1.0000098966538344E7
+  y: 173.0
+  z: 9999773.300000012
+  yaw: -111.89269
+  pitch: 30.300003

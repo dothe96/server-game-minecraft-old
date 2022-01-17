@@ -1,0 +1,43 @@
+timestamps:
+  lastteleport: 1489475007183
+  logout: 1489525617401
+  login: 1489525615126
+lastlocation:
+  world: world
+  x: 338.2799257275434
+  y: 83.0
+  z: -259.2134925778253
+  yaw: -184.49696
+  pitch: 34.94998
+afk: false
+homes:
+  home:
+    world: world
+    x: 333.3010525716373
+    y: 83.0
+    z: -260.70317228916355
+    yaw: 41.09998
+    pitch: 19.650003
+  asd:
+    world: world
+    x: 340.87649764601446
+    y: 83.0
+    z: -264.6503485601473
+    yaw: 93.30004
+    pitch: -4.199995
+  asds:
+    world: world
+    x: 336.9038121056095
+    y: 83.63588500535488
+    z: -260.3800953202361
+    yaw: 93.30004
+    pitch: -4.199995
+logoutlocation:
+  world: world
+  x: 347.5302727716466
+  y: 83.0
+  z: -268.4138742155284
+  yaw: 90.45002
+  pitch: 1.3500051
+lastAccountName: fybit11
+ipAddress: 192.168.69.196

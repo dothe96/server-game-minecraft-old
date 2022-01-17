@@ -1,0 +1,22 @@
+lastAccountName: '4567'
+timestamps:
+  login: 1477285467766
+  kits:
+    diemdanh: 1477285500308
+  logout: 1477285515657
+ipAddress: 117.2.130.122
+socialspy: false
+lastlocation:
+  world: world
+  x: -161.5
+  y: 87.0
+  z: -68.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -206.4070938276397
+  y: 101.0625
+  z: -53.47587893134317
+  yaw: 149.69997
+  pitch: 30.14998

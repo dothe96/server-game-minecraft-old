@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: mrgs
+timestamps:
+  login: 1476862309527
+  kits:
+    food: 1476862413697
+  lastteleport: 1476862441669
+  logout: 1476862641014
+ipAddress: 115.78.127.186
+lastlocation:
+  world: world
+  x: -93.79434351555321
+  y: 68.0
+  z: -51.138211889322235
+  yaw: 287.85028
+  pitch: 9.900008
+logoutlocation:
+  world: world
+  x: -133.04566793682798
+  y: 87.17675927506424
+  z: -44.621140401663475
+  yaw: 311.99457
+  pitch: 43.049934

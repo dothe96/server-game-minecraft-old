@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: ys2003
+timestamps:
+  login: 1478665115261
+  kits:
+    diemdanh: 1478650063120
+    tanthu: 1477957176285
+    food: 1478404231303
+  logout: 1478665220730
+  lastteleport: 1478650071207
+ipAddress: 115.79.54.54
+lastlocation:
+  world: world
+  x: 2346.88325951817
+  y: 65.0
+  z: 596.4858148530078
+  yaw: -328.33667
+  pitch: 22.91805
+logoutlocation:
+  world: world
+  x: 2356.9978444253925
+  y: 64.0
+  z: 603.122127193585
+  yaw: -1.0624156
+  pitch: 9.450022
+afk: false
+money: '0.0'
+homes:
+  home:
+    world: world_nether
+    x: -124.69079645537673
+    y: 74.0
+    z: 52.62458222532921
+    yaw: -90.154594
+    pitch: 40.350094

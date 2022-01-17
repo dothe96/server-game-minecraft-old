@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: linhdapthue
+timestamps:
+  login: 1476858823038
+  lastteleport: 1476858853006
+  kits:
+    food: 1476858244085
+  logout: 1476858860711
+ipAddress: 123.18.42.192
+lastlocation:
+  world: world
+  x: -157.8097034163917
+  y: 87.0
+  z: -72.23721438837936
+  yaw: -267.6
+  pitch: 2.8499858
+logoutlocation:
+  world: world
+  x: -109.3723541213084
+  y: 67.0
+  z: -82.10076346005266
+  yaw: 181.05006
+  pitch: 1.3499904

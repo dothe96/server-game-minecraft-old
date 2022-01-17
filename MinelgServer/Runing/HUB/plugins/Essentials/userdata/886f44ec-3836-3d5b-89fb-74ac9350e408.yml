@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: meowmeowcute
+timestamps:
+  login: 1478683950040
+  kits:
+    diemdanh: 1478683971381
+    tanthu: 1478683969630
+    tools: 1478683974481
+    food: 1478683972832
+  lastteleport: 1478684057382
+  logout: 1478684240898
+ipAddress: 117.3.71.184
+lastlocation:
+  world: world
+  x: -147.69999998807907
+  y: 85.0
+  z: -61.69999998807907
+  yaw: -22.800293
+  pitch: -26.400023
+logoutlocation:
+  world: world
+  x: -30.94764162186855
+  y: 61.0
+  z: -83.07344886459083
+  yaw: 262.64795
+  pitch: -0.2999975

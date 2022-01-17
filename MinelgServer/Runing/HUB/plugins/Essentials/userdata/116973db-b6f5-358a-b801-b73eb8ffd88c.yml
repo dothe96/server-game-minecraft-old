@@ -1,0 +1,25 @@
+socialspy: false
+lastAccountName: KKami
+timestamps:
+  login: 1477452544543
+  kits:
+    diemdanh: 1477452582068
+    tanthu: 1477452574779
+    food: 1477452570764
+  lastteleport: 1477452713852
+  logout: 1477452766394
+ipAddress: 115.79.58.128
+lastlocation:
+  world: world
+  x: -121.93772670935326
+  y: 68.0625
+  z: -9.445418219700919
+  yaw: 229.3482
+  pitch: 6.9000053
+logoutlocation:
+  world: world
+  x: 2839.7213399818716
+  y: 69.0
+  z: 1705.901370576515
+  yaw: 70.21637
+  pitch: 13.800039

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: jayking
+timestamps:
+  login: 1479266418276
+  lastteleport: 1479266478636
+  logout: 1479266536713
+ipAddress: 115.78.132.111
+lastlocation:
+  world: world
+  x: -162.393295034818
+  y: 86.0
+  z: -83.18412576153969
+  yaw: 119.999695
+  pitch: 21.899973
+logoutlocation:
+  world: world
+  x: -130.47494621815423
+  y: 68.0625
+  z: -17.127349885981616
+  yaw: -196.80159
+  pitch: 38.25

@@ -1,0 +1,7 @@
+{
+  "aliasesV": [
+    "v"
+  ],
+  "taskDelayMillis": 500,
+  "combatDamageFactorWithMcmmoAbilities": false
+}

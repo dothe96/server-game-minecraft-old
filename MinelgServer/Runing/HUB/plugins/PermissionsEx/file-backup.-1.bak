@@ -1,0 +1,138 @@
+groups:
+  Member:
+    options:
+      rank: '800'
+      prefix: '&6[&a&lMember&6]&f'
+      default: true
+    permissions:
+    - -bukkit.command.help
+    - -bukkit.command.kill
+    - -bukkit.command.me
+    - essentials.list
+    - essentials.rules
+    - essentials.spawn
+    - essentials.home
+    - essentials.sethome
+    - essentials.afk.auto
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.getpos
+    - essentials.kit
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.msg
+    - essentials.pay
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.signs.use.buy
+    - essentials.signs.use.heal
+    - essentials.signs.use.repair
+    - essentials.signs.use.sell
+    - essentials.signs.use.enchant
+    - essentials.signs.use.warp
+    - essentials.signs.use.kits
+    - essentials.signs.use.balance
+    - essentials.signs.use.time
+    - essentials.signs.use.weather
+    - essentials.signs.use.info
+    - essentials.signs.use.trade
+    - factions.kit.fullplayer
+    - factions.kit.halfplayer
+  Helper:
+    options:
+      rank: '350'
+      prefix: '&6[&d&lHelper&6] &f'
+    inheritance:
+    - Member
+    permissions:
+    - essentials.tp
+    - essentials.fix
+    - essentials.fix.all
+    - commandlog.notice
+    - essentials.chat.color
+    - essentials.feed
+    - essentials.hat
+    - essentials.joinfullserver
+    - essentials.kick
+    - essentials.me
+    - essentials.msg.color
+    - essentials.mute
+    - essentials.nick
+    - essentials.nick.color
+  Police:
+    options:
+      rank: '300'
+      prefix: '&6[&b&lPolice&6] &f'
+    inheritance:
+    - Helper
+    permissions:
+    - essentials.jail
+    - essentials.tp
+    - essentials.fix.all
+  Builder:
+    options:
+      rank: '500'
+      prefix: '&6[&6&lBuilder&6]&7 '
+    inheritance:
+    - g:essentials_builder
+    - Police
+    permissions:
+    - shopkeeper.*
+    - essentials.gamemode
+    - worldguard.*
+    - worldedit.*
+    - factions.admin
+    - essentials.gamemode
+    - essentials.joinfull
+  Moderator:
+    options:
+      rank: '100'
+      prefix: '&6[&b&lModerator&6]&f'
+    inheritance:
+    - police
+    permissions:
+    - essentials.ban
+    - essentials.hat
+    - essentials.invsee
+    - essentials.me
+    - essentials.nick
+    - essentials.tp
+    - essentials.tptoggle
+    - essentials.unban
+    - essentials.banip
+    - essentials.unbanip
+    - essentials.gamemode.*
+    - essentials.whois
+    - essentials.kick
+  Admin:
+    options:
+      rank: '100'
+      prefix: '&6[&4&lAdmin&6]&f'
+    inheritance:
+    - Moderator
+    permissions:
+    - LWC.*
+    - authme.*
+    - betterenderchest.*
+    - choptree.*
+    - coreprotect.*
+    - nocheatplus.*
+    - worldedit.*
+    - worldguard.*
+    - essentials.joinfullserver
+  Owner:
+    options:
+      rank: '1'
+      prefix: '&6[&c&lOwner&6]&f'
+    inheritance:
+    - Co-Owner
+    permissions:
+    - '*'

@@ -1,0 +1,27 @@
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -67.97832
+  pitch: 18.895475
+socialspy: false
+lastAccountName: tit2031
+timestamps:
+  login: 1477216308164
+  lastteleport: 1477218461028
+  kits:
+    diemdanh: 1477137993785
+    tanthu: 1477137982253
+    tools: 1477137909899
+    food: 1477215981675
+  logout: 1477218760716
+ipAddress: 42.114.228.43
+logoutlocation:
+  world: world
+  x: 3309.4711550250645
+  y: 8.0
+  z: 1846.7079756951885
+  yaw: 359.57236
+  pitch: -0.8629764
+money: '1600.0'

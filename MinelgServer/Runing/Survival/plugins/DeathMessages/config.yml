@@ -1,0 +1,308 @@
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# About Plugin/Author #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#
+# Plugin Name: DeathMessages
+# Author: Jose Manuel Gassin Perez-Traverso
+# Bukkit Profile: http://dev.bukkit.org/profiles/Mayhem777/
+# Description: Change the Default Bukkit Death Messages as you wish, including colors, victim name, killer name and weapon/material/name...  also other General messages as Join/Kick/Leave.
+#
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# About Plugin/Author #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Plugin Version #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#
+# Don't change this!: Incorrect config versions will be renamed to "old_config.yml" and a correct config.yml version will be created into the plugin folder.
+Version: '3.1.1'
+#
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Plugin Version #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Useful Links #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#
+### Plugin Main Page:
+# -> http://dev.bukkit.org/bukkit-plugins/death-messages/
+#
+### ChangeLog:
+# -> http://dev.bukkit.org/bukkit-plugins/death-messages/pages/changelog/
+#
+### Plugin Forum: BUGS? SUGGESTIONS? IDEAS FOR NEW FEATURES?
+# -> http://dev.bukkit.org/bukkit-plugins/death-messages/forum/plugins/death_messages/
+#
+### More Info about DEFAULT SERVER Death Messages: http://minecraft.gamepedia.com/Server#Death_messages
+#
+### Parse errors?
+# Remember to write with a correct YML indentation/rules: http://en.wikipedia.org/wiki/YAML
+# Also i recommend advanced editors like Notepad++ or Brackets, i don't get a $ with this is just a recommendation.
+#
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Useful Links #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Commands & Permissions #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#
+# /dm					|		deathmessages.user				|		Shows a list of commands.
+# /dm all				|		deathmessages.user				|		Toggles on/off both, Death and General Messages for the player.
+# /dm dm				|		deathmessages.user				|		Toggles on/off Death Messages for the player.
+# /dm gm				|		deathmessages.user				|		Toggles on/off General Messages for the player.
+# /dm reload			|		deathmessages.admin				|		Reloads this file.
+# ...					|		deathmessages.silent.join		|		Allows to silent join (no join message).
+# ...					|		deathmessages.silent.quit		|		Allows to silent quit (no quit message).
+#
+### Note: you can use both /dm or /deathmessages for commands.
+#
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Commands & Permissions #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Help & Hints #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#
+### Non-English characters:
+# The bukkit yaml parser doesn't allow non-english characters, due to this, i've coded a way to add any UNICODE characters:
+# Example: %u2623 -> biohazard sign -> (http://www.fileformat.info/info/unicode/char/2623/index.htm)
+#
+### Empty messages:
+# You can disable any message by leaving it empty just with '', useful when you don't want some death causes to throw a message, or want join messages but not quit messages(for example).
+#
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Help & Hints #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Debugging #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+#
+### Enabling this option will BROADCAST extra data about the Death Process, which will be useful to find plugins conflicting with Minecraft standard events.
+# You'll be able to check: Victim Name, World Name, Last Damage Cause Type, Last Damage Cause (Reason), and Damager.
+Debug: false
+#
+#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-# Debugging #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
+
+
+
+#======================================[ PvP Messages ]======================================#
+### What to do with PvP Death Messages?
+# 1 = Don't Show any of Them.
+# 2 = Show them as Usual.
+# 3 = ONLY show PvP Death Messages.
+PvP_Death_Messages_Handling: 2
+
+
+#======================================[ World Settings ]======================================#
+### Notes:
+# IMPORTANT: World names are CASE SENSITIVE!
+# Total World Silence: You can add the same world to Muted and Deaf worlds, meaning that the world will NOT send or receive any message(Death/Join/Quit/Kick).
+
+### World Aliases:
+# This allows to change world name in messages ("%world" variable) to a custom name instead of the "folder" world name.
+World_Aliases:
+  world: 'Survival'
+  world_nether: 'NetherWorld'
+  world_the_end: 'The Moon'
+  your_awesome_world: 'Cookie Land'
+  
+### Muted Worlds: disables ALL(Death/Join/Quit/Kick) outgoing messages from worlds in this list.
+Muted_Worlds:
+  Enable: false
+  World_List:
+  - any_world_name
+  - hell
+
+### Deaf Worlds: disables ALL(Death/Join/Quit/Kick) incoming messages to worlds in this list.
+Deaf_Worlds:
+  Enable: false
+  World_List:
+  - bed_land
+  - puzzle_games
+
+### Linking worlds allows worlds to share death/general messages, worlds out of this list will ONLY see it's own messages.
+# NOTE: IN A FUTURE I'LL ADD MULTIPLE LINKED GROUPS OF WORLDS! VOTE(POLL) IN THE MAIN PLUGIN PAGE FOR IT!
+# Example: as you can see in this list, the worlds "world", "world_nether" and "world_the_end" are linked, so Death and General messages will be shared, if we have another world called "new_world", will only be able to see it's own Death and General Messages.
+Linked_Worlds:
+  Enable: false
+  World_List:
+  - world
+  - world_nether
+  - world_the_end
+
+  
+#======================================[ General Messages ]======================================#
+### General Messages variables:
+# %player  = player name involved in the event.
+# %dplayer = player display name.
+# %world   = world name in which the player joins/from which player quits/is kicked.
+
+### Enable/Disable custom General Messages:
+General_Messages:
+  Enable: false
+  First_Join: '&5Chào mừng &a%Player &5lần đầu đến Server.'
+  Recurrent_Join: '======================&6&lMinelg.com&f======================\nXin chào &a%Player&f! đã quay trở lại server\nHãy tham gia &2NetWork &6Minelg &fngay nào!'
+
+
+#======================================[ Death Messages ]======================================#
+### Death Messages variables(tags):
+# %player  = victim player name.
+# %dplayer = victim player display name.
+# %killer  = assassin name (only for player kills, PvP).
+# %dkiller  = assassin display name (only for player kills, PvP).
+# %weapon_material = material name of the weapon wielded by the killer (only for player kills, PvP).
+# %weapon_name = custom display name of the weapon, if there's no name it'll show the material name (only for player kills, PvP).
+# %world = world name in which the player died, can be used in any message.
+# %mob_type = shows entity type name identified by the server, NOT SUPPORTED FOR RANGED ATTACKS YET! Example: blazes, skeletons etc
+
+### Don't forget to use bukkit colors if you want ===>    http://dev.bukkit.org/media/images/42/45/Colors.png
+# And other Bukkit Formats ===>    &n = Underlined   ||   &o = Italic   ||   &m = Strike-through   ||   &l = Bold   ||   &k = Magic   ||   &r = Reset Format
+
+### Some Examples:
+# Example for Creeper Message = '&2%player &Elikes to hug &CCreepers&E, he is a pill of dust now...'
+# Example for PvP Message = '&2%player &Ewas slain by &Ckiller&E, wielding his mighty &C%weapon_material'
+
+### Finally, you can add/modify/remove all the random messages you wish, when a death occurs, a random message from the list will be chosen.
+# By default (as you can see below) each death cause has 1-3 random messages, but you can add from 0 to infinite (0 means no message).
+
+Death_Messages:
+  Mobs:
+    Blaze:
+    - '» &2&l%player &7đã bị &c&lQuỷ Lửa &7chịch chết.'
+    - '» &2&l%player &7đã bị &c&lQuỷ Lửa &7chịch chết.'
+    Cave_Spider:
+    - '» &2&l%player &7đã bị &c&lNhện &7chịch chết.'
+    - '» &2&l%player &7đã bị &c&lNhện &7cắn chết.'
+    Creeper:
+    - '» &2&l%player &7đã bị &c&lCreeper &7thổi bay.'
+    - '» &2&l%player &7đã bị &c&lCreeper &7thổi cmn bay.'
+    Ender_Dragon:
+    - '» &2&l%player &7đã bị &c&lRồng Ender &7quất chết.'
+    - '» &2&l%player &7đã bị &c&lRồng Ender &7quất chết.'
+    Enderman:
+    - '» &2&l%player &7đã bị &c&lNgười Ender &7giết.'
+    - '» &2&l%player &7đã bị &c&lNgười Ender &7giết.'
+    Endermite:
+    - '» &2&l%player &7đã bị &c&lGiận Ender &7cắn chết.'
+    - '» &2&l%player &7đã bị &c&lGiận Ender &7cắn chết.'
+    Ghast:
+    - '» &2%player &Ewas fireballed by &CGhast.'
+    - '» &2%player &Eate a &CGhast &2 fireball.'
+    Giant:
+    - '» &2&l%player &7đã bị &c&lMa Bự &7giết chết.'
+    - '» &2&l%player &7đã bị &c&lMa Bự &7giết chết.'
+    Guardian:
+    - '» &2&l%player &7đã bị &c&lCá Nóc &7cắn chết.'
+    Iron_Golem:
+    - '» &2&l%player &7đã bị &c&lNgười Sắt &7giết chết.'
+    - '» &2&l%player &7đã bị &c&lNgười Sắt &7giết chết.'
+    Magma_Cube:
+    - '» &2&l%player &7đã bị &c&lNhây Lửa &7giết chết.'
+    - '» &2&l%player &7đã bị &c&lNhây Lửa &7giết chết.'
+    Silverfish:
+    - '» &2&l%player &7đã bị &c&lCá Bạc &7cắn chết.'
+    - '» &2&l%player &7đã bị &c&lCá Bạc &7cắn chết.'
+    Skeleton:
+      Bow:
+      - '» &2&l%player &7đã bị &c&lSkeleton Dân Chơi &7bắn chết.'
+      - '» &2&l%player &7đã bị &c&lSkeleton &7Hét Sót chết.'
+      Melee:
+      - '» &2&l%player &7đã bị &c&lSkeleton &7thông chết'
+      - '» &2&l%player &7đã bị &c&lSkeleton &7đấm chết.'
+    Slime:
+    - '» &2&l%player &7đã bị &c&lCon Nhây &7xả dầu ăn chết.'
+    - '» &2&l%player &7đã bị &c&lCon Nhây &7cắn chết.'
+    # Snow Golems can't really kill players because snowballs deals 0 damage, anyway that can be modified with plugins so i added this one.
+    Snow_Golem:
+    - '» &2&l%player &7đã bị &Người Tuyết &7giết chết.'
+    Spider:
+    - '» &2&l%player &7đã bị &c&lNhện &7cắn chết.'
+    - '» &2&l%player &7đã bị &c&lNhện &7cắn chết.'
+    # Available for Guardians and other mobs with Thorns Enchantment on their armor.
+    Thorns:
+    - '» &2&l%player &7đã chết do chày cối đánh &C%mob_type'
+    Witch:
+    - '» &2&l%player &7đã bị &c&lPhù Thủy &7ném độc chết.'
+    - '» &2&l%player &7đã bị &c&lPhù Thủy &7ném độc chết.'
+    Wolf:
+    - '» &2&l%player &7đã bị &c&lChó &7cắn chết.'
+    - '» &2&l%player &7đã bị &c&lChó &7cắn chết.'
+    Zombie:
+    - '» &2&l%player &7đã bị &c&lZombie &7giết chết.'
+    - '» &2&l%player &7đã bị &c&lZombie &7giết chết.'
+    Wither:
+      Skull:
+      - '» &2&l%player &7bị thổi bay.'
+      - '» &2&l%player chết do ngu người.'
+      Effect:
+      - '» &2&l%player &7bị héo đi.'
+      - '» &2&L%player &7chết khô do bị héo.'
+    Wither_Skeleton:
+    - '» &2&l%player &7đã bị &c&lWither-Skeleton &7giết chết.'
+    - '» &2&l%player &7đã bị &c&lWither-Skeleton &7giết chết.'
+    Zombie_Pigman:
+    - '» &2&l%player &7đã bị &c&lAnh Heo &7giết chết.'
+    - '» &2&l%player &7đã bị &c&lAnh Heo &7giết chết.'
+
+  Players_(PvP):
+    Weapon:
+    - '» &2&l%player &7đã bị &C&l%killer &7giết'
+    - '» &2&l%player &7đã bị thông bởi dân chơi &C&l%killer &7dùng con hàng &3&l๖ۣۜS %weapon_name &b&l๖ۣۜS'
+    - '» &2&l%player &7đã bị làm tình bởi dân chơi &C&l%killer &7dùng &3&l๖ۣۜS %weapon_material &b&l๖ۣۜS'
+    Fist:
+    - '» &2&l%player &7đã bị thông bởi dân chơi &C&l%killer'
+    - '» &2&l%player &7đã bị &C&l%killer &7giết chết.'
+    Bow:
+    - '» &2&l%player &7đã bị &C&l%killer &7 bắn hét sót.'
+    Thorns_Enchantment:
+    - '» &2&l%player &7đã chết do thông &C&l%killer &7nhưng không được.'
+
+  Other:
+    Anvil:
+    - '» &2&l%player &7đã bị cái đe rơi vỡ đầu.'
+    - '» &2&l%player &7đã bị cái đe rơi vỡ đầu.'
+    Cactus:
+    - '» &2&l%player &7đã tự tử.'
+    - '» &2&l%player &7đã bị gai xương rồng đâm chết.'
+    # Dispenser only has 1 message for deaths but i added another one if player dies by a small fireball ;)
+    Dispenser:
+      Arrow:
+      - '» &2&l%player &7đã bị bắn hạ.'
+      - '» &7một quả điền &2%player''s &7cơ thể sắt!, p/s:dell dịch nổi @@'
+      Fireball:
+      - '» &EA &CDispenser &Ehas fried &2&l%player'
+      - '» &2&l%player &7bị bắn tới chết!'
+    Drowning:
+    - '» &2&l%player &7đã bị chết đuối.'
+    - '» &2&l%player &7đã bị chết đuối.'
+    Fall:
+      5_or_less_blocks_of_altitude:
+      - '» &2&l%player &7đã bị ngã quá thốn'
+      6_or_more_blocks_of_altitude:
+      - '» &2&l%player &7đã bị ngã cắm đầu xuống đất.'
+    Fire:
+      # This message appears if the player died while in the source of the fire
+      Block:
+      - '» &2&l%player &7đã bị chết cháy.'
+      # This message appears if the player died while on fire, but not in the source
+      Effect:
+      - '» &2&l%player &7đã bị chết cháy.'
+    Lava:
+    - '» &2&l%player &7đã cố bơi trong dung nham.'
+    # Death by direct damage from a lightning, you can also die from fire (Fire Effect) if the lightning also ignites the player.
+    Lightning:
+    - '» &2&l%player &7đã bị chết cháy do thiên lôi đánh chết.'
+    Melting:
+    - '» &2&l%player &7đã bị đóng băng.'
+    # In Minecraft you can't die from normal Poison, you just get to half heart, anyway it a Poison Potion hits you when u're with low health and kills you or by other plugins this could happen.
+    Poison:
+    - '» &2&l%player &7đã bị chết do ăn đồ hỏng.'
+    # Only happens when the potion is shot from a dispenser, by drinking it, or with the effect command
+    Potion_of_Harming:
+    - '» &2&l%player &7đã bị giết bằng phép thuật.'
+    Starvation:
+    - '» &2&l%player &7đã bị đói quá lăn ra chết.'
+    Suffocation:
+    - '» &2&l%player &7đã bị chết kẹt trong tường.'
+    # Suicide message is only possible when player uses /suicide or /kill <himself>
+    Suicide:
+    - '» &2&l%player &7đã chết, mình thích thì mình chết thôi.'
+    TNT:
+    - '» &2&l%player &7đã bị nổ tung xì líp.'
+    Void:
+    - '» &2&l%player &7đã bị rơi ra ngoài thế giới.'
+
+  # Other causes: death by other commands and/or no real damager, other weird plugin reasons etc
+  Unknown:
+  - '» &2&l%player &7đã bị chết mà không biết lý do.'
+
+
+
+### Disabled for 1.8, wait for more updates!
+# Weird causes like killed by EnderPearl, Eggs and Snowballs.
+# Snowmans can't kill players because Snowballs have no damage, anyway some servers change this mechanic for fun so i added it too.
+Others:
+- '» &2&l%player &7đã trượt chân chết.'

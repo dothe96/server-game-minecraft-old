@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: lukaku
+timestamps:
+  login: 1476883900256
+  logout: 1476883963870
+ipAddress: 117.6.84.220
+lastlocation:
+  world: world
+  x: -153.5
+  y: 86.0
+  z: -72.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 5.6999865
+  pitch: -13.650014

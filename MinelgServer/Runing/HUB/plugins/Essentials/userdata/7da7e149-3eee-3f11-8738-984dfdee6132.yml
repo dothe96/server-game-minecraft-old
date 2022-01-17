@@ -1,0 +1,24 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: -160.01347939066693
+  y: 88.0
+  z: -77.20181211680548
+  yaw: 0.29998666
+  pitch: -7.950015
+lastAccountName: Bigg
+timestamps:
+  login: 1479131302057
+  kits:
+    diemdanh: 1479131334657
+    food: 1479131336169
+  lastteleport: 1479131345726
+  logout: 1479131395783
+ipAddress: 117.2.130.20
+logoutlocation:
+  world: world
+  x: 3837.7430568967125
+  y: 142.0
+  z: 1683.9992657786865
+  yaw: 9.31308
+  pitch: 33.29998

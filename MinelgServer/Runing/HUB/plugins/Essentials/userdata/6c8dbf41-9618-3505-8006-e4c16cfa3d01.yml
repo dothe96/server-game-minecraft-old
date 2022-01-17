@@ -1,0 +1,36 @@
+lastAccountName: CuTiDinh
+timestamps:
+  login: 1479267706385
+  kits:
+    diemdanh: 1479185615729
+    tanthu: 1479096734029
+    tools: 1479095369477
+    food: 1479204347346
+  lastteleport: 1479270793410
+  logout: 1479267682315
+ipAddress: 117.2.130.122
+socialspy: false
+lastlocation:
+  world: world
+  x: -159.914460822696
+  y: 86.0
+  z: -63.617846783109485
+  yaw: 160.04999
+  pitch: -8.850031
+money: '38989.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+afk: false
+homes:
+  home:
+    world: world
+    x: 3317.3898400745284
+    y: 68.0
+    z: 605.9035551444592
+    yaw: 168.61363
+    pitch: 26.099993

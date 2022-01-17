@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: KamaZoto
+timestamps:
+  login: 1479017999911
+  kits:
+    diemdanh: 1479006512955
+    tanthu: 1479006455202
+    food: 1479021598491
+  lastteleport: 1479024054764
+  logout: 1479024314305
+ipAddress: 117.3.46.58
+lastlocation:
+  world: world
+  x: 4218.850385163471
+  y: 65.0
+  z: 1539.9389593874084
+  yaw: 310.11957
+  pitch: 8.400003
+logoutlocation:
+  world: world
+  x: 4198.450184263673
+  y: 65.0
+  z: 1554.9062868211238
+  yaw: 124.41968
+  pitch: 26.550005
+money: '1000.0'

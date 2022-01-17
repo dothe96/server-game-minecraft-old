@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: Monster_Hydra
+timestamps:
+  login: 1478256204540
+  kits:
+    diemdanh: 1478256217442
+  lastteleport: 1478256225390
+  logout: 1478256246613
+ipAddress: 113.176.152.77
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014
+logoutlocation:
+  world: world
+  x: 741.1422162099909
+  y: 71.0
+  z: 1706.8716800886657
+  yaw: -66.631386
+  pitch: 28.438932

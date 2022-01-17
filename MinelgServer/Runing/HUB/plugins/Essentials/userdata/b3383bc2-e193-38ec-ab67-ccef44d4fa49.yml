@@ -1,0 +1,35 @@
+lastAccountName: DraGonGamer
+timestamps:
+  login: 1478942641415
+  lastteleport: 1478943200430
+  kits:
+    tools: 1478943056588
+    food: 1478943052688
+  logout: 1478943657873
+ipAddress: 116.98.79.29
+socialspy: false
+lastlocation:
+  world: world
+  x: -4.209915020629375
+  y: 65.6212968405392
+  z: -96.39916788080735
+  yaw: -336.34772
+  pitch: 90.0
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 3537.443001690806
+  y: 78.0
+  z: 1557.2071448671438
+  yaw: -175.7287
+  pitch: 71.99997
+homes:
+  home:
+    world: world
+    x: 3044.3099313714065
+    y: 83.0
+    z: 1105.0727902799579
+    yaw: -162.3089
+    pitch: 10.200008
+nickname: FAKER
+afk: false

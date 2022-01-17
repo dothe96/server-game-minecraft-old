@@ -1,0 +1,291 @@
+# EZRanksPro rankups.yml file
+# Create your rankups in this file.
+# If you need a default template, delete the rankups: section and
+# let it regenerate an example rankup.
+# 
+# rankup_actions are a list of 
+# actions which will be executed
+# when a player successfully ranks up
+# 
+# You must include required arguments
+# <required>, (optional)
+# rankup_action list:
+# [consolecommand] <command> - perform a console command
+# [playercommand] <command> - make the player perform a command
+# [message] <message> - send the player a message
+# [broadcast] <message> - send the server a message
+# [jsonmessage] <json>- send the player a json message
+# [jsonbroadcast] <json> - send the server a json message
+# [actionbarmessage] <message> - send the player an actionbar message
+# [actionbarbroadcast] <message> - send the server an actionbar message
+# [addgroup] <group> (world) - add the player to a permissions group
+# [removegroup] <group> (world) - remove the player from a permissions group
+# [addpermission] <permission> (world) - add a permission node to the player
+# [removepermission] <permission> (world) - remove a permission node from a player
+# [setprefix] <prefix> - set the players prefix
+# [setsuffix] <suffix> - set the players suffix
+# [effect] <effect> - play an effect at the players location
+# [sound] <sound> <volume> <pitch> - play a sound at the players location
+# 
+# You can delay any of the rankup actions being performed by ending the action with
+# <delay=(time in seconds)>
+# example:
+# [consolecommand] eco give %player% 100 <delay=10>
+# 
+# Placeholders can be used in your rankup actions and messages:
+# 
+# %player% - players name
+# %displayname% - players displayname
+# %world% - players current world
+# %rank% - players current rank
+# %rankup% - players next rank (if they have one)
+# %cost% - cost to rankup
+# %cost_formatted% - formatted cost to rankup
+# %balance% - players balance
+# %balance_formatted% - players formatted balance
+# %difference% - amount still needed
+# %difference_formatted% - formatted amount still needede
+# %progress% - rounded progress % based on cost - balance
+# %progressexact% - exact progress % based on cost - balance
+# %progressbar% - custom progressbar based on cost - balance
+# %rankprefix% - players current rank prefix defined in this file
+# %rankupprefix% - players next rank prefix defined in this file
+# %lastrank% - last rank available
+# %lastrankprefix% - last rank available prefix
+# %rankup_cost_<rankname>% - show the cost for a specific rank
+# %rankup_cost_formatted_<rankname>% - show the formatted cost for a specific rank
+# %rankup_is_completed_<rankname>% - show if a player has completed the specified rank
+
+last_rank:
+  rank: Z
+  prefix: '&8[&bZ&8]'
+requirement_message:
+- '&8&m------------'
+- '&cBạn cần &a$&f%cost% &cđể rankup lên %rankupprefix%'
+- '&8&m------------'
+rankups:
+  A:
+    order: 1
+    prefix: '[A]'
+    rankup_to: B
+    cost: 1000.0
+    rankup_actions:
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+    - '[addgroup] %rankup%'
+    - '[removegroup] %rank%'
+  B:
+    order: 2
+    prefix: '[B]'
+    rankup_to: C
+    cost: 5000.0
+    rankup_actions:
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+    - '[addgroup] %rankup%'
+    - '[removegroup] %rank%'
+  C:
+    order: 3
+    prefix: '&8[&fC&8]'
+    rankup_to: D
+    cost: '10000'
+    rankup_actions:
+    - '[addgroup] D'
+    - '[removegroup] C'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  D:
+    order: 4
+    prefix: '&8[&fD&8]'
+    rankup_to: E
+    cost: '20000'
+    rankup_actions:
+    - '[addgroup] E'
+    - '[removegroup] D'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  E:
+    order: 5
+    prefix: '&8[&fE&8]'
+    rankup_to: F
+    cost: '40000'
+    rankup_actions:
+    - '[addgroup] F'
+    - '[removegroup] E'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  F:
+    order: 6
+    prefix: '&8[&fF&8]'
+    rankup_to: G
+    cost: '80000'
+    rankup_actions:
+    - '[addgroup] G'
+    - '[removegroup] F'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  G:
+    order: 7
+    prefix: '&8[&fG&8]'
+    rankup_to: H
+    cost: '160000'
+    rankup_actions:
+    - '[addgroup] H'
+    - '[removegroup] G'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  H:
+    order: 8
+    prefix: '&8[&fH&8]'
+    rankup_to: I
+    cost: '320000'
+    rankup_actions:
+    - '[addgroup] I'
+    - '[removegroup] H'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  I:
+    order: 9
+    prefix: '&8[&fI&8]'
+    rankup_to: J
+    cost: '520000'
+    rankup_actions:
+    - '[addgroup] J'
+    - '[removegroup] I'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  J:
+    order: 10
+    prefix: '&8[&fJ&8]'
+    rankup_to: K
+    cost: '720000'
+    rankup_actions:
+    - '[addgroup] K'
+    - '[removegroup] J'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  K:
+    order: 11
+    prefix: '&8[&fK&8]'
+    rankup_to: L
+    cost: '920000'
+    rankup_actions:
+    - '[addgroup] L'
+    - '[removegroup] K'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  L:
+    order: 12
+    prefix: '&8[&fL&8]'
+    rankup_to: M
+    cost: '1120000'
+    rankup_actions:
+    - '[addgroup] M'
+    - '[removegroup] L'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  M:
+    order: 13
+    prefix: '&8[&fM&8]'
+    rankup_to: N
+    cost: '1320000'
+    rankup_actions:
+    - '[addgroup] N'
+    - '[removegroup] M'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  N:
+    order: 14
+    prefix: '&8[&fN&8]'
+    rankup_to: O
+    cost: '1520000'
+    rankup_actions:
+    - '[addgroup] O'
+    - '[removegroup] N'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  O:
+    order: 15
+    prefix: '&8[&fO&8]'
+    rankup_to: P
+    cost: '1820000'
+    rankup_actions:
+    - '[addgroup] P'
+    - '[removegroup] O'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  P:
+    order: 16
+    prefix: '&8[&fP&8]'
+    rankup_to: Q
+    cost: '2120000'
+    rankup_actions:
+    - '[addgroup] Q'
+    - '[removegroup] P'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  Q:
+    order: 17
+    prefix: '&8[&fQ&8]'
+    rankup_to: R
+    cost: '2420000'
+    rankup_actions:
+    - '[addgroup] R'
+    - '[removegroup] Q'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  R:
+    order: 18
+    prefix: '&8[&fR&8]'
+    rankup_to: S
+    cost: '2720000'
+    rankup_actions:
+    - '[addgroup] S'
+    - '[removegroup] R'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  S:
+    order: 19
+    prefix: '&8[&fS&8]'
+    rankup_to: T
+    cost: '3020000'
+    rankup_actions:
+    - '[addgroup] T'
+    - '[removegroup] S'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  T:
+    order: 20
+    prefix: '&8[&fT&8]'
+    rankup_to: U
+    cost: '3320000'
+    rankup_actions:
+    - '[addgroup] U'
+    - '[removegroup] T'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  U:
+    order: 21
+    prefix: '&8[&fU&8]'
+    rankup_to: V
+    cost: '3620000'
+    rankup_actions:
+    - '[addgroup] V'
+    - '[removegroup] U'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  V:
+    order: 22
+    prefix: '&8[&fV&8]'
+    rankup_to: W
+    cost: '4000000'
+    rankup_actions:
+    - '[addgroup] W'
+    - '[removegroup] V'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  W:
+    order: 23
+    prefix: '&8[&fW&8]'
+    rankup_to: X
+    cost: '4400000'
+    rankup_actions:
+    - '[addgroup] X'
+    - '[removegroup] W'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  X:
+    order: 24
+    prefix: '&8[&fX&8]'
+    rankup_to: Y
+    cost: '4800000'
+    rankup_actions:
+    - '[addgroup] Y'
+    - '[removegroup] X'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'
+  Y:
+    order: 25
+    prefix: '&8[&fY&8]'
+    rankup_to: Z
+    cost: '5500000'
+    rankup_actions:
+    - '[addgroup] Z'
+    - '[removegroup] Y'
+    - '[broadcast] &6&l>&b&l> &6%player% &eđã lên rank &7[&e&l%rankup%&7]'

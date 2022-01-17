@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: luan17
+timestamps:
+  login: 1479270805789
+  lastteleport: 1479270944478
+  logout: 1479217370054
+  kits:
+    diemdanh: 1479208979658
+    tanthu: 1478476981218
+    tools: 1478420749269
+    food: 1479040917018
+ipAddress: 115.79.54.54
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -9.150013
+  pitch: -3.3000152
+logoutlocation:
+  world: world
+  x: 2394.945332526767
+  y: 68.0
+  z: 1649.7600334577032
+  yaw: -0.7414856
+  pitch: 13.050124
+afk: false
+homes:
+  home:
+    world: world
+    x: 2397.5
+    y: 70.0
+    z: 1655.5
+    yaw: -299.0921
+    pitch: 34.500027
+money: '17656.0'

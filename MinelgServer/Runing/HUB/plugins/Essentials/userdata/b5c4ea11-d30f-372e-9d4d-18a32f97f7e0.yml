@@ -1,0 +1,22 @@
+lastAccountName: tiengia
+timestamps:
+  login: 1476510902816
+  logout: 1476511241012
+  kits:
+    food: 1476455573900
+  lastteleport: 1476511063821
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: -115.34222766249671
+  y: 68.0625
+  z: -21.517526882745795
+  yaw: -180.29965
+  pitch: 15.000007
+logoutlocation:
+  world: world
+  x: -161.41648198716234
+  y: 86.0
+  z: -15.17309704670405
+  yaw: 178.94525
+  pitch: 12.29999

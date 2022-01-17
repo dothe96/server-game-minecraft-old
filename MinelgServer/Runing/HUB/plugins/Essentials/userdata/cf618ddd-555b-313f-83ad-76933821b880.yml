@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: son0218
+timestamps:
+  login: 1478263133355
+  lastteleport: 1478268516029
+  kits:
+    diemdanh: 1478149000378
+    tanthu: 1478070018427
+    tools: 1478070174573
+    food: 1478157476956
+  logout: 1478268697808
+ipAddress: 115.75.80.37
+lastlocation:
+  world: world
+  x: -114.5
+  y: 68.0
+  z: -1.5
+  yaw: 129.14822
+  pitch: -11.849987
+homes:
+  home:
+    world: world
+    x: 2277.158088229844
+    y: 74.0
+    z: -620.9140225349562
+    yaw: -84.66031
+    pitch: 10.499958
+logoutlocation:
+  world: world
+  x: 1.0000091674416643E7
+  y: 177.0
+  z: 9999773.300000012
+  yaw: 163.20741
+  pitch: 27.9
+money: '10339.0'

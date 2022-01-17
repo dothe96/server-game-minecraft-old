@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: Mr_Win_Ls
+timestamps:
+  login: 1477463549923
+  logout: 1477463579950
+ipAddress: 115.78.125.136
+lastlocation:
+  world: world
+  x: -149.5
+  y: 86.0
+  z: -82.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 8.999993
+  pitch: 3.299989

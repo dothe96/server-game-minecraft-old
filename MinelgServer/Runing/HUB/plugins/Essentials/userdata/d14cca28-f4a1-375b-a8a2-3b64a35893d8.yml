@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: ThanhTrymTo
+timestamps:
+  login: 1479270763746
+  logout: 1479270781915
+ipAddress: 123.27.86.114
+lastlocation:
+  world: world
+  x: -153.5
+  y: 89.0
+  z: -87.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.5499866
+  pitch: -10.200014

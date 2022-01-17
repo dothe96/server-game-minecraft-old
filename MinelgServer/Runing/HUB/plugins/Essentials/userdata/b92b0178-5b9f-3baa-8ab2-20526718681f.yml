@@ -1,0 +1,25 @@
+lastAccountName: CocaPepsi
+timestamps:
+  login: 1477049429097
+  kits:
+    diemdanh: 1477049499339
+    tanthu: 1477049494499
+    tools: 1477049487650
+    food: 1477049491649
+  logout: 1477049700377
+ipAddress: 180.93.101.162
+socialspy: false
+lastlocation:
+  world: world
+  x: -152.5
+  y: 86.0
+  z: -83.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -152.3012805571076
+  y: 86.0
+  z: -37.763001117825375
+  yaw: 164.10062
+  pitch: 17.249966

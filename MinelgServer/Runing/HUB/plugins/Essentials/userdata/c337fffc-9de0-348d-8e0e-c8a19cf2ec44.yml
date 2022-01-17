@@ -1,0 +1,33 @@
+socialspy: false
+lastAccountName: huhu
+timestamps:
+  login: 1478915240059
+  lastteleport: 1478915328088
+  kits:
+    diemdanh: 1478912721559
+    tanthu: 1478400546449
+  logout: 1478915428508
+ipAddress: 171.250.102.100
+lastlocation:
+  world: world
+  x: 4629.611298404769
+  y: 68.0
+  z: -2324.2336663455485
+  yaw: -214.15395
+  pitch: 82.35004
+money: '36162.0'
+logoutlocation:
+  world: world
+  x: -210.4170899203549
+  y: 101.0625
+  z: -53.564574452864534
+  yaw: 242.85
+  pitch: 37.19999
+homes:
+  home:
+    world: world
+    x: 4670.017927982194
+    y: 67.0
+    z: -2369.3119165796415
+    yaw: -30.254211
+    pitch: 30.599977

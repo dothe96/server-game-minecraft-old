@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: MIklidek
+timestamps:
+  login: 1477797610551
+  kits:
+    diemdanh: 1477115765471
+    tanthu: 1477115760519
+    tools: 1477115751754
+    food: 1477115756711
+  lastteleport: 1477116088670
+  logout: 1477797633441
+ipAddress: 14.175.137.44
+lastlocation:
+  world: world
+  x: 3203.7689784608683
+  y: 67.0
+  z: 1932.728254204789
+  yaw: -91.3337
+  pitch: 32.54999
+homes:
+  home:
+    world: world
+    x: 3021.2286717159345
+    y: 66.0
+    z: 263.455969153354
+    yaw: 198.75688
+    pitch: 18.299751
+logoutlocation:
+  world: world
+  x: -139.46631995037703
+  y: 84.0
+  z: -38.34685098300089
+  yaw: -94.20005
+  pitch: 39.449986

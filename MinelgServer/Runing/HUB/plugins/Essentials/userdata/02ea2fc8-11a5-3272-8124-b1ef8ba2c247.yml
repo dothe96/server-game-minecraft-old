@@ -1,0 +1,35 @@
+lastlocation:
+  world: world
+  x: 3521.454581959426
+  y: 77.0
+  z: 131.7591460269673
+  yaw: -317.38965
+  pitch: 18.900024
+socialspy: false
+lastAccountName: ChiHung
+timestamps:
+  login: 1478663980857
+  lastteleport: 1478664473680
+  kits:
+    diemdanh: 1478575112296
+    tanthu: 1477305631052
+    food: 1478575123990
+  logout: 1478664755601
+ipAddress: 115.79.54.54
+homes:
+  home:
+    world: world
+    x: 3430.5
+    y: 87.0
+    z: 370.5
+    yaw: -230.53773
+    pitch: 56.54999
+money: '16963.0'
+logoutlocation:
+  world: world
+  x: 2721.6573101215045
+  y: 76.0
+  z: 1948.1044653596448
+  yaw: 145.35675
+  pitch: 7.650007
+afk: false

@@ -1,0 +1,21 @@
+socialspy: false
+lastAccountName: pool
+timestamps:
+  login: 1477400316257
+  lastteleport: 1477400513245
+  logout: 1477400568571
+ipAddress: 14.186.230.213
+lastlocation:
+  world: world
+  x: -180.32302636253925
+  y: 86.0
+  z: -81.25201334396003
+  yaw: -74.55023
+  pitch: 9.449994
+logoutlocation:
+  world: world
+  x: 3012.699999988079
+  y: 75.90199999809265
+  z: 410.30000001192093
+  yaw: 255.16223
+  pitch: 32.100002

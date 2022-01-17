@@ -1,0 +1,32 @@
+groups:
+  Hub:
+    options:
+      rank: '800'
+      prefix: '[&2HUB&f] '
+      default: true
+    permissions:
+    - chestcommands.open.*.yml
+    - authme.player.*
+    - essentials.list
+    - essentials.spawn
+    - essentials.back
+    - bungeecompass.use
+    - nte.hub
+    - essentials.mail
+    - skinsrestorer.playercmds
+    - itemjoin.ultra
+  Owner:
+    options:
+      rank: '1'
+      prefix: '[&2Owner&f]&d» &6'
+    inheritance:
+    - Co-Owner
+    permissions:
+    - '*'
+schema-version: 1
+users:
+  ffe171c8-224e-3c82-bec9-b1c0efa3b8a6:
+    group:
+    - Owner
+    options:
+      name: fybit

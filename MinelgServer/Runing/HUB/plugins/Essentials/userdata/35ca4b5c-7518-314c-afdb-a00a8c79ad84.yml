@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: KaWaiiSuShii_
+timestamps:
+  login: 1477704485652
+  lastteleport: 1477704902509
+  logout: 1477705013387
+  kits:
+    diemdanh: 1477631077803
+    tanthu: 1477561101354
+    tools: 1477632599667
+    food: 1477631084686
+ipAddress: 14.169.27.21
+lastlocation:
+  world: world
+  x: -110.18758088933492
+  y: 68.0
+  z: -45.80952354205497
+  yaw: 357.53244
+  pitch: 56.85284
+logoutlocation:
+  world: world
+  x: 100614.86801090714
+  y: 89.0
+  z: 1.000011153508557E7
+  yaw: -267.67868
+  pitch: 70.66405
+money: '0.0'
+homes:
+  home:
+    world: world
+    x: 3162.699999988079
+    y: 67.0
+    z: 3071.0334181865164
+    yaw: 81.987274
+    pitch: 20.252447

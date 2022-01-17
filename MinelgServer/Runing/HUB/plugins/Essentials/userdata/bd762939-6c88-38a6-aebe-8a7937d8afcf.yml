@@ -1,0 +1,22 @@
+socialspy: false
+lastAccountName: BBGunOne
+timestamps:
+  login: 1478508799320
+  lastteleport: 1478514653149
+  logout: 1478514822145
+ipAddress: 171.250.102.100
+lastlocation:
+  world: world
+  x: 1.0000094074999988E7
+  y: 177.0
+  z: 9999773.300000012
+  yaw: 19.5073
+  pitch: 30.900002
+logoutlocation:
+  world: world
+  x: 4537.504786399929
+  y: 72.0
+  z: -2490.304949896701
+  yaw: -73.45175
+  pitch: 57.750023
+money: '12958.0'

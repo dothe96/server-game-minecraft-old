@@ -1,0 +1,20 @@
+lastAccountName: testdk
+timestamps:
+  login: 1478947676490
+  logout: 1478947684301
+ipAddress: 42.112.145.115
+socialspy: false
+lastlocation:
+  world: world
+  x: -166.5
+  y: 86.0
+  z: -68.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -7.200013
+  pitch: 52.049988

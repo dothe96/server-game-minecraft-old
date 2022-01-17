@@ -1,0 +1,24 @@
+lastAccountName: vupro5135
+timestamps:
+  login: 1479028904925
+  lastteleport: 1478935343385
+  logout: 1479031974816
+  kits:
+    food: 1478914060514
+ipAddress: 113.188.78.5
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: 16.739624587109265
+  y: 60.312273788401676
+  z: 11.697850540571588
+  yaw: -244.1955
+  pitch: 9.149978
+money: '4969.0'
+logoutlocation:
+  world: world
+  x: -1617.2458602100498
+  y: 12.0
+  z: 2271.029701272949
+  yaw: -83.22964
+  pitch: -28.650017

@@ -1,0 +1,22 @@
+lastAccountName: fybit
+timestamps:
+  login: 1489493440996
+  logout: 1489493455420
+  lastteleport: 1489492473913
+ipAddress: 127.0.0.1
+logoutlocation:
+  world: world
+  x: -683.264902292711
+  y: 49.0
+  z: 659.4493872425836
+  yaw: -334.64456
+  pitch: 9.150043
+socialspy: false
+lastlocation:
+  world: world
+  x: -684.5162960291394
+  y: 46.0
+  z: 579.602556424283
+  yaw: -306.74408
+  pitch: 38.999985
+afk: false

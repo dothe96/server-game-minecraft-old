@@ -1,0 +1,27 @@
+lastAccountName: 0122792115z
+timestamps:
+  login: 1478413159637
+  kits:
+    diemdanh: 1478310058940
+    tanthu: 1478309939696
+    food: 1478391268129
+  lastteleport: 1478413341212
+  logout: 1478415627580
+ipAddress: 115.78.127.186
+socialspy: false
+lastlocation:
+  world: world
+  x: 3249.4842984266193
+  y: 68.0
+  z: 1667.275324569699
+  yaw: -263.23303
+  pitch: 14.250058
+logoutlocation:
+  world: world
+  x: -161.98032844131956
+  y: 87.5
+  z: -78.11839830888516
+  yaw: -43.649956
+  pitch: 9.300005
+money: '700.0'
+afk: false

@@ -1,0 +1,26 @@
+socialspy: false
+lastAccountName: aduvailin
+timestamps:
+  login: 1476798543745
+  kits:
+    diemdanh: 1476798582441
+    tanthu: 1476798578299
+    tools: 1476798570435
+    food: 1476798574138
+  lastteleport: 1476798618222
+  logout: 1476798660484
+ipAddress: 171.248.174.166
+lastlocation:
+  world: world
+  x: -154.8543488747888
+  y: 86.0
+  z: -56.90372795549527
+  yaw: -1.650016
+  pitch: 13.649985
+logoutlocation:
+  world: world
+  x: 2030.3400816584171
+  y: 11.0
+  z: 275.5185263465106
+  yaw: 11.538671
+  pitch: 20.999998

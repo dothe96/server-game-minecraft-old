@@ -1,0 +1,34 @@
+lastAccountName: anhyeu_baxa
+timestamps:
+  login: 1479269451791
+  kits:
+    diemdanh: 1479256561035
+    tanthu: 1479034885993
+  lastteleport: 1479270810374
+  logout: 1479269414973
+ipAddress: 117.3.46.58
+socialspy: false
+lastlocation:
+  world: world
+  x: 4343.237500011921
+  y: 65.0
+  z: 761.0426827686625
+  yaw: 91.379
+  pitch: 20.249992
+money: '372.0'
+logoutlocation:
+  world: world
+  x: -154.85594610263865
+  y: 86.0
+  z: -71.6962253111482
+  yaw: -48.600002
+  pitch: 9.449982
+homes:
+  home:
+    world: world
+    x: 4185.460979522763
+    y: 71.0
+    z: 1561.928829326903
+    yaw: 144.36781
+    pitch: 27.899927
+afk: false

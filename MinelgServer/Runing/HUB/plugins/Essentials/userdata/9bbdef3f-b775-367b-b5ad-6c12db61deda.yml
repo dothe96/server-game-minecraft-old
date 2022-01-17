@@ -1,0 +1,25 @@
+lastAccountName: kakong548
+timestamps:
+  login: 1478401860906
+  kits:
+    diemdanh: 1478400632979
+    tanthu: 1478400627242
+    food: 1478400620949
+  lastteleport: 1478401956932
+  logout: 1478402151283
+ipAddress: 113.188.78.5
+socialspy: false
+lastlocation:
+  world: world
+  x: -158.19315613874855
+  y: 87.0
+  z: -72.12248998634621
+  yaw: -32.400013
+  pitch: 25.649984
+logoutlocation:
+  world: world
+  x: 2290.1441572931944
+  y: 70.0
+  z: 1538.333640817435
+  yaw: 281.40625
+  pitch: 86.85006

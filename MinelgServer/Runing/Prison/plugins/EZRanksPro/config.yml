@@ -1,0 +1,76 @@
+# EZRanksPro 1.5.0 main configuration file
+# Created by extended_clip
+check_updates: true
+debug: false
+check_primary_group_for_available_rankup: true
+chat_prefix_enabled: false
+log_rankups_to_file: false
+confirm_to_rankup:
+  enabled: false
+  time: 10
+rankup_cooldown:
+  enabled: true
+  time: 5
+ranks_command_enabled: true
+ranks:
+  use_custom_message: true
+  custom_message:
+  - '&8&m----------'
+  - '&aA&f lên &aB&f: &a$&f1000'
+  - '&aB&f lên &aC&f: &a$&f5000'
+  - '&aC&f lên &aD&f: &a$&f10000'
+  - '&aD&f lên &aE&f: &a$&f20000'
+  - '&aE&f lên &aF&f: &a$&f40000'
+  - '&aF&f lên &6G&f: &a$&f80000'
+  - '&6G&f lên &6H&f: &a$&f160000'
+  - '&6H&f lên &6I&f: &a$&f320000'
+  - '&6I&f lên &6J&f: &a$&f520000'
+  - '&6J&f lên &6K&f: &a$&f720000'
+  - '&6K&f lên &6L&f: &a$&f920000'
+  - '&6L&f lên &6M&f: &a$&f112000'
+  - '&6M&f lên &6N&f: &a$&f1320000'
+  - '&6N&f lên &6O&f: &a$&f1520000'
+  - '&6O&f lên &3P&f: &a$&f1820000'
+  - '&3P&f lên &3Q&f: &a$&f2120000'
+  - '&3Q&f lên &3R&f: &a$&f2420000'
+  - '&3R&f lên &3S&f: &a$&f2720000'
+  - '&3S&f lên &DT&f: &a$&f3020000'
+  - '&dT&f lên &DU&f: &a$&f3320000'
+  - '&dU&f lên &DV&f: &a$&f3620000'
+  - '&dV&f lên &cW&f: &a$&f4000000'
+  - '&cW&f lên &cX&f: &a$&f4400000'
+  - '&cX&f lên &cY&f: &a$&f4800000'
+  - '&cY&f lên &9Z&f: &a$&f5500000'
+  - '&9Z &6LÀ TRÙM CUỐI'
+  - '&8&m----------'
+  header:
+  - '&8&m----------'
+  format_previous_ranks: '&8%rank% lên %rankto%: Thành công'
+  format_current_rank: '&f%rank% lên %rankto%: &a$&f%cost%'
+  format_incomplete_ranks: '&7%rank% lên %rankto%: &a$&f%cost%'
+  format_last_rank: '&f%lastrank%: &cTrùm cuối!'
+  format_is_last_rank: '&f%lastrank%: &aBạn đã là trùm cuối!'
+  footer:
+  - '&8&m----------'
+money:
+  use_custom_format: true
+  custom_format: '#,###'
+  thousands_format: k
+  millions_format: M
+  billions_format: B
+  trillions_format: T
+  quadrillions_format: Q
+progress_bar:
+  has_color: '&a'
+  needs_color: '&8'
+  end_color: '&e'
+  left_character: '['
+  bar_character: ':'
+  right_character: ']'
+  is_full: '&a/rankup'
+placeholders:
+  rank_completed: completed
+  rank_not_completed: incompleted
+autorankup:
+  enabled: true
+  check_interval: 60

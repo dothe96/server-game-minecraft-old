@@ -1,0 +1,1802 @@
+02-17-2017 00:27 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 00:27 [INFO] [MyPet] #############################################
+02-17-2017 00:27 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 00:27 [INFO] [MyPet] #############################################
+02-17-2017 00:27 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 00:27 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 00:27 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 00:27 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 00:27 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 00:27 [INFO] [MyPet] Default skilltree file created (default.st).
+02-17-2017 00:27 [INFO] [MyPet] No groups found. Everything will be in 'default' group.
+02-17-2017 00:27 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 00:27 [INFO] [MyPet] added world to 'default' group.
+02-17-2017 00:27 [INFO] [MyPet] added world_nether to 'default' group.
+02-17-2017 00:27 [INFO] [MyPet] added world_the_end to 'default' group.
+02-17-2017 00:27 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 00:27 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 00:33 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 00:33 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 00:33 [INFO] [MyPet] #############################################
+02-17-2017 00:33 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 00:33 [INFO] [MyPet] #############################################
+02-17-2017 00:33 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 00:33 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 00:33 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 00:33 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 00:33 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 00:33 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 00:33 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 00:33 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 00:33 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 00:33 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 00:33 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 00:35 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 00:43 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 00:43 [INFO] [MyPet] #############################################
+02-17-2017 00:43 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 00:43 [INFO] [MyPet] #############################################
+02-17-2017 00:43 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 00:43 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 00:43 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 00:43 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 00:43 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 00:43 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 00:43 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 00:43 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 00:43 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 00:43 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 00:43 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 00:45 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 00:46 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 00:46 [INFO] [MyPet] #############################################
+02-17-2017 00:46 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 00:46 [INFO] [MyPet] #############################################
+02-17-2017 00:46 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 00:46 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 00:46 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 00:46 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 00:46 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 00:46 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 00:46 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 00:46 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 00:46 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 00:46 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 00:46 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 00:46 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 01:04 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 01:04 [INFO] [MyPet] #############################################
+02-17-2017 01:04 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 01:04 [INFO] [MyPet] #############################################
+02-17-2017 01:04 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 01:04 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 01:04 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 01:04 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 01:04 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 01:04 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 01:04 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 01:04 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 01:04 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 01:04 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 01:04 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 01:08 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 01:08 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 01:08 [INFO] [MyPet] #############################################
+02-17-2017 01:08 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 01:08 [INFO] [MyPet] #############################################
+02-17-2017 01:08 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 01:08 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 01:08 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 01:08 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 01:08 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 01:08 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 01:08 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 01:08 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 01:08 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 01:08 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 01:08 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 01:15 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 01:15 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 01:15 [INFO] [MyPet] #############################################
+02-17-2017 01:15 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 01:15 [INFO] [MyPet] #############################################
+02-17-2017 01:15 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 01:15 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 01:15 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 01:15 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 01:15 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 01:15 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 01:15 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 01:15 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 01:15 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 01:15 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 01:15 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 01:18 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 01:18 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 01:18 [INFO] [MyPet] #############################################
+02-17-2017 01:18 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 01:18 [INFO] [MyPet] #############################################
+02-17-2017 01:18 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 01:18 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 01:18 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 01:18 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 01:18 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 01:18 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 01:18 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 01:18 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 01:18 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 01:18 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 01:18 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 01:36 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 01:36 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 01:36 [INFO] [MyPet] #############################################
+02-17-2017 01:36 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 01:36 [INFO] [MyPet] #############################################
+02-17-2017 01:36 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 01:36 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 01:36 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 01:36 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 01:36 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 01:36 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 01:36 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 01:36 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 01:36 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 01:36 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 01:36 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 01:51 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 01:51 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 01:51 [INFO] [MyPet] #############################################
+02-17-2017 01:51 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 01:51 [INFO] [MyPet] #############################################
+02-17-2017 01:51 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 01:51 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 01:51 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 01:51 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 01:51 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 01:51 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 01:51 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 01:51 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 01:51 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 01:51 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 01:51 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 01:58 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 02:05 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 02:05 [INFO] [MyPet] #############################################
+02-17-2017 02:05 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 02:05 [INFO] [MyPet] #############################################
+02-17-2017 02:05 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 02:05 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 02:05 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 02:05 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 02:05 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 02:05 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 02:05 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 02:05 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 02:05 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 02:05 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 02:05 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 16:42 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 16:42 [WARNING] [MyPet] This version of MyPet is not compatible with "v1_11_R1". Is MyPet up to date?
+02-17-2017 16:49 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 16:49 [WARNING] [MyPet] This version of MyPet is not compatible with "v1_11_R1". Is MyPet up to date?
+02-17-2017 16:51 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 16:51 [WARNING] [MyPet] This version of MyPet is not compatible with "v1_11_R1". Is MyPet up to date?
+02-17-2017 16:57 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 16:57 [WARNING] [MyPet] This version of MyPet is not compatible with "v1_11_R1". Is MyPet up to date?
+02-17-2017 16:58 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 16:58 [WARNING] [MyPet] This version of MyPet is not compatible with "v1_11_R1". Is MyPet up to date?
+02-17-2017 17:00 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 17:00 [WARNING] [MyPet] This version of MyPet is not compatible with "v1_11_R1". Is MyPet up to date?
+02-17-2017 17:21 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 17:21 [INFO] [MyPet] #############################################
+02-17-2017 17:21 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 17:21 [INFO] [MyPet] #############################################
+02-17-2017 17:21 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 17:21 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 17:21 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 17:21 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 17:21 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 17:21 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 17:21 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 17:21 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 17:21 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 17:21 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 17:21 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 17:22 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 17:26 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 17:26 [INFO] [MyPet] #############################################
+02-17-2017 17:26 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 17:26 [INFO] [MyPet] #############################################
+02-17-2017 17:26 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 17:26 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 17:26 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 17:26 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 17:26 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 17:26 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 17:26 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 17:26 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 17:26 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 17:26 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 17:26 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 17:36 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 17:37 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 17:37 [INFO] [MyPet] #############################################
+02-17-2017 17:37 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 17:37 [INFO] [MyPet] #############################################
+02-17-2017 17:37 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 17:37 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 17:37 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 17:37 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 17:37 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 17:37 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 17:37 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 17:37 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 17:37 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 17:37 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 17:37 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 18:32 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 18:34 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 18:34 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 18:34 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 18:34 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 18:34 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 18:34 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 18:34 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 18:34 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 18:34 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 18:34 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 18:34 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 18:34 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 19:45 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 19:45 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 19:45 [INFO] [MyPet] #############################################
+02-17-2017 19:45 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 19:45 [INFO] [MyPet] #############################################
+02-17-2017 19:45 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 19:45 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 19:45 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 19:45 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 19:45 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 19:45 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 19:45 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 19:45 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 19:45 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 19:45 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 19:45 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 20:09 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-17-2017 20:10 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-17-2017 20:10 [INFO] [MyPet] #############################################
+02-17-2017 20:10 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-17-2017 20:10 [INFO] [MyPet] #############################################
+02-17-2017 20:10 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-17-2017 20:10 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-17-2017 20:10 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-17-2017 20:10 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-17-2017 20:10 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-17-2017 20:10 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-17-2017 20:10 [INFO] [MyPet]    added 'world' to 'default'
+02-17-2017 20:10 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-17-2017 20:10 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-17-2017 20:10 [INFO] [MyPet] -------------------------------------------------
+02-17-2017 20:10 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-17-2017 22:18 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-18-2017 00:34 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-18-2017 00:34 [INFO] [MyPet] #############################################
+02-18-2017 00:34 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-18-2017 00:34 [INFO] [MyPet] #############################################
+02-18-2017 00:34 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-18-2017 00:34 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-18-2017 00:34 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-18-2017 00:34 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-18-2017 00:34 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-18-2017 00:34 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-18-2017 00:34 [INFO] [MyPet]    added 'world' to 'default'
+02-18-2017 00:34 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-18-2017 00:34 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-18-2017 00:34 [INFO] [MyPet] -------------------------------------------------
+02-18-2017 00:34 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-18-2017 01:53 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-18-2017 01:57 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-18-2017 01:57 [INFO] [MyPet] #############################################
+02-18-2017 01:57 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-18-2017 01:57 [INFO] [MyPet] #############################################
+02-18-2017 01:57 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-18-2017 01:57 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-18-2017 01:57 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-18-2017 01:57 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-18-2017 01:57 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-18-2017 01:57 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-18-2017 01:57 [INFO] [MyPet]    added 'world' to 'default'
+02-18-2017 01:57 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-18-2017 01:57 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-18-2017 01:57 [INFO] [MyPet] -------------------------------------------------
+02-18-2017 01:57 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-18-2017 02:00 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-18-2017 02:02 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-18-2017 02:02 [INFO] [MyPet] #############################################
+02-18-2017 02:02 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-18-2017 02:02 [INFO] [MyPet] #############################################
+02-18-2017 02:02 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-18-2017 02:02 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-18-2017 02:02 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-18-2017 02:02 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-18-2017 02:02 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-18-2017 02:02 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-18-2017 02:02 [INFO] [MyPet]    added 'world' to 'default'
+02-18-2017 02:02 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-18-2017 02:02 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-18-2017 02:02 [INFO] [MyPet] -------------------------------------------------
+02-18-2017 02:02 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-18-2017 02:05 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-18-2017 02:09 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-18-2017 02:09 [INFO] [MyPet] #############################################
+02-18-2017 02:09 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-18-2017 02:09 [INFO] [MyPet] #############################################
+02-18-2017 02:09 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-18-2017 02:09 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-18-2017 02:09 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-18-2017 02:09 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-18-2017 02:09 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-18-2017 02:09 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-18-2017 02:09 [INFO] [MyPet]    added 'world' to 'default'
+02-18-2017 02:09 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-18-2017 02:09 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-18-2017 02:09 [INFO] [MyPet] -------------------------------------------------
+02-18-2017 02:09 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-18-2017 02:15 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-18-2017 20:02 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-18-2017 20:02 [INFO] [MyPet] #############################################
+02-18-2017 20:02 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-18-2017 20:02 [INFO] [MyPet] #############################################
+02-18-2017 20:02 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-18-2017 20:02 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-18-2017 20:02 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-18-2017 20:02 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-18-2017 20:02 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-18-2017 20:02 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-18-2017 20:02 [INFO] [MyPet]    added 'world' to 'default'
+02-18-2017 20:02 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-18-2017 20:02 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-18-2017 20:02 [INFO] [MyPet] -------------------------------------------------
+02-18-2017 20:02 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-18-2017 20:48 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-18-2017 20:48 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-18-2017 20:48 [INFO] [MyPet] #############################################
+02-18-2017 20:48 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-18-2017 20:48 [INFO] [MyPet] #############################################
+02-18-2017 20:48 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-18-2017 20:48 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-18-2017 20:48 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-18-2017 20:48 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-18-2017 20:48 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-18-2017 20:48 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-18-2017 20:48 [INFO] [MyPet]    added 'world' to 'default'
+02-18-2017 20:48 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-18-2017 20:48 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-18-2017 20:48 [INFO] [MyPet] -------------------------------------------------
+02-18-2017 20:48 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-18-2017 20:49 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-18-2017 20:52 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-18-2017 20:52 [INFO] [MyPet] #############################################
+02-18-2017 20:52 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-18-2017 20:52 [INFO] [MyPet] #############################################
+02-18-2017 20:52 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-18-2017 20:52 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-18-2017 20:52 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-18-2017 20:52 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-18-2017 20:52 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-18-2017 20:52 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-18-2017 20:52 [INFO] [MyPet]    added 'world' to 'default'
+02-18-2017 20:52 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-18-2017 20:52 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-18-2017 20:52 [INFO] [MyPet] -------------------------------------------------
+02-18-2017 20:52 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-18-2017 22:45 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-18-2017 22:46 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-18-2017 22:46 [INFO] [MyPet] #############################################
+02-18-2017 22:46 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-18-2017 22:46 [INFO] [MyPet] #############################################
+02-18-2017 22:46 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-18-2017 22:46 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-18-2017 22:46 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-18-2017 22:46 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-18-2017 22:46 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-18-2017 22:46 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-18-2017 22:46 [INFO] [MyPet]    added 'world' to 'default'
+02-18-2017 22:46 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-18-2017 22:46 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-18-2017 22:46 [INFO] [MyPet] -------------------------------------------------
+02-18-2017 22:46 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-18-2017 23:31 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-18-2017 23:31 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-18-2017 23:31 [INFO] [MyPet] #############################################
+02-18-2017 23:31 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-18-2017 23:31 [INFO] [MyPet] #############################################
+02-18-2017 23:31 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-18-2017 23:31 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-18-2017 23:31 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-18-2017 23:31 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-18-2017 23:31 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-18-2017 23:31 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-18-2017 23:31 [INFO] [MyPet]    added 'world' to 'default'
+02-18-2017 23:31 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-18-2017 23:31 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-18-2017 23:31 [INFO] [MyPet] -------------------------------------------------
+02-18-2017 23:31 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 00:12 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 00:12 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 00:12 [INFO] [MyPet] #############################################
+02-19-2017 00:12 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 00:12 [INFO] [MyPet] #############################################
+02-19-2017 00:12 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 00:12 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 00:12 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 00:12 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 00:12 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 00:12 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 00:12 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 00:12 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 00:12 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 00:12 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 00:12 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 00:28 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 00:29 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 00:29 [INFO] [MyPet] #############################################
+02-19-2017 00:29 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 00:29 [INFO] [MyPet] #############################################
+02-19-2017 00:29 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 00:29 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 00:29 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 00:29 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 00:29 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 00:29 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 00:29 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 00:29 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 00:29 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 00:29 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 00:29 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 01:08 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 01:08 [INFO] [MyPet] #############################################
+02-19-2017 01:08 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 01:08 [INFO] [MyPet] #############################################
+02-19-2017 01:08 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 01:08 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 01:08 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 01:08 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 01:08 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 01:08 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 01:08 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 01:08 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 01:08 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 01:08 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 01:08 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 01:09 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 01:09 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 01:10 [INFO] [MyPet] #############################################
+02-19-2017 01:10 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 01:10 [INFO] [MyPet] #############################################
+02-19-2017 01:10 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 01:10 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 01:10 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 01:10 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 01:10 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 01:10 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 01:10 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 01:10 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 01:10 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 01:10 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 01:10 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 01:41 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 01:42 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 01:42 [INFO] [MyPet] #############################################
+02-19-2017 01:42 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 01:42 [INFO] [MyPet] #############################################
+02-19-2017 01:42 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 01:42 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 01:42 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 01:42 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 01:42 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 01:42 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 01:42 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 01:42 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 01:42 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 01:42 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 01:42 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 01:50 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 01:51 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 01:51 [INFO] [MyPet] #############################################
+02-19-2017 01:51 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 01:51 [INFO] [MyPet] #############################################
+02-19-2017 01:51 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 01:51 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 01:51 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 01:51 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 01:51 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 01:51 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 01:51 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 01:51 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 01:51 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 01:51 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 01:51 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 02:22 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 02:24 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 02:24 [INFO] [MyPet] #############################################
+02-19-2017 02:24 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 02:24 [INFO] [MyPet] #############################################
+02-19-2017 02:24 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 02:24 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 02:24 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 02:24 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 02:24 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 02:24 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 02:24 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 02:24 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 02:24 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 02:24 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 02:24 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 02:31 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 02:36 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 02:36 [INFO] [MyPet] #############################################
+02-19-2017 02:36 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 02:36 [INFO] [MyPet] #############################################
+02-19-2017 02:36 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 02:36 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 02:36 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 02:36 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 02:36 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 02:36 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 02:36 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 02:36 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 02:36 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 02:36 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 02:36 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 02:37 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 02:41 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 02:41 [INFO] [MyPet] #############################################
+02-19-2017 02:41 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 02:41 [INFO] [MyPet] #############################################
+02-19-2017 02:41 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 02:41 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 02:41 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 02:41 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 02:41 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 02:41 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 02:41 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 02:41 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 02:41 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 02:41 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 02:41 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 02:42 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 02:44 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 02:44 [INFO] [MyPet] #############################################
+02-19-2017 02:44 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 02:44 [INFO] [MyPet] #############################################
+02-19-2017 02:44 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 02:44 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 02:44 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 02:44 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 02:44 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 02:44 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 02:44 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 02:44 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 02:44 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 02:44 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 02:44 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 03:05 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 03:06 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 03:06 [INFO] [MyPet] #############################################
+02-19-2017 03:06 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 03:06 [INFO] [MyPet] #############################################
+02-19-2017 03:06 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 03:06 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 03:06 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 03:06 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 03:06 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 03:06 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 03:06 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 03:06 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 03:06 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 03:06 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 03:06 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 03:30 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 03:31 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 03:31 [INFO] [MyPet] #############################################
+02-19-2017 03:31 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 03:31 [INFO] [MyPet] #############################################
+02-19-2017 03:31 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 03:31 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 03:31 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 03:31 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 03:31 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 03:31 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 03:31 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 03:31 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 03:31 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 03:31 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 03:31 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 03:34 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 03:34 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 03:34 [INFO] [MyPet] #############################################
+02-19-2017 03:34 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 03:34 [INFO] [MyPet] #############################################
+02-19-2017 03:34 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 03:34 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 03:34 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 03:34 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 03:34 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 03:34 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 03:34 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 03:34 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 03:34 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 03:34 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 03:34 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 04:06 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-19-2017 06:37 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 06:37 [INFO] [MyPet] #############################################
+02-19-2017 06:37 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 06:37 [INFO] [MyPet] #############################################
+02-19-2017 06:37 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 06:37 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 06:37 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 06:37 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 06:37 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 06:37 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 06:37 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 06:37 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 06:37 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 06:37 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 06:37 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 07:25 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-19-2017 07:25 [INFO] [MyPet] #############################################
+02-19-2017 07:25 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-19-2017 07:25 [INFO] [MyPet] #############################################
+02-19-2017 07:25 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-19-2017 07:25 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-19-2017 07:25 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-19-2017 07:25 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-19-2017 07:25 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-19-2017 07:25 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-19-2017 07:25 [INFO] [MyPet]    added 'world' to 'default'
+02-19-2017 07:25 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-19-2017 07:25 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-19-2017 07:25 [INFO] [MyPet] -------------------------------------------------
+02-19-2017 07:25 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-19-2017 07:27 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-20-2017 12:28 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-20-2017 12:28 [INFO] [MyPet] #############################################
+02-20-2017 12:28 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-20-2017 12:28 [INFO] [MyPet] #############################################
+02-20-2017 12:28 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-20-2017 12:28 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-20-2017 12:28 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-20-2017 12:28 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-20-2017 12:28 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-20-2017 12:28 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-20-2017 12:28 [INFO] [MyPet]    added 'world' to 'default'
+02-20-2017 12:28 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-20-2017 12:28 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-20-2017 12:28 [INFO] [MyPet] -------------------------------------------------
+02-20-2017 12:28 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-20-2017 13:23 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-22-2017 17:47 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-22-2017 17:47 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-22-2017 17:47 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-22-2017 17:47 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-22-2017 17:47 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-22-2017 17:47 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-22-2017 17:47 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-22-2017 17:47 [INFO] [MyPet]    added 'world' to 'default'
+02-22-2017 17:47 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-22-2017 17:47 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-22-2017 17:47 [INFO] [MyPet] -------------------------------------------------
+02-22-2017 17:47 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-22-2017 18:18 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-22-2017 18:18 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-22-2017 18:18 [INFO] [MyPet] #############################################
+02-22-2017 18:18 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-22-2017 18:18 [INFO] [MyPet] #############################################
+02-22-2017 18:18 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-22-2017 18:18 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-22-2017 18:18 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-22-2017 18:18 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-22-2017 18:18 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-22-2017 18:18 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-22-2017 18:18 [INFO] [MyPet]    added 'world' to 'default'
+02-22-2017 18:18 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-22-2017 18:18 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-22-2017 18:18 [INFO] [MyPet] -------------------------------------------------
+02-22-2017 18:18 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 00:19 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 00:20 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 00:20 [INFO] [MyPet] #############################################
+02-23-2017 00:20 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 00:20 [INFO] [MyPet] #############################################
+02-23-2017 00:20 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 00:20 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 00:20 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 00:20 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 00:20 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 00:20 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 00:20 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 00:20 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 00:20 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 00:20 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 00:20 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 00:52 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 00:58 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 00:58 [INFO] [MyPet] #############################################
+02-23-2017 00:58 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 00:58 [INFO] [MyPet] #############################################
+02-23-2017 00:58 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 00:58 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 00:58 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 00:58 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 00:58 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 00:58 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 00:58 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 00:58 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 00:58 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 00:58 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 00:58 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 01:08 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 01:08 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 01:08 [INFO] [MyPet] #############################################
+02-23-2017 01:08 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 01:08 [INFO] [MyPet] #############################################
+02-23-2017 01:08 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 01:08 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 01:08 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 01:08 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 01:08 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 01:08 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 01:08 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 01:08 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 01:08 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 01:08 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 01:08 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 01:32 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 01:33 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 01:33 [INFO] [MyPet] #############################################
+02-23-2017 01:33 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 01:33 [INFO] [MyPet] #############################################
+02-23-2017 01:33 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 01:33 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 01:33 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 01:33 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 01:33 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 01:33 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 01:33 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 01:33 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 01:33 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 01:33 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 01:33 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 01:39 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 01:40 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 01:40 [INFO] [MyPet] #############################################
+02-23-2017 01:40 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 01:40 [INFO] [MyPet] #############################################
+02-23-2017 01:40 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 01:40 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 01:40 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 01:40 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 01:40 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 01:40 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 01:40 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 01:40 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 01:40 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 01:40 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 01:40 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 01:45 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 01:45 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 01:45 [INFO] [MyPet] #############################################
+02-23-2017 01:45 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 01:45 [INFO] [MyPet] #############################################
+02-23-2017 01:45 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 01:45 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 01:45 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 01:45 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 01:45 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 01:45 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 01:45 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 01:45 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 01:45 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 01:45 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 01:45 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 01:49 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 01:49 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 01:49 [INFO] [MyPet] #############################################
+02-23-2017 01:49 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 01:49 [INFO] [MyPet] #############################################
+02-23-2017 01:49 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 01:49 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 01:49 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 01:49 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 01:49 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 01:49 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 01:49 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 01:49 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 01:49 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 01:49 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 01:49 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 01:50 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 01:56 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 01:56 [INFO] [MyPet] #############################################
+02-23-2017 01:56 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 01:56 [INFO] [MyPet] #############################################
+02-23-2017 01:56 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 01:56 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 01:56 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 01:56 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 01:56 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 01:56 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 01:56 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 01:56 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 01:56 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 01:56 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 01:56 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 02:05 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 02:05 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 02:05 [INFO] [MyPet] #############################################
+02-23-2017 02:05 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 02:05 [INFO] [MyPet] #############################################
+02-23-2017 02:05 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 02:05 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 02:05 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 02:05 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 02:05 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 02:05 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 02:05 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 02:05 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 02:05 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 02:05 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 02:05 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 02:24 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 02:24 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 02:24 [INFO] [MyPet] #############################################
+02-23-2017 02:24 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 02:24 [INFO] [MyPet] #############################################
+02-23-2017 02:24 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 02:24 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 02:24 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 02:24 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 02:24 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 02:24 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 02:24 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 02:24 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 02:24 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 02:24 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 02:24 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 02:58 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 02:58 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 02:58 [INFO] [MyPet] #############################################
+02-23-2017 02:58 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 02:58 [INFO] [MyPet] #############################################
+02-23-2017 02:58 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 02:58 [INFO] [MyPet] Towny (0.91.1.0) hook activated.
+02-23-2017 02:58 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 02:58 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 02:58 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 02:58 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 02:58 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 02:58 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 02:58 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 02:58 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 02:58 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 03:01 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 03:05 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 03:05 [INFO] [MyPet] #############################################
+02-23-2017 03:05 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 03:05 [INFO] [MyPet] #############################################
+02-23-2017 03:05 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 03:05 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 03:05 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 03:05 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 03:05 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 03:05 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 03:05 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 03:05 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 03:05 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 03:05 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 03:05 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 03:09 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 03:09 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 03:09 [INFO] [MyPet] #############################################
+02-23-2017 03:09 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 03:09 [INFO] [MyPet] #############################################
+02-23-2017 03:09 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 03:09 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 03:09 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 03:09 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 03:09 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 03:09 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 03:09 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 03:09 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 03:09 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 03:09 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 03:09 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 03:10 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 03:11 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 03:11 [INFO] [MyPet] #############################################
+02-23-2017 03:11 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 03:11 [INFO] [MyPet] #############################################
+02-23-2017 03:11 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 03:11 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 03:11 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 03:11 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 03:11 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 03:11 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 03:11 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 03:11 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 03:11 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 03:11 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 03:11 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 03:13 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 03:13 [INFO] [MyPet] #############################################
+02-23-2017 03:13 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 03:13 [INFO] [MyPet] #############################################
+02-23-2017 03:13 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 03:13 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 03:13 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 03:13 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 03:13 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 03:13 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 03:13 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 03:13 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 03:13 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 03:13 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 03:13 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 03:18 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 03:19 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 03:19 [INFO] [MyPet] #############################################
+02-23-2017 03:19 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 03:19 [INFO] [MyPet] #############################################
+02-23-2017 03:19 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 03:19 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 03:19 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 03:19 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 03:19 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 03:19 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 03:19 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 03:19 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 03:19 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 03:19 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 03:19 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 03:25 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 03:26 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 03:26 [INFO] [MyPet] #############################################
+02-23-2017 03:26 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 03:26 [INFO] [MyPet] #############################################
+02-23-2017 03:26 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 03:26 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 03:26 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 03:26 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 03:26 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 03:26 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 03:26 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 03:26 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 03:26 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 03:26 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 03:26 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 03:49 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 03:51 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 03:51 [INFO] [MyPet] #############################################
+02-23-2017 03:51 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 03:51 [INFO] [MyPet] #############################################
+02-23-2017 03:51 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 03:51 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 03:51 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 03:51 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 03:51 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 03:51 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 03:51 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 03:51 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 03:51 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 03:51 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 03:51 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 03:53 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 03:53 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 03:53 [INFO] [MyPet] #############################################
+02-23-2017 03:53 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 03:53 [INFO] [MyPet] #############################################
+02-23-2017 03:53 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 03:53 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 03:53 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 03:53 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 03:53 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 03:53 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 03:53 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 03:53 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 03:53 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 03:53 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 03:53 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 03:54 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 03:55 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 03:55 [INFO] [MyPet] #############################################
+02-23-2017 03:55 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 03:55 [INFO] [MyPet] #############################################
+02-23-2017 03:55 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 03:55 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 03:55 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 03:55 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 03:55 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 03:55 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 03:55 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 03:55 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 03:55 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 03:55 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 03:55 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 04:15 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 04:29 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 04:29 [INFO] [MyPet] #############################################
+02-23-2017 04:29 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 04:29 [INFO] [MyPet] #############################################
+02-23-2017 04:29 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 04:29 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 04:29 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 04:29 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 04:29 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 04:29 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 04:29 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 04:29 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 04:29 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 04:29 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 04:29 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 04:33 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 04:34 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 04:34 [INFO] [MyPet] #############################################
+02-23-2017 04:34 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 04:34 [INFO] [MyPet] #############################################
+02-23-2017 04:34 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 04:34 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 04:34 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 04:34 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 04:34 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 04:34 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 04:34 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 04:34 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 04:34 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 04:34 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 04:34 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 04:37 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 04:37 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 04:37 [INFO] [MyPet] #############################################
+02-23-2017 04:37 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 04:37 [INFO] [MyPet] #############################################
+02-23-2017 04:37 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 04:37 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 04:37 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 04:37 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 04:37 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 04:37 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 04:37 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 04:37 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 04:37 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 04:37 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 04:37 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 05:01 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 05:24 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 05:24 [INFO] [MyPet] #############################################
+02-23-2017 05:24 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 05:24 [INFO] [MyPet] #############################################
+02-23-2017 05:24 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 05:24 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 05:24 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 05:24 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 05:24 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 05:24 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 05:24 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 05:24 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 05:24 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 05:24 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 05:24 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 11:38 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 11:38 [INFO] [MyPet] #############################################
+02-23-2017 11:38 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 11:38 [INFO] [MyPet] #############################################
+02-23-2017 11:38 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 11:38 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 11:38 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 11:38 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 11:38 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 11:38 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 11:38 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 11:38 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 11:38 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 11:38 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 11:38 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 12:05 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 12:06 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 12:06 [INFO] [MyPet] #############################################
+02-23-2017 12:06 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 12:06 [INFO] [MyPet] #############################################
+02-23-2017 12:06 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 12:06 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 12:06 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 12:06 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 12:06 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 12:06 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 12:06 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 12:06 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 12:06 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 12:06 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 12:06 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 12:09 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 12:34 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 12:34 [INFO] [MyPet] #############################################
+02-23-2017 12:34 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 12:34 [INFO] [MyPet] #############################################
+02-23-2017 12:34 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 12:34 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 12:34 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 12:34 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 12:34 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 12:34 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 12:34 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 12:34 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 12:34 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 12:34 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 12:34 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 12:45 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 12:47 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 12:47 [INFO] [MyPet] #############################################
+02-23-2017 12:47 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 12:47 [INFO] [MyPet] #############################################
+02-23-2017 12:47 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 12:47 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 12:47 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 12:47 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 12:47 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 12:47 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 12:47 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 12:47 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 12:47 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 12:47 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 12:47 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 12:51 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 12:52 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 12:52 [INFO] [MyPet] #############################################
+02-23-2017 12:52 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 12:52 [INFO] [MyPet] #############################################
+02-23-2017 12:52 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 12:52 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 12:52 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 12:52 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 12:52 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 12:52 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 12:52 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 12:52 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 12:52 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 12:52 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 12:52 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 13:02 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 13:02 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 13:02 [INFO] [MyPet] #############################################
+02-23-2017 13:02 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 13:02 [INFO] [MyPet] #############################################
+02-23-2017 13:02 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 13:02 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 13:02 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 13:02 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 13:02 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 13:02 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 13:02 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 13:02 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 13:02 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 13:02 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 13:02 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 13:04 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 13:17 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 13:17 [INFO] [MyPet] #############################################
+02-23-2017 13:17 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 13:17 [INFO] [MyPet] #############################################
+02-23-2017 13:17 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 13:17 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 13:17 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 13:17 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 13:17 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 13:17 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 13:17 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 13:17 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 13:17 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 13:17 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 13:17 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 13:18 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 13:31 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 13:31 [INFO] [MyPet] #############################################
+02-23-2017 13:31 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 13:31 [INFO] [MyPet] #############################################
+02-23-2017 13:31 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 13:31 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 13:31 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 13:31 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 13:31 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 13:31 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 13:31 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 13:31 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 13:31 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 13:31 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 13:31 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 14:00 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 14:01 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 14:01 [INFO] [MyPet] #############################################
+02-23-2017 14:01 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 14:01 [INFO] [MyPet] #############################################
+02-23-2017 14:01 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 14:01 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 14:01 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 14:01 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 14:01 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 14:01 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 14:01 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 14:01 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 14:01 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 14:01 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 14:01 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 14:45 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 14:45 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 14:45 [INFO] [MyPet] #############################################
+02-23-2017 14:45 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 14:45 [INFO] [MyPet] #############################################
+02-23-2017 14:45 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 14:45 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 14:45 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 14:45 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 14:45 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 14:45 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 14:45 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 14:45 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 14:45 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 14:45 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 14:45 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 17:41 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 17:42 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 17:42 [INFO] [MyPet] #############################################
+02-23-2017 17:42 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 17:42 [INFO] [MyPet] #############################################
+02-23-2017 17:42 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 17:42 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 17:42 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 17:42 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 17:42 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 17:42 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 17:42 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 17:42 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 17:42 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 17:42 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 17:42 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 18:11 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 18:15 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 18:15 [INFO] [MyPet] #############################################
+02-23-2017 18:15 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 18:15 [INFO] [MyPet] #############################################
+02-23-2017 18:15 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 18:15 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 18:15 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 18:15 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 18:15 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 18:15 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 18:15 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 18:15 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 18:15 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 18:15 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 18:15 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 18:29 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-23-2017 18:29 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-23-2017 18:29 [INFO] [MyPet] #############################################
+02-23-2017 18:29 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-23-2017 18:29 [INFO] [MyPet] #############################################
+02-23-2017 18:29 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-23-2017 18:29 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-23-2017 18:29 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-23-2017 18:29 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-23-2017 18:29 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-23-2017 18:29 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-23-2017 18:29 [INFO] [MyPet]    added 'world' to 'default'
+02-23-2017 18:29 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-23-2017 18:29 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-23-2017 18:29 [INFO] [MyPet] -------------------------------------------------
+02-23-2017 18:29 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-23-2017 20:49 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-24-2017 13:16 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-24-2017 13:17 [INFO] [MyPet] #############################################
+02-24-2017 13:17 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-24-2017 13:17 [INFO] [MyPet] #############################################
+02-24-2017 13:17 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-24-2017 13:17 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-24-2017 13:17 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-24-2017 13:17 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-24-2017 13:17 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-24-2017 13:17 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-24-2017 13:17 [INFO] [MyPet]    added 'world' to 'default'
+02-24-2017 13:17 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-24-2017 13:17 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-24-2017 13:17 [INFO] [MyPet] -------------------------------------------------
+02-24-2017 13:17 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-24-2017 14:13 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-24-2017 14:14 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-24-2017 14:14 [INFO] [MyPet] #############################################
+02-24-2017 14:14 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-24-2017 14:14 [INFO] [MyPet] #############################################
+02-24-2017 14:14 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-24-2017 14:14 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-24-2017 14:14 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-24-2017 14:14 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-24-2017 14:14 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-24-2017 14:14 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-24-2017 14:14 [INFO] [MyPet]    added 'world' to 'default'
+02-24-2017 14:14 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-24-2017 14:14 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-24-2017 14:14 [INFO] [MyPet] -------------------------------------------------
+02-24-2017 14:14 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-24-2017 15:19 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-24-2017 15:19 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-24-2017 15:19 [INFO] [MyPet] #############################################
+02-24-2017 15:19 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-24-2017 15:19 [INFO] [MyPet] #############################################
+02-24-2017 15:19 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-24-2017 15:19 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-24-2017 15:19 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-24-2017 15:19 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-24-2017 15:19 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-24-2017 15:19 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-24-2017 15:19 [INFO] [MyPet]    added 'world' to 'default'
+02-24-2017 15:19 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-24-2017 15:19 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-24-2017 15:19 [INFO] [MyPet] -------------------------------------------------
+02-24-2017 15:19 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-24-2017 15:20 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-24-2017 15:22 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-24-2017 15:22 [INFO] [MyPet] #############################################
+02-24-2017 15:22 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-24-2017 15:22 [INFO] [MyPet] #############################################
+02-24-2017 15:22 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-24-2017 15:22 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-24-2017 15:22 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-24-2017 15:22 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-24-2017 15:22 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-24-2017 15:22 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-24-2017 15:22 [INFO] [MyPet]    added 'world' to 'default'
+02-24-2017 15:22 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-24-2017 15:22 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-24-2017 15:22 [INFO] [MyPet] -------------------------------------------------
+02-24-2017 15:22 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-24-2017 16:13 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-24-2017 16:14 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-24-2017 16:15 [INFO] [MyPet] #############################################
+02-24-2017 16:15 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-24-2017 16:15 [INFO] [MyPet] #############################################
+02-24-2017 16:15 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-24-2017 16:15 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-24-2017 16:15 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-24-2017 16:15 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-24-2017 16:15 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-24-2017 16:15 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-24-2017 16:15 [INFO] [MyPet]    added 'world' to 'default'
+02-24-2017 16:15 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-24-2017 16:15 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-24-2017 16:15 [INFO] [MyPet] -------------------------------------------------
+02-24-2017 16:15 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-24-2017 18:34 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-24-2017 18:34 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-24-2017 18:34 [INFO] [MyPet] #############################################
+02-24-2017 18:34 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-24-2017 18:34 [INFO] [MyPet] #############################################
+02-24-2017 18:34 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-24-2017 18:34 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-24-2017 18:34 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-24-2017 18:34 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-24-2017 18:34 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-24-2017 18:34 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-24-2017 18:34 [INFO] [MyPet]    added 'world' to 'default'
+02-24-2017 18:34 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-24-2017 18:34 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-24-2017 18:34 [INFO] [MyPet] -------------------------------------------------
+02-24-2017 18:34 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-25-2017 00:26 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-25-2017 11:49 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-25-2017 11:49 [INFO] [MyPet] #############################################
+02-25-2017 11:49 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-25-2017 11:49 [INFO] [MyPet] #############################################
+02-25-2017 11:49 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-25-2017 11:49 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-25-2017 11:49 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-25-2017 11:49 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-25-2017 11:49 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-25-2017 11:49 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-25-2017 11:49 [INFO] [MyPet]    added 'world' to 'default'
+02-25-2017 11:49 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-25-2017 11:49 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-25-2017 11:49 [INFO] [MyPet] -------------------------------------------------
+02-25-2017 11:49 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-25-2017 11:56 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-25-2017 11:56 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-25-2017 11:56 [INFO] [MyPet] #############################################
+02-25-2017 11:56 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-25-2017 11:56 [INFO] [MyPet] #############################################
+02-25-2017 11:56 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-25-2017 11:56 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-25-2017 11:56 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-25-2017 11:56 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-25-2017 11:56 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-25-2017 11:56 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-25-2017 11:56 [INFO] [MyPet]    added 'world' to 'default'
+02-25-2017 11:56 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-25-2017 11:56 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-25-2017 11:56 [INFO] [MyPet] -------------------------------------------------
+02-25-2017 11:56 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-25-2017 12:24 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-26-2017 01:06 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-26-2017 01:06 [INFO] [MyPet] #############################################
+02-26-2017 01:06 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-26-2017 01:06 [INFO] [MyPet] #############################################
+02-26-2017 01:06 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-26-2017 01:06 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-26-2017 01:06 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-26-2017 01:06 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-26-2017 01:06 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-26-2017 01:06 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-26-2017 01:06 [INFO] [MyPet]    added 'world' to 'default'
+02-26-2017 01:06 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-26-2017 01:06 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-26-2017 01:06 [INFO] [MyPet] -------------------------------------------------
+02-26-2017 01:06 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-26-2017 01:06 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-26-2017 01:13 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-26-2017 01:13 [INFO] [MyPet] #############################################
+02-26-2017 01:13 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-26-2017 01:13 [INFO] [MyPet] #############################################
+02-26-2017 01:13 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-26-2017 01:13 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-26-2017 01:13 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-26-2017 01:13 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-26-2017 01:13 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-26-2017 01:13 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-26-2017 01:13 [INFO] [MyPet]    added 'world' to 'default'
+02-26-2017 01:13 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-26-2017 01:13 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-26-2017 01:13 [INFO] [MyPet] -------------------------------------------------
+02-26-2017 01:13 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-26-2017 02:50 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-26-2017 19:26 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-26-2017 19:26 [INFO] [MyPet] #############################################
+02-26-2017 19:26 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-26-2017 19:26 [INFO] [MyPet] #############################################
+02-26-2017 19:26 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-26-2017 19:26 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-26-2017 19:26 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-26-2017 19:26 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-26-2017 19:26 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-26-2017 19:26 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-26-2017 19:26 [INFO] [MyPet]    added 'world' to 'default'
+02-26-2017 19:26 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-26-2017 19:26 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-26-2017 19:26 [INFO] [MyPet] -------------------------------------------------
+02-26-2017 19:26 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-26-2017 20:42 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-26-2017 20:42 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-26-2017 20:42 [INFO] [MyPet] #############################################
+02-26-2017 20:42 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-26-2017 20:42 [INFO] [MyPet] #############################################
+02-26-2017 20:42 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-26-2017 20:42 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-26-2017 20:42 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-26-2017 20:42 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-26-2017 20:42 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-26-2017 20:42 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-26-2017 20:42 [INFO] [MyPet]    added 'world' to 'default'
+02-26-2017 20:42 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-26-2017 20:42 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-26-2017 20:42 [INFO] [MyPet] -------------------------------------------------
+02-26-2017 20:42 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-26-2017 21:30 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-26-2017 21:30 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-26-2017 21:30 [INFO] [MyPet] #############################################
+02-26-2017 21:30 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-26-2017 21:30 [INFO] [MyPet] #############################################
+02-26-2017 21:30 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-26-2017 21:30 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-26-2017 21:30 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-26-2017 21:30 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-26-2017 21:30 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-26-2017 21:30 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-26-2017 21:30 [INFO] [MyPet]    added 'world' to 'default'
+02-26-2017 21:30 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-26-2017 21:30 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-26-2017 21:30 [INFO] [MyPet] -------------------------------------------------
+02-26-2017 21:30 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-26-2017 21:36 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-27-2017 15:05 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-27-2017 15:05 [INFO] [MyPet] #############################################
+02-27-2017 15:05 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-27-2017 15:05 [INFO] [MyPet] #############################################
+02-27-2017 15:05 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-27-2017 15:05 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-27-2017 15:05 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-27-2017 15:05 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-27-2017 15:05 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-27-2017 15:05 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-27-2017 15:05 [INFO] [MyPet]    added 'world' to 'default'
+02-27-2017 15:05 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-27-2017 15:05 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-27-2017 15:05 [INFO] [MyPet] -------------------------------------------------
+02-27-2017 15:05 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-27-2017 17:06 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-27-2017 17:06 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-27-2017 17:06 [INFO] [MyPet] #############################################
+02-27-2017 17:06 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-27-2017 17:06 [INFO] [MyPet] #############################################
+02-27-2017 17:06 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-27-2017 17:06 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-27-2017 17:06 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-27-2017 17:06 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-27-2017 17:06 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-27-2017 17:06 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-27-2017 17:06 [INFO] [MyPet]    added 'world' to 'default'
+02-27-2017 17:06 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-27-2017 17:06 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-27-2017 17:06 [INFO] [MyPet] -------------------------------------------------
+02-27-2017 17:06 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-27-2017 19:12 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 13:18 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 13:18 [INFO] [MyPet] #############################################
+02-28-2017 13:18 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 13:18 [INFO] [MyPet] #############################################
+02-28-2017 13:18 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 13:18 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 13:18 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 13:18 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 13:18 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 13:18 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 13:18 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 13:18 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 13:18 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 13:18 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 13:18 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-28-2017 13:18 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 13:20 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 13:20 [INFO] [MyPet] #############################################
+02-28-2017 13:20 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 13:20 [INFO] [MyPet] #############################################
+02-28-2017 13:20 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 13:20 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 13:20 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 13:20 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 13:20 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 13:20 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 13:20 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 13:20 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 13:20 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 13:20 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 13:20 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-28-2017 19:23 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 19:24 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 19:24 [INFO] [MyPet] #############################################
+02-28-2017 19:24 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 19:24 [INFO] [MyPet] #############################################
+02-28-2017 19:24 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 19:24 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 19:24 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 19:24 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 19:24 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 19:24 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 19:24 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 19:24 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 19:24 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 19:24 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 19:24 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-28-2017 19:32 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 19:34 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 19:34 [INFO] [MyPet] #############################################
+02-28-2017 19:34 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 19:34 [INFO] [MyPet] #############################################
+02-28-2017 19:34 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 19:34 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 19:34 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 19:34 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 19:34 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 19:34 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 19:34 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 19:34 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 19:34 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 19:34 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 19:34 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-28-2017 22:23 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 22:24 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 22:24 [INFO] [MyPet] #############################################
+02-28-2017 22:24 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 22:24 [INFO] [MyPet] #############################################
+02-28-2017 22:24 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 22:24 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 22:24 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 22:24 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 22:24 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 22:24 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 22:24 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 22:24 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 22:24 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 22:24 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 22:24 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-28-2017 22:25 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 22:26 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 22:26 [INFO] [MyPet] #############################################
+02-28-2017 22:26 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 22:26 [INFO] [MyPet] #############################################
+02-28-2017 22:26 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 22:26 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 22:26 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 22:26 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 22:26 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 22:26 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 22:26 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 22:26 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 22:26 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 22:26 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 22:26 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-28-2017 23:15 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 23:21 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 23:21 [INFO] [MyPet] #############################################
+02-28-2017 23:21 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 23:21 [INFO] [MyPet] #############################################
+02-28-2017 23:21 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 23:21 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 23:21 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 23:21 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 23:21 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 23:21 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 23:21 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 23:21 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 23:21 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 23:21 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 23:21 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-28-2017 23:22 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 23:24 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 23:24 [INFO] [MyPet] #############################################
+02-28-2017 23:24 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 23:24 [INFO] [MyPet] #############################################
+02-28-2017 23:24 [INFO] [MyPet] PlaceholderAPI (2.6.0) hook activated.
+02-28-2017 23:24 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 23:24 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 23:24 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 23:24 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 23:24 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 23:24 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 23:24 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 23:24 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 23:24 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 23:24 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 23:24 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-28-2017 23:26 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 23:40 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 23:40 [INFO] [MyPet] #############################################
+02-28-2017 23:40 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 23:40 [INFO] [MyPet] #############################################
+02-28-2017 23:40 [INFO] [MyPet] Citizens (2.0.21-SNAPSHOT (build 1463)) hook activated.
+02-28-2017 23:40 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 23:40 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 23:40 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 23:40 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 23:40 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 23:40 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 23:40 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 23:40 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 23:40 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 23:40 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 23:40 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+02-28-2017 23:56 [INFO] [MyPet] Disabling MyPet v2.2.6
+02-28-2017 23:58 [INFO] [MyPet] Enabling MyPet v2.2.6
+02-28-2017 23:58 [INFO] [MyPet] #############################################
+02-28-2017 23:58 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+02-28-2017 23:58 [INFO] [MyPet] #############################################
+02-28-2017 23:58 [INFO] [MyPet] Citizens (2.0.21-SNAPSHOT (build 1472)) hook activated.
+02-28-2017 23:58 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+02-28-2017 23:58 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+02-28-2017 23:58 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+02-28-2017 23:58 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+02-28-2017 23:58 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+02-28-2017 23:58 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+02-28-2017 23:58 [INFO] [MyPet]    added 'world' to 'default'
+02-28-2017 23:58 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-28-2017 23:58 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-28-2017 23:58 [INFO] [MyPet] -------------------------------------------------
+02-28-2017 23:58 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+03-01-2017 00:00 [INFO] [MyPet] Disabling MyPet v2.2.6
+03-01-2017 00:00 [INFO] [MyPet] Enabling MyPet v2.2.6
+03-01-2017 00:00 [INFO] [MyPet] #############################################
+03-01-2017 00:00 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+03-01-2017 00:00 [INFO] [MyPet] #############################################
+03-01-2017 00:00 [INFO] [MyPet] Citizens (2.0.21-SNAPSHOT (build 1472)) hook activated.
+03-01-2017 00:00 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+03-01-2017 00:00 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+03-01-2017 00:00 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+03-01-2017 00:00 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+03-01-2017 00:00 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+03-01-2017 00:00 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+03-01-2017 00:00 [INFO] [MyPet]    added 'world' to 'default'
+03-01-2017 00:00 [INFO] [MyPet]    added 'world_nether' to 'default'
+03-01-2017 00:00 [INFO] [MyPet]    added 'world_the_end' to 'default'
+03-01-2017 00:00 [INFO] [MyPet] -------------------------------------------------
+03-01-2017 00:00 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+03-01-2017 00:02 [INFO] [MyPet] Disabling MyPet v2.2.6
+03-03-2017 00:59 [INFO] [MyPet] Enabling MyPet v2.2.6
+03-03-2017 00:59 [INFO] [MyPet] Citizens (2.0.21-SNAPSHOT (build 1472)) hook activated.
+03-03-2017 00:59 [INFO] [MyPet] PlaceholderAPI (2.6.0) hook activated.
+03-03-2017 00:59 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+03-03-2017 00:59 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+03-03-2017 00:59 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+03-03-2017 00:59 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+03-03-2017 00:59 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+03-03-2017 00:59 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+03-03-2017 00:59 [INFO] [MyPet]    added 'world' to 'default'
+03-03-2017 00:59 [INFO] [MyPet]    added 'world_nether' to 'default'
+03-03-2017 00:59 [INFO] [MyPet]    added 'world_the_end' to 'default'
+03-03-2017 00:59 [INFO] [MyPet] -------------------------------------------------
+03-03-2017 00:59 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+03-03-2017 02:29 [INFO] [MyPet] Enabling MyPet v2.2.6
+03-03-2017 02:29 [INFO] [MyPet] #############################################
+03-03-2017 02:29 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+03-03-2017 02:29 [INFO] [MyPet] #############################################
+03-03-2017 02:29 [INFO] [MyPet] Citizens (2.0.21-SNAPSHOT (build 1472)) hook activated.
+03-03-2017 02:29 [INFO] [MyPet] PlaceholderAPI (2.6.0) hook activated.
+03-03-2017 02:29 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+03-03-2017 02:29 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+03-03-2017 02:29 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+03-03-2017 02:29 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+03-03-2017 02:29 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+03-03-2017 02:29 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+03-03-2017 02:29 [INFO] [MyPet]    added 'world' to 'default'
+03-03-2017 02:29 [INFO] [MyPet]    added 'world_nether' to 'default'
+03-03-2017 02:29 [INFO] [MyPet]    added 'world_the_end' to 'default'
+03-03-2017 02:29 [INFO] [MyPet] -------------------------------------------------
+03-03-2017 02:29 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+03-03-2017 02:40 [INFO] [MyPet] Disabling MyPet v2.2.6
+03-03-2017 02:44 [INFO] [MyPet] Enabling MyPet v2.2.6
+03-03-2017 02:44 [INFO] [MyPet] #############################################
+03-03-2017 02:44 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+03-03-2017 02:44 [INFO] [MyPet] #############################################
+03-03-2017 02:44 [INFO] [MyPet] Citizens (2.0.21-SNAPSHOT (build 1472)) hook activated.
+03-03-2017 02:44 [INFO] [MyPet] PlaceholderAPI (2.6.0) hook activated.
+03-03-2017 02:44 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+03-03-2017 02:44 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+03-03-2017 02:44 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+03-03-2017 02:44 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+03-03-2017 02:44 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+03-03-2017 02:44 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+03-03-2017 02:44 [INFO] [MyPet]    added 'world' to 'default'
+03-03-2017 02:44 [INFO] [MyPet]    added 'world_nether' to 'default'
+03-03-2017 02:44 [INFO] [MyPet]    added 'world_the_end' to 'default'
+03-03-2017 02:44 [INFO] [MyPet] -------------------------------------------------
+03-03-2017 02:44 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+03-03-2017 05:13 [INFO] [MyPet] Enabling MyPet v2.2.6
+03-03-2017 05:13 [INFO] [MyPet] #############################################
+03-03-2017 05:13 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+03-03-2017 05:13 [INFO] [MyPet] #############################################
+03-03-2017 05:13 [INFO] [MyPet] Citizens (2.0.21-SNAPSHOT (build 1472)) hook activated.
+03-03-2017 05:13 [INFO] [MyPet] PlaceholderAPI (2.6.0) hook activated.
+03-03-2017 05:13 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+03-03-2017 05:13 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+03-03-2017 05:13 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+03-03-2017 05:13 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+03-03-2017 05:13 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+03-03-2017 05:13 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+03-03-2017 05:13 [INFO] [MyPet]    added 'world' to 'default'
+03-03-2017 05:13 [INFO] [MyPet]    added 'world_nether' to 'default'
+03-03-2017 05:13 [INFO] [MyPet]    added 'world_the_end' to 'default'
+03-03-2017 05:13 [INFO] [MyPet] -------------------------------------------------
+03-03-2017 05:13 [INFO] [MyPet] version 2.2.6-b1083 ENABLED
+03-05-2017 23:38 [INFO] [MyPet] Enabling MyPet v2.2.6
+03-05-2017 23:38 [INFO] [MyPet] #############################################
+03-05-2017 23:38 [INFO] [MyPet] #  A new version is available: MyPet 2.2.9  #
+03-05-2017 23:38 [INFO] [MyPet] #############################################
+03-05-2017 23:38 [INFO] [MyPet] Citizens (2.0.21-SNAPSHOT (build 1472)) hook activated.
+03-05-2017 23:38 [INFO] [MyPet] PlaceholderAPI (2.6.0) hook activated.
+03-05-2017 23:38 [INFO] [MyPet] ProtocolLib (4.1.0) hook activated.
+03-05-2017 23:38 [INFO] [MyPet] Towny (0.91.4.0) hook activated.
+03-05-2017 23:38 [INFO] [MyPet] Vault (1.5.6-b49) hook activated.
+03-05-2017 23:38 [INFO] [MyPet] WorldGuard (6.1.2;e38d98d) hook activated.
+03-05-2017 23:38 [INFO] [MyPet] Compat mode for v1_10_R1 loaded.
+03-05-2017 23:38 [INFO] [MyPet] --- Loading WorldGroups ---------------------------
+03-05-2017 23:38 [INFO] [MyPet]    added 'world' to 'default'
+03-05-2017 23:38 [INFO] [MyPet]    added 'world_nether' to 'default'
+03-05-2017 23:38 [INFO] [MyPet]    added 'world_the_end' to 'default'
+03-05-2017 23:38 [INFO] [MyPet] -------------------------------------------------
+03-05-2017 23:38 [INFO] [MyPet] version 2.2.6-b1083 ENABLED

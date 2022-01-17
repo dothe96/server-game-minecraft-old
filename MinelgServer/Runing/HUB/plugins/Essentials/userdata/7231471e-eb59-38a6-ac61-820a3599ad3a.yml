@@ -1,0 +1,36 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000091253038619E7
+  y: 173.0
+  z: 9999815.152942471
+  yaw: 204.30713
+  pitch: 12.300078
+lastAccountName: Eisblut
+timestamps:
+  login: 1478404877062
+  kits:
+    diemdanh: 1478350833141
+    tanthu: 1477129927450
+    tools: 1477129919300
+    food: 1478350829029
+  lastteleport: 1478356620771
+  logout: 1478404946814
+ipAddress: 14.191.131.167
+money: '518.0'
+logoutlocation:
+  world: world
+  x: -129.41528542862426
+  y: 84.0
+  z: -50.32609560548855
+  yaw: -46.05017
+  pitch: 46.500088
+afk: false
+homes:
+  home:
+    world: world
+    x: 2650.510904361335
+    y: 69.0
+    z: 2969.5069682471667
+    yaw: 177.78235
+    pitch: 1.349964

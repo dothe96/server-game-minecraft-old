@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: tam8
+timestamps:
+  login: 1478944153133
+  lastteleport: 1478945353784
+  logout: 1478945995200
+ipAddress: 113.170.86.99
+lastlocation:
+  world: world
+  x: 2351.917732932716
+  y: 62.0
+  z: 1417.5722895316062
+  yaw: -283.1329
+  pitch: 22.949972
+afk: false
+money: '0.0'
+logoutlocation:
+  world: world
+  x: 2087.276164484885
+  y: 61.0
+  z: 1393.866661094475
+  yaw: 297.8994
+  pitch: 17.850014

@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: TheKingPvP510
+timestamps:
+  login: 1476854897757
+  kits:
+    diemdanh: 1476796050917
+    tanthu: 1476796053382
+    tools: 1476796061278
+    food: 1476796056167
+  lastteleport: 1476854935271
+  logout: 1476854981685
+ipAddress: 42.114.172.151
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 5.099987
+  pitch: -12.300014
+logoutlocation:
+  world: world
+  x: 2534.488124377639
+  y: 86.0
+  z: 1817.795576763863
+  yaw: 271.81635
+  pitch: 23.549988
+money: '280.0'
+homes:
+  home:
+    world: world
+    x: 2864.194839016599
+    y: 68.0
+    z: 1419.4627500612316
+    yaw: 178.81543
+    pitch: 8.849972

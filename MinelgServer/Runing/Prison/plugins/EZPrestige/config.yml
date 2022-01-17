@@ -1,0 +1,73 @@
+# EZPrestige version: 1.2.2 Main Configuration
+# 
+# prestige_rank: <rank players are able to /prestige>
+# confirm_to_prestige: <true/false>
+# chat_integration: <true/false>
+# messages: <-customize your messages
+# valid placeholders: 
+# %cost% - cost to prestige
+# %balance% - players balance
+# %prestige% - next prestige number
+# %displaytag% - next prestige displaytag
+# %prestigerank% - rank player needs to be to use /prestige
+# %rank% - players permission group
+prestige_rank: Z
+confirm_to_prestige: false
+chat_integration: true
+op_prestige_display_tag: '&8[&c0&8]'
+no_prestige_display_tag: '&8[&c0&8]'
+gui:
+  use_prestiges_gui: true
+  display_name: '&2&lLên đời'
+  size: 18
+  completed_prestige:
+    material: STAINED_GLASS_PANE
+    data: 13
+    amount: 1
+    display_name: '%displaytag%'
+    lore:
+    - '&cĐã lên đời này!'
+  current_prestige:
+    material: STAINED_GLASS_PANE
+    data: 5
+    amount: 1
+    display_name: '%displaytag%'
+    lore:
+    - '&aĐời hiện tại!'
+  next_prestige:
+    material: STAINED_GLASS_PANE
+    data: 7
+    amount: 1
+    display_name: '%displaytag%'
+    lore:
+    - '&7Đời sau!'
+    - '&6Phí: &a$&f%cost%'
+  unavailable_prestige:
+    material: STAINED_GLASS_PANE
+    data: 14
+    amount: 1
+    display_name: '%displaytag%'
+    lore:
+    - '&fChưa đủ đièu kiện!'
+    - '%displaytag%'
+messages:
+  not_at_prestige_rank:
+  - '&cBạn phải ở rank &f%prestigerank% &cđể lên đời!'
+  not_enough_money:
+  - '&cBạn cần &a$&f%cost% &cđể có thể lên đời &f%displaytag%&c!'
+  confirm_prestige:
+  - '&bBạn có chắc là muốn lên đời?'
+  - '&bRank của bạn sẽ reset về A, nhưng dữ nguyên quyền lợi'
+  - '&bđể đồng ý. gõ &f/lendoi &bđể đồng ý!'
+  last_prestige:
+  - '&bBạn đã max đời!'
+  prestiges_command:
+    completed_prestige: '&7%displaytag% &f- &aĐã lên!'
+    current_prestige: '&7%displaytag% &f- &aĐời hiện tại!'
+    next_prestige: '&7%displaytag% &f- &a$&f%cost%'
+    unavailable_prestige: '&7%displaytag% &f- &c/lendoi để lên đời!'
+    header:
+    - '&8&m-----------------------------------------------------'
+    - '&cDanh sách đời:'
+    footer:
+    - '&8&m-----------------------------------------------------'

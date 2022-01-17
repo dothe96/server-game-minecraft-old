@@ -1,0 +1,89 @@
+## --------------------------------------- ##
+## AutoSell Placeholders
+## www.spigotmc.org/resources/autosell.2157/
+## About: This configuration allows you to
+##        configure what certain placeholders return.
+## --------------------------------------- ##
+
+# DO NOT EDIT THE CONFIG VERSION
+config: 2
+
+# Enable/Disable the placeholder group
+# Placeholder groups will not be loaded into the memory
+# when not used.
+enabled: true
+
+# Placeholder settings {autosell_permissionmultiplier_id} returns
+autosell_permissionmultiplier_id:
+  # Default return value
+  default: '0'
+
+
+# Placeholder settings {autosell_permissionmultiplier_permission} returns
+autosell_permissionmultiplier_permission:
+  # Default return value
+  default: '0'
+
+
+# Placeholder settings {autosell_shopmultiplier_id} returns
+autosell_shopmultiplier_id:
+  # Default return value
+  default: ''
+
+
+# Define what the boolean placeholder {autosell_hasshop} returns
+autosell_hasshop:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {autosell_multiplier_timeleft} returns
+autosell_multiplier_timeleft:
+  # Default return value
+  default: '0'
+
+
+# Define what the boolean placeholder {autosell_insmeltmode} returns
+autosell_insmeltmode:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Define what the boolean placeholder {autosell_hasmulitplier} returns
+autosell_hasmulitplier:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {autosell_globalmultiplier_timeleft} returns
+autosell_globalmultiplier_timeleft:
+  # Default return value
+  default: '0'
+
+
+# Placeholder settings {autosell_currentshop_name} returns
+autosell_currentshop_name:
+  # Default return value
+  default: ''
+
+
+# Define what the boolean placeholder {autosell_insellmode} returns
+autosell_insellmode:
+  # This will be shown when the placeholder is 'True'
+  true: 'true'
+  # This will be shown when the placeholder is 'False'
+  false: 'false'
+
+
+# Placeholder settings {autosell_shopmultiplier_permission} returns
+autosell_shopmultiplier_permission:
+  # Default return value
+  default: ''
+
+

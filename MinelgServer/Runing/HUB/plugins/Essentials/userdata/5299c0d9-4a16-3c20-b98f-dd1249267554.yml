@@ -1,0 +1,23 @@
+lastAccountName: SiuBien147
+timestamps:
+  login: 1477106806319
+  logout: 1477107218527
+  lastteleport: 1477107182421
+  kits:
+    diemdanh: 1477106913244
+ipAddress: 117.3.100.129
+socialspy: false
+lastlocation:
+  world: world
+  x: -105.35492829896423
+  y: 68.0625
+  z: -3.7137428221589763
+  yaw: 303.75018
+  pitch: 6.2999706
+logoutlocation:
+  world: world
+  x: -158.5534503623521
+  y: 86.0625
+  z: -12.39528725801801
+  yaw: 60.744984
+  pitch: -1.8000078

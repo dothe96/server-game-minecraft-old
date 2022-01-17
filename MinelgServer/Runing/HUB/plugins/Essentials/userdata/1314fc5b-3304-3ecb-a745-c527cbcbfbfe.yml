@@ -1,0 +1,27 @@
+lastAccountName: itachi_vn202
+timestamps:
+  login: 1477726086959
+  logout: 1477726951858
+  kits:
+    diemdanh: 1477725479063
+    tanthu: 1477725471486
+    tools: 1477725517375
+    food: 1477725467433
+  lastteleport: 1477726860851
+ipAddress: 113.170.84.167
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000090225436319E7
+  y: 174.0
+  z: 9999774.327371428
+  yaw: 24.756897
+  pitch: 11.400057
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 3.449987
+  pitch: -13.050014
+money: '0.0'

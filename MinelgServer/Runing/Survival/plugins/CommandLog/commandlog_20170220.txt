@@ -1,0 +1,10 @@
+[2017/02/20 12:32:19] §6[§aMember§6] §ffybit§r executed /l anhthetq96 at Location{world=CraftWorld{name=world},x=-4969.896328993732,y=67.0,z=-160.71360369758975,pitch=3.0000017,yaw=92.39996}
+[2017/02/20 12:33:49] §6[§aMember§6] §ffybit§r executed /gm 1 at Location{world=CraftWorld{name=world},x=-5038.5347705361455,y=64.0,z=-119.9354872238024,pitch=24.300007,yaw=-10.79255}
+[2017/02/20 12:34:04] §6[§aMember§6] §ffybit§r executed /gm 1 at Location{world=CraftWorld{name=world},x=-5039.609635390725,y=64.5,z=-120.49049742344587,pitch=24.300007,yaw=-10.79255}
+[2017/02/20 13:11:03] §6[§aMember§6] §ffybit§r executed /shopkeeper at Location{world=CraftWorld{name=world},x=-4990.610097197242,y=74.0,z=-130.75872550838614,pitch=31.050041,yaw=-229.6438}
+[2017/02/20 13:19:48] §6[§aMember§6] §ffybit§r executed //wand at Location{world=CraftWorld{name=world},x=-5061.167503424327,y=75.62936803312223,z=-159.06799660592105,pitch=29.249931,yaw=-269.3953}
+[2017/02/20 13:19:59] §6[§aMember§6] §ffybit§r executed //cut at Location{world=CraftWorld{name=world},x=-5069.332749597456,y=74.8854146211602,z=-162.48486015645227,pitch=42.899944,yaw=-91.345276}
+[2017/02/20 13:20:53] §6[§aMember§6] §ffybit§r executed /gm 1 at Location{world=CraftWorld{name=world},x=-5054.906834441815,y=66.5,z=-157.33285055337905,pitch=8.699954,yaw=73.504715}
+[2017/02/20 13:20:57] §6[§aMember§6] §ffybit§r executed /gm 0 at Location{world=CraftWorld{name=world},x=-5054.906834441815,y=66.5,z=-157.33285055337905,pitch=8.699954,yaw=73.65472}
+[2017/02/20 13:21:19] §6[§aMember§6] §ffybit§r executed /back at Location{world=CraftWorld{name=world},x=-4969.54047167101,y=67.0,z=-160.47180921241775,pitch=-6.5999975,yaw=89.39996}
+[2017/02/20 13:22:12] §6[§aMember§6] §ffybit§r executed /gm 1 at Location{world=CraftWorld{name=world},x=-4974.439376757065,y=66.5,z=-160.74601955187225,pitch=43.65,yaw=3.2998657}

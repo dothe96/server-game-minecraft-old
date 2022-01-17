@@ -1,0 +1,99 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+
+menu-settings:
+  name: '&5&LHướng Dẫn Cơ Bản'
+  rows: 3
+  command: 'help'
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+
+tanthu:
+  COMMAND: ''
+  NAME: '&e&lHướng Dẫn Người Chơi Mới'
+  LORE:
+    - '&f/menu &6để mở các tiện ích'  
+    - '&f/sethome &6để lưu lại nhà'
+    - '&f/getvip &6để mua vip'
+    - '&f/Warp &6để xem các địa điểm'
+    - '&f/kit <tênkit> &6để nhận kit'
+    - '&f/home &6để về chỗ nhà đã lưu'
+    - '&f/spawn &6để về nơi mới vào'
+    - '&2Thay đổi mật khẩu tại https://minelg.com'
+  ID: paper
+  POSITION-X: 1
+  POSITION-Y: 1
+
+  
+  
+caothu:
+  COMMAND: ''
+  NAME: '&b&lHướng Dẫn Prison'
+  LORE:
+    - '&f/<tên rank> &6để tới warp mine của mình' 
+    - '&f/plots &6để tới khu ân xá để xây dựng'
+    - '&f/pvp &6để tới khu hỗn chiến trong tù'
+    - '&f/choden &6để tới chợ đen buôn vũ khí lậu'
+    - '&f/trade &6để trao đổi với các cai ngục'
+    - '&f/rankup &6để lên rank khi đủ phí'
+    - '&f/lendoi &6để lên đời khi ở rank Z'
+    - '&f/getvip &6để mua vip'     
+    - '&f/blocks &6để xem số blocks đào được'
+    - '&f/kits &6để xem danh sách kit khả dụng'
+  ID: paper
+  POSITION-X: 2
+  POSITION-Y: 1
+  
+  
+dangthu:
+  COMMAND: ''
+  NAME: '&4&lHướng Dẫn Trao Đổi'
+  LORE:
+    - '&f/trade <tên> để trao đổi với người khác'
+    - '&f/trade accept để chấp nhận trao đổi'
+    - '&fLưu ý : phải đứng gần 3 block để trao đổi'
+  ID: paper
+  POSITION-X: 3
+  POSITION-Y: 1
+
+  
+hangthu:
+  COMMAND: ''
+  NAME: '&c&lHướng Dẫn Lệnh Cơ Bản'
+  LORE:
+    - '&f/back để trở về chỗ cũ'
+    - '&f/money để xem tiền của mình'
+    - '&f/balancetop để xem top tiền'
+    - '&f/delhome để xóa chỗ lưu lại nhà'
+  ID: paper
+  POSITION-X: 4
+  POSITION-Y: 1
+    
+xu:
+  COMMAND: ''
+  NAME: '&9&lHướng Dẫn Lệnh coin'
+  LORE:
+    - '&f/p me để xem số xu mình đang có'
+    - '&aDonate nạp thẻ tại &6http://minelg.com/donate'
+  ID: paper
+  POSITION-X: 5
+  POSITION-Y: 1
+  
+  
+return-to-main:
+  COMMAND: 'open:example.yml'
+  NAME: '&6[arrow_left] Bấm vào quay lại menu'
+  ID: nether_star
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 3

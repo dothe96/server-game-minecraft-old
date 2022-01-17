@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: vip_125489
+timestamps:
+  login: 1477043598354
+  kits:
+    diemdanh: 1477043647440
+    tanthu: 1477043662858
+  logout: 1477043673587
+ipAddress: 113.180.87.248
+lastlocation:
+  world: world
+  x: -153.5
+  y: 86.0
+  z: -74.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -165.56148760383022
+  y: 86.0
+  z: -59.79153240568412
+  yaw: 94.49997
+  pitch: 27.299988

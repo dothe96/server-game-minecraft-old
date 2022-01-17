@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: NGUYENTRAN
+timestamps:
+  login: 1479169153379
+  lastteleport: 1479182763349
+  kits:
+    diemdanh: 1479169358650
+    tanthu: 1479177661000
+    food: 1478825473345
+  logout: 1479182980251
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: 865.7478877114783
+  y: 76.0
+  z: -408.67801846563424
+  yaw: -124.476395
+  pitch: 68.54999
+afk: false
+homes:
+  home:
+    world: world
+    x: 1102.699999988079
+    y: 68.0
+    z: -581.2353514372427
+    yaw: -183.27937
+    pitch: 35.10002
+logoutlocation:
+  world: world
+  x: 1956.109551900176
+  y: 70.0625
+  z: 2283.7947642074146
+  yaw: 113.55908
+  pitch: 19.799974
+money: '20909.0'

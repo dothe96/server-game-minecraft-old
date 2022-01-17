@@ -1,0 +1,27 @@
+socialspy: false
+lastAccountName: basala
+timestamps:
+  login: 1479206672933
+  lastteleport: 1479034391745
+  kits:
+    diemdanh: 1478231193687
+    tanthu: 1478231163111
+    tools: 1478308296464
+    food: 1478232471897
+  logout: 1479206864774
+ipAddress: 113.180.87.243
+lastlocation:
+  world: world
+  x: -36.922689516163345
+  y: 61.0
+  z: 13.97614392907381
+  yaw: 258.15015
+  pitch: 58.50001
+money: '1198.0'
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 68.84997
+  pitch: -66.00002

@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: hungan7A8
+timestamps:
+  login: 1477477001199
+  lastteleport: 1477477038484
+  kits:
+    diemdanh: 1477477097232
+    tanthu: 1477384083459
+    tools: 1477384074950
+    food: 1477477102110
+  logout: 1477477145849
+ipAddress: 14.167.192.170
+lastlocation:
+  world: world
+  x: -160.2464282062227
+  y: 86.0
+  z: -66.61494419306418
+  yaw: -56.9078
+  pitch: 77.37966
+homes:
+  home:
+    world: world
+    x: 3701.5
+    y: 70.0
+    z: 1855.5
+    yaw: -253.88342
+    pitch: 37.371834
+logoutlocation:
+  world: world
+  x: 3690.0299732969897
+  y: 70.0
+  z: 1858.5545908000086
+  yaw: -13.562256
+  pitch: 14.874333
+money: '0.0'

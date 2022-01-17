@@ -1,0 +1,24 @@
+socialspy: false
+lastlocation:
+  world: world
+  x: 1.0000114301923983E7
+  y: 173.0
+  z: 9999820.50456083
+  yaw: -210.89275
+  pitch: 4.9499874
+lastAccountName: Tanker
+timestamps:
+  login: 1476933103153
+  lastteleport: 1476934002782
+  kits:
+    diemdanh: 1476933325852
+    food: 1476933588724
+  logout: 1476934413544
+ipAddress: 113.176.152.174
+logoutlocation:
+  world: world
+  x: -102.21553766265673
+  y: 68.0
+  z: -46.543210803081195
+  yaw: -287.10303
+  pitch: 7.500016

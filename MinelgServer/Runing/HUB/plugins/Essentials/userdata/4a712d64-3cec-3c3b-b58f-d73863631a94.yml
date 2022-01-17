@@ -1,0 +1,32 @@
+lastAccountName: leesin0
+timestamps:
+  login: 1479098643464
+  kits:
+    diemdanh: 1479018166118
+  lastteleport: 1479098678648
+  logout: 1479098594101
+ipAddress: 171.250.102.100
+socialspy: false
+lastlocation:
+  world: world
+  x: -154.4694238079144
+  y: 86.0
+  z: -37.573448900736516
+  yaw: -248.85013
+  pitch: 34.800007
+homes:
+  home:
+    world: world
+    x: 4475.699999988079
+    y: 65.0
+    z: 2176.640418298666
+    yaw: -225.97813
+    pitch: -5.550026
+money: '22298.0'
+logoutlocation:
+  world: world
+  x: 4470.392470511896
+  y: 93.0
+  z: 1151.699999988079
+  yaw: 34.12009
+  pitch: -2.850016

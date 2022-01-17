@@ -1,0 +1,23 @@
+socialspy: false
+lastAccountName: Dragon_Kit
+timestamps:
+  login: 1477280108147
+  logout: 1477282380408
+  lastteleport: 1477280902104
+ipAddress: 123.28.143.196
+lastlocation:
+  world: world
+  x: 3257.084409420331
+  y: 47.0
+  z: 1090.6930955603539
+  yaw: -342.8883
+  pitch: 21.899885
+afk: false
+logoutlocation:
+  world: world
+  x: -119.04187796588236
+  y: 68.0625
+  z: -28.567555321095572
+  yaw: 302.25006
+  pitch: 1.049974
+money: '0.0'

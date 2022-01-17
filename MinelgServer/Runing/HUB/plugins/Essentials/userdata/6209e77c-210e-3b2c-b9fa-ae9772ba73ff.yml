@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: bokocanbiet
+timestamps:
+  login: 1479216124079
+  kits:
+    diemdanh: 1479216214646
+    tanthu: 1479216203490
+    tools: 1479216193814
+    food: 1479216198526
+  lastteleport: 1479216822181
+  logout: 1479217440379
+ipAddress: 123.28.90.85
+lastlocation:
+  world: world
+  x: -115.71372950323543
+  y: 68.0625
+  z: -36.12096549586762
+  yaw: 192.59825
+  pitch: 32.100014
+homes:
+  home:
+    world: world
+    x: 2289.0102642668426
+    y: 64.0
+    z: 819.982777615166
+    yaw: 181.21542
+    pitch: 25.499945
+logoutlocation:
+  world: world
+  x: 2387.4936224005114
+  y: 61.963215906850834
+  z: 861.0264765701888
+  yaw: 307.6655
+  pitch: 28.35

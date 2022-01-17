@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: DoTheIT
+timestamps:
+  login: 1487802311304
+  logout: 1487802323297
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -4965.5
+  y: 111.0
+  z: -154.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -4969.5
+  y: 67.0
+  z: -160.5
+  yaw: 87.149956
+  pitch: 0.600003

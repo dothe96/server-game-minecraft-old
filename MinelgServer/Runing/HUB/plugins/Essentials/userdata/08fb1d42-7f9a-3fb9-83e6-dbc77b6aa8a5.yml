@@ -1,0 +1,34 @@
+socialspy: false
+lastAccountName: sonpro
+timestamps:
+  login: 1479201689082
+  lastteleport: 1479096444335
+  logout: 1479201745088
+  kits:
+    tanthu: 1478743438706
+    food: 1478825238650
+ipAddress: 113.188.78.5
+lastlocation:
+  world: world
+  x: -162.91832833596953
+  y: 86.0
+  z: -67.13737694696826
+  yaw: 269.10034
+  pitch: 7.0499887
+logoutlocation:
+  world: world
+  x: -159.00140921688546
+  y: 88.0
+  z: -77.54710093978773
+  yaw: -63.299965
+  pitch: 86.24999
+money: '206.0'
+homes:
+  home:
+    world: world
+    x: 987.8140418834254
+    y: 74.0
+    z: -635.7578983144275
+    yaw: -59.07657
+    pitch: 21.900108
+afk: false

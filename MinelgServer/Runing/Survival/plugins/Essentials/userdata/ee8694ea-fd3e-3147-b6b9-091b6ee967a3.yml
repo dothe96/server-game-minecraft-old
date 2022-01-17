@@ -1,0 +1,26 @@
+lastAccountName: wolf
+timestamps:
+  login: 1488288619589
+  logout: 1488294402785
+  lastteleport: 1488292485662
+  kits:
+    tools: 1487930570511
+    food: 1488270518560
+ipAddress: 192.168.69.100
+socialspy: false
+lastlocation:
+  world: world
+  x: 10009.100318036859
+  y: 82.0
+  z: 99966.82785704997
+  yaw: 107.848694
+  pitch: 24.599949
+logoutlocation:
+  world: world
+  x: -4984.019151018269
+  y: 67.64299499000937
+  z: -199.354549148974
+  yaw: 189.43848
+  pitch: 50.09994
+afk: false
+money: '167600.0'

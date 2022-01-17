@@ -1,0 +1,20 @@
+socialspy: false
+lastAccountName: chinh_tatto
+timestamps:
+  login: 1478608519162
+  logout: 1478608523952
+ipAddress: 115.78.236.129
+lastlocation:
+  world: world
+  x: -162.5
+  y: 88.0
+  z: -73.5
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 2.9999866
+  pitch: -9.450015

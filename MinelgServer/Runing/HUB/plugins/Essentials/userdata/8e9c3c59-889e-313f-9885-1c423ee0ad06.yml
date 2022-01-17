@@ -1,0 +1,35 @@
+lastAccountName: binhnb
+timestamps:
+  login: 1476537475203
+  kits:
+    diemdanh: 1476455803299
+    tanthu: 1476453333563
+    tools: 1476523818366
+    food: 1476528151709
+  lastteleport: 1476537688150
+  logout: 1476538229520
+ipAddress: 103.237.144.215
+lastlocation:
+  world: world
+  x: 1.0000105823937071E7
+  y: 173.0
+  z: 9999807.381764822
+  yaw: -194.3927
+  pitch: -0.44999945
+logoutlocation:
+  world: world
+  x: -113.44377093777621
+  y: 68.0
+  z: -50.01317417072737
+  yaw: 21.749847
+  pitch: 21.600044
+money: '2658.0'
+homes:
+  home:
+    world: world
+    x: 3378.0990679856664
+    y: 70.0
+    z: 1546.8531197513603
+    yaw: 230.719
+    pitch: 18.449995
+afk: false

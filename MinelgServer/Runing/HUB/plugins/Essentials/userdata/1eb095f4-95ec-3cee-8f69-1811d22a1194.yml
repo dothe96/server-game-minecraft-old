@@ -1,0 +1,36 @@
+lastlocation:
+  world: world
+  x: -158.25062409016738
+  y: 87.0
+  z: -82.86909330516143
+  yaw: -7.5000134
+  pitch: -1.3500143
+lastAccountName: khanhzoro
+timestamps:
+  login: 1477627568155
+  lastteleport: 1477627598452
+  kits:
+    tanthu: 1476532777929
+    food: 1476532334286
+  logout: 1477627990464
+  mute: 0
+ipAddress: 113.169.125.8
+money: '1408.0'
+afk: false
+logoutlocation:
+  world: world
+  x: 2555.972541213797
+  y: 64.0
+  z: 2101.330637662066
+  yaw: -38.233856
+  pitch: 7.3499804
+homes:
+  home:
+    world: world
+    x: 2541.174866860079
+    y: 64.0
+    z: 2090.8864720164297
+    yaw: 12.17868
+    pitch: 10.799953
+muted: false
+socialspy: false

@@ -1,0 +1,10 @@
+skyblock:
+  location: world, 342.398, 85.876, -268.515
+  lines:
+  - '&u&lServer SkyBlock'
+  - '&f&l/help &6&lĐể xem hướng dẫn'
+  - '&a&lXây dựng hòn đảo thiên đường của mình'
+pvp:
+  location: pvp, 1707.422, 14.200, -1027.475
+  lines:
+  - '&u&lKhu PvP'

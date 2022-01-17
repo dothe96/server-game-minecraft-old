@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: Ay0_
+timestamps:
+  login: 1478588250261
+  lastteleport: 1478588269043
+  kits:
+    diemdanh: 1478523484145
+    tanthu: 1478073241081
+    food: 1478526348242
+  logout: 1478588495902
+ipAddress: 113.182.135.127
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: -0.90001816
+  pitch: 17.399984
+logoutlocation:
+  world: world
+  x: -116.93018599129891
+  y: 47.0625
+  z: -22.594209488978148
+  yaw: 40.64627
+  pitch: 9.749888
+homes:
+  home:
+    world: world
+    x: 6496.693533650948
+    y: 5.0
+    z: -264.03811343167513
+    yaw: 274.44226
+    pitch: 13.649948
+money: '24780.0'
+afk: false

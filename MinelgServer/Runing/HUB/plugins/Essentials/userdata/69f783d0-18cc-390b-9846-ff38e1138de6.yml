@@ -1,0 +1,24 @@
+lastAccountName: hihi
+timestamps:
+  login: 1479265866286
+  kits:
+    food: 1478603620876
+  lastteleport: 1479169509979
+  logout: 1479265948720
+ipAddress: 115.78.127.186
+socialspy: false
+lastlocation:
+  world: world
+  x: -139.94921330255085
+  y: 81.5
+  z: -36.74834894012234
+  yaw: -37.650055
+  pitch: 29.400005
+logoutlocation:
+  world: world
+  x: 3269.5733131109882
+  y: 69.0
+  z: 1645.654376491518
+  yaw: -132.7338
+  pitch: 14.850027
+money: '200.0'

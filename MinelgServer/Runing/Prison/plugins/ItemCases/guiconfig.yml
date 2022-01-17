@@ -1,0 +1,310 @@
+CS:
+  CaseEditor:
+    Title: '&2&lTạo quay số -minelg'
+    Component:
+      EditRewards:
+        type: 54
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lChỉnh sửa phần thưởng'
+        lore:
+        - ''
+        - '&7Tổng số phần thưởng: &e%TOTAL%'
+      ToggleSound:
+        type: 25
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lÂm thanh'
+        lore:
+        - ''
+        - '&7Tình trạng: &e%ENABLED%'
+        - ''
+        - '&c&o(Bật hoặc tắt âm thanh'
+        - '&c&okhi người chơi sử dụng quay số'
+        - '&c&omở)'
+      EditBackground:
+        type: 321
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lChỉnh sửa nền'
+        lore:
+        - ''
+        - '&c&o(Chỉnh sửa nền của quay số'
+        - '&c&oĐược hiển thị khi mở)'
+  BackgroundEditor:
+    Title: '&2&lBackground Editor'
+    Component:
+      Filler:
+        type: 160
+        amount: 1
+        durability: 15
+        meta: true
+        name: '&0'
+      InvalidSlot:
+        type: 7
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&4&lInvalid Slot'
+      RainbowMode:
+        type: 399
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lRainbow Mode'
+        lore:
+        - ''
+        - '&7Currently Enabled: &e%ENABLED%'
+        - ''
+        - '&c&o(Whether the following types:'
+        - '&c&ostained glass, stained glass pane,'
+        - '&c&owool, stained clay, and carpet'
+        - '&c&owill have their color randomized'
+        - '&c&oeach few ticks)'
+      Save:
+        type: 35
+        amount: 1
+        durability: 5
+        meta: true
+        name: '&a&lSave Background'
+      Copy:
+        type: 339
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lCopy Background'
+        lore:
+        - ''
+        - '&c&o(Copy the background from another'
+        - '&c&ocounter strike case)'
+        ClickMessage: '&aPlease type the name of the counter strike case you wish
+          to copy the background from as a chat message:'
+        Returned:
+          DoesntExist: '&cThe case you were previously editing no longer exists.'
+          NotFound: '&cThe case to copy from couldn''t be found.'
+          NotCounterStrike: '&cThat case is not a counter strike case!'
+          Success: '&aBackground copied from %FROM% to %TO%, %TO% was saved.'
+  Opener:
+    Title: '&2&lĐang mở'
+RewardsEditor:
+  Title: '&2&lChỉnh sửa phần thưởng'
+  Component:
+    Filler:
+      type: 160
+      amount: 1
+      durability: 15
+      meta: true
+      name: '&0'
+    Return:
+      type: 35
+      amount: 1
+      durability: 5
+      meta: true
+      name: '&a&lQuay lại menu chỉnh sửa'
+    Reward:
+      AddedLore:
+        NoIconHasBeenSet:
+        - ''
+        - '&7Tỉ lệ: &e%CHANCE%%'
+        - ''
+        - '&c&o(Left click: Xóa phần thưởng)'
+        - '&c&o(Shift Left click: Chỉnh sửa biểu tượng thưởng)'
+        - '&c&o(Right click: Thay đổi tỉ lệ)'
+        IconHasBeenSet:
+        - ''
+        - '&7Tỉ lệ: &e%CHANCE%%'
+        - ''
+        - '&c&o(An Icon has been set for this reward,'
+        - '&c&oview it in the reward preview menu (left'
+        - '&c&oclick a case/crate) to see it)'
+        - ''
+        - '&c&o(Left click: Xóa phần thưởng)'
+        - '&c&o(Shift Left click: Chỉnh sửa biểu tượng thưởng)'
+        - '&c&o(Right click: Thay đổi tỉ lệ)'
+    Add:
+      ItemReward:
+        type: 23
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lThêm một item'
+      CommandReward:
+        type: 339
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lThêm một Command Reward'
+        Informer: '&aĐể xem lệnh gõ:'
+        CaseRemoved: '&cQuay số này đã bị xóa.'
+        AlreadyContains: '&cQuay số đã chỉnh sửa đã chứa lệnh này
+          Phần thưởng, vui lòng xem xét thay đổi phần trăm thay vì đó.'
+      IsFull: '&cFull tỉ lệ đã 100%.'
+    NextPage:
+      type: 262
+      amount: 1
+      durability: 0
+      meta: true
+      name: '&a&lTrang tiếp'
+    PreviousPage:
+      type: 262
+      amount: 1
+      durability: 0
+      meta: true
+      name: '&a&lTrang trước'
+  ComponentTotalChance:
+    type: 388
+    amount: 1
+    durability: 0
+    meta: true
+    name: '&a&lTổng tỉ lệ'
+    lore:
+    - ''
+    - '&7Combined Chance: &e%TOTALCHANCE%%'
+    - ''
+    - '&c&o(Tổng của mỗi phần thưởng'
+    - '&c&othêm cơ hội cùng nhau)'
+RewardPreview:
+  Title: '&a&lXem trước'
+  Component:
+    NextPage:
+      type: 262
+      amount: 1
+      durability: 0
+      meta: true
+      name: '&a&lTrang tiếp'
+    PreviousPage:
+      type: 262
+      amount: 1
+      durability: 0
+      meta: true
+      name: '&a&lTrang trước'
+    Filler:
+      type: 160
+      amount: 1
+      durability: 15
+      meta: true
+      name: '&0'
+    Reward:
+      AddedLore:
+      - ''
+      - '&7Cơ hội chúng: &e%CHANCE%%'
+AddItemReward:
+  Title: '&2&lThêm items'
+  Component:
+    Confirm:
+      type: 35
+      amount: 1
+      durability: 5
+      meta: true
+      name: '&a&lXác nhận items'
+      NoItemInserted: '&cBạn không thể thêm một item!'
+      AlreadyContains: '&cQuay số đã chứa phần thưởng này, chỉnh sửa phần trăm thay vào đó.'
+RewardIconInserter:
+  Title: '&2&lChèn biểu tượng phần thưởng mới'
+ChanceSelector:
+  Title: '&2&lChọn tỉ lệ'
+  Component:
+    Chance:
+      type: 388
+      amount: 1
+      durability: 0
+      meta: true
+      name: '&c&lThay đổi phần thưởng'
+      lore:
+      - ''
+      - '&7Thay đổi phần thưởng: &e%CHANCE%%'
+    Subtraction:
+      type: 95
+      amount: 1
+      durability: 14
+      meta: true
+      name: '&c&lBớt %AMOUNT%%'
+    Addition:
+      type: 95
+      amount: 1
+      durability: 5
+      meta: true
+      name: '&a&lThêm %AMOUNT%%'
+      AboveMaxError: '&cVượt tối đa tổng phải là 100%.'
+    Continue:
+      type: 35
+      amount: 1
+      durability: 5
+      meta: true
+      name: '&a&lLưu thay đổi và tiếp tục'
+      0Percent: '&cBạn phải chọn một phần trăm trên 0%!'
+Mystery:
+  CaseEditor:
+    Title: '&2&lCase Editor'
+    Component:
+      EditRewards:
+        type: 54
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lEdit Rewards'
+        lore:
+        - ''
+        - '&7Total Rewards: &e%TOTAL%'
+      AmountOfChoices:
+        type: 23
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lAmount of Choices'
+        lore:
+        - ''
+        - '&7Current Choices: &e%CHOICES%'
+        - ''
+        - '&c(Left click: +1)'
+        - '&c(Right click: -1)'
+        - ''
+        - '&c&o(Select how many guess a player'
+        - '&c&ocan have when they open this case)'
+      EditLayout:
+        type: 130
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lEdit Button Layout'
+        lore:
+        - ''
+        - '&c&o(Edit the buttons which players'
+        - '&c&ocan choose from)'
+  LayoutEditor:
+    Title: '&2&lLayout Editor'
+    Component:
+      Filler:
+        type: 160
+        amount: 1
+        durability: 15
+        meta: true
+        name: '&0'
+      Save:
+        type: 35
+        amount: 1
+        durability: 5
+        meta: true
+        name: '&a&lSave Background'
+      Copy:
+        type: 339
+        amount: 1
+        durability: 0
+        meta: true
+        name: '&a&lCopy Layout'
+        lore:
+        - ''
+        - '&c&o(Copy the layout from another'
+        - '&c&omystery case)'
+        ClickMessage: '&aPlease type the name of the mystery case you wish to copy
+          the background from as a chat message:'
+        Returned:
+          DoesntExist: '&cThe case you were previously editing no longer exists.'
+          NotFound: '&cThe case to copy from couldn''t be found.'
+          NotMystery: '&cThat case is not a counter strike case!'
+          Success: '&aLayout copied from %FROM% to %TO%, %TO% was saved.'
+  Opener:
+    Title: '&2&lOpening'

@@ -1,0 +1,35 @@
+socialspy: false
+lastAccountName: nhi00
+timestamps:
+  login: 1479023933760
+  lastteleport: 1479023919877
+  kits:
+    diemdanh: 1479015590986
+    tools: 1479015696205
+    food: 1478828672765
+  logout: 1479024068714
+ipAddress: 171.250.102.100
+lastlocation:
+  world: world
+  x: -146.49669467887261
+  y: 80.40617885469534
+  z: -75.19095185293122
+  yaw: -92.70005
+  pitch: 57.749985
+money: '7424.0'
+logoutlocation:
+  world: world
+  x: -165.4197157737799
+  y: 87.0
+  z: -85.69999998807907
+  yaw: 172.49997
+  pitch: 36.299984
+afk: false
+homes:
+  home:
+    world: world
+    x: 4686.462769703147
+    y: 70.0
+    z: -2372.326263948119
+    yaw: -88.75418
+    pitch: 3.599975

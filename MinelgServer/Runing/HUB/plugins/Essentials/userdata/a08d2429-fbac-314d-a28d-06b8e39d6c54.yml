@@ -1,0 +1,36 @@
+lastAccountName: khoinhi123
+timestamps:
+  login: 1477630100839
+  lastteleport: 1477630711230
+  kits:
+    diemdanh: 1477559667844
+    tanthu: 1477460824418
+    tools: 1477559673040
+    food: 1477630415882
+  logout: 1477632874089
+ipAddress: 115.78.126.139
+socialspy: false
+lastlocation:
+  world: world
+  x: 2713.1425212299187
+  y: 71.0
+  z: 469.5735508251024
+  yaw: 93.93646
+  pitch: 29.40002
+money: '400.0'
+homes:
+  home:
+    world: world
+    x: 2586.4899260201246
+    y: 66.0
+    z: 126.51142771516729
+    yaw: -182.65959
+    pitch: 13.049969
+logoutlocation:
+  world: world
+  x: 2702.5925939410804
+  y: 70.0
+  z: 490.90299551737684
+  yaw: 290.28748
+  pitch: 23.39994
+afk: false

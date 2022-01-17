@@ -1,0 +1,36 @@
+socialspy: false
+lastlocation:
+  world: world_the_end
+  x: 18.425877493716513
+  y: 59.0
+  z: -25.36028339739973
+  yaw: -219.60016
+  pitch: 8.249904
+lastAccountName: LUCDAOTIENNHAN
+timestamps:
+  login: 1479211275975
+  lastteleport: 1479212183088
+  kits:
+    diemdanh: 1479211373673
+    tanthu: 1477097824966
+    tools: 1478491531296
+    food: 1479212011464
+  logout: 1479212213643
+ipAddress: 113.169.125.156
+homes:
+  home:
+    world: world
+    x: 2707.524498272597
+    y: 63.0
+    z: 2993.300000011921
+    yaw: 147.51628
+    pitch: 52.915707
+logoutlocation:
+  world: world
+  x: 2717.6332106348955
+  y: 63.0
+  z: 2993.154473964908
+  yaw: 228.51619
+  pitch: 32.515705
+afk: false
+money: '35879.0'

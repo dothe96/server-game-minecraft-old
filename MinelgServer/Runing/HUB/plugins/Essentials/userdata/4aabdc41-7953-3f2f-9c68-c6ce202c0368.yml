@@ -1,0 +1,36 @@
+socialspy: false
+lastAccountName: Kunnn
+timestamps:
+  login: 1478006578888
+  kits:
+    diemdanh: 1477225673392
+    tanthu: 1477225678748
+    tools: 1477225691306
+    food: 1477225686156
+  lastteleport: 1477372888365
+  logout: 1478006598345
+ipAddress: 14.162.194.122
+lastlocation:
+  world: world
+  x: -159.5
+  y: 88.0
+  z: -77.5
+  yaw: 5.0999866
+  pitch: -10.650014
+money: '1000.0'
+homes:
+  home:
+    world: world
+    x: 2557.462755784841
+    y: 64.0
+    z: 652.03211982065
+    yaw: -14.809418
+    pitch: 20.399815
+logoutlocation:
+  world: world
+  x: -159.75189180443996
+  y: 87.5
+  z: -75.03073483378363
+  yaw: 186.15002
+  pitch: -0.3000146
+afk: false

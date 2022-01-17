@@ -1,0 +1,35 @@
+lastAccountName: ckynet
+timestamps:
+  login: 1479196640670
+  lastteleport: 1479196724216
+  logout: 1479196746459
+  kits:
+    diemdanh: 1478404317064
+    tanthu: 1478231156645
+    tools: 1478231151427
+    food: 1478517874389
+ipAddress: 171.250.102.100
+socialspy: false
+lastlocation:
+  world: world
+  x: -110.09881582187184
+  y: 47.0625
+  z: -12.121363218329302
+  yaw: -71.55414
+  pitch: 1.1998291
+logoutlocation:
+  world: world
+  x: -91.9090207024364
+  y: 68.0625
+  z: -44.47278805767035
+  yaw: 345.74823
+  pitch: -1.0499896
+homes:
+  home:
+    world: world
+    x: 3458.8461052265407
+    y: 177.0
+    z: 1267.5978807845106
+    yaw: 110.220314
+    pitch: 16.997087
+money: '900.0'
